@@ -62,6 +62,12 @@ def map_page(request: Request) -> HTMLResponse:
     return templates.TemplateResponse(request=request, name="map.html")
 
 
+@app.get("/contribute/geo", response_class=HTMLResponse)
+def contribute_geo(request: Request) -> HTMLResponse:
+    """GeoJSON 寄稿ツール（F-GEO）."""
+    return templates.TemplateResponse(request=request, name="contribute_geo.html")
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     """Liveness probe."""
