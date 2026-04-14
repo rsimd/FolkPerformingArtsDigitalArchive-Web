@@ -11,7 +11,8 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-DATA_PATH = ROOT_DIR / "data" / "places.json"
+DATA_DIR = ROOT_DIR / "data"
+DATA_PATH = DATA_DIR / "places.json"
 TEMPLATES_DIR = ROOT_DIR / "templates"
 STATIC_DIR = ROOT_DIR / "static"
 
@@ -23,6 +24,7 @@ app = FastAPI(
 
 templates = Jinja2Templates(directory=str(TEMPLATES_DIR))
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+app.mount("/data", StaticFiles(directory=str(DATA_DIR)), name="data")
 
 
 def _load_places_raw() -> dict[str, object]:
@@ -36,6 +38,16 @@ def _load_places_raw() -> dict[str, object]:
 def get_places() -> JSONResponse:
     """Return all map pins (district / village units) and linked performances."""
     return JSONResponse(_load_places_raw())
+
+
+@app.get("/api/places/{place_id}")
+def get_place(place_id: str) -> JSONResponse:
+    """Return a single place by id, or 404 if not found."""
+    data = _load_places_raw()
+    for place in data.get("places", []):
+        if place.get("id") == place_id:
+            return JSONResponse(place)
+    return JSONResponse({"detail": "Place not found"}, status_code=404)
 
 
 @app.get("/", response_class=HTMLResponse)
