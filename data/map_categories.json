@@ -1,0 +1,9 @@
+{
+  "categories": [
+    { "id": "kenbu", "label_ja": "剣舞" },
+    { "id": "kagura", "label_ja": "神楽" },
+    { "id": "shishi_shika", "label_ja": "獅子舞・鹿踊" },
+    { "id": "dance", "label_ja": "踊り・舞踊" },
+    { "id": "other", "label_ja": "その他" }
+  ]
+}
