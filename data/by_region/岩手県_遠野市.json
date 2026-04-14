@@ -1,0 +1,31 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "遠野市",
+  "places": [
+    {
+      "slug": "iwate-tono-central",
+      "label": "遠野市 遠野町（中心部近傍）",
+      "lat": 39.3307,
+      "lng": 141.5326,
+      "map_category": "dance",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "遠野市遠野町中心部に伝わる伝承舞・山伏舞の例示データです。遠野の民話と深く結びついた舞踊文化を示します。",
+      "performances": [
+        {
+          "id": "example-densho",
+          "name": "伝承舞（例）",
+          "kind": "舞踊"
+        },
+        {
+          "id": "example-yamabushi",
+          "name": "山伏舞（例）",
+          "kind": "舞踊"
+        }
+      ]
+    }
+  ]
+}
