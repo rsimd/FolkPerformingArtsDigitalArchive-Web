@@ -2,6 +2,7 @@
   "places": [
     {
       "id": "iwate-morioka-tsushida",
+      "slug": "iwate-morioka-tsushida",
       "label": "盛岡市 津志田地区",
       "unit_type": "district",
       "municipality": "盛岡市",
@@ -9,6 +10,9 @@
       "lat": 39.6581,
       "lng": 141.1124,
       "note": "座標は代表点の例示です。正式な演目地は現地調査で置き換えてください。",
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "kagura",
+      "summary": "盛岡市津志田地区に伝わる郷土神楽の例示データです。地元の祭礼で奉納される伝統的神楽を紹介します。",
       "performances": [
         {
           "id": "example-kagura",
@@ -19,12 +23,16 @@
     },
     {
       "id": "iwate-hanamaki-yokote",
+      "slug": "iwate-hanamaki-yokote",
       "label": "花巻市 横手町（地区例）",
       "unit_type": "district",
       "municipality": "花巻市",
       "prefecture": "岩手県",
       "lat": 39.3886,
       "lng": 141.1167,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "dance",
+      "summary": "花巻市横手町で盆踊りが行われる地区の例示データです。夏祭りの伝統的な踊りを記録します。",
       "performances": [
         {
           "id": "example-ondo",
@@ -35,12 +43,16 @@
     },
     {
       "id": "iwate-tono-central",
+      "slug": "iwate-tono-central",
       "label": "遠野市 遠野町（中心部近傍）",
       "unit_type": "district",
       "municipality": "遠野市",
       "prefecture": "岩手県",
       "lat": 39.3307,
       "lng": 141.5326,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "dance",
+      "summary": "遠野市遠野町中心部に伝わる伝承舞・山伏舞の例示データです。遠野の民話と深く結びついた舞踊文化を示します。",
       "performances": [
         {
           "id": "example-densho",
@@ -56,12 +68,16 @@
     },
     {
       "id": "iwate-kitakami-waga",
+      "slug": "iwate-kitakami-waga",
       "label": "和賀郡 西和賀町（村落例）",
       "unit_type": "village",
       "municipality": "西和賀町",
       "prefecture": "岩手県",
       "lat": 39.8926,
       "lng": 140.9674,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "shishi_shika",
+      "summary": "西和賀町に伝わる獅子舞の例示データです。東北各地の祭礼で見られる勇壮な獅子舞の伝統を記録します。",
       "performances": [
         {
           "id": "example-shishimai",
@@ -72,12 +88,16 @@
     },
     {
       "id": "iwate-nishiwaga-suginami",
+      "slug": "iwate-nishiwaga-suginami",
       "label": "西和賀町 杉名沢（集落例）",
       "unit_type": "hamlet",
       "municipality": "西和賀町",
       "prefecture": "岩手県",
       "lat": 39.9012,
       "lng": 140.9455,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "dance",
+      "summary": "西和賀町杉名沢集落に伝わる大黒舞の例示データです。小規模集落で守り継がれる貴重な舞踊 tradition を示します。",
       "performances": [
         {
           "id": "example-daikoku",
@@ -88,12 +108,16 @@
     },
     {
       "id": "iwate-hiraizumi",
+      "slug": "iwate-hiraizumi",
       "label": "平泉町 平泉地区",
       "unit_type": "district",
       "municipality": "平泉町",
       "prefecture": "岩手県",
       "lat": 38.9869,
       "lng": 141.1131,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "kenbu",
+      "summary": "平泉町平泉地区に伝わる剣舞の例示データです。世界遺産平泉の文化的背景を持つ剣舞の伝統を記録します。",
       "performances": [
         {
           "id": "example-sword",
@@ -104,6 +128,7 @@
     },
     {
       "id": "iwate-miyako-natsuya",
+      "slug": "iwate-miyako-natsuya",
       "label": "宮古市 夏屋",
       "unit_type": "district",
       "municipality": "宮古市",
@@ -123,6 +148,9 @@
         ]
       },
       "note": "赤枠は地区全体の概略境界（暫定）です。正確な大字・小字境界は公図・現地調査で置き換えてください。",
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "shishi_shika",
+      "summary": "宮古市夏屋地区に伝わる夏屋鹿踊のデータです。三陸沿岸の鹿踊文化を代表する演目を収録します。",
       "performances": [
         {
           "id": "natsuya-shishiodori",
@@ -133,6 +161,7 @@
     },
     {
       "id": "iwate-miyako-kawauchi",
+      "slug": "iwate-miyako-kawauchi",
       "label": "宮古市 川内",
       "unit_type": "district",
       "municipality": "宮古市",
@@ -152,6 +181,9 @@
         ]
       },
       "note": "赤枠は川内地区全体の概略境界（暫定）です。公図・自治体資料の境界データへの差し替えを推奨します。",
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "kenbu",
+      "summary": "宮古市川内地区に伝わる川内念佛剣舞のデータです。念仏信仰と結びついた剣舞の伝統を記録します。",
       "performances": [
         {
           "id": "kawauchi-nembutsu-kenbu",
@@ -162,12 +194,16 @@
     },
     {
       "id": "iwate-ofunato-goishi",
+      "slug": "iwate-ofunato-goishi",
       "label": "大船渡市 碁石海岸周辺（地区例）",
       "unit_type": "district",
       "municipality": "大船渡市",
       "prefecture": "岩手県",
       "lat": 39.0824,
       "lng": 141.7524,
+      "content_flags": { "has_detail_page": false, "has_video": false, "has_3d_motion": false },
+      "map_category": "dance",
+      "summary": "大船渡市碁石海岸周辺の漁村で伝わる踊りの例示データです。三陸沿岸の漁村文化に根ざした民俗芸能を示します。",
       "performances": [
         {
           "id": "example-ondo-coast",
