@@ -71,3 +71,11 @@ def test_data_places_json_served() -> None:
     assert "places" in body
     assert isinstance(body["places"], list)
     assert len(body["places"]) >= 1
+
+
+def test_contribute_geo_page() -> None:
+    """/contribute/geo returns the GeoJSON draw tool page."""
+    response = client.get("/contribute/geo")
+    assert response.status_code == 200
+    assert "text/html" in response.headers.get("content-type", "")
+    assert "GeoJSON" in response.text
