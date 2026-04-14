@@ -39,8 +39,14 @@ def get_places() -> JSONResponse:
 
 
 @app.get("/", response_class=HTMLResponse)
+def index_page(request: Request) -> HTMLResponse:
+    """ランディングページ（ヒーロー＋俯瞰地図）."""
+    return templates.TemplateResponse(request=request, name="index.html")
+
+
+@app.get("/map", response_class=HTMLResponse)
 def map_page(request: Request) -> HTMLResponse:
-    """民俗芸能地図（OpenFreeMap + MapLibre GL JS）."""
+    """民俗芸能地図 全画面表示（OpenFreeMap + MapLibre GL JS）."""
     return templates.TemplateResponse(request=request, name="map.html")
 
 
