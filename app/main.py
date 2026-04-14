@@ -74,6 +74,12 @@ def contribute_geo(request: Request) -> HTMLResponse:
     return templates.TemplateResponse(request=request, name="contribute_geo.html")
 
 
+@app.get("/search", response_class=HTMLResponse)
+def search_page(request: Request) -> HTMLResponse:
+    """一覧・検索ページ（F-LIST, F-SEARCH）."""
+    return templates.TemplateResponse(request=request, name="search.html")
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     """Liveness probe."""

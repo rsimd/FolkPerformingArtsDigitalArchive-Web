@@ -87,3 +87,11 @@ def test_contribute_geo_page() -> None:
     assert response.status_code == 200
     assert "text/html" in response.headers.get("content-type", "")
     assert "GeoJSON" in response.text
+
+
+def test_search_page() -> None:
+    """/search returns the search/list page."""
+    response = client.get("/search")
+    assert response.status_code == 200
+    assert "text/html" in response.headers.get("content-type", "")
+    assert "民俗芸能を探す" in response.text
