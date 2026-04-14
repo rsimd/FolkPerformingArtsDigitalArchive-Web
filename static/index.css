@@ -76,6 +76,14 @@ body {
   transform: translateY(0);
 }
 
+.hero-cta--secondary {
+  background: transparent;
+  border: 2px solid #fff;
+}
+.hero-cta--secondary:hover {
+  background: rgba(255,255,255,.15);
+}
+
 /* --- Explore section --- */
 .explore-section {
   flex: 1;

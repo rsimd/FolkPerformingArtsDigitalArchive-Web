@@ -67,21 +67,33 @@
   }
 
   function render(results) {
-    resultCount.textContent = results.length + " 件";
-    if (results.length === 0) {
+    // Expand entries: one card per performance
+    var cards = [];
+    results.forEach(function (e) {
+      var names = e.performance_names || [];
+      var kinds = e.performance_kinds || [];
+      if (names.length === 0) {
+        cards.push({ title: e.label, kind: "", slug: e.slug, location: e.prefecture + " " + e.municipality, summary: e.summary || "" });
+        return;
+      }
+      for (var i = 0; i < names.length; i++) {
+        cards.push({ title: names[i], kind: kinds[i] || "", slug: e.slug, location: e.prefecture + " " + e.municipality, summary: e.summary || "" });
+      }
+    });
+
+    resultCount.textContent = cards.length + " 件";
+    if (cards.length === 0) {
       cardList.innerHTML = '<p class="no-results">該当するエントリがありません</p>';
       return;
     }
-    cardList.innerHTML = results.map(function (e) {
-      var kinds = (e.performance_kinds || []).map(function (k) {
-        return '<span class="kind-tag">' + escHtml(k) + '</span>';
-      }).join("");
+    cardList.innerHTML = cards.map(function (c) {
+      var kindTag = c.kind ? '<span class="kind-tag">' + escHtml(c.kind) + '</span>' : "";
       return (
         '<div class="card">' +
-          '<div class="card-title"><a href="/performances/' + escHtml(e.slug) + '/">' + escHtml(e.label) + '</a></div>' +
-          '<div class="card-location">' + escHtml(e.prefecture) + ' ' + escHtml(e.municipality) + '</div>' +
-          '<div class="card-kinds">' + kinds + '</div>' +
-          '<div class="card-summary">' + escHtml(e.summary || "") + '</div>' +
+          '<div class="card-title"><a href="/performances/' + escHtml(c.slug) + '/">' + escHtml(c.title) + '</a></div>' +
+          '<div class="card-location">' + escHtml(c.location) + '</div>' +
+          (kindTag ? '<div class="card-kinds">' + kindTag + '</div>' : '') +
+          '<div class="card-summary">' + escHtml(c.summary) + '</div>' +
         '</div>'
       );
     }).join("");

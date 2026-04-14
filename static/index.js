@@ -19,8 +19,9 @@
   const map = new maplibregl.Map({
     container: "map",
     style: "https://tiles.openfreemap.org/styles/liberty",
-    center: [140.5, 39.5],
-    zoom: 6.5,
+    center: [140.3, 39.2],
+    zoom: 6,
+    maxZoom: 15,
     attributionControl: true,
   });
   map.addControl(new maplibregl.NavigationControl(), "top-right");
@@ -218,9 +219,9 @@
           });
         }
 
-        /* Fit to data bounds if available */
+        /* Fit to Tohoku region (Aomori to Fukushima) */
         if (!bounds.isEmpty()) {
-          map.fitBounds(bounds, { padding: 56, maxZoom: 10.5 });
+          map.fitBounds([[138.5, 36.8], [142.5, 41.5]], { padding: 40 });
         }
       })
       .catch(function () {

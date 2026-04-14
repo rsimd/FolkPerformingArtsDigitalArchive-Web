@@ -3,47 +3,67 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>GeoJSON 寄稿ツール | 民俗芸能デジタルアーカイブ</title>
-  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css" />
-  <link rel="stylesheet" href="https://unpkg.com/@maplibre/maplibre-gl-draw@0.0.4/dist/maplibre-gl-draw.css" />
+  <title>情報投稿 | 民俗芸能デジタルアーカイブ</title>
   <link rel="stylesheet" href="/static/contribute_geo.css" />
 </head>
 <body>
   <header class="toolbar">
     <nav class="breadcrumb">
-      <a href="/">トップ</a> &gt; <span>GeoJSON 寄稿ツール</span>
+      <a href="/">トップ</a> &gt; <span>情報投稿</span>
     </nav>
-    <h1>GeoJSON 寄稿ツール</h1>
+    <h1>情報投稿</h1>
   </header>
 
   <div class="layout">
-    <aside class="sidebar">
-      <details open>
-        <summary>使い方</summary>
-        <ol class="instructions">
-          <li>地図上でポリゴンを描画してください（Draw Polygon ボタン）</li>
-          <li>カテゴリを選択してください</li>
-          <li>GeoJSON をコピーまたはダウンロードして、寄稿フォームに貼り付けてください</li>
-        </ol>
-      </details>
+    <main class="contribute-main">
+      <section class="contribute-section">
+        <h2>民俗芸能の情報をお寄せください</h2>
+        <p class="contribute-desc">
+          地域の民俗芸能に関する情報（芸能の名称・来歴・保存団体・写真・映像・楽譜など）は、以下の Google Form から投稿してください。
+        </p>
+        <a href="#" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+          Google Form で投稿する
+        </a>
+        <p class="contribute-note">
+          投稿いただいた情報は、運営チームが確認したのち、サイトに反映されます。
+        </p>
+      </section>
 
-      <div class="controls">
-        <label for="category-select">芸能カテゴリ</label>
-        <select id="category-select">
-          <option value="">-- 選択してください --</option>
-        </select>
+      <section class="contribute-section">
+        <h2>地域情報（地図・GeoJSON）の投稿</h2>
+        <p class="contribute-desc">
+          芸能が行われる地域・祭場・会館などの位置情報も、同じフォームから投稿できます。
+          地図上で範囲を指定したい場合は、以下のツールで GeoJSON を作成し、フォームに貼り付けてください。
+        </p>
 
-        <button type="button" id="btn-copy" class="btn btn-primary">クリップボードにコピー</button>
-        <button type="button" id="btn-download" class="btn btn-secondary">ファイルをダウンロード</button>
-      </div>
+        <details class="geojson-tool">
+          <summary>GeoJSON 作成ツールを開く</summary>
+          <div class="geojson-tool-body">
+            <p class="tool-hint">
+              地図上でポリゴンを描画し、GeoJSON をコピーして Google Form の「地域情報」欄に貼り付けてください。
+            </p>
 
-      <div class="geojson-output">
-        <label for="geojson-area">GeoJSON</label>
-        <textarea id="geojson-area" readonly rows="10" placeholder="ポリゴンを描画するとここに表示されます"></textarea>
-      </div>
-    </aside>
+            <div class="controls-inline">
+              <label for="category-select">芸能カテゴリ</label>
+              <select id="category-select">
+                <option value="">-- 選択してください --</option>
+              </select>
+            </div>
 
-    <div id="map" class="map-container" aria-label="GeoJSON 描画用マップ"></div>
+            <div id="map" class="map-container" aria-label="GeoJSON 描画用マップ"></div>
+
+            <div class="geojson-output">
+              <label for="geojson-area">GeoJSON</label>
+              <textarea id="geojson-area" readonly rows="6" placeholder="ポリゴンを描画するとここに表示されます"></textarea>
+              <div class="btn-group">
+                <button type="button" id="btn-copy" class="btn btn-primary">クリップボードにコピー</button>
+                <button type="button" id="btn-download" class="btn btn-secondary">ファイルをダウンロード</button>
+              </div>
+            </div>
+          </div>
+        </details>
+      </section>
+    </main>
   </div>
 
   <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
