@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>民俗芸能地図 | Folk Performing Arts Map</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
+  />
+  <link rel="stylesheet" href="/static/map.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>民俗芸能地図</h1>
+    <p class="sub">OpenFreeMap と MapLibre GL JS で、地区・村落を赤枠で囲み、その地域の民俗芸能を表示します。</p>
+  </header>
+  <div class="banner banner-info" role="note">
+    地図データは OpenStreetMap contributors に基づくスタイルを利用しています。
+  </div>
+  <div id="map" class="map-root" aria-label="民俗芸能地図"></div>
+  <aside id="panel" class="side-panel" hidden>
+    <button type="button" id="panel-close" class="panel-close" aria-label="パネルを閉じる">&times;</button>
+    <h2 id="panel-title"></h2>
+    <p id="panel-meta" class="panel-meta"></p>
+    <p id="panel-note" class="panel-note"></p>
+    <h3>この地点で表示している民俗芸能</h3>
+    <ul id="panel-list" class="perf-list"></ul>
+  </aside>
+  <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
+  <script src="/static/map.js"></script>
+</body>
+</html>

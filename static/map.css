@@ -1,0 +1,113 @@
+:root {
+  --header-h: auto;
+  --banner-h: 0px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #1a1a1a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e0e0e0;
+  background: #fafafa;
+}
+
+.app-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.25rem;
+}
+
+.app-header .sub {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #444;
+}
+
+.banner {
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+}
+
+.banner-info {
+  background: #eff6ff;
+  border-bottom: 1px solid #bcd7ff;
+  color: #1f3a66;
+}
+
+.map-root {
+  flex: 1;
+  min-height: 420px;
+  width: 100%;
+}
+
+.side-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: min(380px, 100vw);
+  height: 100vh;
+  background: #fff;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.12);
+  padding: 1rem 1rem 2rem;
+  overflow-y: auto;
+  z-index: 10;
+}
+
+.side-panel[hidden] {
+  display: none;
+}
+
+.panel-close {
+  float: right;
+  border: none;
+  background: transparent;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #666;
+}
+
+.side-panel h2 {
+  margin: 0 2rem 0.5rem 0;
+  font-size: 1.1rem;
+  clear: right;
+}
+
+.panel-meta {
+  margin: 0 0 0.5rem;
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.panel-note {
+  margin: 0 0 1rem;
+  font-size: 0.75rem;
+  color: #666;
+}
+
+.side-panel h3 {
+  margin: 1rem 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.perf-list {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.perf-list li {
+  margin-bottom: 0.35rem;
+}
+

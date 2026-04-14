@@ -1,0 +1,180 @@
+{
+  "places": [
+    {
+      "id": "iwate-morioka-tsushida",
+      "label": "盛岡市 津志田地区",
+      "unit_type": "district",
+      "municipality": "盛岡市",
+      "prefecture": "岩手県",
+      "lat": 39.6581,
+      "lng": 141.1124,
+      "note": "座標は代表点の例示です。正式な演目地は現地調査で置き換えてください。",
+      "performances": [
+        {
+          "id": "example-kagura",
+          "name": "郷土神楽（例）",
+          "kind": "神楽"
+        }
+      ]
+    },
+    {
+      "id": "iwate-hanamaki-yokote",
+      "label": "花巻市 横手町（地区例）",
+      "unit_type": "district",
+      "municipality": "花巻市",
+      "prefecture": "岩手県",
+      "lat": 39.3886,
+      "lng": 141.1167,
+      "performances": [
+        {
+          "id": "example-ondo",
+          "name": "盆踊り（例）",
+          "kind": "踊り"
+        }
+      ]
+    },
+    {
+      "id": "iwate-tono-central",
+      "label": "遠野市 遠野町（中心部近傍）",
+      "unit_type": "district",
+      "municipality": "遠野市",
+      "prefecture": "岩手県",
+      "lat": 39.3307,
+      "lng": 141.5326,
+      "performances": [
+        {
+          "id": "example-densho",
+          "name": "伝承舞（例）",
+          "kind": "舞踊"
+        },
+        {
+          "id": "example-yamabushi",
+          "name": "山伏舞（例）",
+          "kind": "舞踊"
+        }
+      ]
+    },
+    {
+      "id": "iwate-kitakami-waga",
+      "label": "和賀郡 西和賀町（村落例）",
+      "unit_type": "village",
+      "municipality": "西和賀町",
+      "prefecture": "岩手県",
+      "lat": 39.8926,
+      "lng": 140.9674,
+      "performances": [
+        {
+          "id": "example-shishimai",
+          "name": "獅子舞（例）",
+          "kind": "獅子舞"
+        }
+      ]
+    },
+    {
+      "id": "iwate-nishiwaga-suginami",
+      "label": "西和賀町 杉名沢（集落例）",
+      "unit_type": "hamlet",
+      "municipality": "西和賀町",
+      "prefecture": "岩手県",
+      "lat": 39.9012,
+      "lng": 140.9455,
+      "performances": [
+        {
+          "id": "example-daikoku",
+          "name": "大黒舞（例）",
+          "kind": "舞踊"
+        }
+      ]
+    },
+    {
+      "id": "iwate-hiraizumi",
+      "label": "平泉町 平泉地区",
+      "unit_type": "district",
+      "municipality": "平泉町",
+      "prefecture": "岩手県",
+      "lat": 38.9869,
+      "lng": 141.1131,
+      "performances": [
+        {
+          "id": "example-sword",
+          "name": "剣舞（例）",
+          "kind": "剣舞"
+        }
+      ]
+    },
+    {
+      "id": "iwate-miyako-natsuya",
+      "label": "宮古市 夏屋",
+      "unit_type": "district",
+      "municipality": "宮古市",
+      "prefecture": "岩手県",
+      "lat": 39.6372,
+      "lng": 141.9575,
+      "boundary": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.932, 39.62],
+            [141.99, 39.62],
+            [141.99, 39.655],
+            [141.932, 39.655],
+            [141.932, 39.62]
+          ]
+        ]
+      },
+      "note": "赤枠は地区全体の概略境界（暫定）です。正確な大字・小字境界は公図・現地調査で置き換えてください。",
+      "performances": [
+        {
+          "id": "natsuya-shishiodori",
+          "name": "夏屋鹿踊",
+          "kind": "鹿踊"
+        }
+      ]
+    },
+    {
+      "id": "iwate-miyako-kawauchi",
+      "label": "宮古市 川内",
+      "unit_type": "district",
+      "municipality": "宮古市",
+      "prefecture": "岩手県",
+      "lat": 39.648896,
+      "lng": 141.58915,
+      "boundary": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [141.518, 39.605],
+            [141.67, 39.605],
+            [141.67, 39.715],
+            [141.518, 39.715],
+            [141.518, 39.605]
+          ]
+        ]
+      },
+      "note": "赤枠は川内地区全体の概略境界（暫定）です。公図・自治体資料の境界データへの差し替えを推奨します。",
+      "performances": [
+        {
+          "id": "kawauchi-nembutsu-kenbu",
+          "name": "川内念佛剣舞",
+          "kind": "剣舞"
+        }
+      ]
+    },
+    {
+      "id": "iwate-ofunato-goishi",
+      "label": "大船渡市 碁石海岸周辺（地区例）",
+      "unit_type": "district",
+      "municipality": "大船渡市",
+      "prefecture": "岩手県",
+      "lat": 39.0824,
+      "lng": 141.7524,
+      "performances": [
+        {
+          "id": "example-ondo-coast",
+          "name": "漁村踊り（例）",
+          "kind": "踊り"
+        }
+      ]
+    }
+  ]
+}
