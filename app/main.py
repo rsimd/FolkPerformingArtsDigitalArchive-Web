@@ -62,6 +62,12 @@ def map_page(request: Request) -> HTMLResponse:
     return templates.TemplateResponse(request=request, name="map.html")
 
 
+@app.get("/performances/{slug}/", response_class=HTMLResponse)
+def performance_detail(request: Request, slug: str) -> HTMLResponse:
+    """個別芸能ページ（F-DET）."""
+    return templates.TemplateResponse(request=request, name="detail.html")
+
+
 @app.get("/health")
 def health() -> dict[str, str]:
     """Liveness probe."""

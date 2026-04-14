@@ -71,3 +71,11 @@ def test_data_places_json_served() -> None:
     assert "places" in body
     assert isinstance(body["places"], list)
     assert len(body["places"]) >= 1
+
+
+def test_performance_detail_page() -> None:
+    """/performances/<slug>/ returns detail page HTML."""
+    response = client.get("/performances/iwate-morioka-tsushida/")
+    assert response.status_code == 200
+    assert "text/html" in response.headers.get("content-type", "")
+    assert "来歴" in response.text
