@@ -31,9 +31,17 @@ def test_places_has_list() -> None:
     assert "performances" in first
 
 
-def test_map_page_renders() -> None:
-    """Root returns HTML map shell."""
+def test_index_page_renders() -> None:
+    """Root returns landing page."""
     response = client.get("/")
+    assert response.status_code == 200
+    assert "text/html" in response.headers.get("content-type", "")
+    assert "民俗芸能デジタルアーカイブプロジェクト" in response.text
+
+
+def test_map_page_renders() -> None:
+    """/map returns full-screen map page."""
+    response = client.get("/map")
     assert response.status_code == 200
     assert "text/html" in response.headers.get("content-type", "")
     assert "民俗芸能地図" in response.text

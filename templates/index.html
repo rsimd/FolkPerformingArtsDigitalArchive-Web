@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>民俗芸能デジタルアーカイブプロジェクト</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css"
+  />
+  <link rel="stylesheet" href="/static/index.css" />
+</head>
+<body>
+  <!-- F-TOP-01 Hero Section -->
+  <section class="hero" aria-label="ヒーロー">
+    <div class="hero-overlay">
+      <h1 class="hero-title">民俗芸能デジタルアーカイブプロジェクト</h1>
+      <p class="hero-subtitle">
+        東北地方の民俗芸能を、地図とデジタル技術で記録・保存・公開するプロジェクトです。
+      </p>
+      <a href="#explore" class="hero-cta">民俗芸能を探す</a>
+    </div>
+  </section>
+
+  <!-- F-TOP-02 Overview Map Section -->
+  <section id="explore" class="explore-section" aria-label="民俗芸能を探す">
+    <div class="explore-header">
+      <h2>民俗芸能を探す</h2>
+      <p>地図上のマーカーをクリックすると、その地域の民俗芸能の詳細が表示されます。</p>
+      <a href="/map" class="explore-map-link">全画面地図を開く &rarr;</a>
+    </div>
+    <div class="map-wrapper">
+      <div id="map" class="map-root" aria-label="民俗芸能俯瞰地図"></div>
+      <!-- F-TOP-03 Legend -->
+      <div class="legend" aria-label="凡例">
+        <h3>凡例</h3>
+        <ul class="legend-list">
+          <li><span class="legend-dot legend-green"></span>3Dモーションあり</li>
+          <li><span class="legend-dot legend-blue"></span>動画あり</li>
+          <li><span class="legend-dot legend-amber"></span>詳細ページあり</li>
+          <li><span class="legend-dot legend-gray"></span>未登録</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- F-TOP-04 Side Panel -->
+  <aside id="panel" class="side-panel" hidden>
+    <button type="button" id="panel-close" class="panel-close" aria-label="パネルを閉じる">&times;</button>
+    <h2 id="panel-title"></h2>
+    <p id="panel-meta" class="panel-meta"></p>
+    <p id="panel-note" class="panel-note"></p>
+    <div id="panel-flags" class="panel-flags"></div>
+    <h3>民俗芸能一覧</h3>
+    <ul id="panel-list" class="perf-list"></ul>
+  </aside>
+
+  <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
+  <script src="/static/index.js"></script>
+</body>
+</html>
