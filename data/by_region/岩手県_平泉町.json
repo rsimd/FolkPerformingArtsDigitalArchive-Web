@@ -1,0 +1,26 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "平泉町",
+  "places": [
+    {
+      "slug": "iwate-hiraizumi",
+      "label": "平泉町 平泉地区",
+      "lat": 38.9869,
+      "lng": 141.1131,
+      "map_category": "kenbu",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "平泉町平泉地区に伝わる剣舞の例示データです。世界遺産平泉の文化的背景を持つ剣舞の伝統を記録します。",
+      "performances": [
+        {
+          "id": "example-sword",
+          "name": "剣舞（例）",
+          "kind": "剣舞"
+        }
+      ]
+    }
+  ]
+}

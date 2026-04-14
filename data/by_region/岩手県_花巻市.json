@@ -1,0 +1,26 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "花巻市",
+  "places": [
+    {
+      "slug": "iwate-hanamaki-yokote",
+      "label": "花巻市 横手町（地区例）",
+      "lat": 39.3886,
+      "lng": 141.1167,
+      "map_category": "dance",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "花巻市横手町で盆踊りが行われる地区の例示データです。夏祭りの伝統的な踊りを記録します。",
+      "performances": [
+        {
+          "id": "example-ondo",
+          "name": "盆踊り（例）",
+          "kind": "踊り"
+        }
+      ]
+    }
+  ]
+}

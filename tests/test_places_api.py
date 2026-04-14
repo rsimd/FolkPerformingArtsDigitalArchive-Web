@@ -79,3 +79,11 @@ def test_performance_detail_page() -> None:
     assert response.status_code == 200
     assert "text/html" in response.headers.get("content-type", "")
     assert "来歴" in response.text
+
+
+def test_contribute_geo_page() -> None:
+    """/contribute/geo returns the GeoJSON draw tool page."""
+    response = client.get("/contribute/geo")
+    assert response.status_code == 200
+    assert "text/html" in response.headers.get("content-type", "")
+    assert "GeoJSON" in response.text

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeoJSON 寄稿ツール | 民俗芸能デジタルアーカイブ</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@maplibre/maplibre-gl-draw@0.0.4/dist/maplibre-gl-draw.css" />
+  <link rel="stylesheet" href="/static/contribute_geo.css" />
+</head>
+<body>
+  <header class="toolbar">
+    <nav class="breadcrumb">
+      <a href="/">トップ</a> &gt; <span>GeoJSON 寄稿ツール</span>
+    </nav>
+    <h1>GeoJSON 寄稿ツール</h1>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <details open>
+        <summary>使い方</summary>
+        <ol class="instructions">
+          <li>地図上でポリゴンを描画してください（Draw Polygon ボタン）</li>
+          <li>カテゴリを選択してください</li>
+          <li>GeoJSON をコピーまたはダウンロードして、寄稿フォームに貼り付けてください</li>
+        </ol>
+      </details>
+
+      <div class="controls">
+        <label for="category-select">芸能カテゴリ</label>
+        <select id="category-select">
+          <option value="">-- 選択してください --</option>
+        </select>
+
+        <button type="button" id="btn-copy" class="btn btn-primary">クリップボードにコピー</button>
+        <button type="button" id="btn-download" class="btn btn-secondary">ファイルをダウンロード</button>
+      </div>
+
+      <div class="geojson-output">
+        <label for="geojson-area">GeoJSON</label>
+        <textarea id="geojson-area" readonly rows="10" placeholder="ポリゴンを描画するとここに表示されます"></textarea>
+      </div>
+    </aside>
+
+    <div id="map" class="map-container" aria-label="GeoJSON 描画用マップ"></div>
+  </div>
+
+  <script src="https://unpkg.com/maplibre-gl@5.3.0/dist/maplibre-gl.js"></script>
+  <script src="https://unpkg.com/@maplibre/maplibre-gl-draw@0.0.4/dist/maplibre-gl-draw.js"></script>
+  <script src="/static/contribute_geo.js"></script>
+</body>
+</html>

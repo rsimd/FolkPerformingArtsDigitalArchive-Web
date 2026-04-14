@@ -1,0 +1,46 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "西和賀町",
+  "places": [
+    {
+      "slug": "iwate-kitakami-waga",
+      "label": "和賀郡 西和賀町（村落例）",
+      "lat": 39.8926,
+      "lng": 140.9674,
+      "map_category": "shishi_shika",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "西和賀町に伝わる獅子舞の例示データです。東北各地の祭礼で見られる勇壮な獅子舞の伝統を記録します。",
+      "performances": [
+        {
+          "id": "example-shishimai",
+          "name": "獅子舞（例）",
+          "kind": "獅子舞"
+        }
+      ]
+    },
+    {
+      "slug": "iwate-nishiwaga-suginami",
+      "label": "西和賀町 杉名沢（集落例）",
+      "lat": 39.9012,
+      "lng": 140.9455,
+      "map_category": "dance",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "西和賀町杉名沢集落に伝わる大黒舞の例示データです。小規模集落で守り継がれる貴重な舞踊の伝統を示します。",
+      "performances": [
+        {
+          "id": "example-daikoku",
+          "name": "大黒舞（例）",
+          "kind": "舞踊"
+        }
+      ]
+    }
+  ]
+}
