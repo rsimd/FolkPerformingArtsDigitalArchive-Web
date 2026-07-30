@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+# JavaScript build artifacts
+node_modules/
+dist/
+*.tsbuildinfo
+.pnpm-store/
+
+# TypeScript output generated from the Vite configuration
+prototype-map/vite.config.js
+prototype-map/vite.config.d.ts

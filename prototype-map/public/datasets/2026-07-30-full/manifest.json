@@ -1,0 +1,160 @@
+{
+  "schema_version": "2.0",
+  "dataset_version": "2026-07-30-full",
+  "generated_at": "2026-07-30",
+  "title": "郷土芸能・民俗芸能・伝統芸能 地図プロトタイプ",
+  "coordinate_policy": "出典座標、市区町村代表点、都道府県代表点、根拠動画地点の順で使用。位置を確定できないレコードも一覧・検索・詳細には収録する。",
+  "deduplication_policy": "最新版Excelを正本とし、同一video_idの構造化情報は1動画へ統合。旧版・作業コピーは重複加算せず、置換関係をデータ源一覧に明記する。",
+  "modes": {
+    "arts": {
+      "label": "芸能・文化財",
+      "description": "全芸能実体を収録し、取得元の座標を確認できたものだけを地図表示。",
+      "record_count": 1626,
+      "feature_count": 1136,
+      "unmapped_count": 490,
+      "breakdown": [
+        {
+          "label": "芸能実体",
+          "count": 1626
+        },
+        {
+          "label": "指定等の記録",
+          "count": 1842
+        }
+      ],
+      "records": "arts.records.json",
+      "geojson": "arts.geojson",
+      "details": "details/arts/{shard}.json"
+    },
+    "events": {
+      "label": "公演・映像",
+      "description": "動画、構造化イベント、2000〜2026年の芸能暦、出張計画を全件検索可能。",
+      "record_count": 76429,
+      "feature_count": 14387,
+      "unmapped_count": 62042,
+      "breakdown": [
+        {
+          "label": "動画",
+          "count": 58211
+        },
+        {
+          "label": "構造化イベント",
+          "count": 913
+        },
+        {
+          "label": "芸能暦",
+          "count": 17280
+        },
+        {
+          "label": "出張計画",
+          "count": 25
+        }
+      ],
+      "records": "events.records.json",
+      "geojson": "events.geojson",
+      "details": "details/events/{shard}.json"
+    },
+    "organizations": {
+      "label": "保存会・団体",
+      "description": "YouTubeチャンネルと団体Web・SNS調査の全レコードを検索可能。",
+      "record_count": 3196,
+      "feature_count": 1541,
+      "unmapped_count": 1655,
+      "breakdown": [
+        {
+          "label": "YouTubeチャンネル",
+          "count": 1117
+        },
+        {
+          "label": "団体Web・SNS",
+          "count": 2079
+        }
+      ],
+      "records": "organizations.records.json",
+      "geojson": "organizations.geojson",
+      "details": "details/organizations/{shard}.json"
+    }
+  },
+  "sources": [
+    {
+      "name": "文化財カタログ",
+      "path": "data/cultural_properties/*.jsonl",
+      "status": "included",
+      "detail": "1,626芸能 / 1,842指定等"
+    },
+    {
+      "name": "YouTubeチャンネル・動画全国調査",
+      "path": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+      "status": "included",
+      "detail": "49,339動画 / 1,117チャンネル"
+    },
+    {
+      "name": "動画イベント・団体Web/SNS",
+      "path": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+      "status": "included",
+      "detail": "41,634動画構造化行（41,634件を動画ID統合） / 890イベント / 2,079団体"
+    },
+    {
+      "name": "東北文化研究センター動画調査",
+      "path": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/tohokubuneiken_folk_arts_catalog_2026-07-29.xlsx",
+      "status": "included",
+      "detail": "9,393動画構造化行（521件を既存動画へ統合 / 8,872件を追加） / 30イベント行"
+    },
+    {
+      "name": "みちのく芸能ごよみ",
+      "path": "outputs/019fac8b-45c8-7c21-aca3-2d8a1fcc816e/iwagei_michinoku_geino_calendar_2000-2026_2026-07-29.xlsx",
+      "status": "included",
+      "detail": "17,280件（2000〜2026年）"
+    },
+    {
+      "name": "出張計画",
+      "path": "出張計画.xlsx",
+      "status": "included",
+      "detail": "25件（公演・情報収集・聞き取りを含む）"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "outputs/019fac4e-102e-7741-866d-1456a80c64ce/youtube_folk_performing_arts_channels_2026-07-29.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx に統合"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx に統合"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx に統合"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/tohokubuneiken_youtube_event_catalog_2026-07-29.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/tohokubuneiken_folk_arts_catalog_2026-07-29.xlsx に統合"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "work/019fac2a-519f-7d00-bbd1-4f8829e0039b/superseded_non_api/output/tohokubuneiken_youtube_event_catalog_2026-07-29.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/tohokubuneiken_folk_arts_catalog_2026-07-29.xlsx に統合"
+    },
+    {
+      "name": "旧版・作業コピー",
+      "path": "work/excel_update_2026-07-30/original_before_video_append.xlsx",
+      "status": "superseded_duplicate",
+      "detail": "重複加算せず outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx に統合"
+    }
+  ],
+  "integration": {
+    "event_structured_rows": 41634,
+    "event_structured_matched_to_primary_video": 41634,
+    "tohoku_structured_rows": 9393,
+    "tohoku_structured_matched_to_primary_video": 521,
+    "supplemental_unique_videos": 8872,
+    "tohoku_events_merged": 7
+  }
+}
