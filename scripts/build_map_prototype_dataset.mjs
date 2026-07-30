@@ -215,7 +215,7 @@ function normalizeIdentity(value) {
   return String(value ?? "")
     .normalize("NFKC")
     .toLocaleLowerCase("ja")
-    .replace(/[\s・、。「」『』（）()【】\-–—]/g, "");
+    .replace(/[\p{P}\p{S}\s]/gu, "");
 }
 
 function readValue(row, ...keys) {
@@ -546,10 +546,11 @@ function buildVideoRecord(row, supplementalRows, locationIndex, sourceWorkbook) 
 function eventIdentity(row) {
   return [
     normalizeIdentity(readValue(row, "イベント名")),
-    normalizeIdentity(readValue(row, "開催日")),
+    normalizeIdentity(excelDateToIso(readValue(row, "開催日"))),
     normalizeIdentity(readValue(row, "都道府県")),
     normalizeIdentity(readValue(row, "市区町村")),
     normalizeIdentity(readValue(row, "会場")),
+    normalizeIdentity(readValue(row, "チャンネル名")),
   ].join("|");
 }
 
@@ -562,6 +563,151 @@ function eventGroupValues(row) {
     artNames: splitValues(readValue(row, "芸能名")),
     programNames: splitValues(readValue(row, "演目名")),
   };
+}
+
+function eventSequenceRange(row) {
+  const start = Number(readValue(row, "開始連番", "sequence_start"));
+  const end = Number(readValue(row, "終了連番", "sequence_end"));
+  if (!Number.isFinite(start) || !Number.isFinite(end)) return null;
+  return { start, end };
+}
+
+function externalEventSourceUrl(row) {
+  for (const sourceUrl of eventGroupValues(row).sourceUrls) {
+    try {
+      const parsed = new URL(sourceUrl);
+      if (
+        /(^|\.)youtube\.com$/i.test(parsed.hostname) ||
+        /(^|\.)youtu\.be$/i.test(parsed.hostname)
+      ) {
+        continue;
+      }
+      parsed.search = "";
+      parsed.hash = "";
+      return parsed.toString().replace(/\/$/, "").toLocaleLowerCase("ja");
+    } catch {
+      continue;
+    }
+  }
+  return null;
+}
+
+function eventDedupeIdentities(row, sourceWorkbook) {
+  const title = normalizeIdentity(readValue(row, "イベント名"));
+  const heldDate = excelDateToIso(readValue(row, "開催日"));
+  if (!title || !heldDate) return [];
+
+  const identities = [];
+  const sourceUrl = externalEventSourceUrl(row);
+  if (sourceUrl) {
+    identities.push({
+      key: `source|${title}|${heldDate.slice(0, 4)}|${sourceUrl}`,
+      sequence: null,
+    });
+  }
+
+  if (/^\d{4}-\d{2}-\d{2}$/.test(heldDate)) {
+    const scope =
+      normalizeIdentity(readValue(row, "市区町村")) ||
+      normalizeIdentity(readValue(row, "チャンネル名")) ||
+      normalizeIdentity(readValue(row, "会場")) ||
+      normalizeIdentity(readValue(row, "都道府県"));
+    if (scope) {
+      identities.push({
+        key: `dated|${title}|${heldDate}|${scope}`,
+        sequence: null,
+      });
+    }
+    return identities;
+  }
+
+  if (!/^\d{4}$/.test(heldDate)) return identities;
+  const sequence = eventSequenceRange(row);
+  if (sequence) {
+    identities.push({
+      key: `sequence|${sourceWorkbook}|${eventIdentity(row)}`,
+      sequence,
+    });
+  }
+  return identities;
+}
+
+function mergeDetailValue(existing, incoming) {
+  const values = uniqueValues([
+    ...(Array.isArray(existing) ? existing : [existing]),
+    ...(Array.isArray(incoming) ? incoming : [incoming]),
+  ]);
+  if (values.length === 0) return null;
+  return values.length === 1 ? values[0] : values;
+}
+
+function mergeEventGroupRecords(target, incoming) {
+  const arrayFields = [
+    "performing_groups",
+    "preservation_groups",
+    "folk_art_names",
+    "program_names",
+    "video_ids",
+    "source_urls",
+  ];
+  for (const field of arrayFields) {
+    target.detail[field] = uniqueValues([
+      ...target.detail[field],
+      ...incoming.detail[field],
+    ]);
+  }
+
+  target.detail.venue = mergeDetailValue(
+    target.detail.venue,
+    incoming.detail.venue,
+  );
+  target.detail.channel = mergeDetailValue(
+    target.detail.channel,
+    incoming.detail.channel,
+  );
+  const heldDates = uniqueValues([
+    ...(Array.isArray(target.detail.held_date)
+      ? target.detail.held_date
+      : [target.detail.held_date]),
+    ...(Array.isArray(incoming.detail.held_date)
+      ? incoming.detail.held_date
+      : [incoming.detail.held_date]),
+  ]).sort();
+  target.detail.held_date =
+    heldDates.length === 1 ? heldDates[0] : heldDates;
+  target.detail.supplemental_sources.push({
+    source_workbook: incoming.detail.source_workbook,
+    fields: incoming.detail.source_fields,
+  });
+
+  target.record.video_count = target.detail.video_ids.length;
+  target.record.held_date = heldDates[0] ?? target.record.held_date;
+  target.record.verification_status =
+    target.detail.source_urls.length > 0 ? "source_linked" : "needs_review";
+  target.record.search_text = uniqueValues([
+    target.record.search_text,
+    incoming.record.search_text,
+    ...(Array.isArray(target.detail.venue)
+      ? target.detail.venue
+      : [target.detail.venue]),
+  ]).join(" ");
+
+  const precisionRank = {
+    unmapped: 0,
+    prefecture_centroid: 1,
+    municipality_centroid: 2,
+  };
+  if (
+    (precisionRank[incoming.record.location_precision] ?? 0) >
+    (precisionRank[target.record.location_precision] ?? 0)
+  ) {
+    target.record.coordinates = incoming.record.coordinates;
+    target.record.location_precision = incoming.record.location_precision;
+    target.record.prefecture = incoming.record.prefecture;
+    target.record.municipality = incoming.record.municipality;
+    target.detail.prefecture = incoming.detail.prefecture;
+    target.detail.municipality = incoming.detail.municipality;
+  }
 }
 
 function buildEventGroupRecord(row, locationIndex, sourceWorkbook, idPrefix) {
@@ -625,6 +771,459 @@ function buildEventGroupRecord(row, locationIndex, sourceWorkbook, idPrefix) {
       source_fields: row,
       supplemental_sources: [],
     },
+  };
+}
+
+const seriesRoundPattern =
+  /第\s*([0-9]{1,3}|[〇零一二三四五六七八九十百]{1,6})\s*回/u;
+const seriesEventKeywordPattern =
+  /(?:まつり|祭り|芸能祭|民俗芸能祭|例大祭|大会|公演|鑑賞会|発表会|共演会|フェスティバル|のつどい)/u;
+const genericAnnualSeriesPattern =
+  /^(?:本祭|裏祭|定期公演)(?:$|[#\s])/u;
+
+function parseJapaneseInteger(value) {
+  if (/^\d+$/.test(value)) return Number(value);
+  const digits = new Map([
+    ["〇", 0],
+    ["零", 0],
+    ["一", 1],
+    ["二", 2],
+    ["三", 3],
+    ["四", 4],
+    ["五", 5],
+    ["六", 6],
+    ["七", 7],
+    ["八", 8],
+    ["九", 9],
+  ]);
+  let total = 0;
+  let current = 0;
+  for (const character of value) {
+    if (character === "百") {
+      total += (current || 1) * 100;
+      current = 0;
+    } else if (character === "十") {
+      total += (current || 1) * 10;
+      current = 0;
+    } else if (digits.has(character)) {
+      current = digits.get(character);
+    } else {
+      return null;
+    }
+  }
+  return total + current;
+}
+
+function cleanSeriesTitle(title, removeRound) {
+  let text = String(title ?? "").normalize("NFKC").trim();
+  const bracketedCore = text.match(
+    /^[#\s]*[【\[]([^】\]]*第\s*(?:[0-9]{1,3}|[〇零一二三四五六七八九十百]{1,6})\s*回[^】\]]*)[】\]]/u,
+  );
+  if (bracketedCore) text = bracketedCore[1];
+  text = text.replace(/^[#\s]+/u, "").replace(
+    /^[【\[][^\]】]+[\]】]\s*/u,
+    "",
+  );
+  if (removeRound) text = text.replace(seriesRoundPattern, " ");
+  text = text
+    .replace(
+      /(?:19|20)\d{2}(?:年|[./-]\d{1,2}(?:[./-]\d{1,2})?)?/gu,
+      " ",
+    )
+    .replace(/\s+/gu, " ")
+    .trim();
+  const eventCore = text.match(
+    /^(.+?(?:まつり|祭り|芸能祭|民俗芸能祭|例大祭|大会|公演|鑑賞会|発表会|共演会|フェスティバル|のつどい))(?:[【\[(（／/].*)$/u,
+  );
+  return (eventCore?.[1] ?? text).trim();
+}
+
+function detailValues(value) {
+  return uniqueValues(Array.isArray(value) ? value : [value]).map((item) =>
+    normalizeIdentity(item),
+  );
+}
+
+function eventYear(record) {
+  const match = String(record.held_date ?? "").match(/^((?:19|20)\d{2})/);
+  return match ? Number(match[1]) : null;
+}
+
+function eventScopeEvidence(left, right) {
+  const shared = (leftValues, rightValues) =>
+    leftValues.some((value) => rightValues.includes(value));
+  const evidence = [];
+  if (
+    left.record.municipality &&
+    right.record.municipality &&
+    normalizeIdentity(left.record.municipality) ===
+      normalizeIdentity(right.record.municipality)
+  ) {
+    evidence.push("same_municipality");
+  }
+  if (
+    shared(
+      detailValues(left.detail.venue),
+      detailValues(right.detail.venue),
+    )
+  ) {
+    evidence.push("same_venue");
+  }
+  if (
+    shared(
+      detailValues(left.detail.channel),
+      detailValues(right.detail.channel),
+    )
+  ) {
+    evidence.push("same_channel");
+  }
+  return evidence;
+}
+
+function connectedSeriesGroups(candidates, occurrenceField) {
+  const byBase = new Map();
+  for (const candidate of candidates) {
+    if (!byBase.has(candidate.baseKey)) byBase.set(candidate.baseKey, []);
+    byBase.get(candidate.baseKey).push(candidate);
+  }
+
+  const groups = [];
+  for (const candidatesWithBase of byBase.values()) {
+    const parent = candidatesWithBase.map((_, index) => index);
+    const find = (index) => {
+      while (parent[index] !== index) {
+        parent[index] = parent[parent[index]];
+        index = parent[index];
+      }
+      return index;
+    };
+    const union = (left, right) => {
+      const leftRoot = find(left);
+      const rightRoot = find(right);
+      if (leftRoot !== rightRoot) parent[rightRoot] = leftRoot;
+    };
+    for (let left = 0; left < candidatesWithBase.length; left += 1) {
+      for (
+        let right = left + 1;
+        right < candidatesWithBase.length;
+        right += 1
+      ) {
+        if (
+          eventScopeEvidence(
+            candidatesWithBase[left],
+            candidatesWithBase[right],
+          ).length > 0
+        ) {
+          union(left, right);
+        }
+      }
+    }
+    const components = new Map();
+    candidatesWithBase.forEach((candidate, index) => {
+      const root = find(index);
+      if (!components.has(root)) components.set(root, []);
+      components.get(root).push(candidate);
+    });
+    for (const component of components.values()) {
+      const occurrences = new Set(
+        component.map((candidate) => candidate[occurrenceField]),
+      );
+      if (occurrences.size >= 2) groups.push(component);
+    }
+  }
+  return groups;
+}
+
+function mostFrequentSeriesScope(group) {
+  const scopes = [
+    group.map((item) => item.record.municipality),
+    group.map((item) => item.record.prefecture),
+    group.flatMap((item) =>
+      Array.isArray(item.detail.venue)
+        ? item.detail.venue
+        : [item.detail.venue],
+    ),
+    group.flatMap((item) =>
+      Array.isArray(item.detail.channel)
+        ? item.detail.channel
+        : [item.detail.channel],
+    ),
+  ];
+  for (const values of scopes) {
+    const counts = new Map();
+    for (const value of values.filter(Boolean)) {
+      const normalized = normalizeIdentity(value);
+      counts.set(normalized, (counts.get(normalized) ?? 0) + 1);
+    }
+    const winner = [...counts].sort(
+      ([leftValue, leftCount], [rightValue, rightCount]) =>
+        rightCount - leftCount || leftValue.localeCompare(rightValue, "ja"),
+    )[0];
+    if (winner && winner[1] >= 2) return winner[0];
+  }
+  return "scope_unresolved";
+}
+
+function buildEventSeries(records, details) {
+  const structuredItems = records
+    .filter((record) => record.record_type === "video_event")
+    .map((record) => ({ record, detail: details.get(record.detail_id) }))
+    .filter((item) => item.detail);
+  const roundCandidates = [];
+  const annualCandidates = [];
+  const roundExclusions = {
+    special_reference: 0,
+    short_or_generic_title: 0,
+  };
+  let genericAnnualExclusions = 0;
+
+  for (const item of structuredItems) {
+    const normalizedTitle = String(item.record.title).normalize("NFKC");
+    const roundMatch = normalizedTitle.match(seriesRoundPattern);
+    if (roundMatch) {
+      const suffix = normalizedTitle.slice(
+        (roundMatch.index ?? 0) + roundMatch[0].length,
+      );
+      if (/^\s*に向け/u.test(suffix)) {
+        roundExclusions.special_reference += 1;
+        continue;
+      }
+      const editionNumber = parseJapaneseInteger(roundMatch[1]);
+      const seriesTitle = cleanSeriesTitle(normalizedTitle, true);
+      const baseKey = normalizeIdentity(seriesTitle);
+      if (
+        !editionNumber ||
+        baseKey.length < 6 ||
+        !seriesEventKeywordPattern.test(seriesTitle)
+      ) {
+        roundExclusions.short_or_generic_title += 1;
+        continue;
+      }
+      roundCandidates.push({
+        ...item,
+        baseKey,
+        seriesTitle,
+        editionNumber,
+        year: eventYear(item.record),
+        method: "round_number",
+      });
+      continue;
+    }
+
+    const year = eventYear(item.record);
+    const seriesTitle = cleanSeriesTitle(normalizedTitle, false);
+    const baseKey = normalizeIdentity(seriesTitle);
+    if (genericAnnualSeriesPattern.test(seriesTitle)) {
+      genericAnnualExclusions += 1;
+      continue;
+    }
+    if (
+      year &&
+      baseKey.length >= 8 &&
+      seriesEventKeywordPattern.test(seriesTitle)
+    ) {
+      annualCandidates.push({
+        ...item,
+        baseKey,
+        seriesTitle,
+        editionNumber: null,
+        year,
+        method: "annual_exact_title",
+      });
+    }
+  }
+
+  const groups = [
+    ...connectedSeriesGroups(roundCandidates, "editionNumber"),
+    ...connectedSeriesGroups(annualCandidates, "year"),
+  ];
+  const removedIds = new Set();
+  const seriesRecords = [];
+  const seriesDetails = new Map();
+  let mergedOccurrences = 0;
+  let childCount = 0;
+
+  for (const group of groups) {
+    const method = group[0].method;
+    const seriesTitle = [...group]
+      .sort(
+        (left, right) =>
+          left.seriesTitle.length - right.seriesTitle.length ||
+          left.seriesTitle.localeCompare(right.seriesTitle, "ja"),
+      )[0].seriesTitle;
+    const occurrenceGroups = new Map();
+    for (const candidate of group) {
+      const occurrenceKey =
+        method === "round_number"
+          ? `round:${candidate.editionNumber}`
+          : `event:${candidate.record.entity_id}`;
+      if (!occurrenceGroups.has(occurrenceKey)) {
+        occurrenceGroups.set(occurrenceKey, []);
+      }
+      occurrenceGroups.get(occurrenceKey).push(candidate);
+    }
+
+    const children = [];
+    for (const occurrence of occurrenceGroups.values()) {
+      occurrence.sort(
+        (left, right) =>
+          left.record.title.length - right.record.title.length ||
+          left.record.entity_id.localeCompare(right.record.entity_id),
+      );
+      const survivor = occurrence[0];
+      for (const duplicate of occurrence.slice(1)) {
+        mergeEventGroupRecords(survivor, duplicate);
+        removedIds.add(duplicate.record.entity_id);
+        details.delete(duplicate.record.detail_id);
+        mergedOccurrences += 1;
+      }
+      if (method === "round_number") {
+        const canonicalTitle = `第${survivor.editionNumber}回 ${seriesTitle}`;
+        survivor.record.title = canonicalTitle;
+        survivor.detail.title = canonicalTitle;
+      }
+      children.push(survivor);
+    }
+
+    children.sort(
+      (left, right) =>
+        (left.year ?? Number.MAX_SAFE_INTEGER) -
+          (right.year ?? Number.MAX_SAFE_INTEGER) ||
+        (left.editionNumber ?? Number.MAX_SAFE_INTEGER) -
+          (right.editionNumber ?? Number.MAX_SAFE_INTEGER),
+    );
+    const scopeToken = mostFrequentSeriesScope(children);
+    const seriesId = hashId(
+      "event_series",
+      `${group[0].baseKey}|${scopeToken}`,
+    );
+    const years = uniqueValues(children.map((item) => item.year)).sort(
+      (left, right) => left - right,
+    );
+    const editionNumbers = uniqueValues(
+      children.map((item) => item.editionNumber),
+    ).sort((left, right) => left - right);
+    const missingEditionNumbers =
+      editionNumbers.length < 2
+        ? []
+        : Array.from(
+            {
+              length:
+                editionNumbers[editionNumbers.length - 1] -
+                editionNumbers[0] +
+                1,
+            },
+            (_, index) => editionNumbers[0] + index,
+          ).filter((edition) => !editionNumbers.includes(edition));
+    const childEventIds = children.map((item) => item.record.entity_id);
+    const prefectureValues = uniqueValues(
+      children.map((item) => item.record.prefecture),
+    );
+    const municipalityValues = uniqueValues(
+      children.map((item) => item.record.municipality),
+    );
+    const evidence = uniqueValues(
+      children.flatMap((left, leftIndex) =>
+        children
+          .slice(leftIndex + 1)
+          .flatMap((right) => eventScopeEvidence(left, right)),
+      ),
+    );
+    const detailId = `events/${seriesId}`;
+    const seriesRecord = makeRecord(
+      {
+        entity_id: seriesId,
+        detail_id: detailId,
+        mode: "events",
+        record_type: "event_series",
+        evidence_layer: "research",
+        title: seriesTitle,
+        prefecture:
+          prefectureValues.length === 1 ? prefectureValues[0] : null,
+        municipality:
+          municipalityValues.length === 1 ? municipalityValues[0] : null,
+        category: "event_series",
+        verification_status: "inferred_conservative",
+        child_event_ids: childEventIds,
+        child_event_count: childEventIds.length,
+        occurrence_years: years,
+        edition_numbers: editionNumbers,
+        search_text: [
+          seriesTitle,
+          ...children.map((item) => item.record.title),
+          ...years,
+          ...editionNumbers,
+        ].join(" "),
+      },
+      null,
+    );
+    seriesRecord.location_precision = "conceptual";
+    const childSummaries = children.map((item) => ({
+      entity_id: item.record.entity_id,
+      title: item.record.title,
+      held_date: item.detail.held_date,
+      year: item.year,
+      edition_number: item.editionNumber,
+    }));
+    const seriesDetail = {
+      title: seriesTitle,
+      prefecture: seriesRecord.prefecture,
+      municipality: seriesRecord.municipality,
+      child_event_ids: childEventIds,
+      children: childSummaries,
+      occurrence_count: childEventIds.length,
+      occurrence_years: years,
+      edition_numbers: editionNumbers,
+      missing_edition_numbers: missingEditionNumbers,
+      identification_method: method,
+      identification_evidence: evidence,
+      note:
+        "名称の回次・年次と、地域・会場・チャンネルの一致を根拠に推定した親子関係。",
+    };
+
+    for (const child of children) {
+      child.record.parent_series_id = seriesId;
+      child.record.series_title = seriesTitle;
+      child.record.series_edition_number = child.editionNumber;
+      child.record.series_year = child.year;
+      child.record.search_text = uniqueValues([
+        child.record.search_text,
+        seriesTitle,
+      ]).join(" ");
+      child.detail.parent_series_id = seriesId;
+      child.detail.series_title = seriesTitle;
+      child.detail.series_edition_number = child.editionNumber;
+      child.detail.series_year = child.year;
+    }
+    seriesRecords.push(seriesRecord);
+    seriesDetails.set(detailId, seriesDetail);
+    childCount += childEventIds.length;
+  }
+
+  const retainedRecords = records.filter(
+    (record) => !removedIds.has(record.entity_id),
+  );
+  records.splice(0, records.length, ...retainedRecords, ...seriesRecords);
+  for (const [detailId, detail] of seriesDetails) details.set(detailId, detail);
+
+  return {
+    parentCount: seriesRecords.length,
+    childCount,
+    mergedOccurrences,
+    roundCandidateCount: roundCandidates.length,
+    annualCandidateCount: annualCandidates.length,
+    roundSingletonCount:
+      roundCandidates.length -
+      groups
+        .filter((group) => group[0].method === "round_number")
+        .reduce((total, group) => total + group.length, 0),
+    annualUnlinkedCount:
+      annualCandidates.length -
+      groups
+        .filter((group) => group[0].method === "annual_exact_title")
+        .reduce((total, group) => total + group.length, 0),
+    genericAnnualExclusions,
+    roundExclusions,
   };
 }
 
@@ -755,49 +1354,88 @@ function buildEvents(
   );
   const videoLocations = new Map();
 
-  const eventIdentityToDetail = new Map();
-  for (const row of eventRows) {
-    const built = buildEventGroupRecord(
-      row,
-      locationIndex,
-      sourcePaths.events,
-      "event_group",
-    );
-    records.push(built.record);
-    details.set(built.record.detail_id, built.detail);
-    eventIdentityToDetail.set(eventIdentity(row), built.record.detail_id);
+  const eventGroupsByIdentity = new Map();
+  let mergedPrimaryEvents = 0;
+  let mergedTohokuEvents = 0;
+  const eventSources = [
+    {
+      rows: eventRows,
+      sourceWorkbook: sourcePaths.events,
+      idPrefix: "event_group",
+      sourceType: "primary",
+    },
+    {
+      rows: tohokuEventRows,
+      sourceWorkbook: sourcePaths.tohoku,
+      idPrefix: "tohoku_event_group",
+      sourceType: "tohoku",
+    },
+  ];
+
+  for (const source of eventSources) {
+    for (const row of source.rows) {
+      const built = buildEventGroupRecord(
+        row,
+        locationIndex,
+        source.sourceWorkbook,
+        source.idPrefix,
+      );
+      const identities = eventDedupeIdentities(row, source.sourceWorkbook);
+      const matchingIdentity = identities.find((identity) =>
+        eventGroupsByIdentity.has(identity.key),
+      );
+      const existing = matchingIdentity
+        ? eventGroupsByIdentity.get(matchingIdentity.key)
+        : null;
+      const sequenceGap =
+        matchingIdentity?.sequence &&
+        existing &&
+        existing.lastSequenceEnd !== null
+          ? matchingIdentity.sequence.start - existing.lastSequenceEnd
+          : null;
+      const canMerge =
+        existing &&
+        (matchingIdentity.sequence === null ||
+          (sequenceGap !== null && sequenceGap >= 0 && sequenceGap <= 5));
+
+      if (canMerge && matchingIdentity && existing) {
+        mergeEventGroupRecords(existing.built, built);
+        const sequence = identities.find((identity) => identity.sequence)
+          ?.sequence;
+        if (sequence) {
+          existing.lastSequenceEnd = Math.max(
+            existing.lastSequenceEnd ?? sequence.end,
+            sequence.end,
+          );
+        }
+        for (const identity of identities) {
+          eventGroupsByIdentity.set(identity.key, existing);
+        }
+        if (source.sourceType === "primary") {
+          mergedPrimaryEvents += 1;
+        } else {
+          mergedTohokuEvents += 1;
+        }
+        continue;
+      }
+
+      records.push(built.record);
+      details.set(built.record.detail_id, built.detail);
+      if (identities.length > 0) {
+        const sequence = identities.find((identity) => identity.sequence)
+          ?.sequence;
+        const eventGroup = {
+          built,
+          lastSequenceEnd: sequence?.end ?? null,
+        };
+        for (const identity of identities) {
+          eventGroupsByIdentity.set(identity.key, eventGroup);
+        }
+      }
+    }
   }
 
-  let addedTohokuEvents = 0;
-  let mergedTohokuEvents = 0;
-  for (const row of tohokuEventRows) {
-    const existingDetailId = eventIdentityToDetail.get(eventIdentity(row));
-    if (existingDetailId) {
-      const detail = details.get(existingDetailId);
-      const values = eventGroupValues(row);
-      detail.video_ids = uniqueValues([...detail.video_ids, ...values.videoIds]);
-      detail.source_urls = uniqueValues([
-        ...detail.source_urls,
-        ...values.sourceUrls,
-      ]);
-      detail.supplemental_sources.push({
-        source_workbook: sourcePaths.tohoku,
-        fields: row,
-      });
-      mergedTohokuEvents += 1;
-      continue;
-    }
-    const built = buildEventGroupRecord(
-      row,
-      locationIndex,
-      sourcePaths.tohoku,
-      "tohoku_event_group",
-    );
-    records.push(built.record);
-    details.set(built.record.detail_id, built.detail);
-    eventIdentityToDetail.set(eventIdentity(row), built.record.detail_id);
-    addedTohokuEvents += 1;
-  }
+  const eventSeries = buildEventSeries(records, details);
 
   for (const row of calendarRows) {
     const built = buildCalendarRecord(row, locationIndex);
@@ -857,8 +1495,25 @@ function buildEvents(
     stats: {
       primaryVideoCount: videoRows.length,
       supplementalVideoCount,
-      eventGroupCount: eventRows.length + addedTohokuEvents,
+      eventGroupCount: records.filter(
+        (record) => record.record_type === "video_event",
+      ).length,
+      eventSeriesCount: eventSeries.parentCount,
+      eventSeriesChildCount: eventSeries.childCount,
+      eventSeriesMergedOccurrences: eventSeries.mergedOccurrences,
+      eventSeriesRoundCandidates: eventSeries.roundCandidateCount,
+      eventSeriesAnnualCandidates: eventSeries.annualCandidateCount,
+      eventSeriesRoundSingletons: eventSeries.roundSingletonCount,
+      eventSeriesAnnualUnlinked: eventSeries.annualUnlinkedCount,
+      eventSeriesAnnualGenericExclusions:
+        eventSeries.genericAnnualExclusions,
+      eventSeriesRoundSpecialReferences:
+        eventSeries.roundExclusions.special_reference,
+      eventSeriesRoundGenericExclusions:
+        eventSeries.roundExclusions.short_or_generic_title,
+      mergedPrimaryEvents,
       mergedTohokuEvents,
+      mergedEventRows: mergedPrimaryEvents + mergedTohokuEvents,
       calendarCount: calendarRows.length,
       fieldworkCount: fieldworkRows.length,
       eventStructuredMatched: eventStructuredRows.filter((row) =>
@@ -1080,12 +1735,17 @@ function buildModeManifest(mode, label, description, dataset, breakdown) {
   const featureCount = dataset.records.filter((record) =>
     Array.isArray(record.coordinates),
   ).length;
+  const conceptualCount = dataset.records.filter(
+    (record) => record.location_precision === "conceptual",
+  ).length;
   return {
     label,
     description,
     record_count: dataset.records.length,
     feature_count: featureCount,
-    unmapped_count: dataset.records.length - featureCount,
+    unmapped_count:
+      dataset.records.length - featureCount - conceptualCount,
+    conceptual_count: conceptualCount,
     breakdown,
     records: `${mode}.records.json`,
     geojson: `${mode}.geojson`,
@@ -1153,6 +1813,26 @@ const organizationDataset = buildOrganizations(
   eventDataset.videoLocations,
   locationIndex,
 );
+const kitakamiSeriesRecord = eventDataset.records.find(
+  (record) =>
+    record.record_type === "event_series" &&
+    normalizeIdentity(record.title) ===
+      normalizeIdentity("北上・みちのく芸能まつり"),
+);
+const kitakamiObservedEditions =
+  kitakamiSeriesRecord?.edition_numbers ?? [];
+const kitakamiMissingEditions =
+  kitakamiObservedEditions.length < 2
+    ? []
+    : Array.from(
+        {
+          length:
+            kitakamiObservedEditions[kitakamiObservedEditions.length - 1] -
+            kitakamiObservedEditions[0] +
+            1,
+        },
+        (_, index) => kitakamiObservedEditions[0] + index,
+      ).filter((edition) => !kitakamiObservedEditions.includes(edition));
 
 const modes = {
   arts: buildModeManifest(
@@ -1168,7 +1848,7 @@ const modes = {
   events: buildModeManifest(
     "events",
     "公演・映像",
-    "動画、構造化イベント、2000〜2026年の芸能暦、出張計画を全件検索可能。",
+    "イベントシリーズ、各年の開催回、動画、2000〜2026年の芸能暦、出張計画を全件検索可能。",
     eventDataset,
     [
       {
@@ -1180,6 +1860,10 @@ const modes = {
       {
         label: "構造化イベント",
         count: eventDataset.stats.eventGroupCount,
+      },
+      {
+        label: "イベントシリーズ",
+        count: eventDataset.stats.eventSeriesCount,
       },
       { label: "芸能暦", count: eventDataset.stats.calendarCount },
       { label: "出張計画", count: eventDataset.stats.fieldworkCount },
@@ -1198,14 +1882,14 @@ const modes = {
 };
 
 const manifest = {
-  schema_version: "2.0",
+  schema_version: "2.1",
   dataset_version: datasetVersion,
   generated_at: "2026-07-30",
   title: "郷土芸能・民俗芸能・伝統芸能 地図プロトタイプ",
   coordinate_policy:
     "出典座標、市区町村代表点、都道府県代表点、根拠動画地点の順で使用。位置を確定できないレコードも一覧・検索・詳細には収録する。",
   deduplication_policy:
-    "最新版Excelを正本とし、同一video_idの構造化情報は1動画へ統合。旧版・作業コピーは重複加算せず、置換関係をデータ源一覧に明記する。",
+    "最新版Excelを正本とし、同一video_idの構造化情報は1動画へ統合。構造化イベントは正規化した名称、開催日、地域・チャンネル、および日付精度が低い場合の動画連番を根拠に同一イベントを統合する。イベントシリーズは共通の恒常的名称と異なる回次または年、および地域・会場・チャンネルの一致を必須として保守的に推定する。旧版・作業コピーは重複加算しない。",
   modes,
   sources: [
     {
@@ -1259,7 +1943,41 @@ const manifest = {
     tohoku_structured_matched_to_primary_video:
       eventDataset.stats.tohokuStructuredMatched,
     supplemental_unique_videos: eventDataset.stats.supplementalVideoCount,
+    primary_event_rows_merged: eventDataset.stats.mergedPrimaryEvents,
     tohoku_events_merged: eventDataset.stats.mergedTohokuEvents,
+    event_rows_merged_total: eventDataset.stats.mergedEventRows,
+  },
+  event_series_audit: {
+    policy:
+      "回次付き名称を優先し、年次型は十分な長さの同一名称に限定する。いずれも地域・会場・チャンネルの一致がない候補は親子関係にしない。",
+    parent_count: eventDataset.stats.eventSeriesCount,
+    child_count: eventDataset.stats.eventSeriesChildCount,
+    occurrence_duplicates_merged:
+      eventDataset.stats.eventSeriesMergedOccurrences,
+    round_candidates: eventDataset.stats.eventSeriesRoundCandidates,
+    annual_candidates: eventDataset.stats.eventSeriesAnnualCandidates,
+    round_singletons_not_linked:
+      eventDataset.stats.eventSeriesRoundSingletons,
+    annual_candidates_not_linked:
+      eventDataset.stats.eventSeriesAnnualUnlinked,
+    generic_annual_titles_excluded:
+      eventDataset.stats.eventSeriesAnnualGenericExclusions,
+    special_round_references_excluded:
+      eventDataset.stats.eventSeriesRoundSpecialReferences,
+    generic_round_titles_excluded:
+      eventDataset.stats.eventSeriesRoundGenericExclusions,
+    named_checks: {
+      kitakami_michinoku_geino_matsuri: {
+        parent_series_id: kitakamiSeriesRecord?.entity_id ?? null,
+        observed_editions: kitakamiObservedEditions,
+        missing_editions: kitakamiMissingEditions,
+        edition_63_status: kitakamiObservedEditions.includes(63)
+          ? "included"
+          : "not_present_in_source",
+        special_performance_60_policy:
+          "excluded_from_series_because_round_number_is_only_a_future-reference",
+      },
+    },
   },
 };
 

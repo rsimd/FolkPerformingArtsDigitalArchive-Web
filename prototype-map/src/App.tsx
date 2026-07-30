@@ -85,6 +85,7 @@ const precisionLabels: Record<string, string> = {
   prefecture_centroid: "都道府県代表点",
   source_video_location: "根拠動画の地点",
   source_video_locations_centroid: "複数根拠動画地点の中心",
+  conceptual: "シリーズ概念（地図点なし）",
   unmapped: "位置未確定",
 };
 
@@ -105,6 +106,7 @@ const categoryLabels: Record<string, string> = {
   other: "その他",
   performing_art: "芸能・文化財",
   video: "動画",
+  event_series: "イベントシリーズ",
   video_event: "構造化イベント",
   calendar_event: "芸能暦",
   fieldwork_plan: "出張計画・公演",
@@ -131,6 +133,12 @@ function isObject(value: unknown): value is Record<string, unknown> {
 }
 
 function getLocationLabel(record: MapRecord) {
+  if (record.location_precision === "conceptual") {
+    return (
+      [record.prefecture, record.municipality].filter(Boolean).join(" ") ||
+      "複数開催地"
+    );
+  }
   return (
     [record.prefecture, record.municipality].filter(Boolean).join(" ") ||
     "位置未確定"
@@ -193,6 +201,7 @@ interface DetailPanelProps {
   detail: FeatureDetail | null;
   loading: boolean;
   onClose: () => void;
+  onSelectRecord: (entityId: string) => void;
 }
 
 function DetailPanel({
@@ -201,6 +210,7 @@ function DetailPanel({
   detail,
   loading,
   onClose,
+  onSelectRecord,
 }: DetailPanelProps) {
   if (!record) {
     return (
@@ -222,6 +232,9 @@ function DetailPanel({
                     {" "}
                     / 地図 {formatNumber(item.feature_count)}件 / 位置未確定{" "}
                     {formatNumber(item.unmapped_count)}件
+                    {item.conceptual_count > 0
+                      ? ` / 概念 ${formatNumber(item.conceptual_count)}件`
+                      : ""}
                   </span>
                 </dd>
               </div>
@@ -267,6 +280,13 @@ function DetailPanel({
     ["X", detail?.x],
     ["Facebook", detail?.facebook],
   ].filter((entry): entry is [string, string] => typeof entry[1] === "string");
+  const parentSeriesId =
+    typeof detail?.parent_series_id === "string"
+      ? detail.parent_series_id
+      : null;
+  const seriesChildren = Array.isArray(detail?.children)
+    ? detail.children.filter(isObject)
+    : [];
 
   return (
     <aside className="detail-panel">
@@ -306,26 +326,76 @@ function DetailPanel({
             )}
             {mode === "events" && (
               <>
-                <div>
-                  <dt>開催・公開日</dt>
-                  <dd>{textValue(detail?.held_date)}</dd>
-                </div>
-                <div>
-                  <dt>会場・場所</dt>
-                  <dd>{textValue(detail?.venue)}</dd>
-                </div>
-                <div>
-                  <dt>芸能名</dt>
-                  <dd>{textValue(detail?.folk_art_names)}</dd>
-                </div>
-                <div>
-                  <dt>出演団体</dt>
-                  <dd>{textValue(detail?.performing_groups)}</dd>
-                </div>
-                <div>
-                  <dt>備考</dt>
-                  <dd>{textValue(detail?.note)}</dd>
-                </div>
+                {record.record_type === "event_series" ? (
+                  <>
+                    <div>
+                      <dt>収録開催回数</dt>
+                      <dd>{textValue(detail?.occurrence_count)}</dd>
+                    </div>
+                    <div>
+                      <dt>収録年</dt>
+                      <dd>{textValue(detail?.occurrence_years)}</dd>
+                    </div>
+                    <div>
+                      <dt>収録回次</dt>
+                      <dd>{textValue(detail?.edition_numbers)}</dd>
+                    </div>
+                    <div>
+                      <dt>未収録の中間回次</dt>
+                      <dd>{textValue(detail?.missing_edition_numbers)}</dd>
+                    </div>
+                    <div>
+                      <dt>同定根拠</dt>
+                      <dd>{textValue(detail?.identification_evidence)}</dd>
+                    </div>
+                    <div>
+                      <dt>関係の注記</dt>
+                      <dd>{textValue(detail?.note)}</dd>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    <div>
+                      <dt>開催・公開日</dt>
+                      <dd>{textValue(detail?.held_date)}</dd>
+                    </div>
+                    <div>
+                      <dt>会場・場所</dt>
+                      <dd>{textValue(detail?.venue)}</dd>
+                    </div>
+                    <div>
+                      <dt>芸能名</dt>
+                      <dd>{textValue(detail?.folk_art_names)}</dd>
+                    </div>
+                    <div>
+                      <dt>出演団体</dt>
+                      <dd>{textValue(detail?.performing_groups)}</dd>
+                    </div>
+                    <div>
+                      <dt>備考</dt>
+                      <dd>{textValue(detail?.note)}</dd>
+                    </div>
+                    {record.record_type === "video_event" &&
+                      parentSeriesId && (
+                        <>
+                          <div>
+                            <dt>親イベントシリーズ</dt>
+                            <dd>{textValue(detail?.series_title)}</dd>
+                          </div>
+                          <div>
+                            <dt>シリーズ内の回次・年</dt>
+                            <dd>
+                              {detail?.series_edition_number
+                                ? `第${textValue(
+                                    detail.series_edition_number,
+                                  )}回`
+                                : textValue(detail?.series_year)}
+                            </dd>
+                          </div>
+                        </>
+                      )}
+                  </>
+                )}
               </>
             )}
             {mode === "organizations" && (
@@ -345,6 +415,46 @@ function DetailPanel({
               </>
             )}
           </dl>
+
+          {parentSeriesId && (
+            <section className="detail-section series-links">
+              <h3>イベントシリーズ</h3>
+              <button
+                onClick={() => onSelectRecord(parentSeriesId)}
+                type="button"
+              >
+                親シリーズ「{textValue(detail?.series_title)}」を開く
+              </button>
+            </section>
+          )}
+
+          {seriesChildren.length > 0 && (
+            <section className="detail-section series-links">
+              <h3>収録されている開催回</h3>
+              {seriesChildren.map((child) => {
+                const entityId =
+                  typeof child.entity_id === "string"
+                    ? child.entity_id
+                    : "";
+                return (
+                  <button
+                    disabled={!entityId}
+                    key={entityId || textValue(child.title)}
+                    onClick={() => onSelectRecord(entityId)}
+                    type="button"
+                  >
+                    <strong>{textValue(child.title)}</strong>
+                    <span>
+                      {textValue(child.held_date)}
+                      {child.edition_number
+                        ? ` / 第${textValue(child.edition_number)}回`
+                        : ""}
+                    </span>
+                  </button>
+                );
+              })}
+            </section>
+          )}
 
           {designations.length > 0 && (
             <section className="detail-section">
@@ -601,6 +711,12 @@ export default function App() {
               <dt>位置未確定</dt>
               <dd>{formatNumber(modeManifest.unmapped_count)}件</dd>
             </div>
+            {modeManifest.conceptual_count > 0 && (
+              <div>
+                <dt>概念レコード</dt>
+                <dd>{formatNumber(modeManifest.conceptual_count)}件</dd>
+              </div>
+            )}
             {modeManifest.breakdown.map((item) => (
               <div key={item.label}>
                 <dt>{item.label}</dt>
@@ -753,6 +869,7 @@ export default function App() {
           setSelectedRecord(null);
           setDetail(null);
         }}
+        onSelectRecord={selectRecord}
         record={selectedRecord}
       />
     </main>

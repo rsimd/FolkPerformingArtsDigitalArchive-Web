@@ -11,6 +11,7 @@ export interface ModeManifest {
   record_count: number;
   feature_count: number;
   unmapped_count: number;
+  conceptual_count: number;
   breakdown: ModeBreakdown[];
   records: string;
   geojson: string;
@@ -34,6 +35,7 @@ export interface DatasetManifest {
   modes: Record<MapMode, ModeManifest>;
   sources: DatasetSource[];
   integration?: Record<string, number>;
+  event_series_audit?: Record<string, unknown>;
 }
 
 export interface MapRecord {
@@ -56,6 +58,14 @@ export interface MapRecord {
   video_count?: number;
   confidence?: string;
   public_video_count?: number;
+  parent_series_id?: string;
+  series_title?: string;
+  series_edition_number?: number | null;
+  series_year?: number | null;
+  child_event_ids?: string[];
+  child_event_count?: number;
+  occurrence_years?: number[];
+  edition_numbers?: number[];
 }
 
 export type MapFeatureProperties = Omit<

@@ -1,10 +1,10 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "dataset_version": "2026-07-30-full",
   "generated_at": "2026-07-30",
   "title": "郷土芸能・民俗芸能・伝統芸能 地図プロトタイプ",
   "coordinate_policy": "出典座標、市区町村代表点、都道府県代表点、根拠動画地点の順で使用。位置を確定できないレコードも一覧・検索・詳細には収録する。",
-  "deduplication_policy": "最新版Excelを正本とし、同一video_idの構造化情報は1動画へ統合。旧版・作業コピーは重複加算せず、置換関係をデータ源一覧に明記する。",
+  "deduplication_policy": "最新版Excelを正本とし、同一video_idの構造化情報は1動画へ統合。構造化イベントは正規化した名称、開催日、地域・チャンネル、および日付精度が低い場合の動画連番を根拠に同一イベントを統合する。イベントシリーズは共通の恒常的名称と異なる回次または年、および地域・会場・チャンネルの一致を必須として保守的に推定する。旧版・作業コピーは重複加算しない。",
   "modes": {
     "arts": {
       "label": "芸能・文化財",
@@ -12,6 +12,7 @@
       "record_count": 1626,
       "feature_count": 1136,
       "unmapped_count": 490,
+      "conceptual_count": 0,
       "breakdown": [
         {
           "label": "芸能実体",
@@ -28,10 +29,11 @@
     },
     "events": {
       "label": "公演・映像",
-      "description": "動画、構造化イベント、2000〜2026年の芸能暦、出張計画を全件検索可能。",
-      "record_count": 76429,
-      "feature_count": 14387,
-      "unmapped_count": 62042,
+      "description": "イベントシリーズ、各年の開催回、動画、2000〜2026年の芸能暦、出張計画を全件検索可能。",
+      "record_count": 76342,
+      "feature_count": 14343,
+      "unmapped_count": 61989,
+      "conceptual_count": 10,
       "breakdown": [
         {
           "label": "動画",
@@ -39,7 +41,11 @@
         },
         {
           "label": "構造化イベント",
-          "count": 913
+          "count": 816
+        },
+        {
+          "label": "イベントシリーズ",
+          "count": 10
         },
         {
           "label": "芸能暦",
@@ -60,6 +66,7 @@
       "record_count": 3196,
       "feature_count": 1541,
       "unmapped_count": 1655,
+      "conceptual_count": 0,
       "breakdown": [
         {
           "label": "YouTubeチャンネル",
@@ -155,6 +162,36 @@
     "tohoku_structured_rows": 9393,
     "tohoku_structured_matched_to_primary_video": 521,
     "supplemental_unique_videos": 8872,
-    "tohoku_events_merged": 7
+    "primary_event_rows_merged": 90,
+    "tohoku_events_merged": 7,
+    "event_rows_merged_total": 97
+  },
+  "event_series_audit": {
+    "policy": "回次付き名称を優先し、年次型は十分な長さの同一名称に限定する。いずれも地域・会場・チャンネルの一致がない候補は親子関係にしない。",
+    "parent_count": 10,
+    "child_count": 26,
+    "occurrence_duplicates_merged": 7,
+    "round_candidates": 67,
+    "annual_candidates": 353,
+    "round_singletons_not_linked": 51,
+    "annual_candidates_not_linked": 336,
+    "generic_annual_titles_excluded": 95,
+    "special_round_references_excluded": 1,
+    "generic_round_titles_excluded": 6,
+    "named_checks": {
+      "kitakami_michinoku_geino_matsuri": {
+        "parent_series_id": "event_series_e65b9ffb025d4978",
+        "observed_editions": [
+          61,
+          62,
+          64
+        ],
+        "missing_editions": [
+          63
+        ],
+        "edition_63_status": "not_present_in_source",
+        "special_performance_60_policy": "excluded_from_series_because_round_number_is_only_a_future-reference"
+      }
+    }
   }
 }

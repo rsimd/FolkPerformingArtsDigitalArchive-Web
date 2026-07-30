@@ -533,6 +533,37 @@ a:focus-visible {
   margin-top: 26px;
 }
 
+.series-links {
+  display: grid;
+  gap: 7px;
+}
+
+.series-links button {
+  display: grid;
+  gap: 3px;
+  padding: 9px 10px;
+  border: 1px solid #b8c8d3;
+  color: #1d5f91;
+  background: #f1f6f8;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+
+.series-links button:disabled {
+  cursor: default;
+  opacity: 0.55;
+}
+
+.series-links button strong {
+  font-size: 10px;
+}
+
+.series-links button span {
+  color: #67635b;
+  font-size: 9px;
+}
+
 .designation-card {
   display: grid;
   gap: 5px;
