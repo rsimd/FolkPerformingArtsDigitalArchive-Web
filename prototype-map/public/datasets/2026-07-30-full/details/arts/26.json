@@ -1,1 +1,150 @@
-{"arts/art_kuni_c2af6e77cc060885":{"title":"青笹のしし踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-01-31","source_title":"国指定文化財等データベース「青笹のしし踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/197"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c2af6e77cc060885","official_name":"青笹のしし踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c2af6e77cc060885"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_25b0b2d6ee8767f3":{"title":"二川歌舞伎芝居「三番叟」","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30366","municipality_name":"有田川町","geographic_scope":"有田川町二川"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1974-12-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_25b0b2d6ee8767f3","official_name":"二川歌舞伎芝居「三番叟」","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30366","municipality_name":"有田川町","geographic_scope":"有田川町二川"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-25b0b2d6ee8767f3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_57917946d8dd2772":{"title":"西尾山八幡神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町北"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1979-03-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_57917946d8dd2772","official_name":"西尾山八幡神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町北"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-57917946d8dd2772"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_c2af6e77cc060885": {
+    "title": "青笹のしし踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「青笹のしし踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/197"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c2af6e77cc060885",
+      "official_name": "青笹のしし踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c2af6e77cc060885"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_25b0b2d6ee8767f3": {
+    "title": "二川歌舞伎芝居「三番叟」",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30366",
+        "municipality_name": "有田川町",
+        "geographic_scope": "有田川町二川"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1974-12-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_25b0b2d6ee8767f3",
+      "official_name": "二川歌舞伎芝居「三番叟」",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30366",
+          "municipality_name": "有田川町",
+          "geographic_scope": "有田川町二川"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-25b0b2d6ee8767f3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_57917946d8dd2772": {
+    "title": "西尾山八幡神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34214",
+        "municipality_name": "安芸高田市",
+        "geographic_scope": "安芸高田市美土里町北"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1979-03-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_57917946d8dd2772",
+      "official_name": "西尾山八幡神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34214",
+          "municipality_name": "安芸高田市",
+          "geographic_scope": "安芸高田市美土里町北"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-57917946d8dd2772"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

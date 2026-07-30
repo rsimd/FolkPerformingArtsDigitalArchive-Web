@@ -1,1 +1,358 @@
-{"arts/art_kuni_210594612d78c8e1":{"title":"小国神社の舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1975-12-08","source_title":"国指定文化財等データベース「小国神社の舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/371"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_210594612d78c8e1","official_name":"小国神社の舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-210594612d78c8e1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_9863fc44293afb39":{"title":"新島の大踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2005-02-21","source_title":"国指定文化財等データベース「新島の大踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000780"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_9863fc44293afb39","official_name":"新島の大踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-9863fc44293afb39"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_a862b442a4e70f32":{"title":"鬼来迎","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「鬼来迎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/278"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_a862b442a4e70f32","official_name":"鬼来迎","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-a862b442a4e70f32"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3dec9db5c0aa1f62":{"title":"日吉神社大神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市八幡町島谷若宮"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1980-07-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3dec9db5c0aa1f62","official_name":"日吉神社大神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市八幡町島谷若宮"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3dec9db5c0aa1f62"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_4e681a4eda177ae8":{"title":"大倉の役人田植踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04101","municipality_name":"仙台市","geographic_scope":"仙台市青葉区大倉"}],"archive_genre_ids":["rice_planting_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"1960-04-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_4e681a4eda177ae8","official_name":"大倉の役人田植踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04101","municipality_name":"仙台市","geographic_scope":"仙台市青葉区大倉"}],"archive_genre_ids":["rice_planting_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-4e681a4eda177ae8"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bba3e0e26cbba8a1":{"title":"那須の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"10","prefecture_name":"群馬県","municipality_code":"10384","municipality_name":"甘楽町","geographic_scope":"甘楽町秋畑那須地区"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"群馬県","date":"2001-03-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bba3e0e26cbba8a1","official_name":"那須の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"10","prefecture_name":"群馬県","municipality_code":"10384","municipality_name":"甘楽町","geographic_scope":"甘楽町秋畑那須地区"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bba3e0e26cbba8a1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bbcc7aef8f700416":{"title":"土師の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40421","municipality_name":"桂川町","geographic_scope":"桂川町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bbcc7aef8f700416","official_name":"土師の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40421","municipality_name":"桂川町","geographic_scope":"桂川町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bbcc7aef8f700416"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_210594612d78c8e1": {
+    "title": "小国神社の舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「小国神社の舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/371"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_210594612d78c8e1",
+      "official_name": "小国神社の舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-210594612d78c8e1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9863fc44293afb39": {
+    "title": "新島の大踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2005-02-21",
+        "source_title": "国指定文化財等データベース「新島の大踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000780"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9863fc44293afb39",
+      "official_name": "新島の大踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9863fc44293afb39"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a862b442a4e70f32": {
+    "title": "鬼来迎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「鬼来迎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/278"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a862b442a4e70f32",
+      "official_name": "鬼来迎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a862b442a4e70f32"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3dec9db5c0aa1f62": {
+    "title": "日吉神社大神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21219",
+        "municipality_name": "郡上市",
+        "geographic_scope": "郡上市八幡町島谷若宮"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1980-07-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3dec9db5c0aa1f62",
+      "official_name": "日吉神社大神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21219",
+          "municipality_name": "郡上市",
+          "geographic_scope": "郡上市八幡町島谷若宮"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3dec9db5c0aa1f62"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4e681a4eda177ae8": {
+    "title": "大倉の役人田植踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "04101",
+        "municipality_name": "仙台市",
+        "geographic_scope": "仙台市青葉区大倉"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1960-04-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4e681a4eda177ae8",
+      "official_name": "大倉の役人田植踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "04101",
+          "municipality_name": "仙台市",
+          "geographic_scope": "仙台市青葉区大倉"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4e681a4eda177ae8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bba3e0e26cbba8a1": {
+    "title": "那須の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "10",
+        "prefecture_name": "群馬県",
+        "municipality_code": "10384",
+        "municipality_name": "甘楽町",
+        "geographic_scope": "甘楽町秋畑那須地区"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "群馬県",
+        "date": "2001-03-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bba3e0e26cbba8a1",
+      "official_name": "那須の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "10",
+          "prefecture_name": "群馬県",
+          "municipality_code": "10384",
+          "municipality_name": "甘楽町",
+          "geographic_scope": "甘楽町秋畑那須地区"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bba3e0e26cbba8a1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bbcc7aef8f700416": {
+    "title": "土師の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40421",
+        "municipality_name": "桂川町",
+        "geographic_scope": "桂川町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bbcc7aef8f700416",
+      "official_name": "土師の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40421",
+          "municipality_name": "桂川町",
+          "geographic_scope": "桂川町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bbcc7aef8f700416"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

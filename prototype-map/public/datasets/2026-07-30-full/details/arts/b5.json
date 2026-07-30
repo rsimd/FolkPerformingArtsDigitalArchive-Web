@@ -1,1 +1,202 @@
-{"arts/art_kuni_68af11106fb766fa":{"title":"河口の稚児の舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2013-03-12","source_title":"国指定文化財等データベース「河口の稚児の舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000915"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_68af11106fb766fa","official_name":"河口の稚児の舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-68af11106fb766fa"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_73806d42e5c220dc":{"title":"シッカク踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32205","municipality_name":"大田市","geographic_scope":"大田市水上町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"島根県","date":"1987-04-03","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_73806d42e5c220dc","official_name":"シッカク踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32205","municipality_name":"大田市","geographic_scope":"大田市水上町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-73806d42e5c220dc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e4018606acc8c961":{"title":"福見川の提婆踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38201","municipality_name":"松山市","geographic_scope":"松山市福見川町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛媛県","date":"2000-04-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e4018606acc8c961","official_name":"福見川の提婆踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38201","municipality_name":"松山市","geographic_scope":"松山市福見川町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e4018606acc8c961"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f0402e5601e6591c":{"title":"塚崎の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8546","municipality_name":"境町","geographic_scope":"境町塚崎2876"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"茨城県","date":"1960-03-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f0402e5601e6591c","official_name":"塚崎の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8546","municipality_name":"境町","geographic_scope":"境町塚崎2876"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f0402e5601e6591c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_68af11106fb766fa": {
+    "title": "河口の稚児の舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "19",
+        "prefecture_name": "山梨県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2013-03-12",
+        "source_title": "国指定文化財等データベース「河口の稚児の舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000915"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_68af11106fb766fa",
+      "official_name": "河口の稚児の舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "19",
+          "prefecture_name": "山梨県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-68af11106fb766fa"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_73806d42e5c220dc": {
+    "title": "シッカク踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32205",
+        "municipality_name": "大田市",
+        "geographic_scope": "大田市水上町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1987-04-03",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_73806d42e5c220dc",
+      "official_name": "シッカク踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32205",
+          "municipality_name": "大田市",
+          "geographic_scope": "大田市水上町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-73806d42e5c220dc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e4018606acc8c961": {
+    "title": "福見川の提婆踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38201",
+        "municipality_name": "松山市",
+        "geographic_scope": "松山市福見川町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "2000-04-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e4018606acc8c961",
+      "official_name": "福見川の提婆踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38201",
+          "municipality_name": "松山市",
+          "geographic_scope": "松山市福見川町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e4018606acc8c961"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f0402e5601e6591c": {
+    "title": "塚崎の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8546",
+        "municipality_name": "境町",
+        "geographic_scope": "境町塚崎2876"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1960-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f0402e5601e6591c",
+      "official_name": "塚崎の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8546",
+          "municipality_name": "境町",
+          "geographic_scope": "境町塚崎2876"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f0402e5601e6591c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

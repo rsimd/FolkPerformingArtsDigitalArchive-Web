@@ -1,1 +1,202 @@
-{"arts/art_local_32706c4d90257bb9":{"title":"薬莱神社三輪流神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4445","municipality_name":"加美町","geographic_scope":"加美町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"1978-05-02","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_32706c4d90257bb9","official_name":"薬莱神社三輪流神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4445","municipality_name":"加美町","geographic_scope":"加美町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-32706c4d90257bb9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_376f800e4fb2c213":{"title":"金木さなぶり荒馬踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2205","municipality_name":"五所川原市","geographic_scope":"五所川原市金木町朝日山"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"1981-09-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_376f800e4fb2c213","official_name":"金木さなぶり荒馬踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2205","municipality_name":"五所川原市","geographic_scope":"五所川原市金木町朝日山"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-376f800e4fb2c213"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3eb71912f4c21588":{"title":"日役町獅子踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市日役町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"2000-03-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3eb71912f4c21588","official_name":"日役町獅子踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市日役町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3eb71912f4c21588"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_431d810878054591":{"title":"球磨地方の臼太鼓踊り（庄屋）","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43514","municipality_name":"あさぎり町","geographic_scope":"あさぎり町庄屋"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1999-11-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_431d810878054591","official_name":"球磨地方の臼太鼓踊り（庄屋）","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43514","municipality_name":"あさぎり町","geographic_scope":"あさぎり町庄屋"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-431d810878054591"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_32706c4d90257bb9": {
+    "title": "薬莱神社三輪流神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "4445",
+        "municipality_name": "加美町",
+        "geographic_scope": "加美町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1978-05-02",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_32706c4d90257bb9",
+      "official_name": "薬莱神社三輪流神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "4445",
+          "municipality_name": "加美町",
+          "geographic_scope": "加美町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-32706c4d90257bb9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_376f800e4fb2c213": {
+    "title": "金木さなぶり荒馬踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2205",
+        "municipality_name": "五所川原市",
+        "geographic_scope": "五所川原市金木町朝日山"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1981-09-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_376f800e4fb2c213",
+      "official_name": "金木さなぶり荒馬踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2205",
+          "municipality_name": "五所川原市",
+          "geographic_scope": "五所川原市金木町朝日山"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-376f800e4fb2c213"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3eb71912f4c21588": {
+    "title": "日役町獅子踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5210",
+        "municipality_name": "由利本荘市",
+        "geographic_scope": "由利本荘市日役町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "2000-03-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3eb71912f4c21588",
+      "official_name": "日役町獅子踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5210",
+          "municipality_name": "由利本荘市",
+          "geographic_scope": "由利本荘市日役町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3eb71912f4c21588"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_431d810878054591": {
+    "title": "球磨地方の臼太鼓踊り（庄屋）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43514",
+        "municipality_name": "あさぎり町",
+        "geographic_scope": "あさぎり町庄屋"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1999-11-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_431d810878054591",
+      "official_name": "球磨地方の臼太鼓踊り（庄屋）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43514",
+          "municipality_name": "あさぎり町",
+          "geographic_scope": "あさぎり町庄屋"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-431d810878054591"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

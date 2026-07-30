@@ -1,1 +1,288 @@
-{"arts/art_kuni_5fc669bd0ac2dbbe":{"title":"八王子車人形","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"132012","municipality_name":"八王子市","geographic_scope":"東京都八王子市下恩方町1566"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2022-03-23","source_title":"国指定文化財等データベース「八王子車人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00001055"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1996-11-28","source_title":"国指定文化財等データベース「八王子車人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/651"},{"type":"都指定無形民俗文化財","jurisdiction":"prefectural","authority":"東京都","date":null,"source_title":"東京都八王子市：文化財一覧「八王子車人形」","source_url":"https://www.city.hachioji.tokyo.jp/contents/open/002/p005877.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_5fc669bd0ac2dbbe","official_name":"八王子車人形","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"132012","municipality_name":"八王子市","geographic_scope":"東京都八王子市下恩方町1566"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-5fc669bd0ac2dbbe"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ecb4e1d96982140a":{"title":"佐伯灯籠","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2009-03-11","source_title":"国指定文化財等データベース「佐伯灯籠」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000865"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ecb4e1d96982140a","official_name":"佐伯灯籠","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ecb4e1d96982140a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0f5d86ecfc29002c":{"title":"杉沢三渡神社の太々神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市杉沢字宮ノ前20番地"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"2003-10-10","source_title":"福島県二本松市：文化財一覧「杉沢三渡神社の太々神楽」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0f5d86ecfc29002c","official_name":"杉沢三渡神社の太々神楽","reading":"スギサワミワタリジンジャノダイダイカグラ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市杉沢字宮ノ前20番地"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0f5d86ecfc29002c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_97a05fc3ecb8722d":{"title":"久能獅子舞","summary":"約300年前から行われていると三匹獅子舞であり","aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"122335","municipality_name":"富里市","geographic_scope":"千葉県富里市久能553-1"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"富里市指定無形民俗文化財","jurisdiction":"municipal","authority":"富里市","date":null,"source_title":"千葉県富里市：文化財一覧「久能獅子舞」","source_url":"https://www.city.tomisato.lg.jp/0000010527.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_97a05fc3ecb8722d","official_name":"久能獅子舞","reading":"クノウシシマイ文化財分類:富里市指定無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"122335","municipality_name":"富里市","geographic_scope":"千葉県富里市久能553-1"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":"約300年前から行われていると三匹獅子舞であり","continuation_status_id":"unknown","wiki_slug":"art-local-97a05fc3ecb8722d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bf092c1bc99e83b5":{"title":"駒形神社神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町中820"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"municipal","authority":"西伊豆町","date":null,"source_title":"静岡県西伊豆町：文化財一覧「駒形神社神楽」","source_url":"https://opendata.pref.shizuoka.jp/dataset/8075.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bf092c1bc99e83b5","official_name":"駒形神社神楽","reading":"コマガタジンジャカグラ文化財分類:重要無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町中820"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bf092c1bc99e83b5"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_5fc669bd0ac2dbbe": {
+    "title": "八王子車人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": "132012",
+        "municipality_name": "八王子市",
+        "geographic_scope": "東京都八王子市下恩方町1566"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2022-03-23",
+        "source_title": "国指定文化財等データベース「八王子車人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001055"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1996-11-28",
+        "source_title": "国指定文化財等データベース「八王子車人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/651"
+      },
+      {
+        "type": "都指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "東京都",
+        "date": null,
+        "source_title": "東京都八王子市：文化財一覧「八王子車人形」",
+        "source_url": "https://www.city.hachioji.tokyo.jp/contents/open/002/p005877.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_5fc669bd0ac2dbbe",
+      "official_name": "八王子車人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": "132012",
+          "municipality_name": "八王子市",
+          "geographic_scope": "東京都八王子市下恩方町1566"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-5fc669bd0ac2dbbe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ecb4e1d96982140a": {
+    "title": "佐伯灯籠",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2009-03-11",
+        "source_title": "国指定文化財等データベース「佐伯灯籠」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000865"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ecb4e1d96982140a",
+      "official_name": "佐伯灯籠",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ecb4e1d96982140a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0f5d86ecfc29002c": {
+    "title": "杉沢三渡神社の太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市杉沢字宮ノ前20番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "2003-10-10",
+        "source_title": "福島県二本松市：文化財一覧「杉沢三渡神社の太々神楽」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0f5d86ecfc29002c",
+      "official_name": "杉沢三渡神社の太々神楽",
+      "reading": "スギサワミワタリジンジャノダイダイカグラ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市杉沢字宮ノ前20番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0f5d86ecfc29002c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_97a05fc3ecb8722d": {
+    "title": "久能獅子舞",
+    "summary": "約300年前から行われていると三匹獅子舞であり",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "122335",
+        "municipality_name": "富里市",
+        "geographic_scope": "千葉県富里市久能553-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "富里市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "富里市",
+        "date": null,
+        "source_title": "千葉県富里市：文化財一覧「久能獅子舞」",
+        "source_url": "https://www.city.tomisato.lg.jp/0000010527.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_97a05fc3ecb8722d",
+      "official_name": "久能獅子舞",
+      "reading": "クノウシシマイ文化財分類:富里市指定無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "122335",
+          "municipality_name": "富里市",
+          "geographic_scope": "千葉県富里市久能553-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": "約300年前から行われていると三匹獅子舞であり",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-97a05fc3ecb8722d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bf092c1bc99e83b5": {
+    "title": "駒形神社神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "223069",
+        "municipality_name": "西伊豆町",
+        "geographic_scope": "静岡県賀茂郡西伊豆町中820"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "西伊豆町",
+        "date": null,
+        "source_title": "静岡県西伊豆町：文化財一覧「駒形神社神楽」",
+        "source_url": "https://opendata.pref.shizuoka.jp/dataset/8075.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bf092c1bc99e83b5",
+      "official_name": "駒形神社神楽",
+      "reading": "コマガタジンジャカグラ文化財分類:重要無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "223069",
+          "municipality_name": "西伊豆町",
+          "geographic_scope": "静岡県賀茂郡西伊豆町中820"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bf092c1bc99e83b5"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

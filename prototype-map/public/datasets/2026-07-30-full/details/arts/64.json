@@ -1,1 +1,254 @@
-{"arts/art_kuni_45095562af5f77e3":{"title":"鳳来寺田楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["dengaku_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1974-12-04","source_title":"国指定文化財等データベース「鳳来寺田楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/387"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_45095562af5f77e3","official_name":"鳳来寺田楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["dengaku_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-45095562af5f77e3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0397ce0a34271592":{"title":"原瀬の長獅子","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市原セ諏訪232番地"}],"archive_genre_ids":[],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"1976-07-21","source_title":"福島県二本松市：文化財一覧「原瀬の長獅子」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0397ce0a34271592","official_name":"原瀬の長獅子","reading":"ハラセノナガシシ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市原セ諏訪232番地"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0397ce0a34271592"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_219bd14cd3053e0a":{"title":"名之内の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30391","municipality_name":"みなべ町","geographic_scope":"みなべ町清川名之内"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1976-03-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_219bd14cd3053e0a","official_name":"名之内の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30391","municipality_name":"みなべ町","geographic_scope":"みなべ町清川名之内"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-219bd14cd3053e0a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_77e34efa79b240b7":{"title":"広船獅子（熊）踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市広船"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"1981-06-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_77e34efa79b240b7","official_name":"広船獅子（熊）踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市広船"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-77e34efa79b240b7"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_fdc1a04d11a2b405":{"title":"菅野の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26463","municipality_name":"伊根町","geographic_scope":"伊根町字菅野"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"京都府","date":"1985-05-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_fdc1a04d11a2b405","official_name":"菅野の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26463","municipality_name":"伊根町","geographic_scope":"伊根町字菅野"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-fdc1a04d11a2b405"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_45095562af5f77e3": {
+    "title": "鳳来寺田楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「鳳来寺田楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/387"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_45095562af5f77e3",
+      "official_name": "鳳来寺田楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-45095562af5f77e3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0397ce0a34271592": {
+    "title": "原瀬の長獅子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市原セ諏訪232番地"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1976-07-21",
+        "source_title": "福島県二本松市：文化財一覧「原瀬の長獅子」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0397ce0a34271592",
+      "official_name": "原瀬の長獅子",
+      "reading": "ハラセノナガシシ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市原セ諏訪232番地"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0397ce0a34271592"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_219bd14cd3053e0a": {
+    "title": "名之内の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30391",
+        "municipality_name": "みなべ町",
+        "geographic_scope": "みなべ町清川名之内"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1976-03-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_219bd14cd3053e0a",
+      "official_name": "名之内の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30391",
+          "municipality_name": "みなべ町",
+          "geographic_scope": "みなべ町清川名之内"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-219bd14cd3053e0a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_77e34efa79b240b7": {
+    "title": "広船獅子（熊）踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2210",
+        "municipality_name": "平川市",
+        "geographic_scope": "平川市広船"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1981-06-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_77e34efa79b240b7",
+      "official_name": "広船獅子（熊）踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2210",
+          "municipality_name": "平川市",
+          "geographic_scope": "平川市広船"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-77e34efa79b240b7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fdc1a04d11a2b405": {
+    "title": "菅野の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26463",
+        "municipality_name": "伊根町",
+        "geographic_scope": "伊根町字菅野"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1985-05-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fdc1a04d11a2b405",
+      "official_name": "菅野の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26463",
+          "municipality_name": "伊根町",
+          "geographic_scope": "伊根町字菅野"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fdc1a04d11a2b405"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

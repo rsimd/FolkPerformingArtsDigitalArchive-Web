@@ -1,1 +1,428 @@
-{"arts/art_kuni_686d49dbb25ee4d3":{"title":"小倉祇園祭の小倉祇園太鼓","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":"福岡県北九州市"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2019-03-28","source_title":"国指定文化財等データベース「小倉祇園祭の小倉祇園太鼓」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000975"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_686d49dbb25ee4d3","official_name":"小倉祇園祭の小倉祇園太鼓","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":"福岡県北九州市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-686d49dbb25ee4d3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c9b4641a8a8ce42a":{"title":"弥彦神社の舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「弥彦神社の舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/307"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c9b4641a8a8ce42a","official_name":"弥彦神社の舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c9b4641a8a8ce42a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3698aaa938ab4067":{"title":"人形三番叟","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町宇久須302"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22306","municipality_name":"西伊豆町","geographic_scope":"西伊豆町"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1969-05-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"},{"type":"重要無形民俗文化財","jurisdiction":"municipal","authority":"西伊豆町","date":null,"source_title":"静岡県西伊豆町：文化財一覧「人形三番叟」","source_url":"https://opendata.pref.shizuoka.jp/dataset/8075.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3698aaa938ab4067","official_name":"人形三番叟","reading":"ニンギョウサンバソウ文化財分類:重要無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町宇久須302"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22306","municipality_name":"西伊豆町","geographic_scope":"西伊豆町"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3698aaa938ab4067"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_75a01539fb546bd3":{"title":"人吉田野の錫杖踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43203","municipality_name":"人吉市","geographic_scope":"人吉市田野町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1961-06-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_75a01539fb546bd3","official_name":"人吉田野の錫杖踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43203","municipality_name":"人吉市","geographic_scope":"人吉市田野町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-75a01539fb546bd3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_87d26d796c690448":{"title":"鷺宮囃子","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"131148","municipality_name":"中野区","geographic_scope":"東京都中野区白鷺1-31-5"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"中野区登録無形民俗文化財","jurisdiction":"municipal","authority":"中野区","date":null,"source_title":"東京都中野区：文化財一覧「鷺宮囃子」","source_url":"https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_87d26d796c690448","official_name":"鷺宮囃子","reading":"サギノミヤバヤシ文化財分類:中野区登録無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"131148","municipality_name":"中野区","geographic_scope":"東京都中野区白鷺1-31-5"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-87d26d796c690448"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9421d399edabd065":{"title":"鶴峯八幡の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12219","municipality_name":"原市","geographic_scope":"市原市中高根"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1964-04-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9421d399edabd065","official_name":"鶴峯八幡の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12219","municipality_name":"原市","geographic_scope":"市原市中高根"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9421d399edabd065"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_dd4767090921a44e":{"title":"表佐太鼓踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21361","municipality_name":"垂井町","geographic_scope":"垂井町表佐"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1958-07-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_dd4767090921a44e","official_name":"表佐太鼓踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21361","municipality_name":"垂井町","geographic_scope":"垂井町表佐"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-dd4767090921a44e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e75afda60b7f3d33":{"title":"加茂の花踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12234","municipality_name":"南房総市","geographic_scope":"南房総市加茂"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1963-05-04","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e75afda60b7f3d33","official_name":"加茂の花踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12234","municipality_name":"南房総市","geographic_scope":"南房総市加茂"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e75afda60b7f3d33"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_686d49dbb25ee4d3": {
+    "title": "小倉祇園祭の小倉祇園太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "福岡県北九州市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2019-03-28",
+        "source_title": "国指定文化財等データベース「小倉祇園祭の小倉祇園太鼓」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000975"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_686d49dbb25ee4d3",
+      "official_name": "小倉祇園祭の小倉祇園太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "福岡県北九州市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-686d49dbb25ee4d3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c9b4641a8a8ce42a": {
+    "title": "弥彦神社の舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「弥彦神社の舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/307"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c9b4641a8a8ce42a",
+      "official_name": "弥彦神社の舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c9b4641a8a8ce42a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3698aaa938ab4067": {
+    "title": "人形三番叟",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "223069",
+        "municipality_name": "西伊豆町",
+        "geographic_scope": "静岡県賀茂郡西伊豆町宇久須302"
+      },
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22306",
+        "municipality_name": "西伊豆町",
+        "geographic_scope": "西伊豆町"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1969-05-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "西伊豆町",
+        "date": null,
+        "source_title": "静岡県西伊豆町：文化財一覧「人形三番叟」",
+        "source_url": "https://opendata.pref.shizuoka.jp/dataset/8075.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3698aaa938ab4067",
+      "official_name": "人形三番叟",
+      "reading": "ニンギョウサンバソウ文化財分類:重要無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "223069",
+          "municipality_name": "西伊豆町",
+          "geographic_scope": "静岡県賀茂郡西伊豆町宇久須302"
+        },
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22306",
+          "municipality_name": "西伊豆町",
+          "geographic_scope": "西伊豆町"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3698aaa938ab4067"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_75a01539fb546bd3": {
+    "title": "人吉田野の錫杖踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43203",
+        "municipality_name": "人吉市",
+        "geographic_scope": "人吉市田野町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1961-06-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_75a01539fb546bd3",
+      "official_name": "人吉田野の錫杖踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43203",
+          "municipality_name": "人吉市",
+          "geographic_scope": "人吉市田野町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-75a01539fb546bd3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_87d26d796c690448": {
+    "title": "鷺宮囃子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": "131148",
+        "municipality_name": "中野区",
+        "geographic_scope": "東京都中野区白鷺1-31-5"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "中野区登録無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "中野区",
+        "date": null,
+        "source_title": "東京都中野区：文化財一覧「鷺宮囃子」",
+        "source_url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_87d26d796c690448",
+      "official_name": "鷺宮囃子",
+      "reading": "サギノミヤバヤシ文化財分類:中野区登録無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": "131148",
+          "municipality_name": "中野区",
+          "geographic_scope": "東京都中野区白鷺1-31-5"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-87d26d796c690448"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9421d399edabd065": {
+    "title": "鶴峯八幡の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12219",
+        "municipality_name": "原市",
+        "geographic_scope": "市原市中高根"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1964-04-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9421d399edabd065",
+      "official_name": "鶴峯八幡の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12219",
+          "municipality_name": "原市",
+          "geographic_scope": "市原市中高根"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9421d399edabd065"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_dd4767090921a44e": {
+    "title": "表佐太鼓踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21361",
+        "municipality_name": "垂井町",
+        "geographic_scope": "垂井町表佐"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1958-07-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_dd4767090921a44e",
+      "official_name": "表佐太鼓踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21361",
+          "municipality_name": "垂井町",
+          "geographic_scope": "垂井町表佐"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-dd4767090921a44e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e75afda60b7f3d33": {
+    "title": "加茂の花踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12234",
+        "municipality_name": "南房総市",
+        "geographic_scope": "南房総市加茂"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1963-05-04",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e75afda60b7f3d33",
+      "official_name": "加茂の花踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12234",
+          "municipality_name": "南房総市",
+          "geographic_scope": "南房総市加茂"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e75afda60b7f3d33"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

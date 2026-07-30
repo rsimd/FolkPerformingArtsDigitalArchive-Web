@@ -1,1 +1,342 @@
-{"arts/art_kuni_ca74da374345f665":{"title":"白鳥の虎頭の舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2006-03-15","source_title":"国指定文化財等データベース「白鳥の虎頭の舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000836"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ca74da374345f665","official_name":"白鳥の虎頭の舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ca74da374345f665"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_d7bd20f8c561b111":{"title":"武雄の荒踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「武雄の荒踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/137"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_d7bd20f8c561b111","official_name":"武雄の荒踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-d7bd20f8c561b111"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0ab28847ff33d945":{"title":"舟木の踊子","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26212","municipality_name":"京丹後市","geographic_scope":"京丹後市弥栄町字舟木"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"京都府","date":"1984-04-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0ab28847ff33d945","official_name":"舟木の踊子","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26212","municipality_name":"京丹後市","geographic_scope":"京丹後市弥栄町字舟木"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0ab28847ff33d945"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_1d29bf28d82f012a":{"title":"一朝軒伝法竹","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40132","municipality_name":"福岡市","geographic_scope":"福岡市博多区"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1966-10-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_1d29bf28d82f012a","official_name":"一朝軒伝法竹","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40132","municipality_name":"福岡市","geographic_scope":"福岡市博多区"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-1d29bf28d82f012a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6a07322427bbf5d5":{"title":"野口鹿踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04104","municipality_name":"仙台市","geographic_scope":"仙台市太白区秋保町馬場"}],"archive_genre_ids":["deer_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"1972-10-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6a07322427bbf5d5","official_name":"野口鹿踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04104","municipality_name":"仙台市","geographic_scope":"仙台市太白区秋保町馬場"}],"archive_genre_ids":["deer_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6a07322427bbf5d5"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c65cfa169b9b893c":{"title":"土佐の太刀踊（川奥ノ花取踊）","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39412","municipality_name":"四万十町","geographic_scope":"四万十町米奥甲1314"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1965-06-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c65cfa169b9b893c","official_name":"土佐の太刀踊（川奥ノ花取踊）","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39412","municipality_name":"四万十町","geographic_scope":"四万十町米奥甲1314"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c65cfa169b9b893c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e5a3f76b2e3777e8":{"title":"茂木町山内上組の百堂念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9343","municipality_name":"茂木町","geographic_scope":"茂木町山内"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"栃木県","date":"1985-10-08","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e5a3f76b2e3777e8","official_name":"茂木町山内上組の百堂念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9343","municipality_name":"茂木町","geographic_scope":"茂木町山内"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e5a3f76b2e3777e8"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_ca74da374345f665": {
+    "title": "白鳥の虎頭の舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2006-03-15",
+        "source_title": "国指定文化財等データベース「白鳥の虎頭の舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000836"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ca74da374345f665",
+      "official_name": "白鳥の虎頭の舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ca74da374345f665"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_d7bd20f8c561b111": {
+    "title": "武雄の荒踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「武雄の荒踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/137"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d7bd20f8c561b111",
+      "official_name": "武雄の荒踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d7bd20f8c561b111"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0ab28847ff33d945": {
+    "title": "舟木の踊子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26212",
+        "municipality_name": "京丹後市",
+        "geographic_scope": "京丹後市弥栄町字舟木"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1984-04-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0ab28847ff33d945",
+      "official_name": "舟木の踊子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26212",
+          "municipality_name": "京丹後市",
+          "geographic_scope": "京丹後市弥栄町字舟木"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0ab28847ff33d945"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1d29bf28d82f012a": {
+    "title": "一朝軒伝法竹",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40132",
+        "municipality_name": "福岡市",
+        "geographic_scope": "福岡市博多区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1966-10-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1d29bf28d82f012a",
+      "official_name": "一朝軒伝法竹",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40132",
+          "municipality_name": "福岡市",
+          "geographic_scope": "福岡市博多区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1d29bf28d82f012a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6a07322427bbf5d5": {
+    "title": "野口鹿踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "04104",
+        "municipality_name": "仙台市",
+        "geographic_scope": "仙台市太白区秋保町馬場"
+      }
+    ],
+    "archive_genre_ids": [
+      "deer_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1972-10-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6a07322427bbf5d5",
+      "official_name": "野口鹿踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "04104",
+          "municipality_name": "仙台市",
+          "geographic_scope": "仙台市太白区秋保町馬場"
+        }
+      ],
+      "archive_genre_ids": [
+        "deer_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6a07322427bbf5d5"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c65cfa169b9b893c": {
+    "title": "土佐の太刀踊（川奥ノ花取踊）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39412",
+        "municipality_name": "四万十町",
+        "geographic_scope": "四万十町米奥甲1314"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1965-06-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c65cfa169b9b893c",
+      "official_name": "土佐の太刀踊（川奥ノ花取踊）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39412",
+          "municipality_name": "四万十町",
+          "geographic_scope": "四万十町米奥甲1314"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c65cfa169b9b893c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e5a3f76b2e3777e8": {
+    "title": "茂木町山内上組の百堂念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "09",
+        "prefecture_name": "栃木県",
+        "municipality_code": "9343",
+        "municipality_name": "茂木町",
+        "geographic_scope": "茂木町山内"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "栃木県",
+        "date": "1985-10-08",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e5a3f76b2e3777e8",
+      "official_name": "茂木町山内上組の百堂念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "09",
+          "prefecture_name": "栃木県",
+          "municipality_code": "9343",
+          "municipality_name": "茂木町",
+          "geographic_scope": "茂木町山内"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e5a3f76b2e3777e8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

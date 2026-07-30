@@ -1,1 +1,510 @@
-{"arts/art_kuni_2e26f5a5dbc82794":{"title":"尻高人形","summary":null,"aliases":[],"locations":[{"prefecture_code":"10","prefecture_name":"群馬県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-01-31","source_title":"国指定文化財等データベース「尻高人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/268"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_2e26f5a5dbc82794","official_name":"尻高人形","reading":null,"aliases":[],"locations":[{"prefecture_code":"10","prefecture_name":"群馬県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-2e26f5a5dbc82794"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_40a4601ffb11be04":{"title":"遠江森町の舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1982-01-14","source_title":"国指定文化財等データベース「遠江森町の舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/81"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_40a4601ffb11be04","official_name":"遠江森町の舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-40a4601ffb11be04"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_f1b892f8e4c941c2":{"title":"比婆荒神神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1979-02-03","source_title":"国指定文化財等データベース「比婆荒神神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/122"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_f1b892f8e4c941c2","official_name":"比婆荒神神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-f1b892f8e4c941c2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_fcd8294113abf915":{"title":"草津のサンヤレ踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1993-11-26","source_title":"国指定文化財等データベース「草津のサンヤレ踊り」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/414"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_fcd8294113abf915","official_name":"草津のサンヤレ踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-fcd8294113abf915"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_1aadb44e3e3843d9":{"title":"鐘崎盆踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40220","municipality_name":"宗像市","geographic_scope":"宗像市"}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1991-11-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_1aadb44e3e3843d9","official_name":"鐘崎盆踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40220","municipality_name":"宗像市","geographic_scope":"宗像市"}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-1aadb44e3e3843d9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5767aa1eb05c0f21":{"title":"かんこ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市松ヶ島町新出"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市猟師町"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市小阿坂町"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市松崎浦町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"三重県","date":"1973-03-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5767aa1eb05c0f21","official_name":"かんこ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市松ヶ島町新出"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市猟師町"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市小阿坂町"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24204","municipality_name":"松阪市","geographic_scope":"松阪市松崎浦町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5767aa1eb05c0f21"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bd446ae71ab3eb5d":{"title":"八日市場の盆踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市砂原"},{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市米倉"}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1974-03-19","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bd446ae71ab3eb5d","official_name":"八日市場の盆踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市砂原"},{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市米倉"}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bd446ae71ab3eb5d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e7e2328ba255ccdf":{"title":"井崎まっこみ浮立","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42204","municipality_name":"諫早市","geographic_scope":"諫早市小長井町井崎"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長崎県","date":"1977-05-04","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e7e2328ba255ccdf","official_name":"井崎まっこみ浮立","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42204","municipality_name":"諫早市","geographic_scope":"諫早市小長井町井崎"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e7e2328ba255ccdf"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f9fde34c519cdafa":{"title":"長命講伊勢踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38204","municipality_name":"八幡浜市","geographic_scope":"八幡浜市穴井"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛媛県","date":"1977-01-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f9fde34c519cdafa","official_name":"長命講伊勢踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38204","municipality_name":"八幡浜市","geographic_scope":"八幡浜市穴井"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f9fde34c519cdafa"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_2e26f5a5dbc82794": {
+    "title": "尻高人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "10",
+        "prefecture_name": "群馬県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「尻高人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/268"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2e26f5a5dbc82794",
+      "official_name": "尻高人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "10",
+          "prefecture_name": "群馬県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2e26f5a5dbc82794"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_40a4601ffb11be04": {
+    "title": "遠江森町の舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1982-01-14",
+        "source_title": "国指定文化財等データベース「遠江森町の舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/81"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_40a4601ffb11be04",
+      "official_name": "遠江森町の舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-40a4601ffb11be04"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f1b892f8e4c941c2": {
+    "title": "比婆荒神神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1979-02-03",
+        "source_title": "国指定文化財等データベース「比婆荒神神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/122"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f1b892f8e4c941c2",
+      "official_name": "比婆荒神神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f1b892f8e4c941c2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_fcd8294113abf915": {
+    "title": "草津のサンヤレ踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "25",
+        "prefecture_name": "滋賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1993-11-26",
+        "source_title": "国指定文化財等データベース「草津のサンヤレ踊り」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/414"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_fcd8294113abf915",
+      "official_name": "草津のサンヤレ踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "25",
+          "prefecture_name": "滋賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-fcd8294113abf915"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1aadb44e3e3843d9": {
+    "title": "鐘崎盆踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40220",
+        "municipality_name": "宗像市",
+        "geographic_scope": "宗像市"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1991-11-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1aadb44e3e3843d9",
+      "official_name": "鐘崎盆踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40220",
+          "municipality_name": "宗像市",
+          "geographic_scope": "宗像市"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1aadb44e3e3843d9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5767aa1eb05c0f21": {
+    "title": "かんこ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24204",
+        "municipality_name": "松阪市",
+        "geographic_scope": "松阪市松ヶ島町新出"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24204",
+        "municipality_name": "松阪市",
+        "geographic_scope": "松阪市猟師町"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24204",
+        "municipality_name": "松阪市",
+        "geographic_scope": "松阪市小阿坂町"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24204",
+        "municipality_name": "松阪市",
+        "geographic_scope": "松阪市松崎浦町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1973-03-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5767aa1eb05c0f21",
+      "official_name": "かんこ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24204",
+          "municipality_name": "松阪市",
+          "geographic_scope": "松阪市松ヶ島町新出"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24204",
+          "municipality_name": "松阪市",
+          "geographic_scope": "松阪市猟師町"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24204",
+          "municipality_name": "松阪市",
+          "geographic_scope": "松阪市小阿坂町"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24204",
+          "municipality_name": "松阪市",
+          "geographic_scope": "松阪市松崎浦町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5767aa1eb05c0f21"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bd446ae71ab3eb5d": {
+    "title": "八日市場の盆踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12235",
+        "municipality_name": "匝瑳市",
+        "geographic_scope": "匝瑳市砂原"
+      },
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12235",
+        "municipality_name": "匝瑳市",
+        "geographic_scope": "匝瑳市米倉"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1974-03-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bd446ae71ab3eb5d",
+      "official_name": "八日市場の盆踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12235",
+          "municipality_name": "匝瑳市",
+          "geographic_scope": "匝瑳市砂原"
+        },
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12235",
+          "municipality_name": "匝瑳市",
+          "geographic_scope": "匝瑳市米倉"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bd446ae71ab3eb5d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e7e2328ba255ccdf": {
+    "title": "井崎まっこみ浮立",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42204",
+        "municipality_name": "諫早市",
+        "geographic_scope": "諫早市小長井町井崎"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1977-05-04",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e7e2328ba255ccdf",
+      "official_name": "井崎まっこみ浮立",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42204",
+          "municipality_name": "諫早市",
+          "geographic_scope": "諫早市小長井町井崎"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e7e2328ba255ccdf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f9fde34c519cdafa": {
+    "title": "長命講伊勢踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38204",
+        "municipality_name": "八幡浜市",
+        "geographic_scope": "八幡浜市穴井"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f9fde34c519cdafa",
+      "official_name": "長命講伊勢踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38204",
+          "municipality_name": "八幡浜市",
+          "geographic_scope": "八幡浜市穴井"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f9fde34c519cdafa"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

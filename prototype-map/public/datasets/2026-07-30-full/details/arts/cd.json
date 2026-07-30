@@ -1,1 +1,154 @@
-{"arts/art_kuni_7202b0bf601fb581":{"title":"安乗人形芝居","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-01-31","source_title":"国指定文化財等データベース「安乗人形芝居」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/403"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_7202b0bf601fb581","official_name":"安乗人形芝居","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-7202b0bf601fb581"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5bdaf47ac8003232":{"title":"滝沢八坂神社の田遊","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22214","municipality_name":"藤枝市","geographic_scope":"藤枝市"}],"archive_genre_ids":["rice_planting_ritual"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1974-04-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5bdaf47ac8003232","official_name":"滝沢八坂神社の田遊","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22214","municipality_name":"藤枝市","geographic_scope":"藤枝市"}],"archive_genre_ids":["rice_planting_ritual"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5bdaf47ac8003232"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a5093b9cde5a67ab":{"title":"栖岸寺の双盤念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市湖山町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1963-03-05","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a5093b9cde5a67ab","official_name":"栖岸寺の双盤念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市湖山町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a5093b9cde5a67ab"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_7202b0bf601fb581": {
+    "title": "安乗人形芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「安乗人形芝居」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/403"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_7202b0bf601fb581",
+      "official_name": "安乗人形芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-7202b0bf601fb581"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5bdaf47ac8003232": {
+    "title": "滝沢八坂神社の田遊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22214",
+        "municipality_name": "藤枝市",
+        "geographic_scope": "藤枝市"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1974-04-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5bdaf47ac8003232",
+      "official_name": "滝沢八坂神社の田遊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22214",
+          "municipality_name": "藤枝市",
+          "geographic_scope": "藤枝市"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5bdaf47ac8003232"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a5093b9cde5a67ab": {
+    "title": "栖岸寺の双盤念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31201",
+        "municipality_name": "鳥取市",
+        "geographic_scope": "鳥取市湖山町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1963-03-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a5093b9cde5a67ab",
+      "official_name": "栖岸寺の双盤念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31201",
+          "municipality_name": "鳥取市",
+          "geographic_scope": "鳥取市湖山町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a5093b9cde5a67ab"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

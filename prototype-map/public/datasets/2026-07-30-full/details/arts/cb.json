@@ -1,1 +1,328 @@
-{"arts/art_kuni_3f6168bde34af4dc":{"title":"下伊那のかけ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1999-12-03","source_title":"国指定文化財等データベース「下伊那のかけ踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/725"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_3f6168bde34af4dc","official_name":"下伊那のかけ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-3f6168bde34af4dc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_50d226d22187aee3":{"title":"上方寄席下座音楽","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1962-03-30","source_title":"国指定文化財等データベース「上方寄席下座音楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/185"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_50d226d22187aee3","official_name":"上方寄席下座音楽","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-50d226d22187aee3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_abf6d3c93d02d0e2":{"title":"安久津延年","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6381","municipality_name":"高畠町","geographic_scope":"高畠町大字安久津2011"}],"archive_genre_ids":["ennen"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1993-11-26","source_title":"国指定文化財等データベース「安久津延年」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/234"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"2005-03-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_abf6d3c93d02d0e2","official_name":"安久津延年","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6381","municipality_name":"高畠町","geographic_scope":"高畠町大字安久津2011"}],"archive_genre_ids":["ennen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-abf6d3c93d02d0e2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ac7011bf55721259":{"title":"永井の大念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「永井の大念仏」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/192"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ac7011bf55721259","official_name":"永井の大念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ac7011bf55721259"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c233e27501ad5fb9":{"title":"玉敷神社神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2008-03-13","source_title":"国指定文化財等データベース「玉敷神社神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000850"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1974-12-04","source_title":"国指定文化財等データベース「玉敷神社神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/276"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c233e27501ad5fb9","official_name":"玉敷神社神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c233e27501ad5fb9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f8e3a75a6e27c3d2":{"title":"竹崎鬼祭の童子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41441","municipality_name":"太良町","geographic_scope":"太良町大字大浦"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"佐賀県","date":"1968-04-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f8e3a75a6e27c3d2","official_name":"竹崎鬼祭の童子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41441","municipality_name":"太良町","geographic_scope":"太良町大字大浦"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f8e3a75a6e27c3d2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_3f6168bde34af4dc": {
+    "title": "下伊那のかけ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1999-12-03",
+        "source_title": "国指定文化財等データベース「下伊那のかけ踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/725"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3f6168bde34af4dc",
+      "official_name": "下伊那のかけ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3f6168bde34af4dc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_50d226d22187aee3": {
+    "title": "上方寄席下座音楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1962-03-30",
+        "source_title": "国指定文化財等データベース「上方寄席下座音楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/185"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_50d226d22187aee3",
+      "official_name": "上方寄席下座音楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-50d226d22187aee3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_abf6d3c93d02d0e2": {
+    "title": "安久津延年",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6381",
+        "municipality_name": "高畠町",
+        "geographic_scope": "高畠町大字安久津2011"
+      }
+    ],
+    "archive_genre_ids": [
+      "ennen"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1993-11-26",
+        "source_title": "国指定文化財等データベース「安久津延年」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/234"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "2005-03-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_abf6d3c93d02d0e2",
+      "official_name": "安久津延年",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6381",
+          "municipality_name": "高畠町",
+          "geographic_scope": "高畠町大字安久津2011"
+        }
+      ],
+      "archive_genre_ids": [
+        "ennen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-abf6d3c93d02d0e2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ac7011bf55721259": {
+    "title": "永井の大念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「永井の大念仏」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/192"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ac7011bf55721259",
+      "official_name": "永井の大念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ac7011bf55721259"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c233e27501ad5fb9": {
+    "title": "玉敷神社神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2008-03-13",
+        "source_title": "国指定文化財等データベース「玉敷神社神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000850"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「玉敷神社神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/276"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c233e27501ad5fb9",
+      "official_name": "玉敷神社神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c233e27501ad5fb9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f8e3a75a6e27c3d2": {
+    "title": "竹崎鬼祭の童子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "41441",
+        "municipality_name": "太良町",
+        "geographic_scope": "太良町大字大浦"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "佐賀県",
+        "date": "1968-04-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f8e3a75a6e27c3d2",
+      "official_name": "竹崎鬼祭の童子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "41441",
+          "municipality_name": "太良町",
+          "geographic_scope": "太良町大字大浦"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f8e3a75a6e27c3d2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

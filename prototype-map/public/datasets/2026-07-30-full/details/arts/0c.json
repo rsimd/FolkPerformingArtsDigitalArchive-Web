@@ -1,1 +1,210 @@
-{"arts/art_kuni_3f7d74fa0ed893f2":{"title":"松前神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"01","prefecture_name":"北海道","municipality_code":null,"municipality_name":null,"geographic_scope":"北海道函館市，小樽市，北斗(ほくと)市(し)，松前町(まつまえちょう)，福島町(ふくしまちょう)，知内(しりうち)町(ちょう)，木古内町(きこないちょう)，七飯町(ななえちょう)，鹿部町(しかべちょう)，森町(もりまち)，八雲町(やくもちょう)，長万部町(おしゃまんべちょう)，今金町(いまかねちょう)，せたな町(ちょう)，島牧村(しままきむら)，寿都町(すっつちょう)，黒松内町(くろまつないちょう)，蘭越町(らんこしちょう)，喜茂別町(きもべつちょう)，京極町(きょうごくちょう)，倶知安町(くっちゃんちょう)，共和町(きょうわちょう)，岩内町(いわないちょう)，泊村(とまりむら)，神恵内村(かもえないむら)，仁木町(にきちょう)，小平町(おびらちょう)"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2018-03-08","source_title":"国指定文化財等データベース「松前神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000973"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_3f7d74fa0ed893f2","official_name":"松前神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"01","prefecture_name":"北海道","municipality_code":null,"municipality_name":null,"geographic_scope":"北海道函館市，小樽市，北斗(ほくと)市(し)，松前町(まつまえちょう)，福島町(ふくしまちょう)，知内(しりうち)町(ちょう)，木古内町(きこないちょう)，七飯町(ななえちょう)，鹿部町(しかべちょう)，森町(もりまち)，八雲町(やくもちょう)，長万部町(おしゃまんべちょう)，今金町(いまかねちょう)，せたな町(ちょう)，島牧村(しままきむら)，寿都町(すっつちょう)，黒松内町(くろまつないちょう)，蘭越町(らんこしちょう)，喜茂別町(きもべつちょう)，京極町(きょうごくちょう)，倶知安町(くっちゃんちょう)，共和町(きょうわちょう)，岩内町(いわないちょう)，泊村(とまりむら)，神恵内村(かもえないむら)，仁木町(にきちょう)，小平町(おびらちょう)"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-3f7d74fa0ed893f2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9bbd820589880b58":{"title":"藤白の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30202","municipality_name":"海南市","geographic_scope":"海南市藤白"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1966-04-12","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9bbd820589880b58","official_name":"藤白の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30202","municipality_name":"海南市","geographic_scope":"海南市藤白"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9bbd820589880b58"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d26ec898b4afc038":{"title":"渡戸の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7204","municipality_name":"いわき市","geographic_scope":"いわき市三和町渡戸字宿"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"2001-03-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d26ec898b4afc038","official_name":"渡戸の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7204","municipality_name":"いわき市","geographic_scope":"いわき市三和町渡戸字宿"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d26ec898b4afc038"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ff624eb4ed56aea1":{"title":"伊集院町徳重大バラ太鼓踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46216","municipality_name":"日置市","geographic_scope":"日置市伊集院町徳重1787"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1993-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ff624eb4ed56aea1","official_name":"伊集院町徳重大バラ太鼓踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46216","municipality_name":"日置市","geographic_scope":"日置市伊集院町徳重1787"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ff624eb4ed56aea1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_3f7d74fa0ed893f2": {
+    "title": "松前神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "01",
+        "prefecture_name": "北海道",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "北海道函館市，小樽市，北斗(ほくと)市(し)，松前町(まつまえちょう)，福島町(ふくしまちょう)，知内(しりうち)町(ちょう)，木古内町(きこないちょう)，七飯町(ななえちょう)，鹿部町(しかべちょう)，森町(もりまち)，八雲町(やくもちょう)，長万部町(おしゃまんべちょう)，今金町(いまかねちょう)，せたな町(ちょう)，島牧村(しままきむら)，寿都町(すっつちょう)，黒松内町(くろまつないちょう)，蘭越町(らんこしちょう)，喜茂別町(きもべつちょう)，京極町(きょうごくちょう)，倶知安町(くっちゃんちょう)，共和町(きょうわちょう)，岩内町(いわないちょう)，泊村(とまりむら)，神恵内村(かもえないむら)，仁木町(にきちょう)，小平町(おびらちょう)"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2018-03-08",
+        "source_title": "国指定文化財等データベース「松前神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000973"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3f7d74fa0ed893f2",
+      "official_name": "松前神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "01",
+          "prefecture_name": "北海道",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "北海道函館市，小樽市，北斗(ほくと)市(し)，松前町(まつまえちょう)，福島町(ふくしまちょう)，知内(しりうち)町(ちょう)，木古内町(きこないちょう)，七飯町(ななえちょう)，鹿部町(しかべちょう)，森町(もりまち)，八雲町(やくもちょう)，長万部町(おしゃまんべちょう)，今金町(いまかねちょう)，せたな町(ちょう)，島牧村(しままきむら)，寿都町(すっつちょう)，黒松内町(くろまつないちょう)，蘭越町(らんこしちょう)，喜茂別町(きもべつちょう)，京極町(きょうごくちょう)，倶知安町(くっちゃんちょう)，共和町(きょうわちょう)，岩内町(いわないちょう)，泊村(とまりむら)，神恵内村(かもえないむら)，仁木町(にきちょう)，小平町(おびらちょう)"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3f7d74fa0ed893f2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9bbd820589880b58": {
+    "title": "藤白の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30202",
+        "municipality_name": "海南市",
+        "geographic_scope": "海南市藤白"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1966-04-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9bbd820589880b58",
+      "official_name": "藤白の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30202",
+          "municipality_name": "海南市",
+          "geographic_scope": "海南市藤白"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9bbd820589880b58"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d26ec898b4afc038": {
+    "title": "渡戸の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7204",
+        "municipality_name": "いわき市",
+        "geographic_scope": "いわき市三和町渡戸字宿"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "2001-03-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d26ec898b4afc038",
+      "official_name": "渡戸の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7204",
+          "municipality_name": "いわき市",
+          "geographic_scope": "いわき市三和町渡戸字宿"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d26ec898b4afc038"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ff624eb4ed56aea1": {
+    "title": "伊集院町徳重大バラ太鼓踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46216",
+        "municipality_name": "日置市",
+        "geographic_scope": "日置市伊集院町徳重1787"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1993-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ff624eb4ed56aea1",
+      "official_name": "伊集院町徳重大バラ太鼓踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46216",
+          "municipality_name": "日置市",
+          "geographic_scope": "日置市伊集院町徳重1787"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ff624eb4ed56aea1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

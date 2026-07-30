@@ -1,1 +1,354 @@
-{"arts/art_kuni_2839cdcbaad4cb0e":{"title":"土佐の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1980-01-28","source_title":"国指定文化財等データベース「土佐の神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/130"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_2839cdcbaad4cb0e","official_name":"土佐の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-2839cdcbaad4cb0e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_2c25a7b3255b148f":{"title":"吉原の岩戸神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1976-12-25","source_title":"国指定文化財等データベース「吉原の岩戸神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/568"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_2c25a7b3255b148f","official_name":"吉原の岩戸神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-2c25a7b3255b148f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ef6e41701f212a06":{"title":"勝手神社の神事踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「勝手神社の神事踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/400"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ef6e41701f212a06","official_name":"勝手神社の神事踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ef6e41701f212a06"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5186e5e0b229ab7e":{"title":"白川村の春駒踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21604","municipality_name":"白川村","geographic_scope":"白川村荻町"}],"archive_genre_ids":["horse_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1997-07-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5186e5e0b229ab7e","official_name":"白川村の春駒踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21604","municipality_name":"白川村","geographic_scope":"白川村荻町"}],"archive_genre_ids":["horse_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5186e5e0b229ab7e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_60059fc346b80265":{"title":"生田のはやし田","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町生田"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1973-12-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_60059fc346b80265","official_name":"生田のはやし田","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町生田"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-60059fc346b80265"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c69ea0b3da2174a2":{"title":"早池峰岳流石鳩岡神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3205","municipality_name":"花巻市","geographic_scope":"花巻市東和町土沢"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"1981-03-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c69ea0b3da2174a2","official_name":"早池峰岳流石鳩岡神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3205","municipality_name":"花巻市","geographic_scope":"花巻市東和町土沢"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c69ea0b3da2174a2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c97255791835283c":{"title":"はねそ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28586","municipality_name":"新温泉町","geographic_scope":"新温泉町丹土"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"1972-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c97255791835283c","official_name":"はねそ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28586","municipality_name":"新温泉町","geographic_scope":"新温泉町丹土"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c97255791835283c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_2839cdcbaad4cb0e": {
+    "title": "土佐の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1980-01-28",
+        "source_title": "国指定文化財等データベース「土佐の神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/130"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2839cdcbaad4cb0e",
+      "official_name": "土佐の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2839cdcbaad4cb0e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_2c25a7b3255b148f": {
+    "title": "吉原の岩戸神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「吉原の岩戸神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/568"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2c25a7b3255b148f",
+      "official_name": "吉原の岩戸神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2c25a7b3255b148f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ef6e41701f212a06": {
+    "title": "勝手神社の神事踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「勝手神社の神事踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/400"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ef6e41701f212a06",
+      "official_name": "勝手神社の神事踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ef6e41701f212a06"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5186e5e0b229ab7e": {
+    "title": "白川村の春駒踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21604",
+        "municipality_name": "白川村",
+        "geographic_scope": "白川村荻町"
+      }
+    ],
+    "archive_genre_ids": [
+      "horse_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1997-07-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5186e5e0b229ab7e",
+      "official_name": "白川村の春駒踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21604",
+          "municipality_name": "白川村",
+          "geographic_scope": "白川村荻町"
+        }
+      ],
+      "archive_genre_ids": [
+        "horse_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5186e5e0b229ab7e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_60059fc346b80265": {
+    "title": "生田のはやし田",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34214",
+        "municipality_name": "安芸高田市",
+        "geographic_scope": "安芸高田市美土里町生田"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1973-12-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_60059fc346b80265",
+      "official_name": "生田のはやし田",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34214",
+          "municipality_name": "安芸高田市",
+          "geographic_scope": "安芸高田市美土里町生田"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-60059fc346b80265"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c69ea0b3da2174a2": {
+    "title": "早池峰岳流石鳩岡神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3205",
+        "municipality_name": "花巻市",
+        "geographic_scope": "花巻市東和町土沢"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "1981-03-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c69ea0b3da2174a2",
+      "official_name": "早池峰岳流石鳩岡神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3205",
+          "municipality_name": "花巻市",
+          "geographic_scope": "花巻市東和町土沢"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c69ea0b3da2174a2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c97255791835283c": {
+    "title": "はねそ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28586",
+        "municipality_name": "新温泉町",
+        "geographic_scope": "新温泉町丹土"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1972-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c97255791835283c",
+      "official_name": "はねそ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28586",
+          "municipality_name": "新温泉町",
+          "geographic_scope": "新温泉町丹土"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c97255791835283c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

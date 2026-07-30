@@ -1,1 +1,408 @@
-{"arts/art_kuni_6d604f603c3979c2":{"title":"小河内の鹿島踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1980-01-28","source_title":"国指定文化財等データベース「小河内の鹿島踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/43"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「小河内の鹿島踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/287"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_6d604f603c3979c2","official_name":"小河内の鹿島踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-6d604f603c3979c2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_e535645892e31b38":{"title":"浅草神社のびんざさら","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2014-03-10","source_title":"国指定文化財等データベース「浅草神社のびんざさら」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000918"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_e535645892e31b38","official_name":"浅草神社のびんざさら","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-e535645892e31b38"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_1569b95dbe8e9577":{"title":"領家の囃子と神楽","summary":"領家の総鎮守である稲荷神社と前耕地地区の三十番神社の祭礼に奉納される囃子と神楽。","aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"112038","municipality_name":"川口市","geographic_scope":"領家"}],"archive_genre_ids":["festival_music","kagura_general"],"designations":[{"type":"市指定無形民俗文化財","jurisdiction":"municipal","authority":"川口市","date":null,"source_title":"埼玉県川口市：文化財一覧「領家の囃子と神楽」","source_url":"https://opendata.pref.saitama.lg.jp/data/dataset/kawaguchisicultural-property"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_1569b95dbe8e9577","official_name":"領家の囃子と神楽","reading":"リョウケノハヤシトカグラ","aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"112038","municipality_name":"川口市","geographic_scope":"領家"}],"archive_genre_ids":["festival_music","kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":"領家の総鎮守である稲荷神社と前耕地地区の三十番神社の祭礼に奉納される囃子と神楽。","continuation_status_id":"unknown","wiki_slug":"art-local-1569b95dbe8e9577"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5827d2293e117a94":{"title":"三葛神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32204","municipality_name":"益田市","geographic_scope":"益田市匹見町紙祖"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"島根県","date":"1975-08-12","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5827d2293e117a94","official_name":"三葛神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32204","municipality_name":"益田市","geographic_scope":"益田市匹見町紙祖"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5827d2293e117a94"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9926ea3cfdc21e7d":{"title":"波野村中江の岩戸神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市波野中江"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1961-11-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9926ea3cfdc21e7d","official_name":"波野村中江の岩戸神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市波野中江"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9926ea3cfdc21e7d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b5d22c180ef1e087":{"title":"住吉踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30206","municipality_name":"田辺市","geographic_scope":"田辺市長野沢の口"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1972-04-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b5d22c180ef1e087","official_name":"住吉踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30206","municipality_name":"田辺市","geographic_scope":"田辺市長野沢の口"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b5d22c180ef1e087"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c30a198014cf8275":{"title":"大西山の農作業歌","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172049","municipality_name":"輪島市","geographic_scope":"石川県輪島市西山町ウ部6番地"}],"archive_genre_ids":[],"designations":[{"type":"輪島市指定　無形民俗文化財","jurisdiction":"municipal","authority":"輪島市","date":"1972-04-20","source_title":"全国文化財目録「大西山の農作業歌」","source_url":"https://www.city.wajima.ishikawa.jp/docs/2020011000019/"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c30a198014cf8275","official_name":"大西山の農作業歌","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172049","municipality_name":"輪島市","geographic_scope":"石川県輪島市西山町ウ部6番地"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c30a198014cf8275"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f76f568a803daa4b":{"title":"川崎の杖楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40605","municipality_name":"川崎町","geographic_scope":"川崎町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f76f568a803daa4b","official_name":"川崎の杖楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40605","municipality_name":"川崎町","geographic_scope":"川崎町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f76f568a803daa4b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_6d604f603c3979c2": {
+    "title": "小河内の鹿島踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1980-01-28",
+        "source_title": "国指定文化財等データベース「小河内の鹿島踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/43"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「小河内の鹿島踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/287"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6d604f603c3979c2",
+      "official_name": "小河内の鹿島踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6d604f603c3979c2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e535645892e31b38": {
+    "title": "浅草神社のびんざさら",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2014-03-10",
+        "source_title": "国指定文化財等データベース「浅草神社のびんざさら」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000918"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e535645892e31b38",
+      "official_name": "浅草神社のびんざさら",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e535645892e31b38"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1569b95dbe8e9577": {
+    "title": "領家の囃子と神楽",
+    "summary": "領家の総鎮守である稲荷神社と前耕地地区の三十番神社の祭礼に奉納される囃子と神楽。",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "112038",
+        "municipality_name": "川口市",
+        "geographic_scope": "領家"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music",
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "川口市",
+        "date": null,
+        "source_title": "埼玉県川口市：文化財一覧「領家の囃子と神楽」",
+        "source_url": "https://opendata.pref.saitama.lg.jp/data/dataset/kawaguchisicultural-property"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1569b95dbe8e9577",
+      "official_name": "領家の囃子と神楽",
+      "reading": "リョウケノハヤシトカグラ",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "112038",
+          "municipality_name": "川口市",
+          "geographic_scope": "領家"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music",
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": "領家の総鎮守である稲荷神社と前耕地地区の三十番神社の祭礼に奉納される囃子と神楽。",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1569b95dbe8e9577"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5827d2293e117a94": {
+    "title": "三葛神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32204",
+        "municipality_name": "益田市",
+        "geographic_scope": "益田市匹見町紙祖"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1975-08-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5827d2293e117a94",
+      "official_name": "三葛神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32204",
+          "municipality_name": "益田市",
+          "geographic_scope": "益田市匹見町紙祖"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5827d2293e117a94"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9926ea3cfdc21e7d": {
+    "title": "波野村中江の岩戸神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43214",
+        "municipality_name": "阿蘇市",
+        "geographic_scope": "阿蘇市波野中江"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1961-11-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9926ea3cfdc21e7d",
+      "official_name": "波野村中江の岩戸神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43214",
+          "municipality_name": "阿蘇市",
+          "geographic_scope": "阿蘇市波野中江"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9926ea3cfdc21e7d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b5d22c180ef1e087": {
+    "title": "住吉踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30206",
+        "municipality_name": "田辺市",
+        "geographic_scope": "田辺市長野沢の口"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1972-04-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b5d22c180ef1e087",
+      "official_name": "住吉踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30206",
+          "municipality_name": "田辺市",
+          "geographic_scope": "田辺市長野沢の口"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b5d22c180ef1e087"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c30a198014cf8275": {
+    "title": "大西山の農作業歌",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "172049",
+        "municipality_name": "輪島市",
+        "geographic_scope": "石川県輪島市西山町ウ部6番地"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "輪島市指定　無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "輪島市",
+        "date": "1972-04-20",
+        "source_title": "全国文化財目録「大西山の農作業歌」",
+        "source_url": "https://www.city.wajima.ishikawa.jp/docs/2020011000019/"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c30a198014cf8275",
+      "official_name": "大西山の農作業歌",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "172049",
+          "municipality_name": "輪島市",
+          "geographic_scope": "石川県輪島市西山町ウ部6番地"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c30a198014cf8275"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f76f568a803daa4b": {
+    "title": "川崎の杖楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40605",
+        "municipality_name": "川崎町",
+        "geographic_scope": "川崎町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f76f568a803daa4b",
+      "official_name": "川崎の杖楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40605",
+          "municipality_name": "川崎町",
+          "geographic_scope": "川崎町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f76f568a803daa4b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

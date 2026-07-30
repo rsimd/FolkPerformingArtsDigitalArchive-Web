@@ -1,1 +1,278 @@
-{"arts/art_kuni_7ca97062187adee2":{"title":"田原のカッコスリ","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26213","municipality_name":"南丹市","geographic_scope":"南丹市日吉町田原"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2000-12-27","source_title":"国指定文化財等データベース「田原のカッコスリ」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/733"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"京都府","date":"1983-04-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_7ca97062187adee2","official_name":"田原のカッコスリ","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26213","municipality_name":"南丹市","geographic_scope":"南丹市日吉町田原"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-7ca97062187adee2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ce8d5ec5b799696c":{"title":"高千穂神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「高千穂神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/579"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ce8d5ec5b799696c","official_name":"高千穂神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ce8d5ec5b799696c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_64a6c85e777d6682":{"title":"古懸獅子（熊）踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市古懸"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"1961-01-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_64a6c85e777d6682","official_name":"古懸獅子（熊）踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市古懸"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-64a6c85e777d6682"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b66379425e50923b":{"title":"菅窪鹿踊・剣舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3484","municipality_name":"田野畑村","geographic_scope":"田野畑村菅窪"}],"archive_genre_ids":["deer_dance","kenbai"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"1988-04-08","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b66379425e50923b","official_name":"菅窪鹿踊・剣舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3484","municipality_name":"田野畑村","geographic_scope":"田野畑村菅窪"}],"archive_genre_ids":["deer_dance","kenbai"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b66379425e50923b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d4a7bdc21d153a76":{"title":"下蚊屋の荒神神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31403","municipality_name":null,"geographic_scope":"江府町下蚊屋"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1974-10-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d4a7bdc21d153a76","official_name":"下蚊屋の荒神神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31403","municipality_name":null,"geographic_scope":"江府町下蚊屋"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d4a7bdc21d153a76"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_7ca97062187adee2": {
+    "title": "田原のカッコスリ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26213",
+        "municipality_name": "南丹市",
+        "geographic_scope": "南丹市日吉町田原"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2000-12-27",
+        "source_title": "国指定文化財等データベース「田原のカッコスリ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/733"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1983-04-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_7ca97062187adee2",
+      "official_name": "田原のカッコスリ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26213",
+          "municipality_name": "南丹市",
+          "geographic_scope": "南丹市日吉町田原"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-7ca97062187adee2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ce8d5ec5b799696c": {
+    "title": "高千穂神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「高千穂神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/579"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ce8d5ec5b799696c",
+      "official_name": "高千穂神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ce8d5ec5b799696c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_64a6c85e777d6682": {
+    "title": "古懸獅子（熊）踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2210",
+        "municipality_name": "平川市",
+        "geographic_scope": "平川市古懸"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1961-01-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_64a6c85e777d6682",
+      "official_name": "古懸獅子（熊）踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2210",
+          "municipality_name": "平川市",
+          "geographic_scope": "平川市古懸"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-64a6c85e777d6682"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b66379425e50923b": {
+    "title": "菅窪鹿踊・剣舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3484",
+        "municipality_name": "田野畑村",
+        "geographic_scope": "田野畑村菅窪"
+      }
+    ],
+    "archive_genre_ids": [
+      "deer_dance",
+      "kenbai"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "1988-04-08",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b66379425e50923b",
+      "official_name": "菅窪鹿踊・剣舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3484",
+          "municipality_name": "田野畑村",
+          "geographic_scope": "田野畑村菅窪"
+        }
+      ],
+      "archive_genre_ids": [
+        "deer_dance",
+        "kenbai"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b66379425e50923b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d4a7bdc21d153a76": {
+    "title": "下蚊屋の荒神神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31403",
+        "municipality_name": null,
+        "geographic_scope": "江府町下蚊屋"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1974-10-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d4a7bdc21d153a76",
+      "official_name": "下蚊屋の荒神神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31403",
+          "municipality_name": null,
+          "geographic_scope": "江府町下蚊屋"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d4a7bdc21d153a76"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

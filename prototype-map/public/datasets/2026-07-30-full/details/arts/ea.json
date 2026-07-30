@@ -1,1 +1,430 @@
-{"arts/art_kuni_19f7fb3558fcad8e":{"title":"坂戸の大宮住吉神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11239","municipality_name":"坂戸市","geographic_scope":"坂戸市塚越"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2010-03-11","source_title":"国指定文化財等データベース「坂戸の大宮住吉神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000911"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"埼玉県","date":"1955-11-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_19f7fb3558fcad8e","official_name":"坂戸の大宮住吉神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11239","municipality_name":"坂戸市","geographic_scope":"坂戸市塚越"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-19f7fb3558fcad8e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_40a49071cafad854":{"title":"吉良川の御田舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「吉良川の御田舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/515"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_40a49071cafad854","official_name":"吉良川の御田舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-40a49071cafad854"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ac477905f8704e33":{"title":"秋葉祭の芸能","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「秋葉祭の芸能」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/516"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ac477905f8704e33","official_name":"秋葉祭の芸能","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ac477905f8704e33"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c240ba49fc75762e":{"title":"睦月神事の芸能","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「睦月神事の芸能」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/327"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c240ba49fc75762e","official_name":"睦月神事の芸能","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c240ba49fc75762e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_dd5f5e1042a7f1ee":{"title":"吉備津彦神社の御田植祭","summary":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["rice_planting_ritual"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1979-12-07","source_title":"国指定文化財等データベース「吉備津彦神社の御田植祭」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/478"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_dd5f5e1042a7f1ee","official_name":"吉備津彦神社の御田植祭","reading":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["rice_planting_ritual"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-dd5f5e1042a7f1ee"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0a2d09fcc23b06f1":{"title":"白鳥の拝殿踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市白鳥町白鳥"},{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市白鳥町野添"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"2001-01-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0a2d09fcc23b06f1","official_name":"白鳥の拝殿踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市白鳥町白鳥"},{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市白鳥町野添"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0a2d09fcc23b06f1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_21cdbd5fea091873":{"title":"白桝粉屋おどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12409","municipality_name":"芝山町","geographic_scope":"芝山町大里"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1968-04-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_21cdbd5fea091873","official_name":"白桝粉屋おどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12409","municipality_name":"芝山町","geographic_scope":"芝山町大里"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-21cdbd5fea091873"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d07d5123f3a21546":{"title":"高山町本町の八月踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46492","municipality_name":"肝付町","geographic_scope":"肝付町本町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1962-10-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d07d5123f3a21546","official_name":"高山町本町の八月踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46492","municipality_name":"肝付町","geographic_scope":"肝付町本町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d07d5123f3a21546"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_19f7fb3558fcad8e": {
+    "title": "坂戸の大宮住吉神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11239",
+        "municipality_name": "坂戸市",
+        "geographic_scope": "坂戸市塚越"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2010-03-11",
+        "source_title": "国指定文化財等データベース「坂戸の大宮住吉神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000911"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1955-11-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_19f7fb3558fcad8e",
+      "official_name": "坂戸の大宮住吉神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11239",
+          "municipality_name": "坂戸市",
+          "geographic_scope": "坂戸市塚越"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-19f7fb3558fcad8e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_40a49071cafad854": {
+    "title": "吉良川の御田舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「吉良川の御田舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/515"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_40a49071cafad854",
+      "official_name": "吉良川の御田舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-40a49071cafad854"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ac477905f8704e33": {
+    "title": "秋葉祭の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「秋葉祭の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/516"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ac477905f8704e33",
+      "official_name": "秋葉祭の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ac477905f8704e33"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c240ba49fc75762e": {
+    "title": "睦月神事の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「睦月神事の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/327"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c240ba49fc75762e",
+      "official_name": "睦月神事の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c240ba49fc75762e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_dd5f5e1042a7f1ee": {
+    "title": "吉備津彦神社の御田植祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1979-12-07",
+        "source_title": "国指定文化財等データベース「吉備津彦神社の御田植祭」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/478"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_dd5f5e1042a7f1ee",
+      "official_name": "吉備津彦神社の御田植祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-dd5f5e1042a7f1ee"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0a2d09fcc23b06f1": {
+    "title": "白鳥の拝殿踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21219",
+        "municipality_name": "郡上市",
+        "geographic_scope": "郡上市白鳥町白鳥"
+      },
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21219",
+        "municipality_name": "郡上市",
+        "geographic_scope": "郡上市白鳥町野添"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "2001-01-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0a2d09fcc23b06f1",
+      "official_name": "白鳥の拝殿踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21219",
+          "municipality_name": "郡上市",
+          "geographic_scope": "郡上市白鳥町白鳥"
+        },
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21219",
+          "municipality_name": "郡上市",
+          "geographic_scope": "郡上市白鳥町野添"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0a2d09fcc23b06f1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_21cdbd5fea091873": {
+    "title": "白桝粉屋おどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12409",
+        "municipality_name": "芝山町",
+        "geographic_scope": "芝山町大里"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1968-04-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_21cdbd5fea091873",
+      "official_name": "白桝粉屋おどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12409",
+          "municipality_name": "芝山町",
+          "geographic_scope": "芝山町大里"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-21cdbd5fea091873"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d07d5123f3a21546": {
+    "title": "高山町本町の八月踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46492",
+        "municipality_name": "肝付町",
+        "geographic_scope": "肝付町本町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1962-10-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d07d5123f3a21546",
+      "official_name": "高山町本町の八月踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46492",
+          "municipality_name": "肝付町",
+          "geographic_scope": "肝付町本町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d07d5123f3a21546"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,398 @@
-{"arts/art_local_03f6b4fb8ca114a4":{"title":"屋久島の如竹踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46505","municipality_name":"屋久島町","geographic_scope":"屋久島町安房"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"2006-04-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_03f6b4fb8ca114a4","official_name":"屋久島の如竹踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46505","municipality_name":"屋久島町","geographic_scope":"屋久島町安房"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-03f6b4fb8ca114a4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0e137ec04f17f100":{"title":"市川の天衝舞　浮立","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41201","municipality_name":"佐賀市","geographic_scope":"佐賀市富士町大字市川"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"佐賀県","date":"1965-07-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0e137ec04f17f100","official_name":"市川の天衝舞　浮立","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41201","municipality_name":"佐賀市","geographic_scope":"佐賀市富士町大字市川"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0e137ec04f17f100"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2eda02ee567c8200":{"title":"寺方提灯踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"27","prefecture_name":"大阪府","municipality_code":"272094","municipality_name":"守口市","geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"市無形民俗文化財","jurisdiction":"municipal","authority":"守口市","date":null,"source_title":"大阪府守口市：文化財一覧「寺方提灯踊り」","source_url":"http://www.city.moriguchi.osaka.jp/kakukanoannai/kikakuzaiseibu/digital_senryaku/opendate/1621487787057.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2eda02ee567c8200","official_name":"寺方提灯踊り","reading":"テラカタチョウチンオドリ文化財分類:市無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"27","prefecture_name":"大阪府","municipality_code":"272094","municipality_name":"守口市","geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2eda02ee567c8200"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_45eeca2163eede96":{"title":"備後田尻荒神神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市田尻町本郷"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1996-03-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_45eeca2163eede96","official_name":"備後田尻荒神神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市田尻町本郷"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-45eeca2163eede96"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_7c6e463e4d2c0f94":{"title":"さんさ踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市本宮"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市黒川"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市東見前"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市山岸"}],"archive_genre_ids":["sansa_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"2011-05-10","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_7c6e463e4d2c0f94","official_name":"さんさ踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市本宮"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市黒川"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市東見前"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3201","municipality_name":"盛岡市","geographic_scope":"盛岡市山岸"}],"archive_genre_ids":["sansa_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-7c6e463e4d2c0f94"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9701f1737ffe4a54":{"title":"岸剣神社の大神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市八幡町柳町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1973-03-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9701f1737ffe4a54","official_name":"岸剣神社の大神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21219","municipality_name":"郡上市","geographic_scope":"郡上市八幡町柳町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9701f1737ffe4a54"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ea3512ce7657af40":{"title":"新田神杜の御田植祭に伴う芸能（奴踊、棒踊）","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46215","municipality_name":"薩摩川内市","geographic_scope":"薩摩川内市宮内町1935-2"}],"archive_genre_ids":["rice_planting_ritual","yakko_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1963-06-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ea3512ce7657af40","official_name":"新田神杜の御田植祭に伴う芸能（奴踊、棒踊）","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46215","municipality_name":"薩摩川内市","geographic_scope":"薩摩川内市宮内町1935-2"}],"archive_genre_ids":["rice_planting_ritual","yakko_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ea3512ce7657af40"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_03f6b4fb8ca114a4": {
+    "title": "屋久島の如竹踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46505",
+        "municipality_name": "屋久島町",
+        "geographic_scope": "屋久島町安房"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "2006-04-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_03f6b4fb8ca114a4",
+      "official_name": "屋久島の如竹踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46505",
+          "municipality_name": "屋久島町",
+          "geographic_scope": "屋久島町安房"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-03f6b4fb8ca114a4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0e137ec04f17f100": {
+    "title": "市川の天衝舞　浮立",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "41201",
+        "municipality_name": "佐賀市",
+        "geographic_scope": "佐賀市富士町大字市川"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "佐賀県",
+        "date": "1965-07-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0e137ec04f17f100",
+      "official_name": "市川の天衝舞　浮立",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "41201",
+          "municipality_name": "佐賀市",
+          "geographic_scope": "佐賀市富士町大字市川"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0e137ec04f17f100"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2eda02ee567c8200": {
+    "title": "寺方提灯踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "27",
+        "prefecture_name": "大阪府",
+        "municipality_code": "272094",
+        "municipality_name": "守口市",
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "守口市",
+        "date": null,
+        "source_title": "大阪府守口市：文化財一覧「寺方提灯踊り」",
+        "source_url": "http://www.city.moriguchi.osaka.jp/kakukanoannai/kikakuzaiseibu/digital_senryaku/opendate/1621487787057.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2eda02ee567c8200",
+      "official_name": "寺方提灯踊り",
+      "reading": "テラカタチョウチンオドリ文化財分類:市無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "27",
+          "prefecture_name": "大阪府",
+          "municipality_code": "272094",
+          "municipality_name": "守口市",
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2eda02ee567c8200"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_45eeca2163eede96": {
+    "title": "備後田尻荒神神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34207",
+        "municipality_name": "福山市",
+        "geographic_scope": "福山市田尻町本郷"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1996-03-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_45eeca2163eede96",
+      "official_name": "備後田尻荒神神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34207",
+          "municipality_name": "福山市",
+          "geographic_scope": "福山市田尻町本郷"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-45eeca2163eede96"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_7c6e463e4d2c0f94": {
+    "title": "さんさ踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3201",
+        "municipality_name": "盛岡市",
+        "geographic_scope": "盛岡市本宮"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3201",
+        "municipality_name": "盛岡市",
+        "geographic_scope": "盛岡市黒川"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3201",
+        "municipality_name": "盛岡市",
+        "geographic_scope": "盛岡市東見前"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3201",
+        "municipality_name": "盛岡市",
+        "geographic_scope": "盛岡市山岸"
+      }
+    ],
+    "archive_genre_ids": [
+      "sansa_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "2011-05-10",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_7c6e463e4d2c0f94",
+      "official_name": "さんさ踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3201",
+          "municipality_name": "盛岡市",
+          "geographic_scope": "盛岡市本宮"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3201",
+          "municipality_name": "盛岡市",
+          "geographic_scope": "盛岡市黒川"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3201",
+          "municipality_name": "盛岡市",
+          "geographic_scope": "盛岡市東見前"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3201",
+          "municipality_name": "盛岡市",
+          "geographic_scope": "盛岡市山岸"
+        }
+      ],
+      "archive_genre_ids": [
+        "sansa_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-7c6e463e4d2c0f94"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9701f1737ffe4a54": {
+    "title": "岸剣神社の大神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21219",
+        "municipality_name": "郡上市",
+        "geographic_scope": "郡上市八幡町柳町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1973-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9701f1737ffe4a54",
+      "official_name": "岸剣神社の大神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21219",
+          "municipality_name": "郡上市",
+          "geographic_scope": "郡上市八幡町柳町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9701f1737ffe4a54"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ea3512ce7657af40": {
+    "title": "新田神杜の御田植祭に伴う芸能（奴踊、棒踊）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46215",
+        "municipality_name": "薩摩川内市",
+        "geographic_scope": "薩摩川内市宮内町1935-2"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual",
+      "yakko_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1963-06-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ea3512ce7657af40",
+      "official_name": "新田神杜の御田植祭に伴う芸能（奴踊、棒踊）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46215",
+          "municipality_name": "薩摩川内市",
+          "geographic_scope": "薩摩川内市宮内町1935-2"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual",
+        "yakko_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ea3512ce7657af40"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

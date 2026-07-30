@@ -1,1 +1,312 @@
-{"arts/art_kuni_d0c60ba75db3f382":{"title":"肥後琵琶","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1973-03-27","source_title":"国指定文化財等データベース「肥後琵琶」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/141"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_d0c60ba75db3f382","official_name":"肥後琵琶","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-d0c60ba75db3f382"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_282686172ad45381":{"title":"小雀獅子","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21217","municipality_name":"飛騨市","geographic_scope":"飛騨市河合町稲越"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1969-08-05","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_282686172ad45381","official_name":"小雀獅子","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21217","municipality_name":"飛騨市","geographic_scope":"飛騨市河合町稲越"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-282686172ad45381"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_32d389f025926a63":{"title":"六斎念仏（父子）","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18483","municipality_name":"おおい町","geographic_scope":"おおい町父子"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福井県","date":"1964-06-05","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_32d389f025926a63","official_name":"六斎念仏（父子）","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18483","municipality_name":"おおい町","geographic_scope":"おおい町父子"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-32d389f025926a63"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3fe963b8de5b661e":{"title":"焼津神社獅子木遣り","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22212","municipality_name":"焼津市","geographic_scope":"焼津市"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"222127","municipality_name":"焼津市","geographic_scope":"静岡県焼津市焼津2-7-2"}],"archive_genre_ids":[],"designations":[{"type":"県指定無形民俗文化財","jurisdiction":"prefectural","authority":"静岡県","date":null,"source_title":"静岡県焼津市：文化財等一覧「焼津神社獅子木遣り」","source_url":"https://opendata.pref.shizuoka.jp/dataset/8438.html"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1978-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3fe963b8de5b661e","official_name":"焼津神社獅子木遣り","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22212","municipality_name":"焼津市","geographic_scope":"焼津市"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"222127","municipality_name":"焼津市","geographic_scope":"静岡県焼津市焼津2-7-2"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3fe963b8de5b661e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_56b021c5314675d2":{"title":"阿蘇の牛舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1961-11-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_56b021c5314675d2","official_name":"阿蘇の牛舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-56b021c5314675d2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_eda9043af51e1787":{"title":"長崎の明清楽、明清楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42201","municipality_name":"長崎市","geographic_scope":"長崎市（内）"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長崎県","date":"1978-08-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_eda9043af51e1787","official_name":"長崎の明清楽、明清楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42201","municipality_name":"長崎市","geographic_scope":"長崎市（内）"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-eda9043af51e1787"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_d0c60ba75db3f382": {
+    "title": "肥後琵琶",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-03-27",
+        "source_title": "国指定文化財等データベース「肥後琵琶」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/141"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d0c60ba75db3f382",
+      "official_name": "肥後琵琶",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d0c60ba75db3f382"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_282686172ad45381": {
+    "title": "小雀獅子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21217",
+        "municipality_name": "飛騨市",
+        "geographic_scope": "飛騨市河合町稲越"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1969-08-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_282686172ad45381",
+      "official_name": "小雀獅子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21217",
+          "municipality_name": "飛騨市",
+          "geographic_scope": "飛騨市河合町稲越"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-282686172ad45381"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_32d389f025926a63": {
+    "title": "六斎念仏（父子）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18483",
+        "municipality_name": "おおい町",
+        "geographic_scope": "おおい町父子"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1964-06-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_32d389f025926a63",
+      "official_name": "六斎念仏（父子）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18483",
+          "municipality_name": "おおい町",
+          "geographic_scope": "おおい町父子"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-32d389f025926a63"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3fe963b8de5b661e": {
+    "title": "焼津神社獅子木遣り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22212",
+        "municipality_name": "焼津市",
+        "geographic_scope": "焼津市"
+      },
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "222127",
+        "municipality_name": "焼津市",
+        "geographic_scope": "静岡県焼津市焼津2-7-2"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": null,
+        "source_title": "静岡県焼津市：文化財等一覧「焼津神社獅子木遣り」",
+        "source_url": "https://opendata.pref.shizuoka.jp/dataset/8438.html"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1978-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3fe963b8de5b661e",
+      "official_name": "焼津神社獅子木遣り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22212",
+          "municipality_name": "焼津市",
+          "geographic_scope": "焼津市"
+        },
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "222127",
+          "municipality_name": "焼津市",
+          "geographic_scope": "静岡県焼津市焼津2-7-2"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3fe963b8de5b661e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_56b021c5314675d2": {
+    "title": "阿蘇の牛舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43214",
+        "municipality_name": "阿蘇市",
+        "geographic_scope": "阿蘇市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1961-11-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_56b021c5314675d2",
+      "official_name": "阿蘇の牛舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43214",
+          "municipality_name": "阿蘇市",
+          "geographic_scope": "阿蘇市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-56b021c5314675d2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_eda9043af51e1787": {
+    "title": "長崎の明清楽、明清楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42201",
+        "municipality_name": "長崎市",
+        "geographic_scope": "長崎市（内）"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1978-08-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_eda9043af51e1787",
+      "official_name": "長崎の明清楽、明清楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42201",
+          "municipality_name": "長崎市",
+          "geographic_scope": "長崎市（内）"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-eda9043af51e1787"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

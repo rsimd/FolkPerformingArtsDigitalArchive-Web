@@ -1,1 +1,454 @@
-{"arts/art_kuni_1d6b5051f17eb1e7":{"title":"大串のささらと大野のみろく","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1973-11-05","source_title":"国指定文化財等データベース「大串のささらと大野のみろく」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/251"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_1d6b5051f17eb1e7","official_name":"大串のささらと大野のみろく","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-1d6b5051f17eb1e7"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_6488d441017cedfb":{"title":"一中節浄瑠璃","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1999-06-21","source_title":"国指定文化財等データベース「一中節浄瑠璃」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/27"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_6488d441017cedfb","official_name":"一中節浄瑠璃","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-6488d441017cedfb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_9eefcc62106f2ba6":{"title":"鷺流狂言","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-05-27","source_title":"国指定文化財等データベース「鷺流狂言」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/257"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_9eefcc62106f2ba6","official_name":"鷺流狂言","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-9eefcc62106f2ba6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_f0af64e6aae3328e":{"title":"国東の修正鬼会の芸能","summary":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「国東の修正鬼会の芸能」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/573"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_f0af64e6aae3328e","official_name":"国東の修正鬼会の芸能","reading":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-f0af64e6aae3328e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_1cee815502073571":{"title":"土佐の太刀踊（大利太刀踊）","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39201","municipality_name":"高知市","geographic_scope":"高知市鏡大利1738"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1965-06-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_1cee815502073571","official_name":"土佐の太刀踊（大利太刀踊）","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39201","municipality_name":"高知市","geographic_scope":"高知市鏡大利1738"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-1cee815502073571"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2f0a74a47c7917e8":{"title":"錦町の太々神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市錦町一丁目453番地"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"2003-06-02","source_title":"福島県二本松市：文化財一覧「錦町の太々神楽」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2f0a74a47c7917e8","official_name":"錦町の太々神楽","reading":"ニシキマチノダイダイカグラ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市錦町一丁目453番地"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2f0a74a47c7917e8"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5dcefc719c355817":{"title":"入曽の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11215","municipality_name":"狭山市","geographic_scope":"狭山市南入曽"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"埼玉県","date":"1958-03-20","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5dcefc719c355817","official_name":"入曽の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11215","municipality_name":"狭山市","geographic_scope":"狭山市南入曽"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5dcefc719c355817"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_880fa45e71c785e3":{"title":"黒平の能三番","summary":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19201","municipality_name":null,"geographic_scope":"甲府市黒平上黒平　および　下黒平"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山梨県","date":"1960-11-07","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_880fa45e71c785e3","official_name":"黒平の能三番","reading":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19201","municipality_name":null,"geographic_scope":"甲府市黒平上黒平　および　下黒平"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-880fa45e71c785e3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_984aec4b0acfc238":{"title":"豊松の神楽―荒神神楽、八ケ社神楽、吉備神楽―","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34545","municipality_name":"神石高原町","geographic_scope":"神石高原町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1959-07-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_984aec4b0acfc238","official_name":"豊松の神楽―荒神神楽、八ケ社神楽、吉備神楽―","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34545","municipality_name":"神石高原町","geographic_scope":"神石高原町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-984aec4b0acfc238"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_1d6b5051f17eb1e7": {
+    "title": "大串のささらと大野のみろく",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「大串のささらと大野のみろく」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/251"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1d6b5051f17eb1e7",
+      "official_name": "大串のささらと大野のみろく",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1d6b5051f17eb1e7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6488d441017cedfb": {
+    "title": "一中節浄瑠璃",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1999-06-21",
+        "source_title": "国指定文化財等データベース「一中節浄瑠璃」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/27"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6488d441017cedfb",
+      "official_name": "一中節浄瑠璃",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6488d441017cedfb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9eefcc62106f2ba6": {
+    "title": "鷺流狂言",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-05-27",
+        "source_title": "国指定文化財等データベース「鷺流狂言」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/257"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9eefcc62106f2ba6",
+      "official_name": "鷺流狂言",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9eefcc62106f2ba6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f0af64e6aae3328e": {
+    "title": "国東の修正鬼会の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "44",
+        "prefecture_name": "大分県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「国東の修正鬼会の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/573"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f0af64e6aae3328e",
+      "official_name": "国東の修正鬼会の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "44",
+          "prefecture_name": "大分県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f0af64e6aae3328e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1cee815502073571": {
+    "title": "土佐の太刀踊（大利太刀踊）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39201",
+        "municipality_name": "高知市",
+        "geographic_scope": "高知市鏡大利1738"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1965-06-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1cee815502073571",
+      "official_name": "土佐の太刀踊（大利太刀踊）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39201",
+          "municipality_name": "高知市",
+          "geographic_scope": "高知市鏡大利1738"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1cee815502073571"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2f0a74a47c7917e8": {
+    "title": "錦町の太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市錦町一丁目453番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "2003-06-02",
+        "source_title": "福島県二本松市：文化財一覧「錦町の太々神楽」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2f0a74a47c7917e8",
+      "official_name": "錦町の太々神楽",
+      "reading": "ニシキマチノダイダイカグラ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市錦町一丁目453番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2f0a74a47c7917e8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5dcefc719c355817": {
+    "title": "入曽の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11215",
+        "municipality_name": "狭山市",
+        "geographic_scope": "狭山市南入曽"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1958-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5dcefc719c355817",
+      "official_name": "入曽の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11215",
+          "municipality_name": "狭山市",
+          "geographic_scope": "狭山市南入曽"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5dcefc719c355817"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_880fa45e71c785e3": {
+    "title": "黒平の能三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "19",
+        "prefecture_name": "山梨県",
+        "municipality_code": "19201",
+        "municipality_name": null,
+        "geographic_scope": "甲府市黒平上黒平　および　下黒平"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山梨県",
+        "date": "1960-11-07",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_880fa45e71c785e3",
+      "official_name": "黒平の能三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "19",
+          "prefecture_name": "山梨県",
+          "municipality_code": "19201",
+          "municipality_name": null,
+          "geographic_scope": "甲府市黒平上黒平　および　下黒平"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-880fa45e71c785e3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_984aec4b0acfc238": {
+    "title": "豊松の神楽―荒神神楽、八ケ社神楽、吉備神楽―",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34545",
+        "municipality_name": "神石高原町",
+        "geographic_scope": "神石高原町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1959-07-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_984aec4b0acfc238",
+      "official_name": "豊松の神楽―荒神神楽、八ケ社神楽、吉備神楽―",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34545",
+          "municipality_name": "神石高原町",
+          "geographic_scope": "神石高原町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-984aec4b0acfc238"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

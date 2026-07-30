@@ -1,1 +1,354 @@
-{"arts/art_kuni_16e6d77d157fb9dd":{"title":"遠江のひよんどりとおくない","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1994-12-13","source_title":"国指定文化財等データベース「遠江のひよんどりとおくない」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/83"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_16e6d77d157fb9dd","official_name":"遠江のひよんどりとおくない","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-16e6d77d157fb9dd"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_610602eb1c4351cb":{"title":"比婆の荒神神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「比婆の荒神神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/483"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_610602eb1c4351cb","official_name":"比婆の荒神神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-610602eb1c4351cb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0bdb8dfec6a922ab":{"title":"石原の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11201","municipality_name":"川越市","geographic_scope":"川越市石原町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"埼玉県","date":"1980-03-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0bdb8dfec6a922ab","official_name":"石原の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11201","municipality_name":"川越市","geographic_scope":"川越市石原町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0bdb8dfec6a922ab"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_22d10e1a61dbe5ce":{"title":"上町法印神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4212","municipality_name":"登米市","geographic_scope":"登米市豊里町新町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"2005-05-10","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_22d10e1a61dbe5ce","official_name":"上町法印神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4212","municipality_name":"登米市","geographic_scope":"登米市豊里町新町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-22d10e1a61dbe5ce"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_47ab4cad3527207f":{"title":"菱刈町湯之尾神社の神舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46224","municipality_name":"伊佐市","geographic_scope":"伊佐市菱刈町川北2461"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1988-03-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_47ab4cad3527207f","official_name":"菱刈町湯之尾神社の神舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46224","municipality_name":"伊佐市","geographic_scope":"伊佐市菱刈町川北2461"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-47ab4cad3527207f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ae0d435461cbbc8b":{"title":"寺崎のはねこ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4202","municipality_name":"石巻市","geographic_scope":"石巻市桃生町寺崎"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"2009-04-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ae0d435461cbbc8b","official_name":"寺崎のはねこ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4202","municipality_name":"石巻市","geographic_scope":"石巻市桃生町寺崎"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ae0d435461cbbc8b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f5df98feb7be506d":{"title":"埼田神社青獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32203","municipality_name":"出雲市","geographic_scope":"出雲市園町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"島根県","date":"1960-09-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f5df98feb7be506d","official_name":"埼田神社青獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32203","municipality_name":"出雲市","geographic_scope":"出雲市園町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f5df98feb7be506d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_16e6d77d157fb9dd": {
+    "title": "遠江のひよんどりとおくない",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1994-12-13",
+        "source_title": "国指定文化財等データベース「遠江のひよんどりとおくない」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/83"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_16e6d77d157fb9dd",
+      "official_name": "遠江のひよんどりとおくない",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-16e6d77d157fb9dd"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_610602eb1c4351cb": {
+    "title": "比婆の荒神神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「比婆の荒神神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/483"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_610602eb1c4351cb",
+      "official_name": "比婆の荒神神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-610602eb1c4351cb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0bdb8dfec6a922ab": {
+    "title": "石原の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11201",
+        "municipality_name": "川越市",
+        "geographic_scope": "川越市石原町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1980-03-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0bdb8dfec6a922ab",
+      "official_name": "石原の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11201",
+          "municipality_name": "川越市",
+          "geographic_scope": "川越市石原町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0bdb8dfec6a922ab"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_22d10e1a61dbe5ce": {
+    "title": "上町法印神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "4212",
+        "municipality_name": "登米市",
+        "geographic_scope": "登米市豊里町新町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "2005-05-10",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_22d10e1a61dbe5ce",
+      "official_name": "上町法印神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "4212",
+          "municipality_name": "登米市",
+          "geographic_scope": "登米市豊里町新町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-22d10e1a61dbe5ce"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_47ab4cad3527207f": {
+    "title": "菱刈町湯之尾神社の神舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46224",
+        "municipality_name": "伊佐市",
+        "geographic_scope": "伊佐市菱刈町川北2461"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1988-03-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_47ab4cad3527207f",
+      "official_name": "菱刈町湯之尾神社の神舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46224",
+          "municipality_name": "伊佐市",
+          "geographic_scope": "伊佐市菱刈町川北2461"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-47ab4cad3527207f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ae0d435461cbbc8b": {
+    "title": "寺崎のはねこ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "4202",
+        "municipality_name": "石巻市",
+        "geographic_scope": "石巻市桃生町寺崎"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "2009-04-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ae0d435461cbbc8b",
+      "official_name": "寺崎のはねこ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "4202",
+          "municipality_name": "石巻市",
+          "geographic_scope": "石巻市桃生町寺崎"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ae0d435461cbbc8b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f5df98feb7be506d": {
+    "title": "埼田神社青獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32203",
+        "municipality_name": "出雲市",
+        "geographic_scope": "出雲市園町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1960-09-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f5df98feb7be506d",
+      "official_name": "埼田神社青獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32203",
+          "municipality_name": "出雲市",
+          "geographic_scope": "出雲市園町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f5df98feb7be506d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

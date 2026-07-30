@@ -1,1 +1,198 @@
-{"arts/art_kuni_bd8a4decc3edd96f":{"title":"能郷の能・狂言","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「能郷の能・狂言」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/72"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_bd8a4decc3edd96f","official_name":"能郷の能・狂言","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-bd8a4decc3edd96f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_e7db4b718c7cd343":{"title":"鬼来迎","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":"山武郡横芝光町虫生"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「鬼来迎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/40"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_e7db4b718c7cd343","official_name":"鬼来迎","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":"山武郡横芝光町虫生"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-e7db4b718c7cd343"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_f86470684e310ab0":{"title":"宜野座の八月あしび","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2005-02-06","source_title":"国指定文化財等データベース「宜野座の八月あしび」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000784"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_f86470684e310ab0","official_name":"宜野座の八月あしび","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-f86470684e310ab0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0ad15a911210e31a":{"title":"恵比寿大黒舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28212","municipality_name":"赤穂市","geographic_scope":"赤穂市尾崎596"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"1972-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0ad15a911210e31a","official_name":"恵比寿大黒舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28212","municipality_name":"赤穂市","geographic_scope":"赤穂市尾崎596"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0ad15a911210e31a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_bd8a4decc3edd96f": {
+    "title": "能郷の能・狂言",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「能郷の能・狂言」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/72"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_bd8a4decc3edd96f",
+      "official_name": "能郷の能・狂言",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-bd8a4decc3edd96f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e7db4b718c7cd343": {
+    "title": "鬼来迎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "山武郡横芝光町虫生"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「鬼来迎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/40"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e7db4b718c7cd343",
+      "official_name": "鬼来迎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "山武郡横芝光町虫生"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e7db4b718c7cd343"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f86470684e310ab0": {
+    "title": "宜野座の八月あしび",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2005-02-06",
+        "source_title": "国指定文化財等データベース「宜野座の八月あしび」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000784"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f86470684e310ab0",
+      "official_name": "宜野座の八月あしび",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f86470684e310ab0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0ad15a911210e31a": {
+    "title": "恵比寿大黒舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28212",
+        "municipality_name": "赤穂市",
+        "geographic_scope": "赤穂市尾崎596"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1972-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0ad15a911210e31a",
+      "official_name": "恵比寿大黒舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28212",
+          "municipality_name": "赤穂市",
+          "geographic_scope": "赤穂市尾崎596"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0ad15a911210e31a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,302 @@
-{"arts/art_kuni_1f0abd21c73cbe6d":{"title":"因幡・但馬の麒麟獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":null,"municipality_name":null,"geographic_scope":"鳥取県鳥取市、岩美郡岩美町、八頭郡八頭町・若桜町・智頭町、東伯郡湯梨浜町、兵庫県美方郡新温泉町・香美町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2020-03-16","source_title":"国指定文化財等データベース「因幡・但馬の麒麟獅子舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000989"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_1f0abd21c73cbe6d","official_name":"因幡・但馬の麒麟獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":null,"municipality_name":null,"geographic_scope":"鳥取県鳥取市、岩美郡岩美町、八頭郡八頭町・若桜町・智頭町、東伯郡湯梨浜町、兵庫県美方郡新温泉町・香美町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-1f0abd21c73cbe6d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_50f8927bd7d90dd4":{"title":"佐渡の人形芝居（文弥人形、説経人形、のろま人形）","summary":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「佐渡の人形芝居（文弥人形、説経人形、のろま人形）」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/49"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_50f8927bd7d90dd4","official_name":"佐渡の人形芝居（文弥人形、説経人形、のろま人形）","reading":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-50f8927bd7d90dd4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_125aa407fa3b157a":{"title":"大森親山獅子大権現舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5209","municipality_name":"鹿角市","geographic_scope":"鹿角市尾去沢字東在家"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"1964-11-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_125aa407fa3b157a","official_name":"大森親山獅子大権現舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5209","municipality_name":"鹿角市","geographic_scope":"鹿角市尾去沢字東在家"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-125aa407fa3b157a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3aa5649be7b15a06":{"title":"根笹派大音笹流錦風流尺八","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2202","municipality_name":"弘前市","geographic_scope":"弘前市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"1981-06-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3aa5649be7b15a06","official_name":"根笹派大音笹流錦風流尺八","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2202","municipality_name":"弘前市","geographic_scope":"弘前市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3aa5649be7b15a06"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_4b466c00677a37cb":{"title":"大浦町の庖瘡踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46220","municipality_name":"南さつま市","geographic_scope":"南さつま市大浦町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1962-10-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_4b466c00677a37cb","official_name":"大浦町の庖瘡踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46220","municipality_name":"南さつま市","geographic_scope":"南さつま市大浦町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-4b466c00677a37cb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b09355d148762381":{"title":"小鯖代神楽舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35203","municipality_name":"山口市","geographic_scope":"山口市"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山口県","date":"1976-03-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b09355d148762381","official_name":"小鯖代神楽舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35203","municipality_name":"山口市","geographic_scope":"山口市"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b09355d148762381"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_1f0abd21c73cbe6d": {
+    "title": "因幡・但馬の麒麟獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "鳥取県鳥取市、岩美郡岩美町、八頭郡八頭町・若桜町・智頭町、東伯郡湯梨浜町、兵庫県美方郡新温泉町・香美町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2020-03-16",
+        "source_title": "国指定文化財等データベース「因幡・但馬の麒麟獅子舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000989"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1f0abd21c73cbe6d",
+      "official_name": "因幡・但馬の麒麟獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "鳥取県鳥取市、岩美郡岩美町、八頭郡八頭町・若桜町・智頭町、東伯郡湯梨浜町、兵庫県美方郡新温泉町・香美町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1f0abd21c73cbe6d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_50f8927bd7d90dd4": {
+    "title": "佐渡の人形芝居（文弥人形、説経人形、のろま人形）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「佐渡の人形芝居（文弥人形、説経人形、のろま人形）」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/49"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_50f8927bd7d90dd4",
+      "official_name": "佐渡の人形芝居（文弥人形、説経人形、のろま人形）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-50f8927bd7d90dd4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_125aa407fa3b157a": {
+    "title": "大森親山獅子大権現舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5209",
+        "municipality_name": "鹿角市",
+        "geographic_scope": "鹿角市尾去沢字東在家"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1964-11-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_125aa407fa3b157a",
+      "official_name": "大森親山獅子大権現舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5209",
+          "municipality_name": "鹿角市",
+          "geographic_scope": "鹿角市尾去沢字東在家"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-125aa407fa3b157a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3aa5649be7b15a06": {
+    "title": "根笹派大音笹流錦風流尺八",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2202",
+        "municipality_name": "弘前市",
+        "geographic_scope": "弘前市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1981-06-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3aa5649be7b15a06",
+      "official_name": "根笹派大音笹流錦風流尺八",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2202",
+          "municipality_name": "弘前市",
+          "geographic_scope": "弘前市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3aa5649be7b15a06"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4b466c00677a37cb": {
+    "title": "大浦町の庖瘡踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46220",
+        "municipality_name": "南さつま市",
+        "geographic_scope": "南さつま市大浦町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1962-10-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4b466c00677a37cb",
+      "official_name": "大浦町の庖瘡踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46220",
+          "municipality_name": "南さつま市",
+          "geographic_scope": "南さつま市大浦町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4b466c00677a37cb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b09355d148762381": {
+    "title": "小鯖代神楽舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35203",
+        "municipality_name": "山口市",
+        "geographic_scope": "山口市"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b09355d148762381",
+      "official_name": "小鯖代神楽舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35203",
+          "municipality_name": "山口市",
+          "geographic_scope": "山口市"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b09355d148762381"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

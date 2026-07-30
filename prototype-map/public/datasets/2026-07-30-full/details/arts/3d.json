@@ -1,1 +1,614 @@
-{"arts/art_kuni_181fe2f22875fe4a":{"title":"尾口のでくまわし","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「尾口のでくまわし」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/59"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「尾口のでくまわし」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/322"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_181fe2f22875fe4a","official_name":"尾口のでくまわし","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-181fe2f22875fe4a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_2846106404210e8e":{"title":"近江のケンケト祭り長刀振り","summary":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":null,"municipality_name":null,"geographic_scope":"滋賀県守山市、甲賀市、東近江市、蒲生郡竜王町"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2020-03-16","source_title":"国指定文化財等データベース「近江のケンケト祭り長刀振り」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000988"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_2846106404210e8e","official_name":"近江のケンケト祭り長刀振り","reading":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":null,"municipality_name":null,"geographic_scope":"滋賀県守山市、甲賀市、東近江市、蒲生郡竜王町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-2846106404210e8e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_8ba1d00bdf4bd622":{"title":"野大坪万歳","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["blessing_art"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「野大坪万歳」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/329"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_8ba1d00bdf4bd622","official_name":"野大坪万歳","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["blessing_art"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-8ba1d00bdf4bd622"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_9bdf301e609fca26":{"title":"佃の盆踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1999-12-03","source_title":"国指定文化財等データベース「佃の盆踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/708"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_9bdf301e609fca26","official_name":"佃の盆踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-9bdf301e609fca26"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_bdb1b0accba85395":{"title":"大日堂舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「大日堂舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/15"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「大日堂舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/211"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_bdb1b0accba85395","official_name":"大日堂舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-bdb1b0accba85395"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_060fcdcc04a3da94":{"title":"端山の踊り念仏　　木屋の踊り念仏　川見の踊り念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36468","municipality_name":"つるぎ町","geographic_scope":"つるぎ町貞光字木屋・字川見105"}],"archive_genre_ids":["nenbutsu_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"徳島県","date":"1981-05-06","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_060fcdcc04a3da94","official_name":"端山の踊り念仏　　木屋の踊り念仏　川見の踊り念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36468","municipality_name":"つるぎ町","geographic_scope":"つるぎ町貞光字木屋・字川見105"}],"archive_genre_ids":["nenbutsu_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-060fcdcc04a3da94"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_739ea6a762e514a6":{"title":"大寺の三番叟","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12238","municipality_name":"いすみ市","geographic_scope":"いすみ市下布施"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1987-02-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_739ea6a762e514a6","official_name":"大寺の三番叟","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12238","municipality_name":"いすみ市","geographic_scope":"いすみ市下布施"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-739ea6a762e514a6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8b4dbc7f09d08093":{"title":"大波野神舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35343","municipality_name":"田布施町","geographic_scope":"田布施町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山口県","date":"2000-12-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8b4dbc7f09d08093","official_name":"大波野神舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35343","municipality_name":"田布施町","geographic_scope":"田布施町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8b4dbc7f09d08093"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b13e5f2bf81e5808":{"title":"野田町熊野神杜の田の神舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46208","municipality_name":"出水市","geographic_scope":"出水市野田町熊陳"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1962-10-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b13e5f2bf81e5808","official_name":"野田町熊野神杜の田の神舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46208","municipality_name":"出水市","geographic_scope":"出水市野田町熊陳"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b13e5f2bf81e5808"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b6f8cf926135fb73":{"title":"御調八幡宮の花おどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34204","municipality_name":"三原市","geographic_scope":"三原市八幡町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1965-10-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b6f8cf926135fb73","official_name":"御調八幡宮の花おどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34204","municipality_name":"三原市","geographic_scope":"三原市八幡町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b6f8cf926135fb73"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f91367a4ecb41044":{"title":"神楽―五行祭―","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34212","municipality_name":"東広島市","geographic_scope":"東広島市豊栄町清武"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1969-04-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f91367a4ecb41044","official_name":"神楽―五行祭―","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34212","municipality_name":"東広島市","geographic_scope":"東広島市豊栄町清武"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f91367a4ecb41044"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_fbf9d6adf56bfc30":{"title":"仁比山神社の御田舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41210","municipality_name":"神埼市","geographic_scope":"神埼市神埼町的"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"佐賀県","date":"1959-03-20","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_fbf9d6adf56bfc30","official_name":"仁比山神社の御田舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":"41210","municipality_name":"神埼市","geographic_scope":"神埼市神埼町的"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-fbf9d6adf56bfc30"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_181fe2f22875fe4a": {
+    "title": "尾口のでくまわし",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「尾口のでくまわし」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/59"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「尾口のでくまわし」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/322"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_181fe2f22875fe4a",
+      "official_name": "尾口のでくまわし",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-181fe2f22875fe4a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_2846106404210e8e": {
+    "title": "近江のケンケト祭り長刀振り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "25",
+        "prefecture_name": "滋賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "滋賀県守山市、甲賀市、東近江市、蒲生郡竜王町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2020-03-16",
+        "source_title": "国指定文化財等データベース「近江のケンケト祭り長刀振り」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000988"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2846106404210e8e",
+      "official_name": "近江のケンケト祭り長刀振り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "25",
+          "prefecture_name": "滋賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "滋賀県守山市、甲賀市、東近江市、蒲生郡竜王町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2846106404210e8e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8ba1d00bdf4bd622": {
+    "title": "野大坪万歳",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "blessing_art"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「野大坪万歳」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/329"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8ba1d00bdf4bd622",
+      "official_name": "野大坪万歳",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "blessing_art"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8ba1d00bdf4bd622"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9bdf301e609fca26": {
+    "title": "佃の盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1999-12-03",
+        "source_title": "国指定文化財等データベース「佃の盆踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/708"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9bdf301e609fca26",
+      "official_name": "佃の盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9bdf301e609fca26"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_bdb1b0accba85395": {
+    "title": "大日堂舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「大日堂舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/15"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「大日堂舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/211"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_bdb1b0accba85395",
+      "official_name": "大日堂舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-bdb1b0accba85395"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_060fcdcc04a3da94": {
+    "title": "端山の踊り念仏　　木屋の踊り念仏　川見の踊り念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "36468",
+        "municipality_name": "つるぎ町",
+        "geographic_scope": "つるぎ町貞光字木屋・字川見105"
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "徳島県",
+        "date": "1981-05-06",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_060fcdcc04a3da94",
+      "official_name": "端山の踊り念仏　　木屋の踊り念仏　川見の踊り念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "36468",
+          "municipality_name": "つるぎ町",
+          "geographic_scope": "つるぎ町貞光字木屋・字川見105"
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-060fcdcc04a3da94"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_739ea6a762e514a6": {
+    "title": "大寺の三番叟",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12238",
+        "municipality_name": "いすみ市",
+        "geographic_scope": "いすみ市下布施"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1987-02-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_739ea6a762e514a6",
+      "official_name": "大寺の三番叟",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12238",
+          "municipality_name": "いすみ市",
+          "geographic_scope": "いすみ市下布施"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-739ea6a762e514a6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8b4dbc7f09d08093": {
+    "title": "大波野神舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35343",
+        "municipality_name": "田布施町",
+        "geographic_scope": "田布施町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "2000-12-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8b4dbc7f09d08093",
+      "official_name": "大波野神舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35343",
+          "municipality_name": "田布施町",
+          "geographic_scope": "田布施町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8b4dbc7f09d08093"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b13e5f2bf81e5808": {
+    "title": "野田町熊野神杜の田の神舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46208",
+        "municipality_name": "出水市",
+        "geographic_scope": "出水市野田町熊陳"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1962-10-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b13e5f2bf81e5808",
+      "official_name": "野田町熊野神杜の田の神舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46208",
+          "municipality_name": "出水市",
+          "geographic_scope": "出水市野田町熊陳"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b13e5f2bf81e5808"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b6f8cf926135fb73": {
+    "title": "御調八幡宮の花おどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34204",
+        "municipality_name": "三原市",
+        "geographic_scope": "三原市八幡町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1965-10-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b6f8cf926135fb73",
+      "official_name": "御調八幡宮の花おどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34204",
+          "municipality_name": "三原市",
+          "geographic_scope": "三原市八幡町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b6f8cf926135fb73"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f91367a4ecb41044": {
+    "title": "神楽―五行祭―",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34212",
+        "municipality_name": "東広島市",
+        "geographic_scope": "東広島市豊栄町清武"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1969-04-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f91367a4ecb41044",
+      "official_name": "神楽―五行祭―",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34212",
+          "municipality_name": "東広島市",
+          "geographic_scope": "東広島市豊栄町清武"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f91367a4ecb41044"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fbf9d6adf56bfc30": {
+    "title": "仁比山神社の御田舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "41210",
+        "municipality_name": "神埼市",
+        "geographic_scope": "神埼市神埼町的"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "佐賀県",
+        "date": "1959-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fbf9d6adf56bfc30",
+      "official_name": "仁比山神社の御田舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "41210",
+          "municipality_name": "神埼市",
+          "geographic_scope": "神埼市神埼町的"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fbf9d6adf56bfc30"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

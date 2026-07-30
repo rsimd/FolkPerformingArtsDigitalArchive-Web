@@ -1,1 +1,172 @@
-{"arts/art_kuni_17d7473f85fd4b80":{"title":"黒森歌舞伎","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6204","municipality_name":"酒田市","geographic_scope":"酒田市黒森"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-12-04","source_title":"国指定文化財等データベース「黒森歌舞伎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/650"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"1976-08-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_17d7473f85fd4b80","official_name":"黒森歌舞伎","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6204","municipality_name":"酒田市","geographic_scope":"酒田市黒森"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-17d7473f85fd4b80"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5b2be1afcba07ed9":{"title":"久賀のなむでん踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35305","municipality_name":"周防大島町","geographic_scope":"周防大島町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山口県","date":"1976-03-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5b2be1afcba07ed9","official_name":"久賀のなむでん踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35305","municipality_name":"周防大島町","geographic_scope":"周防大島町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5b2be1afcba07ed9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bcd8be3e7c0e449f":{"title":"八沢木獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5203","municipality_name":"横手市","geographic_scope":"横手市大森町八沢木"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"1965-02-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bcd8be3e7c0e449f","official_name":"八沢木獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5203","municipality_name":"横手市","geographic_scope":"横手市大森町八沢木"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bcd8be3e7c0e449f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_17d7473f85fd4b80": {
+    "title": "黒森歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6204",
+        "municipality_name": "酒田市",
+        "geographic_scope": "酒田市黒森"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-12-04",
+        "source_title": "国指定文化財等データベース「黒森歌舞伎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/650"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "1976-08-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_17d7473f85fd4b80",
+      "official_name": "黒森歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6204",
+          "municipality_name": "酒田市",
+          "geographic_scope": "酒田市黒森"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-17d7473f85fd4b80"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5b2be1afcba07ed9": {
+    "title": "久賀のなむでん踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35305",
+        "municipality_name": "周防大島町",
+        "geographic_scope": "周防大島町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5b2be1afcba07ed9",
+      "official_name": "久賀のなむでん踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35305",
+          "municipality_name": "周防大島町",
+          "geographic_scope": "周防大島町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5b2be1afcba07ed9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bcd8be3e7c0e449f": {
+    "title": "八沢木獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5203",
+        "municipality_name": "横手市",
+        "geographic_scope": "横手市大森町八沢木"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1965-02-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bcd8be3e7c0e449f",
+      "official_name": "八沢木獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5203",
+          "municipality_name": "横手市",
+          "geographic_scope": "横手市大森町八沢木"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bcd8be3e7c0e449f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,526 @@
-{"organizations/channel_UCJAvZ0rwyCc2GXfDpUF2zbA":{"title":"KSちな丸","organization_type":"寺社","prefecture":"青森県","region":"東北","channel_url":"https://www.youtube.com/channel/UCJAvZ0rwyCc2GXfDpUF2zbA","location_evidence_type":"curated_regional_research","location_confidence":0.95,"relevance_confidence":"medium","detected_art_terms":["神楽","伝統芸能"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=g31Z5DAX4pI"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCJAvZ0rwyCc2GXfDpUF2zbA","チャンネル名":"KSちな丸","チャンネルURL":"https://www.youtube.com/channel/UCJAvZ0rwyCc2GXfDpUF2zbA","運営主体":"寺社","地方":"東北","都道府県":"青森県","所在地根拠種別":"curated_regional_research","所在地確度":0.95,"関連確信度":"medium","要確認":"確認不要","関連性スコア":42,"根拠動画数":8,"検出芸能語":"神楽 | 伝統芸能","代表根拠動画":"青森県横浜町百目木神楽会　2024","代表根拠URL":"https://www.youtube.com/watch?v=g31Z5DAX4pI","登録者数":32,"公開動画数":8,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"検証済"}},"organizations/channel_UCjmYKuC1Pf-IA6PisLb4T8w":{"title":"MCN宮崎ケーブルテレビ[公式]","organization_type":"報道・地域メディア","prefecture":"宮崎県","region":"九州","channel_url":"https://www.youtube.com/channel/UCjmYKuC1Pf-IA6PisLb4T8w","location_evidence_type":"channel_profile","location_confidence":0.95,"relevance_confidence":"medium","detected_art_terms":["無形民俗文化財"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=hIf-9AOfylw"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCjmYKuC1Pf-IA6PisLb4T8w","チャンネル名":"MCN宮崎ケーブルテレビ[公式]","チャンネルURL":"https://www.youtube.com/channel/UCjmYKuC1Pf-IA6PisLb4T8w","運営主体":"報道・地域メディア","地方":"九州","都道府県":"宮崎県","所在地根拠種別":"channel_profile","所在地確度":0.95,"関連確信度":"medium","要確認":"確認不要","関連性スコア":29,"根拠動画数":2,"検出芸能語":"無形民俗文化財","代表根拠動画":"『巨田神社 国指定重要文化財』『巨田池の鴨網猟 県指定無形民俗文化財』宮崎の価値ある文化財を紹介！！「宮崎文化財めぐり」","代表根拠URL":"https://www.youtube.com/watch?v=hIf-9AOfylw","登録者数":24000,"公開動画数":4218,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"検証済"}},"organizations/channel_UCesctHBcHzsjhP0NTAfMDUQ":{"title":"愛媛翔輝荘.","organization_type":"個人・地域記録者等","prefecture":"愛媛県","region":"四国","channel_url":"https://www.youtube.com/channel/UCesctHBcHzsjhP0NTAfMDUQ","location_evidence_type":"channel_profile","location_confidence":0.95,"relevance_confidence":"medium","detected_art_terms":["獅子舞・獅子踊"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=9L_Ycuk9vio"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCesctHBcHzsjhP0NTAfMDUQ","チャンネル名":"愛媛翔輝荘.","チャンネルURL":"https://www.youtube.com/channel/UCesctHBcHzsjhP0NTAfMDUQ","運営主体":"個人・地域記録者等","地方":"四国","都道府県":"愛媛県","所在地根拠種別":"channel_profile","所在地確度":0.95,"関連確信度":"medium","要確認":"確認不要","関連性スコア":21,"根拠動画数":2,"検出芸能語":"獅子舞・獅子踊","代表根拠動画":"愛媛翔輝莊八幡浜の獅子舞い","代表根拠URL":"https://www.youtube.com/watch?v=9L_Ycuk9vio","登録者数":4210,"公開動画数":5737,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"検証済"}},"organizations/channel_UCFIlFvYMWkPE6uDcjdro1UA":{"title":"テレビ静岡ニュース","organization_type":"報道・地域メディア","prefecture":"静岡県","region":"東海","channel_url":"https://www.youtube.com/channel/UCFIlFvYMWkPE6uDcjdro1UA","location_evidence_type":"channel_profile","location_confidence":0.95,"relevance_confidence":"low","detected_art_terms":["民俗芸能","盆踊","風流踊","念仏踊"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=bCt_P2vRbX0"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCFIlFvYMWkPE6uDcjdro1UA","チャンネル名":"テレビ静岡ニュース","チャンネルURL":"https://www.youtube.com/channel/UCFIlFvYMWkPE6uDcjdro1UA","運営主体":"報道・地域メディア","地方":"東海","都道府県":"静岡県","所在地根拠種別":"channel_profile","所在地確度":0.95,"関連確信度":"low","要確認":"要確認","関連性スコア":22,"根拠動画数":1,"検出芸能語":"民俗芸能 | 盆踊 | 風流踊 | 念仏踊","代表根拠動画":"「風流踊」がユネスコ無形文化遺産に登録へ　静岡県の「徳山の盆踊」「有東木の盆踊」など41の民族芸能","代表根拠URL":"https://www.youtube.com/watch?v=bCt_P2vRbX0","登録者数":52800,"公開動画数":4228,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"未検証"}},"organizations/channel_UCaOpz0W4CZpoXS1gaHaVx6w":{"title":"祭礼行事 Archived footage","organization_type":"個人・地域記録者等","prefecture":"大分県","region":"九州","channel_url":"https://www.youtube.com/channel/UCaOpz0W4CZpoXS1gaHaVx6w","location_evidence_type":"evidence_video","location_confidence":0.9,"relevance_confidence":"low","detected_art_terms":["無形民俗文化財","神楽"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=PxyxZw7Cvf4"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCaOpz0W4CZpoXS1gaHaVx6w","チャンネル名":"祭礼行事 Archived footage","チャンネルURL":"https://www.youtube.com/channel/UCaOpz0W4CZpoXS1gaHaVx6w","運営主体":"個人・地域記録者等","地方":"九州","都道府県":"大分県","所在地根拠種別":"evidence_video","所在地確度":0.9,"関連確信度":"low","要確認":"要確認","関連性スコア":22,"根拠動画数":1,"検出芸能語":"無形民俗文化財 | 神楽","代表根拠動画":"「重岡岩戸神楽」大分県の文化財に","代表根拠URL":"https://www.youtube.com/watch?v=PxyxZw7Cvf4","登録者数":279,"公開動画数":74,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"未検証"}},"organizations/channel_UCbhfOrBIb55el3fsLccOAaQ":{"title":"多治見市公式チャンネル","organization_type":"個人・地域記録者等","prefecture":"岐阜県","region":"東海","channel_url":"https://www.youtube.com/channel/UCbhfOrBIb55el3fsLccOAaQ","location_evidence_type":"evidence_video","location_confidence":0.9,"relevance_confidence":"low","detected_art_terms":["民俗芸能","無形民俗文化財","棒踊・棒の手"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=YOBc1t0MzZ8"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCbhfOrBIb55el3fsLccOAaQ","チャンネル名":"多治見市公式チャンネル","チャンネルURL":"https://www.youtube.com/channel/UCbhfOrBIb55el3fsLccOAaQ","運営主体":"個人・地域記録者等","地方":"東海","都道府県":"岐阜県","所在地根拠種別":"evidence_video","所在地確度":0.9,"関連確信度":"low","要確認":"要確認","関連性スコア":22,"根拠動画数":1,"検出芸能語":"民俗芸能 | 無形民俗文化財 | 棒踊・棒の手","代表根拠動画":"岐阜県重要無形民俗文化財「 小木棒の手 」 　（岐阜県多治見市）","代表根拠URL":"https://www.youtube.com/watch?v=YOBc1t0MzZ8","登録者数":1460,"公開動画数":271,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"未検証"}},"organizations/channel_UCRIZn3KcSYnVRcdHeT-ERTA":{"title":"大阪市城東区役所","organization_type":"個人・地域記録者等","prefecture":"大阪府","region":"近畿","channel_url":"https://www.youtube.com/channel/UCRIZn3KcSYnVRcdHeT-ERTA","location_evidence_type":"channel_profile","location_confidence":0.95,"relevance_confidence":"low","detected_art_terms":["無形民俗文化財","獅子舞・獅子踊"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=ovu7vXbb2Eo"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCRIZn3KcSYnVRcdHeT-ERTA","チャンネル名":"大阪市城東区役所","チャンネルURL":"https://www.youtube.com/channel/UCRIZn3KcSYnVRcdHeT-ERTA","運営主体":"個人・地域記録者等","地方":"近畿","都道府県":"大阪府","所在地根拠種別":"channel_profile","所在地確度":0.95,"関連確信度":"low","要確認":"要確認","関連性スコア":22,"根拠動画数":1,"検出芸能語":"無形民俗文化財 | 獅子舞・獅子踊","代表根拠動画":"大阪市指定無形民俗文化財　城東区　諏訪神社の獅子舞「練習風景」","代表根拠URL":"https://www.youtube.com/watch?v=ovu7vXbb2Eo","登録者数":71,"公開動画数":15,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"未検証"}},"organizations/directory_org_2e544c94fb97":{"title":"大森神楽保存会","aliases":["大森神楽"],"organization_type":"保存団体","appearance_type":"保存団体 / 出演団体","prefecture":"岩手県","municipality":null,"channel_url":null,"web_url":"http://oomorikagura.web.fc2.com/index.html","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.98,"representative_video_ids":["KiySwBUV1Nk","--T_m0Q43No","PxZ5JnH_5VY","FuBa2Q2Ljj0","cAMi2m0ub5c"],"source_urls":["http://oomorikagura.web.fc2.com/index.html","https://www.youtube.com/watch?v=KiySwBUV1Nk","https://www.youtube.com/watch?v=--T_m0Q43No","https://www.youtube.com/watch?v=PxZ5JnH_5VY","https://www.youtube.com/watch?v=FuBa2Q2Ljj0","https://www.youtube.com/watch?v=cAMi2m0ub5c"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_2e544c94fb97","団体名":"大森神楽保存会","別名":"大森神楽","登場区分":"保存団体 / 出演団体","団体種別":"保存団体","登場チャンネル":"maturinookkake","動画数":55,"代表video_id":"KiySwBUV1Nk / --T_m0Q43No / PxZ5JnH_5VY / FuBa2Q2Ljj0 / cAMi2m0ub5c","YouTubeチャンネル":null,"Webサイト・紹介ページ":"http://oomorikagura.web.fc2.com/index.html","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「大森神楽」 | organization_web_or_social: 岩手大学民俗芸能サークルばっけ公式サイト掲載の保存会公式ホームページ | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (KiySwBUV1Nk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (--T_m0Q43No) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (PxZ5JnH_5VY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (FuBa2Q2Ljj0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cAMi2m0ub5c) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (XAnZA4GuQQY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (jsRRyNL3h-M) | youtube_structured_video: 出演団体として「大森神楽保存会」を抽出 (iVaeXnXNBWU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (iVaeXnXNBWU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (6iJqYRNh_V4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (UAsv5d_gJ18) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (h2duQOK-Z08) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (dklPJDv99Do) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (GTezrKXJzKk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cq1NgbNs-e4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (jaOVrVDASyw) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (uTvQBNlsKRM) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (hIFdDboOuSo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (vdn0wjEEWp4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (auE2VZDx_kY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EpCeCh0NE_I) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (CppeorzzUzo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZEMXrvLTZN8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZFLTTCWPMZE) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cDzJYvXXa1c) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Onq6L-Xc0j0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (r_OUE-g0AtA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ttvo5k9oCNE) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (b8jJZfu-bQ4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ymxKGppgwW4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (hawuVtXpwAo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (X1vB99LlGHI) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Ndmx9SpkLOk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EOCpid4aa3s) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (vgu-lXHC8I4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (e323HsF9qTs) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Vo22ZzTKAT8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EH6nOX-RlJg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (16sLH4JgYZ0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (y2zgdTPcJjA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (UNgehB3smRU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (XGT58YnNvq4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (73hIA0rqEIk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (WYDkPHV0LUM) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (LaoxNrQYFmA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (4Njrlfs9u3E) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (bYGDIpsNps8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (JbYOIU_LHh0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (oQCRGsRsEZg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (kBVkBcivKVo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (s1F64Wr8PQg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cMcDcSstgI8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (p-anlwlcq58) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (tfIic8SPwns) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZeLFVugPg3A) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (sKSv18BIT2w)","根拠URL":"http://oomorikagura.web.fc2.com/index.html | https://www.youtube.com/watch?v=KiySwBUV1Nk | https://www.youtube.com/watch?v=--T_m0Q43No | https://www.youtube.com/watch?v=PxZ5JnH_5VY | https://www.youtube.com/watch?v=FuBa2Q2Ljj0 | https://www.youtube.com/watch?v=cAMi2m0ub5c","確信度":0.98,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_b496cb2112fd":{"title":"讃岐獅子舞保存会","aliases":[],"organization_type":"保存・実演団体","appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":"https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g","web_url":"https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html","instagram":"https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr","x":null,"facebook":null,"relevance_confidence":0.96,"representative_video_ids":["liYPvie-fZc","7htcP3Y0Ttk"],"source_urls":["https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g","https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html","https://www.youtube.com/@nakagumi44","https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr","https://www.youtube.com/watch?v=liYPvie-fZc","https://www.youtube.com/watch?v=7htcP3Y0Ttk"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_b496cb2112fd","団体名":"讃岐獅子舞保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":"保存・実演団体","登場チャンネル":"中組獅子保存会【公式】 / 讃岐獅子舞and鉄道","動画数":2,"代表video_id":"liYPvie-fZc / 7htcP3Y0Ttk","YouTubeチャンネル":"https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g","Webサイト・紹介ページ":"https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html","Instagram":"https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr","X":null,"Facebook":null,"根拠文字列":"YouTubeチャンネル名・説明欄: 讃岐獅子舞保存会: https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g | 団体名と活動地域が一致する公式・自治体・文化機関ページを確認。: https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html | youtube_structured_video: 出演団体として「讃岐獅子舞保存会」を抽出 (liYPvie-fZc) | youtube_structured_video: 保存団体として「讃岐獅子舞保存会」を抽出 (liYPvie-fZc) | youtube_structured_video: 出演団体として「讃岐獅子舞保存会」を抽出 (7htcP3Y0Ttk) | youtube_structured_video: 保存団体として「讃岐獅子舞保存会」を抽出 (7htcP3Y0Ttk) | youtube_channel_catalog: チャンネル名が団体名と一致 (UCjQhFWgwXG7aejMkmwKhJpw) | youtube_description_url: matching_channel_description からinstagram_urlを確認","根拠URL":"https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g | https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html | https://www.youtube.com/@nakagumi44 | https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr | https://www.youtube.com/watch?v=liYPvie-fZc | https://www.youtube.com/watch?v=7htcP3Y0Ttk","確信度":0.96,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_109a87bd7af9":{"title":"来田七ツ物踊り保存会","aliases":["来田七ツ物保存会","来田七つ物保存会"],"organization_type":"保存団体","appearance_type":"保存団体","prefecture":"岩手県","municipality":"一戸町","channel_url":null,"web_url":"https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.98,"representative_video_ids":["zyd0AW9cdqU"],"source_urls":["https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html","https://sitereports.nabunken.go.jp/files/attach/72/72477/143816_1_%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%B8%80%E6%88%B8%E7%94%BA%E6%96%87%E5%8C%96%E8%B2%A1%E5%B9%B4%E5%A0%B1.pdf","https://www.youtube.com/watch?v=zyd0AW9cdqU"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_109a87bd7af9","団体名":"来田七ツ物踊り保存会","別名":"来田七ツ物保存会 / 来田七つ物保存会","登場区分":"保存団体","団体種別":"保存団体","登場チャンネル":"北の祭りと芸能","動画数":1,"代表video_id":"zyd0AW9cdqU","YouTubeチャンネル":null,"Webサイト・紹介ページ":"https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"岩手県公式が「来田七つ物踊り保存会」の活動を紹介。一戸町文化財年報では「来田七ツ物踊り保存会」と表記されるため各表記をaliasに統合。団体自身の公式Web・SNSは検索で確認できなかった","根拠URL":"https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html | https://sitereports.nabunken.go.jp/files/attach/72/72477/143816_1_%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%B8%80%E6%88%B8%E7%94%BA%E6%96%87%E5%8C%96%E8%B2%A1%E5%B9%B4%E5%A0%B1.pdf | https://www.youtube.com/watch?v=zyd0AW9cdqU","確信度":0.98,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_d173eb6b1e9e":{"title":"仰山流丑石鹿踊","aliases":[],"organization_type":"出演団体","appearance_type":"出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.9,"representative_video_ids":["Hm8f5oJooBk","4YW9SqnZvH4","mdqy1OnZTTc","fTrxCK6xWZc","zqA9ewaGTHk"],"source_urls":["https://www.youtube.com/watch?v=Hm8f5oJooBk","https://www.youtube.com/watch?v=4YW9SqnZvH4","https://www.youtube.com/watch?v=mdqy1OnZTTc","https://www.youtube.com/watch?v=fTrxCK6xWZc","https://www.youtube.com/watch?v=zqA9ewaGTHk"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_d173eb6b1e9e","団体名":"仰山流丑石鹿踊","別名":null,"登場区分":"出演団体","団体種別":"出演団体","登場チャンネル":"maturinookkake / 鳥海行鹿","動画数":6,"代表video_id":"Hm8f5oJooBk / 4YW9SqnZvH4 / mdqy1OnZTTc / fTrxCK6xWZc / zqA9ewaGTHk","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「仰山流丑石鹿踊」 | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (Hm8f5oJooBk) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (4YW9SqnZvH4) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (mdqy1OnZTTc) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (fTrxCK6xWZc) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (zqA9ewaGTHk) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (DxViRfOzQBc)","根拠URL":"https://www.youtube.com/watch?v=Hm8f5oJooBk | https://www.youtube.com/watch?v=4YW9SqnZvH4 | https://www.youtube.com/watch?v=mdqy1OnZTTc | https://www.youtube.com/watch?v=fTrxCK6xWZc | https://www.youtube.com/watch?v=zqA9ewaGTHk","確信度":0.9,"検索状態":"検索済・URL未確定","要確認":"要確認"}},"organizations/directory_org_e4bc2a135f25":{"title":"春田打保存会","aliases":[],"organization_type":null,"appearance_type":"保存団体 / 出演団体","prefecture":"岩手県","municipality":"奥州市","channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.96,"representative_video_ids":["yskGPi_FcRA"],"source_urls":["https://www.youtube.com/watch?v=yskGPi_FcRA","https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_e4bc2a135f25","団体名":"春田打保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":null,"登場チャンネル":"片岡権現舞　宮田保存会","動画数":1,"代表video_id":"yskGPi_FcRA","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"YouTube動画のタイトルまたは説明欄から、対応候補となる出演団体・保存団体名が抽出されている。: https://www.youtube.com/watch?v=yskGPi_FcRA | 北上市公式ページで春田打と保存活動を確認した。: https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html | youtube_structured_video: 出演団体として「春田打保存会」を抽出 (yskGPi_FcRA) | youtube_structured_video: 保存団体として「春田打保存会」を抽出 (yskGPi_FcRA)","根拠URL":"https://www.youtube.com/watch?v=yskGPi_FcRA | https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html","確信度":0.96,"検索状態":"検索済・URL未確定","要確認":"確認不要"}}}
+{
+  "organizations/channel_UCJAvZ0rwyCc2GXfDpUF2zbA": {
+    "title": "KSちな丸",
+    "organization_type": "寺社",
+    "prefecture": "青森県",
+    "region": "東北",
+    "channel_url": "https://www.youtube.com/channel/UCJAvZ0rwyCc2GXfDpUF2zbA",
+    "location_evidence_type": "curated_regional_research",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "神楽",
+      "伝統芸能"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=g31Z5DAX4pI"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCJAvZ0rwyCc2GXfDpUF2zbA",
+      "チャンネル名": "KSちな丸",
+      "チャンネルURL": "https://www.youtube.com/channel/UCJAvZ0rwyCc2GXfDpUF2zbA",
+      "運営主体": "寺社",
+      "地方": "東北",
+      "都道府県": "青森県",
+      "所在地根拠種別": "curated_regional_research",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 42,
+      "根拠動画数": 8,
+      "検出芸能語": "神楽 | 伝統芸能",
+      "代表根拠動画": "青森県横浜町百目木神楽会　2024",
+      "代表根拠URL": "https://www.youtube.com/watch?v=g31Z5DAX4pI",
+      "登録者数": 32,
+      "公開動画数": 8,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCjmYKuC1Pf-IA6PisLb4T8w": {
+    "title": "MCN宮崎ケーブルテレビ[公式]",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "宮崎県",
+    "region": "九州",
+    "channel_url": "https://www.youtube.com/channel/UCjmYKuC1Pf-IA6PisLb4T8w",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "無形民俗文化財"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=hIf-9AOfylw"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCjmYKuC1Pf-IA6PisLb4T8w",
+      "チャンネル名": "MCN宮崎ケーブルテレビ[公式]",
+      "チャンネルURL": "https://www.youtube.com/channel/UCjmYKuC1Pf-IA6PisLb4T8w",
+      "運営主体": "報道・地域メディア",
+      "地方": "九州",
+      "都道府県": "宮崎県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 29,
+      "根拠動画数": 2,
+      "検出芸能語": "無形民俗文化財",
+      "代表根拠動画": "『巨田神社 国指定重要文化財』『巨田池の鴨網猟 県指定無形民俗文化財』宮崎の価値ある文化財を紹介！！「宮崎文化財めぐり」",
+      "代表根拠URL": "https://www.youtube.com/watch?v=hIf-9AOfylw",
+      "登録者数": 24000,
+      "公開動画数": 4218,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCesctHBcHzsjhP0NTAfMDUQ": {
+    "title": "愛媛翔輝荘.",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "愛媛県",
+    "region": "四国",
+    "channel_url": "https://www.youtube.com/channel/UCesctHBcHzsjhP0NTAfMDUQ",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "獅子舞・獅子踊"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=9L_Ycuk9vio"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCesctHBcHzsjhP0NTAfMDUQ",
+      "チャンネル名": "愛媛翔輝荘.",
+      "チャンネルURL": "https://www.youtube.com/channel/UCesctHBcHzsjhP0NTAfMDUQ",
+      "運営主体": "個人・地域記録者等",
+      "地方": "四国",
+      "都道府県": "愛媛県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 21,
+      "根拠動画数": 2,
+      "検出芸能語": "獅子舞・獅子踊",
+      "代表根拠動画": "愛媛翔輝莊八幡浜の獅子舞い",
+      "代表根拠URL": "https://www.youtube.com/watch?v=9L_Ycuk9vio",
+      "登録者数": 4210,
+      "公開動画数": 5737,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCFIlFvYMWkPE6uDcjdro1UA": {
+    "title": "テレビ静岡ニュース",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "静岡県",
+    "region": "東海",
+    "channel_url": "https://www.youtube.com/channel/UCFIlFvYMWkPE6uDcjdro1UA",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "民俗芸能",
+      "盆踊",
+      "風流踊",
+      "念仏踊"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=bCt_P2vRbX0"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCFIlFvYMWkPE6uDcjdro1UA",
+      "チャンネル名": "テレビ静岡ニュース",
+      "チャンネルURL": "https://www.youtube.com/channel/UCFIlFvYMWkPE6uDcjdro1UA",
+      "運営主体": "報道・地域メディア",
+      "地方": "東海",
+      "都道府県": "静岡県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "民俗芸能 | 盆踊 | 風流踊 | 念仏踊",
+      "代表根拠動画": "「風流踊」がユネスコ無形文化遺産に登録へ　静岡県の「徳山の盆踊」「有東木の盆踊」など41の民族芸能",
+      "代表根拠URL": "https://www.youtube.com/watch?v=bCt_P2vRbX0",
+      "登録者数": 52800,
+      "公開動画数": 4228,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCaOpz0W4CZpoXS1gaHaVx6w": {
+    "title": "祭礼行事 Archived footage",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "大分県",
+    "region": "九州",
+    "channel_url": "https://www.youtube.com/channel/UCaOpz0W4CZpoXS1gaHaVx6w",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "無形民俗文化財",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=PxyxZw7Cvf4"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCaOpz0W4CZpoXS1gaHaVx6w",
+      "チャンネル名": "祭礼行事 Archived footage",
+      "チャンネルURL": "https://www.youtube.com/channel/UCaOpz0W4CZpoXS1gaHaVx6w",
+      "運営主体": "個人・地域記録者等",
+      "地方": "九州",
+      "都道府県": "大分県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "無形民俗文化財 | 神楽",
+      "代表根拠動画": "「重岡岩戸神楽」大分県の文化財に",
+      "代表根拠URL": "https://www.youtube.com/watch?v=PxyxZw7Cvf4",
+      "登録者数": 279,
+      "公開動画数": 74,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCbhfOrBIb55el3fsLccOAaQ": {
+    "title": "多治見市公式チャンネル",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "岐阜県",
+    "region": "東海",
+    "channel_url": "https://www.youtube.com/channel/UCbhfOrBIb55el3fsLccOAaQ",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "民俗芸能",
+      "無形民俗文化財",
+      "棒踊・棒の手"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=YOBc1t0MzZ8"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCbhfOrBIb55el3fsLccOAaQ",
+      "チャンネル名": "多治見市公式チャンネル",
+      "チャンネルURL": "https://www.youtube.com/channel/UCbhfOrBIb55el3fsLccOAaQ",
+      "運営主体": "個人・地域記録者等",
+      "地方": "東海",
+      "都道府県": "岐阜県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "民俗芸能 | 無形民俗文化財 | 棒踊・棒の手",
+      "代表根拠動画": "岐阜県重要無形民俗文化財「 小木棒の手 」 　（岐阜県多治見市）",
+      "代表根拠URL": "https://www.youtube.com/watch?v=YOBc1t0MzZ8",
+      "登録者数": 1460,
+      "公開動画数": 271,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCRIZn3KcSYnVRcdHeT-ERTA": {
+    "title": "大阪市城東区役所",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "大阪府",
+    "region": "近畿",
+    "channel_url": "https://www.youtube.com/channel/UCRIZn3KcSYnVRcdHeT-ERTA",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "無形民俗文化財",
+      "獅子舞・獅子踊"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=ovu7vXbb2Eo"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCRIZn3KcSYnVRcdHeT-ERTA",
+      "チャンネル名": "大阪市城東区役所",
+      "チャンネルURL": "https://www.youtube.com/channel/UCRIZn3KcSYnVRcdHeT-ERTA",
+      "運営主体": "個人・地域記録者等",
+      "地方": "近畿",
+      "都道府県": "大阪府",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "無形民俗文化財 | 獅子舞・獅子踊",
+      "代表根拠動画": "大阪市指定無形民俗文化財　城東区　諏訪神社の獅子舞「練習風景」",
+      "代表根拠URL": "https://www.youtube.com/watch?v=ovu7vXbb2Eo",
+      "登録者数": 71,
+      "公開動画数": 15,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_2e544c94fb97": {
+    "title": "大森神楽保存会",
+    "aliases": [
+      "大森神楽"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "岩手県",
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "http://oomorikagura.web.fc2.com/index.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "KiySwBUV1Nk",
+      "--T_m0Q43No",
+      "PxZ5JnH_5VY",
+      "FuBa2Q2Ljj0",
+      "cAMi2m0ub5c"
+    ],
+    "source_urls": [
+      "http://oomorikagura.web.fc2.com/index.html",
+      "https://www.youtube.com/watch?v=KiySwBUV1Nk",
+      "https://www.youtube.com/watch?v=--T_m0Q43No",
+      "https://www.youtube.com/watch?v=PxZ5JnH_5VY",
+      "https://www.youtube.com/watch?v=FuBa2Q2Ljj0",
+      "https://www.youtube.com/watch?v=cAMi2m0ub5c"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_2e544c94fb97",
+      "団体名": "大森神楽保存会",
+      "別名": "大森神楽",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 55,
+      "代表video_id": "KiySwBUV1Nk / --T_m0Q43No / PxZ5JnH_5VY / FuBa2Q2Ljj0 / cAMi2m0ub5c",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "http://oomorikagura.web.fc2.com/index.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「大森神楽」 | organization_web_or_social: 岩手大学民俗芸能サークルばっけ公式サイト掲載の保存会公式ホームページ | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (KiySwBUV1Nk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (--T_m0Q43No) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (PxZ5JnH_5VY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (FuBa2Q2Ljj0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cAMi2m0ub5c) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (XAnZA4GuQQY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (jsRRyNL3h-M) | youtube_structured_video: 出演団体として「大森神楽保存会」を抽出 (iVaeXnXNBWU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (iVaeXnXNBWU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (6iJqYRNh_V4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (UAsv5d_gJ18) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (h2duQOK-Z08) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (dklPJDv99Do) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (GTezrKXJzKk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cq1NgbNs-e4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (jaOVrVDASyw) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (uTvQBNlsKRM) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (hIFdDboOuSo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (vdn0wjEEWp4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (auE2VZDx_kY) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EpCeCh0NE_I) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (CppeorzzUzo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZEMXrvLTZN8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZFLTTCWPMZE) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cDzJYvXXa1c) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Onq6L-Xc0j0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (r_OUE-g0AtA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ttvo5k9oCNE) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (b8jJZfu-bQ4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ymxKGppgwW4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (hawuVtXpwAo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (X1vB99LlGHI) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Ndmx9SpkLOk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EOCpid4aa3s) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (vgu-lXHC8I4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (e323HsF9qTs) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (Vo22ZzTKAT8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (EH6nOX-RlJg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (16sLH4JgYZ0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (y2zgdTPcJjA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (UNgehB3smRU) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (XGT58YnNvq4) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (73hIA0rqEIk) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (WYDkPHV0LUM) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (LaoxNrQYFmA) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (4Njrlfs9u3E) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (bYGDIpsNps8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (JbYOIU_LHh0) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (oQCRGsRsEZg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (kBVkBcivKVo) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (s1F64Wr8PQg) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (cMcDcSstgI8) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (p-anlwlcq58) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (tfIic8SPwns) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (ZeLFVugPg3A) | youtube_structured_video: 保存団体として「大森神楽保存会」を抽出 (sKSv18BIT2w)",
+      "根拠URL": "http://oomorikagura.web.fc2.com/index.html | https://www.youtube.com/watch?v=KiySwBUV1Nk | https://www.youtube.com/watch?v=--T_m0Q43No | https://www.youtube.com/watch?v=PxZ5JnH_5VY | https://www.youtube.com/watch?v=FuBa2Q2Ljj0 | https://www.youtube.com/watch?v=cAMi2m0ub5c",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_b496cb2112fd": {
+    "title": "讃岐獅子舞保存会",
+    "aliases": [],
+    "organization_type": "保存・実演団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": "https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g",
+    "web_url": "https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html",
+    "instagram": "https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr",
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "liYPvie-fZc",
+      "7htcP3Y0Ttk"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g",
+      "https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html",
+      "https://www.youtube.com/@nakagumi44",
+      "https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr",
+      "https://www.youtube.com/watch?v=liYPvie-fZc",
+      "https://www.youtube.com/watch?v=7htcP3Y0Ttk"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_b496cb2112fd",
+      "団体名": "讃岐獅子舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存・実演団体",
+      "登場チャンネル": "中組獅子保存会【公式】 / 讃岐獅子舞and鉄道",
+      "動画数": 2,
+      "代表video_id": "liYPvie-fZc / 7htcP3Y0Ttk",
+      "YouTubeチャンネル": "https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g",
+      "Webサイト・紹介ページ": "https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html",
+      "Instagram": "https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr",
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "YouTubeチャンネル名・説明欄: 讃岐獅子舞保存会: https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g | 団体名と活動地域が一致する公式・自治体・文化機関ページを確認。: https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html | youtube_structured_video: 出演団体として「讃岐獅子舞保存会」を抽出 (liYPvie-fZc) | youtube_structured_video: 保存団体として「讃岐獅子舞保存会」を抽出 (liYPvie-fZc) | youtube_structured_video: 出演団体として「讃岐獅子舞保存会」を抽出 (7htcP3Y0Ttk) | youtube_structured_video: 保存団体として「讃岐獅子舞保存会」を抽出 (7htcP3Y0Ttk) | youtube_channel_catalog: チャンネル名が団体名と一致 (UCjQhFWgwXG7aejMkmwKhJpw) | youtube_description_url: matching_channel_description からinstagram_urlを確認",
+      "根拠URL": "https://www.youtube.com/channel/UCPPFdVZf0fhac4INeQVo90g | https://www.pref.kagawa.lg.jp/kocho/chijipage/chijiblog/2024/20240415.html | https://www.youtube.com/@nakagumi44 | https://www.instagram.com/nakagumi.shishi.hozonkai?igsh=YnRxM3N1MnczazRq&utm_source=qr | https://www.youtube.com/watch?v=liYPvie-fZc | https://www.youtube.com/watch?v=7htcP3Y0Ttk",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_109a87bd7af9": {
+    "title": "来田七ツ物踊り保存会",
+    "aliases": [
+      "来田七ツ物保存会",
+      "来田七つ物保存会"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体",
+    "prefecture": "岩手県",
+    "municipality": "一戸町",
+    "channel_url": null,
+    "web_url": "https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "zyd0AW9cdqU"
+    ],
+    "source_urls": [
+      "https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html",
+      "https://sitereports.nabunken.go.jp/files/attach/72/72477/143816_1_%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%B8%80%E6%88%B8%E7%94%BA%E6%96%87%E5%8C%96%E8%B2%A1%E5%B9%B4%E5%A0%B1.pdf",
+      "https://www.youtube.com/watch?v=zyd0AW9cdqU"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_109a87bd7af9",
+      "団体名": "来田七ツ物踊り保存会",
+      "別名": "来田七ツ物保存会 / 来田七つ物保存会",
+      "登場区分": "保存団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "北の祭りと芸能",
+      "動画数": 1,
+      "代表video_id": "zyd0AW9cdqU",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "岩手県公式が「来田七つ物踊り保存会」の活動を紹介。一戸町文化財年報では「来田七ツ物踊り保存会」と表記されるため各表記をaliasに統合。団体自身の公式Web・SNSは検索で確認できなかった",
+      "根拠URL": "https://www.pref.iwate.jp/kurashikankyou/chiiki/chiikizukuri/1099031/1099034/1099100.html | https://sitereports.nabunken.go.jp/files/attach/72/72477/143816_1_%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4%E5%BA%A6%E4%B8%80%E6%88%B8%E7%94%BA%E6%96%87%E5%8C%96%E8%B2%A1%E5%B9%B4%E5%A0%B1.pdf | https://www.youtube.com/watch?v=zyd0AW9cdqU",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_d173eb6b1e9e": {
+    "title": "仰山流丑石鹿踊",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "Hm8f5oJooBk",
+      "4YW9SqnZvH4",
+      "mdqy1OnZTTc",
+      "fTrxCK6xWZc",
+      "zqA9ewaGTHk"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=Hm8f5oJooBk",
+      "https://www.youtube.com/watch?v=4YW9SqnZvH4",
+      "https://www.youtube.com/watch?v=mdqy1OnZTTc",
+      "https://www.youtube.com/watch?v=fTrxCK6xWZc",
+      "https://www.youtube.com/watch?v=zqA9ewaGTHk"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_d173eb6b1e9e",
+      "団体名": "仰山流丑石鹿踊",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake / 鳥海行鹿",
+      "動画数": 6,
+      "代表video_id": "Hm8f5oJooBk / 4YW9SqnZvH4 / mdqy1OnZTTc / fTrxCK6xWZc / zqA9ewaGTHk",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「仰山流丑石鹿踊」 | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (Hm8f5oJooBk) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (4YW9SqnZvH4) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (mdqy1OnZTTc) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (fTrxCK6xWZc) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (zqA9ewaGTHk) | youtube_structured_video: 出演団体として「仰山流丑石鹿踊」を抽出 (DxViRfOzQBc)",
+      "根拠URL": "https://www.youtube.com/watch?v=Hm8f5oJooBk | https://www.youtube.com/watch?v=4YW9SqnZvH4 | https://www.youtube.com/watch?v=mdqy1OnZTTc | https://www.youtube.com/watch?v=fTrxCK6xWZc | https://www.youtube.com/watch?v=zqA9ewaGTHk",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_e4bc2a135f25": {
+    "title": "春田打保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "岩手県",
+    "municipality": "奥州市",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "yskGPi_FcRA"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=yskGPi_FcRA",
+      "https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_e4bc2a135f25",
+      "団体名": "春田打保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "片岡権現舞　宮田保存会",
+      "動画数": 1,
+      "代表video_id": "yskGPi_FcRA",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "YouTube動画のタイトルまたは説明欄から、対応候補となる出演団体・保存団体名が抽出されている。: https://www.youtube.com/watch?v=yskGPi_FcRA | 北上市公式ページで春田打と保存活動を確認した。: https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html | youtube_structured_video: 出演団体として「春田打保存会」を抽出 (yskGPi_FcRA) | youtube_structured_video: 保存団体として「春田打保存会」を抽出 (yskGPi_FcRA)",
+      "根拠URL": "https://www.youtube.com/watch?v=yskGPi_FcRA | https://www.city.kitakami.iwate.jp/life/soshikikarasagasu/toshipromotionka/kohocommunicationgakari/2/2/5/4352.html",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  }
+}

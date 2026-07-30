@@ -1,1 +1,262 @@
-{"arts/art_kuni_35d8b281a24d9d80":{"title":"山之口の文弥人形","summary":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1995-12-26","source_title":"国指定文化財等データベース「山之口の文弥人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/627"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「山之口の文弥人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/581"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_35d8b281a24d9d80","official_name":"山之口の文弥人形","reading":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-35d8b281a24d9d80"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_8063671a134638eb":{"title":"高志の狂言","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「高志の狂言」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/541"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_8063671a134638eb","official_name":"高志の狂言","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-8063671a134638eb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_8d2efec3639b066d":{"title":"古典落語","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1995-05-31","source_title":"国指定文化財等データベース「古典落語」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/39"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_8d2efec3639b066d","official_name":"古典落語","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-8d2efec3639b066d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_9c5e1a8df504bd2d":{"title":"歌舞伎","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1965-04-20","source_title":"国指定文化財等データベース「歌舞伎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/103"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_9c5e1a8df504bd2d","official_name":"歌舞伎","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-9c5e1a8df504bd2d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d4a9dd2d8ad9f121":{"title":"北口本宮冨士浅間神社太々神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19202","municipality_name":"富士吉田市","geographic_scope":"富士吉田市上吉田5558"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山梨県","date":"1992-06-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d4a9dd2d8ad9f121","official_name":"北口本宮冨士浅間神社太々神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19202","municipality_name":"富士吉田市","geographic_scope":"富士吉田市上吉田5558"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d4a9dd2d8ad9f121"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_35d8b281a24d9d80": {
+    "title": "山之口の文弥人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1995-12-26",
+        "source_title": "国指定文化財等データベース「山之口の文弥人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/627"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「山之口の文弥人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/581"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_35d8b281a24d9d80",
+      "official_name": "山之口の文弥人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-35d8b281a24d9d80"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8063671a134638eb": {
+    "title": "高志の狂言",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「高志の狂言」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/541"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8063671a134638eb",
+      "official_name": "高志の狂言",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8063671a134638eb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8d2efec3639b066d": {
+    "title": "古典落語",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1995-05-31",
+        "source_title": "国指定文化財等データベース「古典落語」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/39"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8d2efec3639b066d",
+      "official_name": "古典落語",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8d2efec3639b066d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9c5e1a8df504bd2d": {
+    "title": "歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1965-04-20",
+        "source_title": "国指定文化財等データベース「歌舞伎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/103"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9c5e1a8df504bd2d",
+      "official_name": "歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9c5e1a8df504bd2d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d4a9dd2d8ad9f121": {
+    "title": "北口本宮冨士浅間神社太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "19",
+        "prefecture_name": "山梨県",
+        "municipality_code": "19202",
+        "municipality_name": "富士吉田市",
+        "geographic_scope": "富士吉田市上吉田5558"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山梨県",
+        "date": "1992-06-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d4a9dd2d8ad9f121",
+      "official_name": "北口本宮冨士浅間神社太々神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "19",
+          "prefecture_name": "山梨県",
+          "municipality_code": "19202",
+          "municipality_name": "富士吉田市",
+          "geographic_scope": "富士吉田市上吉田5558"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d4a9dd2d8ad9f121"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

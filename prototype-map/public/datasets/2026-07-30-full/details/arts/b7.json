@@ -1,1 +1,330 @@
-{"arts/art_local_178c4b7ed7eb608c":{"title":"坂ノ下番楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市矢島町坂ノ下字大石原"}],"archive_genre_ids":["yamabushi_kagura"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"1970-04-02","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_178c4b7ed7eb608c","official_name":"坂ノ下番楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市矢島町坂ノ下字大石原"}],"archive_genre_ids":["yamabushi_kagura"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-178c4b7ed7eb608c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_290fafc79e416811":{"title":"会津大念仏摂取講","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7422","municipality_name":"湯川村","geographic_scope":"湯川村勝常字代舞"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7208","municipality_name":"喜多方市","geographic_scope":"喜多方市熊倉町新合字辻道下"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7208","municipality_name":"喜多方市","geographic_scope":"喜多方市三吉字中ノ目"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"2003-03-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_290fafc79e416811","official_name":"会津大念仏摂取講","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7422","municipality_name":"湯川村","geographic_scope":"湯川村勝常字代舞"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7208","municipality_name":"喜多方市","geographic_scope":"喜多方市熊倉町新合字辻道下"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7208","municipality_name":"喜多方市","geographic_scope":"喜多方市三吉字中ノ目"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-290fafc79e416811"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_62c5a0661ffe444f":{"title":"太刀踊（御霊社）","summary":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33212","municipality_name":"瀬戸内市","geographic_scope":"瀬戸内市牛窓町牛窓"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岡山県","date":"1960-08-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_62c5a0661ffe444f","official_name":"太刀踊（御霊社）","reading":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33212","municipality_name":"瀬戸内市","geographic_scope":"瀬戸内市牛窓町牛窓"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-62c5a0661ffe444f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e5d1889b41c65216":{"title":"六斎念仏（瓜生）","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18501","municipality_name":"若狭町","geographic_scope":"若狭町瓜生"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福井県","date":"1962-05-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e5d1889b41c65216","official_name":"六斎念仏（瓜生）","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18501","municipality_name":"若狭町","geographic_scope":"若狭町瓜生"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e5d1889b41c65216"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e7d5d68b8670bc51":{"title":"上野の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30206","municipality_name":"田辺市","geographic_scope":"田辺市下川下上野"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1962-02-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e7d5d68b8670bc51","official_name":"上野の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30206","municipality_name":"田辺市","geographic_scope":"田辺市下川下上野"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e7d5d68b8670bc51"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_edd0fcccd2f19fe8":{"title":"山戸能","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6203","municipality_name":"鶴岡市","geographic_scope":"鶴岡市山五十川宮田"}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"1976-08-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_edd0fcccd2f19fe8","official_name":"山戸能","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6203","municipality_name":"鶴岡市","geographic_scope":"鶴岡市山五十川宮田"}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-edd0fcccd2f19fe8"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_178c4b7ed7eb608c": {
+    "title": "坂ノ下番楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5210",
+        "municipality_name": "由利本荘市",
+        "geographic_scope": "由利本荘市矢島町坂ノ下字大石原"
+      }
+    ],
+    "archive_genre_ids": [
+      "yamabushi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1970-04-02",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_178c4b7ed7eb608c",
+      "official_name": "坂ノ下番楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5210",
+          "municipality_name": "由利本荘市",
+          "geographic_scope": "由利本荘市矢島町坂ノ下字大石原"
+        }
+      ],
+      "archive_genre_ids": [
+        "yamabushi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-178c4b7ed7eb608c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_290fafc79e416811": {
+    "title": "会津大念仏摂取講",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7422",
+        "municipality_name": "湯川村",
+        "geographic_scope": "湯川村勝常字代舞"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7208",
+        "municipality_name": "喜多方市",
+        "geographic_scope": "喜多方市熊倉町新合字辻道下"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7208",
+        "municipality_name": "喜多方市",
+        "geographic_scope": "喜多方市三吉字中ノ目"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "2003-03-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_290fafc79e416811",
+      "official_name": "会津大念仏摂取講",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7422",
+          "municipality_name": "湯川村",
+          "geographic_scope": "湯川村勝常字代舞"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7208",
+          "municipality_name": "喜多方市",
+          "geographic_scope": "喜多方市熊倉町新合字辻道下"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7208",
+          "municipality_name": "喜多方市",
+          "geographic_scope": "喜多方市三吉字中ノ目"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-290fafc79e416811"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_62c5a0661ffe444f": {
+    "title": "太刀踊（御霊社）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": "33212",
+        "municipality_name": "瀬戸内市",
+        "geographic_scope": "瀬戸内市牛窓町牛窓"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岡山県",
+        "date": "1960-08-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_62c5a0661ffe444f",
+      "official_name": "太刀踊（御霊社）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": "33212",
+          "municipality_name": "瀬戸内市",
+          "geographic_scope": "瀬戸内市牛窓町牛窓"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-62c5a0661ffe444f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e5d1889b41c65216": {
+    "title": "六斎念仏（瓜生）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18501",
+        "municipality_name": "若狭町",
+        "geographic_scope": "若狭町瓜生"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1962-05-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e5d1889b41c65216",
+      "official_name": "六斎念仏（瓜生）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18501",
+          "municipality_name": "若狭町",
+          "geographic_scope": "若狭町瓜生"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e5d1889b41c65216"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e7d5d68b8670bc51": {
+    "title": "上野の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30206",
+        "municipality_name": "田辺市",
+        "geographic_scope": "田辺市下川下上野"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1962-02-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e7d5d68b8670bc51",
+      "official_name": "上野の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30206",
+          "municipality_name": "田辺市",
+          "geographic_scope": "田辺市下川下上野"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e7d5d68b8670bc51"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_edd0fcccd2f19fe8": {
+    "title": "山戸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6203",
+        "municipality_name": "鶴岡市",
+        "geographic_scope": "鶴岡市山五十川宮田"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "1976-08-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_edd0fcccd2f19fe8",
+      "official_name": "山戸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6203",
+          "municipality_name": "鶴岡市",
+          "geographic_scope": "鶴岡市山五十川宮田"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-edd0fcccd2f19fe8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

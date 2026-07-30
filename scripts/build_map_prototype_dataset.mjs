@@ -1706,7 +1706,7 @@ async function extractExcelSources() {
   }
 }
 
-async function writeJson(relativePath, value, pretty = false) {
+async function writeJson(relativePath, value, pretty = true) {
   const outputPath = path.join(datasetRoot, relativePath);
   await mkdir(path.dirname(outputPath), { recursive: true });
   await writeFile(

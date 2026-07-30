@@ -1,1 +1,358 @@
-{"arts/art_kuni_31bc39c8a5c2aaa9":{"title":"京都の六斎念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1983-01-11","source_title":"国指定文化財等データベース「京都の六斎念仏」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/98"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_31bc39c8a5c2aaa9","official_name":"京都の六斎念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-31bc39c8a5c2aaa9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_470a239b4e79762b":{"title":"綱火","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「綱火」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/31"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「綱火」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/249"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_470a239b4e79762b","official_name":"綱火","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-470a239b4e79762b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_a95e567da9fd4a21":{"title":"都々古別神社の御田植","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["rice_planting_ritual"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2004-02-06","source_title":"国指定文化財等データベース「都々古別神社の御田植」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000777"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「都々古別神社の御田植」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/238"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_a95e567da9fd4a21","official_name":"都々古別神社の御田植","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["rice_planting_ritual"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-a95e567da9fd4a21"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_f6c86d7d5c7164e2":{"title":"南房総地方のミノコオドリ","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2007-03-07","source_title":"国指定文化財等データベース「南房総地方のミノコオドリ」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000831"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_f6c86d7d5c7164e2","official_name":"南房総地方のミノコオドリ","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-f6c86d7d5c7164e2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2aa550760397e03a":{"title":"ひんよう踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市本郷町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1976-06-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2aa550760397e03a","official_name":"ひんよう踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市本郷町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2aa550760397e03a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8925bb0542d1a95e":{"title":"安行原の蛇造り","summary":"五穀豊穣","aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"112038","municipality_name":"川口市","geographic_scope":"大字安行原"}],"archive_genre_ids":[],"designations":[{"type":"市指定無形民俗文化財","jurisdiction":"municipal","authority":"川口市","date":null,"source_title":"埼玉県川口市：文化財一覧「安行原の蛇造り」","source_url":"https://opendata.pref.saitama.lg.jp/data/dataset/kawaguchisicultural-property"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8925bb0542d1a95e","official_name":"安行原の蛇造り","reading":"アンギョウハラノジャヅクリ","aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"112038","municipality_name":"川口市","geographic_scope":"大字安行原"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":"五穀豊穣","continuation_status_id":"unknown","wiki_slug":"art-local-8925bb0542d1a95e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9fe22fbc60ef4e28":{"title":"大蔵谷の牛乗り","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市大蔵本町6-10"}],"archive_genre_ids":[],"designations":[{"type":"市指定文化財（種類:無形民俗）","jurisdiction":"municipal","authority":"明石市","date":"1975-02-06","source_title":"兵庫県明石市：文化財一覧「大蔵谷の牛乗り」","source_url":"https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9fe22fbc60ef4e28","official_name":"大蔵谷の牛乗り","reading":"オオクラダニノシシマイ文化財分類:市指定文化財","aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市大蔵本町6-10"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9fe22fbc60ef4e28"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_31bc39c8a5c2aaa9": {
+    "title": "京都の六斎念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1983-01-11",
+        "source_title": "国指定文化財等データベース「京都の六斎念仏」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/98"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_31bc39c8a5c2aaa9",
+      "official_name": "京都の六斎念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-31bc39c8a5c2aaa9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_470a239b4e79762b": {
+    "title": "綱火",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「綱火」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/31"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「綱火」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/249"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_470a239b4e79762b",
+      "official_name": "綱火",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-470a239b4e79762b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a95e567da9fd4a21": {
+    "title": "都々古別神社の御田植",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2004-02-06",
+        "source_title": "国指定文化財等データベース「都々古別神社の御田植」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000777"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「都々古別神社の御田植」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/238"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a95e567da9fd4a21",
+      "official_name": "都々古別神社の御田植",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a95e567da9fd4a21"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f6c86d7d5c7164e2": {
+    "title": "南房総地方のミノコオドリ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2007-03-07",
+        "source_title": "国指定文化財等データベース「南房総地方のミノコオドリ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000831"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f6c86d7d5c7164e2",
+      "official_name": "南房総地方のミノコオドリ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f6c86d7d5c7164e2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2aa550760397e03a": {
+    "title": "ひんよう踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34207",
+        "municipality_name": "福山市",
+        "geographic_scope": "福山市本郷町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1976-06-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2aa550760397e03a",
+      "official_name": "ひんよう踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34207",
+          "municipality_name": "福山市",
+          "geographic_scope": "福山市本郷町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2aa550760397e03a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8925bb0542d1a95e": {
+    "title": "安行原の蛇造り",
+    "summary": "五穀豊穣",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "112038",
+        "municipality_name": "川口市",
+        "geographic_scope": "大字安行原"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "川口市",
+        "date": null,
+        "source_title": "埼玉県川口市：文化財一覧「安行原の蛇造り」",
+        "source_url": "https://opendata.pref.saitama.lg.jp/data/dataset/kawaguchisicultural-property"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8925bb0542d1a95e",
+      "official_name": "安行原の蛇造り",
+      "reading": "アンギョウハラノジャヅクリ",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "112038",
+          "municipality_name": "川口市",
+          "geographic_scope": "大字安行原"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": "五穀豊穣",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8925bb0542d1a95e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9fe22fbc60ef4e28": {
+    "title": "大蔵谷の牛乗り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "282031",
+        "municipality_name": "明石市",
+        "geographic_scope": "兵庫県明石市大蔵本町6-10"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定文化財（種類:無形民俗）",
+        "jurisdiction": "municipal",
+        "authority": "明石市",
+        "date": "1975-02-06",
+        "source_title": "兵庫県明石市：文化財一覧「大蔵谷の牛乗り」",
+        "source_url": "https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9fe22fbc60ef4e28",
+      "official_name": "大蔵谷の牛乗り",
+      "reading": "オオクラダニノシシマイ文化財分類:市指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "282031",
+          "municipality_name": "明石市",
+          "geographic_scope": "兵庫県明石市大蔵本町6-10"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9fe22fbc60ef4e28"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

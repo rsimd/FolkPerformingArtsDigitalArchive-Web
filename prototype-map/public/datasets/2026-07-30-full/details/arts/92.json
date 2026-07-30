@@ -1,1 +1,328 @@
-{"arts/art_kuni_20c90a62b35c4f97":{"title":"種子島南種子の座敷舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1995-12-26","source_title":"国指定文化財等データベース「種子島南種子の座敷舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/630"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_20c90a62b35c4f97","official_name":"種子島南種子の座敷舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-20c90a62b35c4f97"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_20ae17348b58bc38":{"title":"大浜中区　囃子・三番叟","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"232092","municipality_name":"碧南市","geographic_scope":"愛知県碧南市浜寺町2－67"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"無形民俗文化財（市指定）","jurisdiction":"municipal","authority":"碧南市","date":"1984-04-03","source_title":"愛知県碧南市：文化財一覧「大浜中区　囃子・三番叟」","source_url":"http://www.city.hekinan.lg.jp/jigyousha/open_data/15161.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_20ae17348b58bc38","official_name":"大浜中区　囃子・三番叟","reading":"オオハマナカク　ハヤシ・サンバソウ文化財分類:無形民俗文化財（市指定）","aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"232092","municipality_name":"碧南市","geographic_scope":"愛知県碧南市浜寺町2－67"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-20ae17348b58bc38"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6901bb8494a9fdb4":{"title":"上戸の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8223","municipality_name":"潮来市","geographic_scope":"潮来市上戸1551"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"茨城県","date":"1968-03-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6901bb8494a9fdb4","official_name":"上戸の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8223","municipality_name":"潮来市","geographic_scope":"潮来市上戸1551"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6901bb8494a9fdb4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b7ffd90e0c21f8de":{"title":"仁科の人形三番叟","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22306","municipality_name":"西伊豆町","geographic_scope":"西伊豆町"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町仁科1870-1"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"municipal","authority":"西伊豆町","date":null,"source_title":"静岡県西伊豆町：文化財一覧「仁科の人形三番叟」","source_url":"https://opendata.pref.shizuoka.jp/dataset/8075.html"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1972-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b7ffd90e0c21f8de","official_name":"仁科の人形三番叟","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22306","municipality_name":"西伊豆町","geographic_scope":"西伊豆町"},{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"223069","municipality_name":"西伊豆町","geographic_scope":"静岡県賀茂郡西伊豆町仁科1870-1"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b7ffd90e0c21f8de"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_cdf05fd85fed078b":{"title":"蛸島早船狂言","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172057","municipality_name":"珠洲市","geographic_scope":"石川県珠洲市蛸島町レ138"}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"県指定無形民俗文化財","jurisdiction":"prefectural","authority":"石川県","date":"1996-09-14","source_title":"全国文化財目録「蛸島早船狂言」","source_url":"https://www.city.suzu.lg.jp/kyouiku/bunkazai_takojima_hayafune.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_cdf05fd85fed078b","official_name":"蛸島早船狂言","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172057","municipality_name":"珠洲市","geographic_scope":"石川県珠洲市蛸島町レ138"}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-cdf05fd85fed078b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_eaed426b466370c7":{"title":"内船歌舞伎","summary":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19366","municipality_name":"南部町","geographic_scope":"南部町内船"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山梨県","date":"2011-12-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_eaed426b466370c7","official_name":"内船歌舞伎","reading":null,"aliases":[],"locations":[{"prefecture_code":"19","prefecture_name":"山梨県","municipality_code":"19366","municipality_name":"南部町","geographic_scope":"南部町内船"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-eaed426b466370c7"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_20c90a62b35c4f97": {
+    "title": "種子島南種子の座敷舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1995-12-26",
+        "source_title": "国指定文化財等データベース「種子島南種子の座敷舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/630"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_20c90a62b35c4f97",
+      "official_name": "種子島南種子の座敷舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-20c90a62b35c4f97"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_20ae17348b58bc38": {
+    "title": "大浜中区　囃子・三番叟",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "232092",
+        "municipality_name": "碧南市",
+        "geographic_scope": "愛知県碧南市浜寺町2－67"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "無形民俗文化財（市指定）",
+        "jurisdiction": "municipal",
+        "authority": "碧南市",
+        "date": "1984-04-03",
+        "source_title": "愛知県碧南市：文化財一覧「大浜中区　囃子・三番叟」",
+        "source_url": "http://www.city.hekinan.lg.jp/jigyousha/open_data/15161.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_20ae17348b58bc38",
+      "official_name": "大浜中区　囃子・三番叟",
+      "reading": "オオハマナカク　ハヤシ・サンバソウ文化財分類:無形民俗文化財（市指定）",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "232092",
+          "municipality_name": "碧南市",
+          "geographic_scope": "愛知県碧南市浜寺町2－67"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-20ae17348b58bc38"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6901bb8494a9fdb4": {
+    "title": "上戸の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8223",
+        "municipality_name": "潮来市",
+        "geographic_scope": "潮来市上戸1551"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1968-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6901bb8494a9fdb4",
+      "official_name": "上戸の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8223",
+          "municipality_name": "潮来市",
+          "geographic_scope": "潮来市上戸1551"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6901bb8494a9fdb4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b7ffd90e0c21f8de": {
+    "title": "仁科の人形三番叟",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22306",
+        "municipality_name": "西伊豆町",
+        "geographic_scope": "西伊豆町"
+      },
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "223069",
+        "municipality_name": "西伊豆町",
+        "geographic_scope": "静岡県賀茂郡西伊豆町仁科1870-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "西伊豆町",
+        "date": null,
+        "source_title": "静岡県西伊豆町：文化財一覧「仁科の人形三番叟」",
+        "source_url": "https://opendata.pref.shizuoka.jp/dataset/8075.html"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1972-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b7ffd90e0c21f8de",
+      "official_name": "仁科の人形三番叟",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22306",
+          "municipality_name": "西伊豆町",
+          "geographic_scope": "西伊豆町"
+        },
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "223069",
+          "municipality_name": "西伊豆町",
+          "geographic_scope": "静岡県賀茂郡西伊豆町仁科1870-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b7ffd90e0c21f8de"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_cdf05fd85fed078b": {
+    "title": "蛸島早船狂言",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "172057",
+        "municipality_name": "珠洲市",
+        "geographic_scope": "石川県珠洲市蛸島町レ138"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "石川県",
+        "date": "1996-09-14",
+        "source_title": "全国文化財目録「蛸島早船狂言」",
+        "source_url": "https://www.city.suzu.lg.jp/kyouiku/bunkazai_takojima_hayafune.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_cdf05fd85fed078b",
+      "official_name": "蛸島早船狂言",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "172057",
+          "municipality_name": "珠洲市",
+          "geographic_scope": "石川県珠洲市蛸島町レ138"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-cdf05fd85fed078b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_eaed426b466370c7": {
+    "title": "内船歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "19",
+        "prefecture_name": "山梨県",
+        "municipality_code": "19366",
+        "municipality_name": "南部町",
+        "geographic_scope": "南部町内船"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山梨県",
+        "date": "2011-12-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_eaed426b466370c7",
+      "official_name": "内船歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "19",
+          "prefecture_name": "山梨県",
+          "municipality_code": "19366",
+          "municipality_name": "南部町",
+          "geographic_scope": "南部町内船"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-eaed426b466370c7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

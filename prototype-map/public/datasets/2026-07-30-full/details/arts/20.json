@@ -1,1 +1,476 @@
-{"arts/art_kuni_3ba8b12c4ce91daa":{"title":"山北のお峰入り","summary":null,"aliases":[],"locations":[{"prefecture_code":"14","prefecture_name":"神奈川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1981-01-21","source_title":"国指定文化財等データベース「山北のお峰入り」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/47"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_3ba8b12c4ce91daa","official_name":"山北のお峰入り","reading":null,"aliases":[],"locations":[{"prefecture_code":"14","prefecture_name":"神奈川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-3ba8b12c4ce91daa"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_3c95970520210000":{"title":"谷地の舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「谷地の舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/226"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_3c95970520210000","official_name":"谷地の舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-3c95970520210000"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_65ac8a9ba40533ce":{"title":"平戸のジャンガラ","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1997-12-15","source_title":"国指定文化財等データベース「平戸のジャンガラ」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/641"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「平戸のジャンガラ」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/549"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_65ac8a9ba40533ce","official_name":"平戸のジャンガラ","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-65ac8a9ba40533ce"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_7023f59720cdba0b":{"title":"鶴崎踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1986-12-17","source_title":"国指定文化財等データベース「鶴崎踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/578"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_7023f59720cdba0b","official_name":"鶴崎踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-7023f59720cdba0b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_045ed3b76a7a68b4":{"title":"上方舞（井上流）","summary":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26103","municipality_name":"左京区","geographic_scope":"京都市左京区"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"京都府","date":"1998-03-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_045ed3b76a7a68b4","official_name":"上方舞（井上流）","reading":null,"aliases":[],"locations":[{"prefecture_code":"26","prefecture_name":"京都府","municipality_code":"26103","municipality_name":"左京区","geographic_scope":"京都市左京区"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-045ed3b76a7a68b4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_86e5b6af04a63fea":{"title":"赤幡神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40647","municipality_name":"築上町","geographic_scope":"築上町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_86e5b6af04a63fea","official_name":"赤幡神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40647","municipality_name":"築上町","geographic_scope":"築上町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-86e5b6af04a63fea"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8ebcf939959799ef":{"title":"湯原神社式三番","summary":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20217","municipality_name":"佐久市","geographic_scope":"佐久市湯原327"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長野県","date":"1981-02-02","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8ebcf939959799ef","official_name":"湯原神社式三番","reading":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20217","municipality_name":"佐久市","geographic_scope":"佐久市湯原327"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8ebcf939959799ef"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ced11e250c3c0a8d":{"title":"清沢の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22101","municipality_name":"静岡市","geographic_scope":"静岡市葵区"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1967-10-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ced11e250c3c0a8d","official_name":"清沢の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22101","municipality_name":"静岡市","geographic_scope":"静岡市葵区"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ced11e250c3c0a8d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f87103785eaf4e9d":{"title":"六斎念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30341","municipality_name":"かつらぎ町","geographic_scope":"かつらぎ町下天野"},{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30391","municipality_name":"みなべ町","geographic_scope":"みなべ町晩稲"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1959-08-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1969-04-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f87103785eaf4e9d","official_name":"六斎念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30341","municipality_name":"かつらぎ町","geographic_scope":"かつらぎ町下天野"},{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30391","municipality_name":"みなべ町","geographic_scope":"みなべ町晩稲"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f87103785eaf4e9d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_3ba8b12c4ce91daa": {
+    "title": "山北のお峰入り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "14",
+        "prefecture_name": "神奈川県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1981-01-21",
+        "source_title": "国指定文化財等データベース「山北のお峰入り」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/47"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3ba8b12c4ce91daa",
+      "official_name": "山北のお峰入り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "14",
+          "prefecture_name": "神奈川県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3ba8b12c4ce91daa"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_3c95970520210000": {
+    "title": "谷地の舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「谷地の舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/226"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3c95970520210000",
+      "official_name": "谷地の舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3c95970520210000"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_65ac8a9ba40533ce": {
+    "title": "平戸のジャンガラ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1997-12-15",
+        "source_title": "国指定文化財等データベース「平戸のジャンガラ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/641"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「平戸のジャンガラ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/549"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_65ac8a9ba40533ce",
+      "official_name": "平戸のジャンガラ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-65ac8a9ba40533ce"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_7023f59720cdba0b": {
+    "title": "鶴崎踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "44",
+        "prefecture_name": "大分県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1986-12-17",
+        "source_title": "国指定文化財等データベース「鶴崎踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/578"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_7023f59720cdba0b",
+      "official_name": "鶴崎踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "44",
+          "prefecture_name": "大分県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-7023f59720cdba0b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_045ed3b76a7a68b4": {
+    "title": "上方舞（井上流）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26103",
+        "municipality_name": "左京区",
+        "geographic_scope": "京都市左京区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1998-03-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_045ed3b76a7a68b4",
+      "official_name": "上方舞（井上流）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26103",
+          "municipality_name": "左京区",
+          "geographic_scope": "京都市左京区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-045ed3b76a7a68b4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_86e5b6af04a63fea": {
+    "title": "赤幡神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40647",
+        "municipality_name": "築上町",
+        "geographic_scope": "築上町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_86e5b6af04a63fea",
+      "official_name": "赤幡神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40647",
+          "municipality_name": "築上町",
+          "geographic_scope": "築上町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-86e5b6af04a63fea"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8ebcf939959799ef": {
+    "title": "湯原神社式三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": "20217",
+        "municipality_name": "佐久市",
+        "geographic_scope": "佐久市湯原327"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長野県",
+        "date": "1981-02-02",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8ebcf939959799ef",
+      "official_name": "湯原神社式三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": "20217",
+          "municipality_name": "佐久市",
+          "geographic_scope": "佐久市湯原327"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8ebcf939959799ef"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ced11e250c3c0a8d": {
+    "title": "清沢の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22101",
+        "municipality_name": "静岡市",
+        "geographic_scope": "静岡市葵区"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1967-10-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ced11e250c3c0a8d",
+      "official_name": "清沢の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22101",
+          "municipality_name": "静岡市",
+          "geographic_scope": "静岡市葵区"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ced11e250c3c0a8d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f87103785eaf4e9d": {
+    "title": "六斎念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30341",
+        "municipality_name": "かつらぎ町",
+        "geographic_scope": "かつらぎ町下天野"
+      },
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30391",
+        "municipality_name": "みなべ町",
+        "geographic_scope": "みなべ町晩稲"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1959-08-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1969-04-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f87103785eaf4e9d",
+      "official_name": "六斎念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30341",
+          "municipality_name": "かつらぎ町",
+          "geographic_scope": "かつらぎ町下天野"
+        },
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30391",
+          "municipality_name": "みなべ町",
+          "geographic_scope": "みなべ町晩稲"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f87103785eaf4e9d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

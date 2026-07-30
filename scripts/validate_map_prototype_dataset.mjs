@@ -9,7 +9,14 @@ const projectRoot = path.resolve(
 const publicRoot = path.join(projectRoot, "prototype-map", "public", "datasets");
 
 async function readJson(filePath) {
-  return JSON.parse(await readFile(filePath, "utf8"));
+  const source = await readFile(filePath, "utf8");
+  const trimmed = source.trim();
+  const isEmptyContainer = trimmed === "{}" || trimmed === "[]";
+  assert(
+    isEmptyContainer || source.startsWith("{\n") || source.startsWith("[\n"),
+    `JSON must be human-readable with one property or item per line: ${filePath}`,
+  );
+  return JSON.parse(source);
 }
 
 function assert(condition, message) {

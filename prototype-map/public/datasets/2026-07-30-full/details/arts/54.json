@@ -1,1 +1,400 @@
-{"arts/art_kuni_0811e64a5d53216b":{"title":"修正鬼会","summary":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「修正鬼会」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/145"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_0811e64a5d53216b","official_name":"修正鬼会","reading":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-0811e64a5d53216b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_29af2ab388dca525":{"title":"小豆島農村歌舞伎","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37322","municipality_name":"土庄町","geographic_scope":"土庄町肥土山"},{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37324","municipality_name":"小豆島町","geographic_scope":"小豆島町中山"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2024-03-21","source_title":"国指定文化財等データベース「小豆島農村歌舞伎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00001061"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2015-03-02","source_title":"国指定文化財等データベース「小豆島農村歌舞伎」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000931"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"香川県","date":"1975-07-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_29af2ab388dca525","official_name":"小豆島農村歌舞伎","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37322","municipality_name":"土庄町","geographic_scope":"土庄町肥土山"},{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37324","municipality_name":"小豆島町","geographic_scope":"小豆島町中山"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-29af2ab388dca525"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_165880c8e1fa572c":{"title":"潮来ばやし (獅子舞を含む)","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8223","municipality_name":"潮来市","geographic_scope":"潮来市潮来"}],"archive_genre_ids":["festival_music","shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"茨城県","date":"1964-07-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_165880c8e1fa572c","official_name":"潮来ばやし (獅子舞を含む)","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8223","municipality_name":"潮来市","geographic_scope":"潮来市潮来"}],"archive_genre_ids":["festival_music","shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-165880c8e1fa572c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_89ccb358432ee1e5":{"title":"庵治締太鼓","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37201","municipality_name":"高松市","geographic_scope":"高松市庵治町丸山114-2"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"香川県","date":"1978-12-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_89ccb358432ee1e5","official_name":"庵治締太鼓","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37201","municipality_name":"高松市","geographic_scope":"高松市庵治町丸山114-2"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-89ccb358432ee1e5"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a6a77649f83686a9":{"title":"高良山獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"402036","municipality_name":"久留米市","geographic_scope":"福岡県久留米市御井町212"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"市無形民俗文化財","jurisdiction":"municipal","authority":"久留米市","date":"1998-07-29","source_title":"福岡県久留米市：指定文化財一覧「高良山獅子舞」","source_url":"https://data.bodik.jp/dataset/402036_0001200_00001"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a6a77649f83686a9","official_name":"高良山獅子舞","reading":"コウラサンシシマイ文化財分類:市無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"402036","municipality_name":"久留米市","geographic_scope":"福岡県久留米市御井町212"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a6a77649f83686a9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c6ba5bac9151f904":{"title":"入来町の庖瘡踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46215","municipality_name":"薩摩川内市","geographic_scope":"薩摩川内市入来町浦之名"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鹿児島県","date":"1963-06-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c6ba5bac9151f904","official_name":"入来町の庖瘡踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":"46215","municipality_name":"薩摩川内市","geographic_scope":"薩摩川内市入来町浦之名"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c6ba5bac9151f904"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_fb119794102655b2":{"title":"佐々部神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市高宮町佐々部"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1979-03-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_fb119794102655b2","official_name":"佐々部神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市高宮町佐々部"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-fb119794102655b2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_0811e64a5d53216b": {
+    "title": "修正鬼会",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "44",
+        "prefecture_name": "大分県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「修正鬼会」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/145"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_0811e64a5d53216b",
+      "official_name": "修正鬼会",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "44",
+          "prefecture_name": "大分県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-0811e64a5d53216b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_29af2ab388dca525": {
+    "title": "小豆島農村歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37322",
+        "municipality_name": "土庄町",
+        "geographic_scope": "土庄町肥土山"
+      },
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37324",
+        "municipality_name": "小豆島町",
+        "geographic_scope": "小豆島町中山"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2024-03-21",
+        "source_title": "国指定文化財等データベース「小豆島農村歌舞伎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001061"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2015-03-02",
+        "source_title": "国指定文化財等データベース「小豆島農村歌舞伎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000931"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1975-07-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_29af2ab388dca525",
+      "official_name": "小豆島農村歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37322",
+          "municipality_name": "土庄町",
+          "geographic_scope": "土庄町肥土山"
+        },
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37324",
+          "municipality_name": "小豆島町",
+          "geographic_scope": "小豆島町中山"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-29af2ab388dca525"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_165880c8e1fa572c": {
+    "title": "潮来ばやし (獅子舞を含む)",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8223",
+        "municipality_name": "潮来市",
+        "geographic_scope": "潮来市潮来"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music",
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1964-07-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_165880c8e1fa572c",
+      "official_name": "潮来ばやし (獅子舞を含む)",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8223",
+          "municipality_name": "潮来市",
+          "geographic_scope": "潮来市潮来"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music",
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-165880c8e1fa572c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_89ccb358432ee1e5": {
+    "title": "庵治締太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37201",
+        "municipality_name": "高松市",
+        "geographic_scope": "高松市庵治町丸山114-2"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1978-12-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_89ccb358432ee1e5",
+      "official_name": "庵治締太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37201",
+          "municipality_name": "高松市",
+          "geographic_scope": "高松市庵治町丸山114-2"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-89ccb358432ee1e5"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a6a77649f83686a9": {
+    "title": "高良山獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "402036",
+        "municipality_name": "久留米市",
+        "geographic_scope": "福岡県久留米市御井町212"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "久留米市",
+        "date": "1998-07-29",
+        "source_title": "福岡県久留米市：指定文化財一覧「高良山獅子舞」",
+        "source_url": "https://data.bodik.jp/dataset/402036_0001200_00001"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a6a77649f83686a9",
+      "official_name": "高良山獅子舞",
+      "reading": "コウラサンシシマイ文化財分類:市無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "402036",
+          "municipality_name": "久留米市",
+          "geographic_scope": "福岡県久留米市御井町212"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a6a77649f83686a9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c6ba5bac9151f904": {
+    "title": "入来町の庖瘡踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46215",
+        "municipality_name": "薩摩川内市",
+        "geographic_scope": "薩摩川内市入来町浦之名"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1963-06-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c6ba5bac9151f904",
+      "official_name": "入来町の庖瘡踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46215",
+          "municipality_name": "薩摩川内市",
+          "geographic_scope": "薩摩川内市入来町浦之名"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c6ba5bac9151f904"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fb119794102655b2": {
+    "title": "佐々部神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34214",
+        "municipality_name": "安芸高田市",
+        "geographic_scope": "安芸高田市高宮町佐々部"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1979-03-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fb119794102655b2",
+      "official_name": "佐々部神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34214",
+          "municipality_name": "安芸高田市",
+          "geographic_scope": "安芸高田市高宮町佐々部"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fb119794102655b2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

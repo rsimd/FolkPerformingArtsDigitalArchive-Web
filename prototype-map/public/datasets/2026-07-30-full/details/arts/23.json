@@ -1,1 +1,362 @@
-{"arts/art_kuni_01aadf5f6a5cb1d2":{"title":"檜原村の式三番","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1976-12-25","source_title":"国指定文化財等データベース「檜原村の式三番」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/293"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_01aadf5f6a5cb1d2","official_name":"檜原村の式三番","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-01aadf5f6a5cb1d2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_671e81a810168ce1":{"title":"竹富島の種子取","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「竹富島の種子取」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/158"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1974-12-04","source_title":"国指定文化財等データベース「竹富島の種子取」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/607"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_671e81a810168ce1","official_name":"竹富島の種子取","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-671e81a810168ce1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c5e26454df7cc868":{"title":"静岡浅間神社廿日会祭の稚児舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2022-03-23","source_title":"国指定文化財等データベース「静岡浅間神社廿日会祭の稚児舞楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00001058"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c5e26454df7cc868","official_name":"静岡浅間神社廿日会祭の稚児舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c5e26454df7cc868"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2251224ca43c94bf":{"title":"一日市盆踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5363","municipality_name":"八郎潟町","geographic_scope":"八郎潟町字一日市"}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"2006-03-20","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2251224ca43c94bf","official_name":"一日市盆踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5363","municipality_name":"八郎潟町","geographic_scope":"八郎潟町字一日市"}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2251224ca43c94bf"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2548d3bb1d7dd949":{"title":"本郷のはやし田","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町本郷"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1973-12-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2548d3bb1d7dd949","official_name":"本郷のはやし田","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市美土里町本郷"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2548d3bb1d7dd949"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_56c1af3c6cc15540":{"title":"上五島神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42411","municipality_name":"新上五島町","geographic_scope":"新上五島町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長崎県","date":"1981-03-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_56c1af3c6cc15540","official_name":"上五島神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42411","municipality_name":"新上五島町","geographic_scope":"新上五島町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-56c1af3c6cc15540"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ee1e7a6ae3b8c77f":{"title":"尾下菅原神社獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43428","municipality_name":"高森町","geographic_scope":"高森町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1981-03-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ee1e7a6ae3b8c77f","official_name":"尾下菅原神社獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43428","municipality_name":"高森町","geographic_scope":"高森町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ee1e7a6ae3b8c77f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_01aadf5f6a5cb1d2": {
+    "title": "檜原村の式三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「檜原村の式三番」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/293"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_01aadf5f6a5cb1d2",
+      "official_name": "檜原村の式三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-01aadf5f6a5cb1d2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_671e81a810168ce1": {
+    "title": "竹富島の種子取",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「竹富島の種子取」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/158"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「竹富島の種子取」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/607"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_671e81a810168ce1",
+      "official_name": "竹富島の種子取",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-671e81a810168ce1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c5e26454df7cc868": {
+    "title": "静岡浅間神社廿日会祭の稚児舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2022-03-23",
+        "source_title": "国指定文化財等データベース「静岡浅間神社廿日会祭の稚児舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001058"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c5e26454df7cc868",
+      "official_name": "静岡浅間神社廿日会祭の稚児舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c5e26454df7cc868"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2251224ca43c94bf": {
+    "title": "一日市盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5363",
+        "municipality_name": "八郎潟町",
+        "geographic_scope": "八郎潟町字一日市"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "2006-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2251224ca43c94bf",
+      "official_name": "一日市盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5363",
+          "municipality_name": "八郎潟町",
+          "geographic_scope": "八郎潟町字一日市"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2251224ca43c94bf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2548d3bb1d7dd949": {
+    "title": "本郷のはやし田",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34214",
+        "municipality_name": "安芸高田市",
+        "geographic_scope": "安芸高田市美土里町本郷"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1973-12-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2548d3bb1d7dd949",
+      "official_name": "本郷のはやし田",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34214",
+          "municipality_name": "安芸高田市",
+          "geographic_scope": "安芸高田市美土里町本郷"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2548d3bb1d7dd949"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_56c1af3c6cc15540": {
+    "title": "上五島神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42411",
+        "municipality_name": "新上五島町",
+        "geographic_scope": "新上五島町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1981-03-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_56c1af3c6cc15540",
+      "official_name": "上五島神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42411",
+          "municipality_name": "新上五島町",
+          "geographic_scope": "新上五島町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-56c1af3c6cc15540"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ee1e7a6ae3b8c77f": {
+    "title": "尾下菅原神社獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43428",
+        "municipality_name": "高森町",
+        "geographic_scope": "高森町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1981-03-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ee1e7a6ae3b8c77f",
+      "official_name": "尾下菅原神社獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43428",
+          "municipality_name": "高森町",
+          "geographic_scope": "高森町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ee1e7a6ae3b8c77f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,331 @@
-{"organizations/channel_UC2sqXVjQsefyBgp2xOdYVWQ":{"title":"心づくし","organization_type":"個人・地域記録者等","prefecture":"長崎県","region":"九州","channel_url":"https://www.youtube.com/channel/UC2sqXVjQsefyBgp2xOdYVWQ","location_evidence_type":"curated_regional_research","location_confidence":0.95,"relevance_confidence":"medium","detected_art_terms":["面浮立・浮立","龍踊"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=YKM6y4xj6-s"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UC2sqXVjQsefyBgp2xOdYVWQ","チャンネル名":"心づくし","チャンネルURL":"https://www.youtube.com/channel/UC2sqXVjQsefyBgp2xOdYVWQ","運営主体":"個人・地域記録者等","地方":"九州","都道府県":"長崎県","所在地根拠種別":"curated_regional_research","所在地確度":0.95,"関連確信度":"medium","要確認":"確認不要","関連性スコア":23,"根拠動画数":3,"検出芸能語":"面浮立・浮立 | 龍踊","代表根拠動画":"田結浮立・龍踊02","代表根拠URL":"https://www.youtube.com/watch?v=YKM6y4xj6-s","登録者数":72,"公開動画数":280,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"検証済"}},"organizations/directory_org_ed0dcf14170b":{"title":"高勢お囃子保存会","aliases":["takaseohayashi hozonkai"],"organization_type":"保存団体","appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":"https://www.youtube.com/@takaseohayashihozonkai","web_url":"https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.96,"representative_video_ids":["bY3PTc-Dj4g","rKvOCysbBHg","0gqg6j5c7hU","3M2OH63cfgM","r-Dq7lvMqTw"],"source_urls":["https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html","https://www.youtube.com/@takaseohayashihozonkai","https://www.youtube.com/watch?v=bY3PTc-Dj4g","https://www.youtube.com/watch?v=rKvOCysbBHg","https://www.youtube.com/watch?v=0gqg6j5c7hU","https://www.youtube.com/watch?v=3M2OH63cfgM","https://www.youtube.com/watch?v=r-Dq7lvMqTw"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_ed0dcf14170b","団体名":"高勢お囃子保存会","別名":"takaseohayashi hozonkai","登場区分":"保存団体 / 出演団体","団体種別":"保存団体","登場チャンネル":"takaseohayashi hozonkai / 祭り盛り隊長ジーコJapan","動画数":46,"代表video_id":"bY3PTc-Dj4g / rKvOCysbBHg / 0gqg6j5c7hU / 3M2OH63cfgM / r-Dq7lvMqTw","YouTubeチャンネル":"https://www.youtube.com/@takaseohayashihozonkai","Webサイト・紹介ページ":"https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"web_research_summary: 真岡市公式の文化協会伝統部会ページが高勢お囃子保存会を所属団体として掲載。団体公式SNSは確認できず。 | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (bY3PTc-Dj4g) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (bY3PTc-Dj4g) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (rKvOCysbBHg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (rKvOCysbBHg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (0gqg6j5c7hU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (0gqg6j5c7hU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (3M2OH63cfgM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (3M2OH63cfgM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (r-Dq7lvMqTw) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (r-Dq7lvMqTw) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ncx7_5WOJpU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ncx7_5WOJpU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (1tnR3x02iEQ) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (1tnR3x02iEQ) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (5atAbkxRN3c) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (5atAbkxRN3c) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (72jmiFojIO0) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (72jmiFojIO0) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (6I51wj0JbCU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (6I51wj0JbCU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (IYrt3R8NCwY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (IYrt3R8NCwY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (rDYHPxRdp78) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (rDYHPxRdp78) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (LL8YYLmxPsg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (LL8YYLmxPsg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (8Sw5YGJzv8A) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (8Sw5YGJzv8A) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (e6WBJre36pU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (e6WBJre36pU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (iN53Pj1mTKY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (iN53Pj1mTKY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (V1NIKwxkvmw) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (V1NIKwxkvmw) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hLOIVVvnga4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hLOIVVvnga4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (u0vr5IUB5RU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (u0vr5IUB5RU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (toas0VC_O6I) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (toas0VC_O6I) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (EZkVRr3qN2k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (EZkVRr3qN2k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (VxuSEI4GKlI) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (VxuSEI4GKlI) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (DueXeiNbA68) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (DueXeiNbA68) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (qfl2oUNzR4k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (qfl2oUNzR4k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Ev6SATXsQiY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Ev6SATXsQiY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (RdKIvLO6y1U) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (RdKIvLO6y1U) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ihu0BQrSdBs) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ihu0BQrSdBs) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (iXu5JuCHZdM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (iXu5JuCHZdM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (HOXhaGMUnkg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (HOXhaGMUnkg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (vAvpSqtxfzk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (vAvpSqtxfzk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (NuPqhkTcmok) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (NuPqhkTcmok) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (k25V8zwgHnk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (k25V8zwgHnk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (D6TGk0jzDnY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (D6TGk0jzDnY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (cEB-4RW9Ul0) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (cEB-4RW9Ul0) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Fds5HHhyuks) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Fds5HHhyuks) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hbFo4-BlXO4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hbFo4-BlXO4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (xWF87q6md-k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (xWF87q6md-k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (j5c4sZBEEFk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (j5c4sZBEEFk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Vu3J38yH3nM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Vu3J38yH3nM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ZQkm6KOJSTU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ZQkm6KOJSTU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (gAJsK--IMw4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (gAJsK--IMw4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (BsEpowAOmK4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (BsEpowAOmK4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hl0JmIZYGac) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hl0JmIZYGac) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (4G-7c4Xlw8Y) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (4G-7c4Xlw8Y) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (KwCN-_R9E-A) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (KwCN-_R9E-A) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (uAiCX7ODlrc) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (uAiCX7ODlrc) | youtube_channel_catalog: チャンネル名が団体名と一致 (UCx7PDpH--y3wyhQd2vFH_ww)","根拠URL":"https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html | https://www.youtube.com/@takaseohayashihozonkai | https://www.youtube.com/watch?v=bY3PTc-Dj4g | https://www.youtube.com/watch?v=rKvOCysbBHg | https://www.youtube.com/watch?v=0gqg6j5c7hU | https://www.youtube.com/watch?v=3M2OH63cfgM | https://www.youtube.com/watch?v=r-Dq7lvMqTw","確信度":0.96,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_944cba2075eb":{"title":"館下神楽保存会","aliases":["館下神楽","舘下神楽","舘下神楽会"],"organization_type":"保存団体","appearance_type":"保存団体","prefecture":"岩手県","municipality":"一関市","channel_url":null,"web_url":"https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.92,"representative_video_ids":["iwfBXuTEp0c","MFjrOVflpBU","2yqoMU-02ug","aUJqh-TlJNE","crl0njrohc0"],"source_urls":["https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C178223%2Cc%2Chtml/178223/20200414-091520.pdf","https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf","https://www.youtube.com/watch?v=iwfBXuTEp0c","https://www.youtube.com/watch?v=MFjrOVflpBU","https://www.youtube.com/watch?v=2yqoMU-02ug","https://www.youtube.com/watch?v=dvfzaHhgcO4","https://www.youtube.com/watch?v=aUJqh-TlJNE","https://www.youtube.com/watch?v=crl0njrohc0"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_944cba2075eb","団体名":"館下神楽保存会","別名":"館下神楽 / 舘下神楽 / 舘下神楽会","登場区分":"保存団体","団体種別":"保存団体","登場チャンネル":"maturinookkake","動画数":29,"代表video_id":"iwfBXuTEp0c / MFjrOVflpBU / 2yqoMU-02ug / aUJqh-TlJNE / crl0njrohc0","YouTubeチャンネル":null,"Webサイト・紹介ページ":"https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「館下神楽」 | youtube_title: 動画タイトルに団体名候補「舘下神楽」 | municipality_or_official_association: 一関市教育委員会『南部神楽調査報告書』 | youtube_title: 代表動画1本のタイトルに出演・保存団体候補「舘下神楽会」を反復確認 | municipality_or_official_cultural_source: 一関市教育委員会の民俗芸能調査報告書・市公式資料で団体を確認 | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (iwfBXuTEp0c) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (MFjrOVflpBU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (2yqoMU-02ug) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (aUJqh-TlJNE) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (crl0njrohc0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (6hkw47uYpEQ) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (HljyDpPIxwM) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (bFdqGUjInJU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (rLESro7vM_A) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (036dTAFIJBc) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (KRyRenw9Vac) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (eQQYkGnik4Y) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (-FoNzSRLI1k) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (Y-oNV8qpPsY) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (l2hhnVZvJfU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (KHCu4VMCLFc) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (QqJhHLUOBzw) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (oOFNtxKKdZ0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (h9tebCotcns) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (9QOHjHQYgWo) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (N6eLNtaigXI) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (UVsa5lvHMBs) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (wnlg5FI40-0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (rnAz5BUzM8g) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (ZZ8siu7-9aU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (FlS0XOowFOA) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (0bNtWaicqsA) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (zEvnmDXzHRg) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (uegg-D9J0Qc)","根拠URL":"https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C178223%2Cc%2Chtml/178223/20200414-091520.pdf | https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf | https://www.youtube.com/watch?v=iwfBXuTEp0c | https://www.youtube.com/watch?v=MFjrOVflpBU | https://www.youtube.com/watch?v=2yqoMU-02ug | https://www.youtube.com/watch?v=dvfzaHhgcO4 | https://www.youtube.com/watch?v=aUJqh-TlJNE | https://www.youtube.com/watch?v=crl0njrohc0","確信度":0.92,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_46ce97521f06":{"title":"稲沢番楽保存会","aliases":[],"organization_type":null,"appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":"http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.96,"representative_video_ids":["6-DFI02tHt4","jl1rAlaQi34"],"source_urls":["http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB","https://www.youtube.com/watch?v=6-DFI02tHt4","https://www.youtube.com/watch?v=jl1rAlaQi34"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_46ce97521f06","団体名":"稲沢番楽保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":null,"登場チャンネル":"kgadotcom / ふるさと塾アーカイブス","動画数":2,"代表video_id":"6-DFI02tHt4 / jl1rAlaQi34","YouTubeチャンネル":null,"Webサイト・紹介ページ":"http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_structured_video: 出演団体として「稲沢番楽保存会」を抽出 (6-DFI02tHt4) | youtube_structured_video: 保存団体として「稲沢番楽保存会」を抽出 (6-DFI02tHt4) | youtube_structured_video: 出演団体として「稲沢番楽保存会」を抽出 (jl1rAlaQi34) | youtube_structured_video: 保存団体として「稲沢番楽保存会」を抽出 (jl1rAlaQi34) | youtube_description_url: organization_context_video_description:jl1rAlaQi34 からwebsite_urlを確認","根拠URL":"http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB | https://www.youtube.com/watch?v=6-DFI02tHt4 | https://www.youtube.com/watch?v=jl1rAlaQi34","確信度":0.96,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_10b135030c1d":{"title":"乙部さんさ踊り保存会","aliases":[],"organization_type":"保存団体","appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":"https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.99,"representative_video_ids":["TjgIGmm7o3E","hPN23KeL2Gc","9gSutyi-rfQ","4YNhybZEezA"],"source_urls":["https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html","https://www.city.morioka.iwate.jp/geijutubunka/topics/2000651/2000679.html","https://www.youtube.com/watch?v=TjgIGmm7o3E","https://www.youtube.com/watch?v=hPN23KeL2Gc","https://www.youtube.com/watch?v=9gSutyi-rfQ","https://www.youtube.com/watch?v=4YNhybZEezA"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_10b135030c1d","団体名":"乙部さんさ踊り保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":"保存団体","登場チャンネル":"北の祭りと芸能 / 桃冬の民俗芸能","動画数":2,"代表video_id":"TjgIGmm7o3E / hPN23KeL2Gc / 9gSutyi-rfQ / 4YNhybZEezA","YouTubeチャンネル":null,"Webサイト・紹介ページ":"https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"盛岡市公式が芸能名、所在地、指定、主な演目と保存会名を掲載。団体自身の公式SNSは検索で確認できなかった | youtube_structured_video: 出演団体として「乙部さんさ踊り保存会」を抽出 (9gSutyi-rfQ) | youtube_structured_video: 保存団体として「乙部さんさ踊り保存会」を抽出 (9gSutyi-rfQ) | youtube_structured_video: 出演団体として「乙部さんさ踊り保存会」を抽出 (4YNhybZEezA) | youtube_structured_video: 保存団体として「乙部さんさ踊り保存会」を抽出 (4YNhybZEezA)","根拠URL":"https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html | https://www.city.morioka.iwate.jp/geijutubunka/topics/2000651/2000679.html | https://www.youtube.com/watch?v=TjgIGmm7o3E | https://www.youtube.com/watch?v=hPN23KeL2Gc | https://www.youtube.com/watch?v=9gSutyi-rfQ | https://www.youtube.com/watch?v=4YNhybZEezA","確信度":0.99,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_8e90e31d6a1f":{"title":"植野神楽保存会","aliases":["植野神楽"],"organization_type":null,"appearance_type":"出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":"https://www.instagram.com/ueno.kagura/","x":null,"facebook":null,"relevance_confidence":0.98,"representative_video_ids":["5byiswTqAE4"],"source_urls":["https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf","https://www.instagram.com/ueno.kagura/","https://www.youtube.com/watch?v=5byiswTqAE4"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_8e90e31d6a1f","団体名":"植野神楽保存会","別名":"植野神楽","登場区分":"出演団体","団体種別":null,"登場チャンネル":"Meg 御神楽","動画数":1,"代表video_id":"5byiswTqAE4","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":"https://www.instagram.com/ueno.kagura/","X":null,"Facebook":null,"根拠文字列":"中津市の文化財資料が保持団体の正式名を「植野神楽保存会」と記載している。: https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf | youtube_structured_video: 出演団体として「植野神楽保存会」を抽出 (5byiswTqAE4) | youtube_description_url: organization_context_video_description:5byiswTqAE4 からinstagram_urlを確認","根拠URL":"https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf | https://www.instagram.com/ueno.kagura/ | https://www.youtube.com/watch?v=5byiswTqAE4","確信度":0.98,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_5b2ed15d1321":{"title":"樫崎法印神楽","aliases":[],"organization_type":"出演団体","appearance_type":"出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.9,"representative_video_ids":["jy5xdN-9VzY"],"source_urls":["https://www.youtube.com/watch?v=jy5xdN-9VzY"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_5b2ed15d1321","団体名":"樫崎法印神楽","別名":null,"登場区分":"出演団体","団体種別":"出演団体","登場チャンネル":"maturinookkake","動画数":1,"代表video_id":"jy5xdN-9VzY","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「樫崎法印神楽」 | youtube_structured_video: 出演団体として「樫崎法印神楽」を抽出 (jy5xdN-9VzY)","根拠URL":"https://www.youtube.com/watch?v=jy5xdN-9VzY","確信度":0.9,"検索状態":"検索済・URL未確定","要確認":"要確認"}}}
+{
+  "organizations/channel_UC2sqXVjQsefyBgp2xOdYVWQ": {
+    "title": "心づくし",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "長崎県",
+    "region": "九州",
+    "channel_url": "https://www.youtube.com/channel/UC2sqXVjQsefyBgp2xOdYVWQ",
+    "location_evidence_type": "curated_regional_research",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "面浮立・浮立",
+      "龍踊"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=YKM6y4xj6-s"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UC2sqXVjQsefyBgp2xOdYVWQ",
+      "チャンネル名": "心づくし",
+      "チャンネルURL": "https://www.youtube.com/channel/UC2sqXVjQsefyBgp2xOdYVWQ",
+      "運営主体": "個人・地域記録者等",
+      "地方": "九州",
+      "都道府県": "長崎県",
+      "所在地根拠種別": "curated_regional_research",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 23,
+      "根拠動画数": 3,
+      "検出芸能語": "面浮立・浮立 | 龍踊",
+      "代表根拠動画": "田結浮立・龍踊02",
+      "代表根拠URL": "https://www.youtube.com/watch?v=YKM6y4xj6-s",
+      "登録者数": 72,
+      "公開動画数": 280,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/directory_org_ed0dcf14170b": {
+    "title": "高勢お囃子保存会",
+    "aliases": [
+      "takaseohayashi hozonkai"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": "https://www.youtube.com/@takaseohayashihozonkai",
+    "web_url": "https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "bY3PTc-Dj4g",
+      "rKvOCysbBHg",
+      "0gqg6j5c7hU",
+      "3M2OH63cfgM",
+      "r-Dq7lvMqTw"
+    ],
+    "source_urls": [
+      "https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html",
+      "https://www.youtube.com/@takaseohayashihozonkai",
+      "https://www.youtube.com/watch?v=bY3PTc-Dj4g",
+      "https://www.youtube.com/watch?v=rKvOCysbBHg",
+      "https://www.youtube.com/watch?v=0gqg6j5c7hU",
+      "https://www.youtube.com/watch?v=3M2OH63cfgM",
+      "https://www.youtube.com/watch?v=r-Dq7lvMqTw"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_ed0dcf14170b",
+      "団体名": "高勢お囃子保存会",
+      "別名": "takaseohayashi hozonkai",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "takaseohayashi hozonkai / 祭り盛り隊長ジーコJapan",
+      "動画数": 46,
+      "代表video_id": "bY3PTc-Dj4g / rKvOCysbBHg / 0gqg6j5c7hU / 3M2OH63cfgM / r-Dq7lvMqTw",
+      "YouTubeチャンネル": "https://www.youtube.com/@takaseohayashihozonkai",
+      "Webサイト・紹介ページ": "https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "web_research_summary: 真岡市公式の文化協会伝統部会ページが高勢お囃子保存会を所属団体として掲載。団体公式SNSは確認できず。 | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (bY3PTc-Dj4g) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (bY3PTc-Dj4g) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (rKvOCysbBHg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (rKvOCysbBHg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (0gqg6j5c7hU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (0gqg6j5c7hU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (3M2OH63cfgM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (3M2OH63cfgM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (r-Dq7lvMqTw) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (r-Dq7lvMqTw) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ncx7_5WOJpU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ncx7_5WOJpU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (1tnR3x02iEQ) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (1tnR3x02iEQ) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (5atAbkxRN3c) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (5atAbkxRN3c) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (72jmiFojIO0) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (72jmiFojIO0) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (6I51wj0JbCU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (6I51wj0JbCU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (IYrt3R8NCwY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (IYrt3R8NCwY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (rDYHPxRdp78) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (rDYHPxRdp78) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (LL8YYLmxPsg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (LL8YYLmxPsg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (8Sw5YGJzv8A) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (8Sw5YGJzv8A) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (e6WBJre36pU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (e6WBJre36pU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (iN53Pj1mTKY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (iN53Pj1mTKY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (V1NIKwxkvmw) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (V1NIKwxkvmw) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hLOIVVvnga4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hLOIVVvnga4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (u0vr5IUB5RU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (u0vr5IUB5RU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (toas0VC_O6I) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (toas0VC_O6I) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (EZkVRr3qN2k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (EZkVRr3qN2k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (VxuSEI4GKlI) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (VxuSEI4GKlI) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (DueXeiNbA68) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (DueXeiNbA68) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (qfl2oUNzR4k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (qfl2oUNzR4k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Ev6SATXsQiY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Ev6SATXsQiY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (RdKIvLO6y1U) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (RdKIvLO6y1U) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ihu0BQrSdBs) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ihu0BQrSdBs) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (iXu5JuCHZdM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (iXu5JuCHZdM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (HOXhaGMUnkg) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (HOXhaGMUnkg) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (vAvpSqtxfzk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (vAvpSqtxfzk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (NuPqhkTcmok) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (NuPqhkTcmok) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (k25V8zwgHnk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (k25V8zwgHnk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (D6TGk0jzDnY) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (D6TGk0jzDnY) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (cEB-4RW9Ul0) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (cEB-4RW9Ul0) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Fds5HHhyuks) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Fds5HHhyuks) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hbFo4-BlXO4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hbFo4-BlXO4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (xWF87q6md-k) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (xWF87q6md-k) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (j5c4sZBEEFk) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (j5c4sZBEEFk) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (Vu3J38yH3nM) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (Vu3J38yH3nM) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (ZQkm6KOJSTU) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (ZQkm6KOJSTU) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (gAJsK--IMw4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (gAJsK--IMw4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (BsEpowAOmK4) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (BsEpowAOmK4) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (hl0JmIZYGac) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (hl0JmIZYGac) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (4G-7c4Xlw8Y) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (4G-7c4Xlw8Y) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (KwCN-_R9E-A) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (KwCN-_R9E-A) | youtube_structured_video: 出演団体として「高勢お囃子保存会」を抽出 (uAiCX7ODlrc) | youtube_structured_video: 保存団体として「高勢お囃子保存会」を抽出 (uAiCX7ODlrc) | youtube_channel_catalog: チャンネル名が団体名と一致 (UCx7PDpH--y3wyhQd2vFH_ww)",
+      "根拠URL": "https://www.city.moka.lg.jp/kakuka/bunka/gyomu/rekishi_bunka/bunka_geijutsu/bunkakyokai/kaiinnsyoukai/dentou/index.html | https://www.youtube.com/@takaseohayashihozonkai | https://www.youtube.com/watch?v=bY3PTc-Dj4g | https://www.youtube.com/watch?v=rKvOCysbBHg | https://www.youtube.com/watch?v=0gqg6j5c7hU | https://www.youtube.com/watch?v=3M2OH63cfgM | https://www.youtube.com/watch?v=r-Dq7lvMqTw",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_944cba2075eb": {
+    "title": "館下神楽保存会",
+    "aliases": [
+      "館下神楽",
+      "舘下神楽",
+      "舘下神楽会"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体",
+    "prefecture": "岩手県",
+    "municipality": "一関市",
+    "channel_url": null,
+    "web_url": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.92,
+    "representative_video_ids": [
+      "iwfBXuTEp0c",
+      "MFjrOVflpBU",
+      "2yqoMU-02ug",
+      "aUJqh-TlJNE",
+      "crl0njrohc0"
+    ],
+    "source_urls": [
+      "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C178223%2Cc%2Chtml/178223/20200414-091520.pdf",
+      "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+      "https://www.youtube.com/watch?v=iwfBXuTEp0c",
+      "https://www.youtube.com/watch?v=MFjrOVflpBU",
+      "https://www.youtube.com/watch?v=2yqoMU-02ug",
+      "https://www.youtube.com/watch?v=dvfzaHhgcO4",
+      "https://www.youtube.com/watch?v=aUJqh-TlJNE",
+      "https://www.youtube.com/watch?v=crl0njrohc0"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_944cba2075eb",
+      "団体名": "館下神楽保存会",
+      "別名": "館下神楽 / 舘下神楽 / 舘下神楽会",
+      "登場区分": "保存団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 29,
+      "代表video_id": "iwfBXuTEp0c / MFjrOVflpBU / 2yqoMU-02ug / aUJqh-TlJNE / crl0njrohc0",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「館下神楽」 | youtube_title: 動画タイトルに団体名候補「舘下神楽」 | municipality_or_official_association: 一関市教育委員会『南部神楽調査報告書』 | youtube_title: 代表動画1本のタイトルに出演・保存団体候補「舘下神楽会」を反復確認 | municipality_or_official_cultural_source: 一関市教育委員会の民俗芸能調査報告書・市公式資料で団体を確認 | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (iwfBXuTEp0c) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (MFjrOVflpBU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (2yqoMU-02ug) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (aUJqh-TlJNE) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (crl0njrohc0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (6hkw47uYpEQ) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (HljyDpPIxwM) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (bFdqGUjInJU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (rLESro7vM_A) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (036dTAFIJBc) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (KRyRenw9Vac) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (eQQYkGnik4Y) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (-FoNzSRLI1k) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (Y-oNV8qpPsY) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (l2hhnVZvJfU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (KHCu4VMCLFc) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (QqJhHLUOBzw) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (oOFNtxKKdZ0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (h9tebCotcns) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (9QOHjHQYgWo) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (N6eLNtaigXI) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (UVsa5lvHMBs) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (wnlg5FI40-0) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (rnAz5BUzM8g) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (ZZ8siu7-9aU) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (FlS0XOowFOA) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (0bNtWaicqsA) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (zEvnmDXzHRg) | youtube_structured_video: 保存団体として「館下神楽保存会」を抽出 (uegg-D9J0Qc)",
+      "根拠URL": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C178223%2Cc%2Chtml/178223/20200414-091520.pdf | https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf | https://www.youtube.com/watch?v=iwfBXuTEp0c | https://www.youtube.com/watch?v=MFjrOVflpBU | https://www.youtube.com/watch?v=2yqoMU-02ug | https://www.youtube.com/watch?v=dvfzaHhgcO4 | https://www.youtube.com/watch?v=aUJqh-TlJNE | https://www.youtube.com/watch?v=crl0njrohc0",
+      "確信度": 0.92,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_46ce97521f06": {
+    "title": "稲沢番楽保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "6-DFI02tHt4",
+      "jl1rAlaQi34"
+    ],
+    "source_urls": [
+      "http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB",
+      "https://www.youtube.com/watch?v=6-DFI02tHt4",
+      "https://www.youtube.com/watch?v=jl1rAlaQi34"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_46ce97521f06",
+      "団体名": "稲沢番楽保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "kgadotcom / ふるさと塾アーカイブス",
+      "動画数": 2,
+      "代表video_id": "6-DFI02tHt4 / jl1rAlaQi34",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_structured_video: 出演団体として「稲沢番楽保存会」を抽出 (6-DFI02tHt4) | youtube_structured_video: 保存団体として「稲沢番楽保存会」を抽出 (6-DFI02tHt4) | youtube_structured_video: 出演団体として「稲沢番楽保存会」を抽出 (jl1rAlaQi34) | youtube_structured_video: 保存団体として「稲沢番楽保存会」を抽出 (jl1rAlaQi34) | youtube_description_url: organization_context_video_description:jl1rAlaQi34 からwebsite_urlを確認",
+      "根拠URL": "http://www.yamagata-takara.com/%E6%9C%AA%E5%88%86%E9%A1%9E/%E7%AC%AC%EF%BC%92%EF%BC%96%E5%9B%9E%E4%BC%9D%E7%B5%B1%E3%81%AE%E8%88%9E%E3%80%80%E7%95%AA%E6%A5%BD%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB | https://www.youtube.com/watch?v=6-DFI02tHt4 | https://www.youtube.com/watch?v=jl1rAlaQi34",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_10b135030c1d": {
+    "title": "乙部さんさ踊り保存会",
+    "aliases": [],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "TjgIGmm7o3E",
+      "hPN23KeL2Gc",
+      "9gSutyi-rfQ",
+      "4YNhybZEezA"
+    ],
+    "source_urls": [
+      "https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html",
+      "https://www.city.morioka.iwate.jp/geijutubunka/topics/2000651/2000679.html",
+      "https://www.youtube.com/watch?v=TjgIGmm7o3E",
+      "https://www.youtube.com/watch?v=hPN23KeL2Gc",
+      "https://www.youtube.com/watch?v=9gSutyi-rfQ",
+      "https://www.youtube.com/watch?v=4YNhybZEezA"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_10b135030c1d",
+      "団体名": "乙部さんさ踊り保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "北の祭りと芸能 / 桃冬の民俗芸能",
+      "動画数": 2,
+      "代表video_id": "TjgIGmm7o3E / hPN23KeL2Gc / 9gSutyi-rfQ / 4YNhybZEezA",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "盛岡市公式が芸能名、所在地、指定、主な演目と保存会名を掲載。団体自身の公式SNSは検索で確認できなかった | youtube_structured_video: 出演団体として「乙部さんさ踊り保存会」を抽出 (9gSutyi-rfQ) | youtube_structured_video: 保存団体として「乙部さんさ踊り保存会」を抽出 (9gSutyi-rfQ) | youtube_structured_video: 出演団体として「乙部さんさ踊り保存会」を抽出 (4YNhybZEezA) | youtube_structured_video: 保存団体として「乙部さんさ踊り保存会」を抽出 (4YNhybZEezA)",
+      "根拠URL": "https://www.city.morioka.iwate.jp/kankou/kankou/1037106/rekishi/1022409/1022410/1037674/index.html | https://www.city.morioka.iwate.jp/geijutubunka/topics/2000651/2000679.html | https://www.youtube.com/watch?v=TjgIGmm7o3E | https://www.youtube.com/watch?v=hPN23KeL2Gc | https://www.youtube.com/watch?v=9gSutyi-rfQ | https://www.youtube.com/watch?v=4YNhybZEezA",
+      "確信度": 0.99,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_8e90e31d6a1f": {
+    "title": "植野神楽保存会",
+    "aliases": [
+      "植野神楽"
+    ],
+    "organization_type": null,
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": "https://www.instagram.com/ueno.kagura/",
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "5byiswTqAE4"
+    ],
+    "source_urls": [
+      "https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf",
+      "https://www.instagram.com/ueno.kagura/",
+      "https://www.youtube.com/watch?v=5byiswTqAE4"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_8e90e31d6a1f",
+      "団体名": "植野神楽保存会",
+      "別名": "植野神楽",
+      "登場区分": "出演団体",
+      "団体種別": null,
+      "登場チャンネル": "Meg 御神楽",
+      "動画数": 1,
+      "代表video_id": "5byiswTqAE4",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": "https://www.instagram.com/ueno.kagura/",
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "中津市の文化財資料が保持団体の正式名を「植野神楽保存会」と記載している。: https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf | youtube_structured_video: 出演団体として「植野神楽保存会」を抽出 (5byiswTqAE4) | youtube_description_url: organization_context_video_description:5byiswTqAE4 からinstagram_urlを確認",
+      "根拠URL": "https://www.city-nakatsu.jp/doc/2017112100199/file_contents/H27-8bunnkazai_merged.pdf | https://www.instagram.com/ueno.kagura/ | https://www.youtube.com/watch?v=5byiswTqAE4",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_5b2ed15d1321": {
+    "title": "樫崎法印神楽",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "jy5xdN-9VzY"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=jy5xdN-9VzY"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_5b2ed15d1321",
+      "団体名": "樫崎法印神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "jy5xdN-9VzY",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「樫崎法印神楽」 | youtube_structured_video: 出演団体として「樫崎法印神楽」を抽出 (jy5xdN-9VzY)",
+      "根拠URL": "https://www.youtube.com/watch?v=jy5xdN-9VzY",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

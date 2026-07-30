@@ -1,1 +1,106 @@
-{"arts/art_local_a6d5ec4311dd7ce4":{"title":"代々木囃子","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"131130","municipality_name":"渋谷区","geographic_scope":"代々木5-1-1"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"区指定文化財（種類:区指定無形民俗文化財）","jurisdiction":"municipal","authority":"渋谷区","date":null,"source_title":"東京都渋谷区：文化財一覧「代々木囃子」","source_url":"http://www.city.shibuya.tokyo.jp/kusei/tokei/opendata/index1.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a6d5ec4311dd7ce4","official_name":"代々木囃子","reading":"ヨヨギバヤシ文化財分類:区指定文化財","aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"131130","municipality_name":"渋谷区","geographic_scope":"代々木5-1-1"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a6d5ec4311dd7ce4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_af7a543e6c82bedc":{"title":"熊野神社の三匹獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市戸沢字宮内37番地"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"2004-05-06","source_title":"福島県二本松市：文化財一覧「熊野神社の三匹獅子舞」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_af7a543e6c82bedc","official_name":"熊野神社の三匹獅子舞","reading":"クマノジンジャノサンビキシシマイ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市戸沢字宮内37番地"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-af7a543e6c82bedc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_a6d5ec4311dd7ce4": {
+    "title": "代々木囃子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": "131130",
+        "municipality_name": "渋谷区",
+        "geographic_scope": "代々木5-1-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "区指定文化財（種類:区指定無形民俗文化財）",
+        "jurisdiction": "municipal",
+        "authority": "渋谷区",
+        "date": null,
+        "source_title": "東京都渋谷区：文化財一覧「代々木囃子」",
+        "source_url": "http://www.city.shibuya.tokyo.jp/kusei/tokei/opendata/index1.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a6d5ec4311dd7ce4",
+      "official_name": "代々木囃子",
+      "reading": "ヨヨギバヤシ文化財分類:区指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": "131130",
+          "municipality_name": "渋谷区",
+          "geographic_scope": "代々木5-1-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a6d5ec4311dd7ce4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_af7a543e6c82bedc": {
+    "title": "熊野神社の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市戸沢字宮内37番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "2004-05-06",
+        "source_title": "福島県二本松市：文化財一覧「熊野神社の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_af7a543e6c82bedc",
+      "official_name": "熊野神社の三匹獅子舞",
+      "reading": "クマノジンジャノサンビキシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市戸沢字宮内37番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-af7a543e6c82bedc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

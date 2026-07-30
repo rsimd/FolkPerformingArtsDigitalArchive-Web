@@ -1,1 +1,642 @@
-{"arts/art_kuni_069e41d418e6c69d":{"title":"オーモンデー","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42211","municipality_name":"五島市","geographic_scope":"五島市三井楽町嵯峨島"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「オーモンデー」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/550"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長崎県","date":"1977-01-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_069e41d418e6c69d","official_name":"オーモンデー","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42211","municipality_name":"五島市","geographic_scope":"五島市三井楽町嵯峨島"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-069e41d418e6c69d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_5b593ba7bec61f55":{"title":"琉球古典音楽","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2000-06-06","source_title":"国指定文化財等データベース「琉球古典音楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/276"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_5b593ba7bec61f55","official_name":"琉球古典音楽","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-5b593ba7bec61f55"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_91af04c504676784":{"title":"椎葉の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1980-12-12","source_title":"国指定文化財等データベース「椎葉の神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/586"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_91af04c504676784","official_name":"椎葉の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-91af04c504676784"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_b7413ccef6035c0a":{"title":"津島の田植踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7547","municipality_name":"浪江町","geographic_scope":"浪江町下津島字町"}],"archive_genre_ids":["rice_planting_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-01-31","source_title":"国指定文化財等データベース「津島の田植踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/243"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"1972-12-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_b7413ccef6035c0a","official_name":"津島の田植踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7547","municipality_name":"浪江町","geographic_scope":"浪江町下津島字町"}],"archive_genre_ids":["rice_planting_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-b7413ccef6035c0a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_015f6bea0e8ada24":{"title":"足助の棒の手","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23211","municipality_name":"豊田市","geographic_scope":"豊田市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛知県","date":"1961-03-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_015f6bea0e8ada24","official_name":"足助の棒の手","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23211","municipality_name":"豊田市","geographic_scope":"豊田市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-015f6bea0e8ada24"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6cc5e0df58d22c0d":{"title":"山路王子神社の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30202","municipality_name":"海南市","geographic_scope":"海南市下津町市坪"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1974-12-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6cc5e0df58d22c0d","official_name":"山路王子神社の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30202","municipality_name":"海南市","geographic_scope":"海南市下津町市坪"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6cc5e0df58d22c0d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8894bfffc0075ba1":{"title":"円城寺の芭蕉踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21303","municipality_name":"笠松町","geographic_scope":"笠松町円城寺"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1989-11-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8894bfffc0075ba1","official_name":"円城寺の芭蕉踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21303","municipality_name":"笠松町","geographic_scope":"笠松町円城寺"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8894bfffc0075ba1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_91694034e853b067":{"title":"川俣の三番叟恵比須大黒舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9206","municipality_name":"日光市","geographic_scope":"日光市川俣"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"栃木県","date":"1977-07-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_91694034e853b067","official_name":"川俣の三番叟恵比須大黒舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9206","municipality_name":"日光市","geographic_scope":"日光市川俣"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-91694034e853b067"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c4ecc91af009b0b8":{"title":"はなとりおどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38506","municipality_name":"愛南町","geographic_scope":"愛南町増田"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛媛県","date":"1977-01-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c4ecc91af009b0b8","official_name":"はなとりおどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38506","municipality_name":"愛南町","geographic_scope":"愛南町増田"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c4ecc91af009b0b8"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d1448bc5daa65261":{"title":"赤穂八幡宮獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28212","municipality_name":"赤穂市","geographic_scope":"赤穂市尾崎203"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"2005-03-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d1448bc5daa65261","official_name":"赤穂八幡宮獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28212","municipality_name":"赤穂市","geographic_scope":"赤穂市尾崎203"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d1448bc5daa65261"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_efcecffd9cb59d72":{"title":"尾崎獅子（熊）踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市尾崎"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"1961-01-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_efcecffd9cb59d72","official_name":"尾崎獅子（熊）踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2210","municipality_name":"平川市","geographic_scope":"平川市尾崎"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-efcecffd9cb59d72"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f57ad73457904288":{"title":"賀露神社の麒麟獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市賀露町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1998-04-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f57ad73457904288","official_name":"賀露神社の麒麟獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市賀露町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f57ad73457904288"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_069e41d418e6c69d": {
+    "title": "オーモンデー",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42211",
+        "municipality_name": "五島市",
+        "geographic_scope": "五島市三井楽町嵯峨島"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「オーモンデー」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/550"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_069e41d418e6c69d",
+      "official_name": "オーモンデー",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42211",
+          "municipality_name": "五島市",
+          "geographic_scope": "五島市三井楽町嵯峨島"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-069e41d418e6c69d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_5b593ba7bec61f55": {
+    "title": "琉球古典音楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2000-06-06",
+        "source_title": "国指定文化財等データベース「琉球古典音楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/276"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_5b593ba7bec61f55",
+      "official_name": "琉球古典音楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-5b593ba7bec61f55"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_91af04c504676784": {
+    "title": "椎葉の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1980-12-12",
+        "source_title": "国指定文化財等データベース「椎葉の神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/586"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_91af04c504676784",
+      "official_name": "椎葉の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-91af04c504676784"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_b7413ccef6035c0a": {
+    "title": "津島の田植踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7547",
+        "municipality_name": "浪江町",
+        "geographic_scope": "浪江町下津島字町"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「津島の田植踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/243"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1972-12-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_b7413ccef6035c0a",
+      "official_name": "津島の田植踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7547",
+          "municipality_name": "浪江町",
+          "geographic_scope": "浪江町下津島字町"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-b7413ccef6035c0a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_015f6bea0e8ada24": {
+    "title": "足助の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23211",
+        "municipality_name": "豊田市",
+        "geographic_scope": "豊田市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1961-03-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_015f6bea0e8ada24",
+      "official_name": "足助の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23211",
+          "municipality_name": "豊田市",
+          "geographic_scope": "豊田市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-015f6bea0e8ada24"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6cc5e0df58d22c0d": {
+    "title": "山路王子神社の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30202",
+        "municipality_name": "海南市",
+        "geographic_scope": "海南市下津町市坪"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1974-12-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6cc5e0df58d22c0d",
+      "official_name": "山路王子神社の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30202",
+          "municipality_name": "海南市",
+          "geographic_scope": "海南市下津町市坪"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6cc5e0df58d22c0d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8894bfffc0075ba1": {
+    "title": "円城寺の芭蕉踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21303",
+        "municipality_name": "笠松町",
+        "geographic_scope": "笠松町円城寺"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1989-11-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8894bfffc0075ba1",
+      "official_name": "円城寺の芭蕉踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21303",
+          "municipality_name": "笠松町",
+          "geographic_scope": "笠松町円城寺"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8894bfffc0075ba1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_91694034e853b067": {
+    "title": "川俣の三番叟恵比須大黒舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "09",
+        "prefecture_name": "栃木県",
+        "municipality_code": "9206",
+        "municipality_name": "日光市",
+        "geographic_scope": "日光市川俣"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "栃木県",
+        "date": "1977-07-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_91694034e853b067",
+      "official_name": "川俣の三番叟恵比須大黒舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "09",
+          "prefecture_name": "栃木県",
+          "municipality_code": "9206",
+          "municipality_name": "日光市",
+          "geographic_scope": "日光市川俣"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-91694034e853b067"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c4ecc91af009b0b8": {
+    "title": "はなとりおどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38506",
+        "municipality_name": "愛南町",
+        "geographic_scope": "愛南町増田"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c4ecc91af009b0b8",
+      "official_name": "はなとりおどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38506",
+          "municipality_name": "愛南町",
+          "geographic_scope": "愛南町増田"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c4ecc91af009b0b8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d1448bc5daa65261": {
+    "title": "赤穂八幡宮獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28212",
+        "municipality_name": "赤穂市",
+        "geographic_scope": "赤穂市尾崎203"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "2005-03-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d1448bc5daa65261",
+      "official_name": "赤穂八幡宮獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28212",
+          "municipality_name": "赤穂市",
+          "geographic_scope": "赤穂市尾崎203"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d1448bc5daa65261"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_efcecffd9cb59d72": {
+    "title": "尾崎獅子（熊）踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2210",
+        "municipality_name": "平川市",
+        "geographic_scope": "平川市尾崎"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1961-01-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_efcecffd9cb59d72",
+      "official_name": "尾崎獅子（熊）踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2210",
+          "municipality_name": "平川市",
+          "geographic_scope": "平川市尾崎"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-efcecffd9cb59d72"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f57ad73457904288": {
+    "title": "賀露神社の麒麟獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31201",
+        "municipality_name": "鳥取市",
+        "geographic_scope": "鳥取市賀露町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1998-04-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f57ad73457904288",
+      "official_name": "賀露神社の麒麟獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31201",
+          "municipality_name": "鳥取市",
+          "geographic_scope": "鳥取市賀露町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f57ad73457904288"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

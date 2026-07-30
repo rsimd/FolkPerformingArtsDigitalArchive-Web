@@ -1,1 +1,206 @@
-{"arts/art_kuni_d65a82135e6def94":{"title":"吹浦延年","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["ennen"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1991-02-02","source_title":"国指定文化財等データベース「吹浦延年」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/232"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_d65a82135e6def94","official_name":"吹浦延年","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["ennen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-d65a82135e6def94"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_821102a554c6ad99":{"title":"伏屋の獅子芝居","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21302","municipality_name":"岐南町","geographic_scope":"岐南町伏屋"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1988-08-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_821102a554c6ad99","official_name":"伏屋の獅子芝居","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21302","municipality_name":"岐南町","geographic_scope":"岐南町伏屋"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-821102a554c6ad99"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_895e1e9f9df58e4c":{"title":"吉津夫婦獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37208","municipality_name":"三豊市","geographic_scope":"三豊市三野町吉津丙244-2"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"香川県","date":"1974-06-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_895e1e9f9df58e4c","official_name":"吉津夫婦獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37208","municipality_name":"三豊市","geographic_scope":"三豊市三野町吉津丙244-2"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-895e1e9f9df58e4c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_bcd3f7ec88afb9c4":{"title":"真浦の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28201","municipality_name":"姫路市","geographic_scope":"姫路市家島町真浦571"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"2001-03-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_bcd3f7ec88afb9c4","official_name":"真浦の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28201","municipality_name":"姫路市","geographic_scope":"姫路市家島町真浦571"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-bcd3f7ec88afb9c4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_d65a82135e6def94": {
+    "title": "吹浦延年",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "ennen"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1991-02-02",
+        "source_title": "国指定文化財等データベース「吹浦延年」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/232"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d65a82135e6def94",
+      "official_name": "吹浦延年",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "ennen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d65a82135e6def94"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_821102a554c6ad99": {
+    "title": "伏屋の獅子芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21302",
+        "municipality_name": "岐南町",
+        "geographic_scope": "岐南町伏屋"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1988-08-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_821102a554c6ad99",
+      "official_name": "伏屋の獅子芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21302",
+          "municipality_name": "岐南町",
+          "geographic_scope": "岐南町伏屋"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-821102a554c6ad99"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_895e1e9f9df58e4c": {
+    "title": "吉津夫婦獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37208",
+        "municipality_name": "三豊市",
+        "geographic_scope": "三豊市三野町吉津丙244-2"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1974-06-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_895e1e9f9df58e4c",
+      "official_name": "吉津夫婦獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37208",
+          "municipality_name": "三豊市",
+          "geographic_scope": "三豊市三野町吉津丙244-2"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-895e1e9f9df58e4c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bcd3f7ec88afb9c4": {
+    "title": "真浦の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28201",
+        "municipality_name": "姫路市",
+        "geographic_scope": "姫路市家島町真浦571"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "2001-03-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bcd3f7ec88afb9c4",
+      "official_name": "真浦の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28201",
+          "municipality_name": "姫路市",
+          "geographic_scope": "姫路市家島町真浦571"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bcd3f7ec88afb9c4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

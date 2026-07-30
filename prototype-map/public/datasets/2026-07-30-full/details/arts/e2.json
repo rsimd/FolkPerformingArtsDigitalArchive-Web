@@ -1,1 +1,390 @@
-{"arts/art_kuni_250aa92d41c07e1f":{"title":"奈佐原文楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9205","municipality_name":"鹿沼市","geographic_scope":"鹿沼市奈佐原町"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「奈佐原文楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/260"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"栃木県","date":"1977-07-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_250aa92d41c07e1f","official_name":"奈佐原文楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"09","prefecture_name":"栃木県","municipality_code":"9205","municipality_name":"鹿沼市","geographic_scope":"鹿沼市奈佐原町"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-250aa92d41c07e1f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_38aa17589f2f06b1":{"title":"滝坂神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2009-03-11","source_title":"国指定文化財等データベース「滝坂神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000910"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_38aa17589f2f06b1","official_name":"滝坂神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-38aa17589f2f06b1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_cf0f5eecf0642fc9":{"title":"黒丸踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42205","municipality_name":"大村","geographic_scope":"大村市黒丸町"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1973-11-05","source_title":"国指定文化財等データベース「黒丸踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/552"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長崎県","date":"1977-01-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_cf0f5eecf0642fc9","official_name":"黒丸踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":"42205","municipality_name":"大村","geographic_scope":"大村市黒丸町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-cf0f5eecf0642fc9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_212508558679aefa":{"title":"地吉の大念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39412","municipality_name":"四万十町","geographic_scope":"四万十町地吉"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1979-04-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_212508558679aefa","official_name":"地吉の大念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39412","municipality_name":"四万十町","geographic_scope":"四万十町地吉"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-212508558679aefa"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6db4ee788780b9b1":{"title":"朝光寺鬼追踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28228","municipality_name":"加東市","geographic_scope":"加東市社町畑"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"1982-03-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6db4ee788780b9b1","official_name":"朝光寺鬼追踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28228","municipality_name":"加東市","geographic_scope":"加東市社町畑"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6db4ee788780b9b1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ac96ec23f888dac6":{"title":"鳴無神社の神踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39206","municipality_name":"須崎市","geographic_scope":"須崎市浦ノ内東分3579"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1963-07-05","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ac96ec23f888dac6","official_name":"鳴無神社の神踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39206","municipality_name":"須崎市","geographic_scope":"須崎市浦ノ内東分3579"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ac96ec23f888dac6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f4cb28629e55f585":{"title":"鮭川歌舞伎","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6366","municipality_name":"鮭川村","geographic_scope":"鮭川村大字石名坂68"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"2006-01-20","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f4cb28629e55f585","official_name":"鮭川歌舞伎","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6366","municipality_name":"鮭川村","geographic_scope":"鮭川村大字石名坂68"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f4cb28629e55f585"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_250aa92d41c07e1f": {
+    "title": "奈佐原文楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "09",
+        "prefecture_name": "栃木県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "09",
+        "prefecture_name": "栃木県",
+        "municipality_code": "9205",
+        "municipality_name": "鹿沼市",
+        "geographic_scope": "鹿沼市奈佐原町"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「奈佐原文楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/260"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "栃木県",
+        "date": "1977-07-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_250aa92d41c07e1f",
+      "official_name": "奈佐原文楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "09",
+          "prefecture_name": "栃木県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "09",
+          "prefecture_name": "栃木県",
+          "municipality_code": "9205",
+          "municipality_name": "鹿沼市",
+          "geographic_scope": "鹿沼市奈佐原町"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-250aa92d41c07e1f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_38aa17589f2f06b1": {
+    "title": "滝坂神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2009-03-11",
+        "source_title": "国指定文化財等データベース「滝坂神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000910"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_38aa17589f2f06b1",
+      "official_name": "滝坂神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-38aa17589f2f06b1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_cf0f5eecf0642fc9": {
+    "title": "黒丸踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42205",
+        "municipality_name": "大村",
+        "geographic_scope": "大村市黒丸町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「黒丸踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/552"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_cf0f5eecf0642fc9",
+      "official_name": "黒丸踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42205",
+          "municipality_name": "大村",
+          "geographic_scope": "大村市黒丸町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-cf0f5eecf0642fc9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_212508558679aefa": {
+    "title": "地吉の大念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39412",
+        "municipality_name": "四万十町",
+        "geographic_scope": "四万十町地吉"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1979-04-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_212508558679aefa",
+      "official_name": "地吉の大念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39412",
+          "municipality_name": "四万十町",
+          "geographic_scope": "四万十町地吉"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-212508558679aefa"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6db4ee788780b9b1": {
+    "title": "朝光寺鬼追踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28228",
+        "municipality_name": "加東市",
+        "geographic_scope": "加東市社町畑"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1982-03-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6db4ee788780b9b1",
+      "official_name": "朝光寺鬼追踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28228",
+          "municipality_name": "加東市",
+          "geographic_scope": "加東市社町畑"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6db4ee788780b9b1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ac96ec23f888dac6": {
+    "title": "鳴無神社の神踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39206",
+        "municipality_name": "須崎市",
+        "geographic_scope": "須崎市浦ノ内東分3579"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1963-07-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ac96ec23f888dac6",
+      "official_name": "鳴無神社の神踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39206",
+          "municipality_name": "須崎市",
+          "geographic_scope": "須崎市浦ノ内東分3579"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ac96ec23f888dac6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f4cb28629e55f585": {
+    "title": "鮭川歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6366",
+        "municipality_name": "鮭川村",
+        "geographic_scope": "鮭川村大字石名坂68"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "2006-01-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f4cb28629e55f585",
+      "official_name": "鮭川歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6366",
+          "municipality_name": "鮭川村",
+          "geographic_scope": "鮭川村大字石名坂68"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f4cb28629e55f585"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

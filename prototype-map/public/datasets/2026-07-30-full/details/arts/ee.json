@@ -1,1 +1,306 @@
-{"arts/art_kuni_32da0c00d9283704":{"title":"綾子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「綾子舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/48"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「綾子舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/305"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_32da0c00d9283704","official_name":"綾子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-32da0c00d9283704"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c129da9832c67bbc":{"title":"博多松囃子","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":"福岡県福岡市博多区"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2020-03-16","source_title":"国指定文化財等データベース「博多松囃子」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00000990"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c129da9832c67bbc","official_name":"博多松囃子","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":"福岡県福岡市博多区"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c129da9832c67bbc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_400569240517d301":{"title":"太地のくじら踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30422","municipality_name":"太地町","geographic_scope":"太地町太地"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1970-05-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_400569240517d301","official_name":"太地のくじら踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30422","municipality_name":"太地町","geographic_scope":"太地町太地"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-400569240517d301"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_acd95956b35b785e":{"title":"岩沼の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12423","municipality_name":"長生村","geographic_scope":"長生村岩沼"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1961-06-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_acd95956b35b785e","official_name":"岩沼の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12423","municipality_name":"長生村","geographic_scope":"長生村岩沼"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-acd95956b35b785e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_dedd38489449540a":{"title":"室津小五月祭り（棹の歌）","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28229","municipality_name":"たつの市","geographic_scope":"たつの市御津町室津74"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"兵庫県","date":"1973-03-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_dedd38489449540a","official_name":"室津小五月祭り（棹の歌）","reading":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"28229","municipality_name":"たつの市","geographic_scope":"たつの市御津町室津74"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-dedd38489449540a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f04ab2468ffd39a0":{"title":"下倉の田植踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04101","municipality_name":"仙台市","geographic_scope":"仙台市青葉区大倉"}],"archive_genre_ids":["rice_planting_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"1971-08-03","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f04ab2468ffd39a0","official_name":"下倉の田植踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"04101","municipality_name":"仙台市","geographic_scope":"仙台市青葉区大倉"}],"archive_genre_ids":["rice_planting_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f04ab2468ffd39a0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_32da0c00d9283704": {
+    "title": "綾子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「綾子舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/48"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「綾子舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/305"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_32da0c00d9283704",
+      "official_name": "綾子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-32da0c00d9283704"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c129da9832c67bbc": {
+    "title": "博多松囃子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "福岡県福岡市博多区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2020-03-16",
+        "source_title": "国指定文化財等データベース「博多松囃子」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000990"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c129da9832c67bbc",
+      "official_name": "博多松囃子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "福岡県福岡市博多区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c129da9832c67bbc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_400569240517d301": {
+    "title": "太地のくじら踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30422",
+        "municipality_name": "太地町",
+        "geographic_scope": "太地町太地"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1970-05-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_400569240517d301",
+      "official_name": "太地のくじら踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30422",
+          "municipality_name": "太地町",
+          "geographic_scope": "太地町太地"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-400569240517d301"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_acd95956b35b785e": {
+    "title": "岩沼の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12423",
+        "municipality_name": "長生村",
+        "geographic_scope": "長生村岩沼"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1961-06-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_acd95956b35b785e",
+      "official_name": "岩沼の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12423",
+          "municipality_name": "長生村",
+          "geographic_scope": "長生村岩沼"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-acd95956b35b785e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_dedd38489449540a": {
+    "title": "室津小五月祭り（棹の歌）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28229",
+        "municipality_name": "たつの市",
+        "geographic_scope": "たつの市御津町室津74"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1973-03-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_dedd38489449540a",
+      "official_name": "室津小五月祭り（棹の歌）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28229",
+          "municipality_name": "たつの市",
+          "geographic_scope": "たつの市御津町室津74"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-dedd38489449540a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f04ab2468ffd39a0": {
+    "title": "下倉の田植踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "04101",
+        "municipality_name": "仙台市",
+        "geographic_scope": "仙台市青葉区大倉"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1971-08-03",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f04ab2468ffd39a0",
+      "official_name": "下倉の田植踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "04101",
+          "municipality_name": "仙台市",
+          "geographic_scope": "仙台市青葉区大倉"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f04ab2468ffd39a0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,262 @@
-{"arts/art_kuni_2f92d2c7570b9426":{"title":"現和の種子島大踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1974-12-04","source_title":"国指定文化財等データベース「現和の種子島大踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/601"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_2f92d2c7570b9426","official_name":"現和の種子島大踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"46","prefecture_name":"鹿児島県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-2f92d2c7570b9426"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_4707b48ee83a7480":{"title":"保呂羽山の霜月神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「保呂羽山の霜月神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/16"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「保呂羽山の霜月神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/212"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_4707b48ee83a7480","official_name":"保呂羽山の霜月神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-4707b48ee83a7480"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_ffaa6db8aca5a7fe":{"title":"睦月神事","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1978-05-22","source_title":"国指定文化財等データベース「睦月神事」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/64"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_ffaa6db8aca5a7fe","official_name":"睦月神事","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-ffaa6db8aca5a7fe"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_07e4430664962aeb":{"title":"仁組獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市栢田"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1984-02-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_07e4430664962aeb","official_name":"仁組獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12235","municipality_name":"匝瑳市","geographic_scope":"匝瑳市栢田"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-07e4430664962aeb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_80581c5656b43080":{"title":"梅坪の簓獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"132012","municipality_name":"八王子市","geographic_scope":"東京都八王子市梅坪町"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"八王子市指定無形民俗文化財","jurisdiction":"municipal","authority":"八王子市","date":null,"source_title":"東京都八王子市：文化財一覧「梅坪の簓獅子舞」","source_url":"https://www.city.hachioji.tokyo.jp/contents/open/002/p005877.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_80581c5656b43080","official_name":"梅坪の簓獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"13","prefecture_name":"東京都","municipality_code":"132012","municipality_name":"八王子市","geographic_scope":"東京都八王子市梅坪町"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-80581c5656b43080"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_2f92d2c7570b9426": {
+    "title": "現和の種子島大踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「現和の種子島大踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/601"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2f92d2c7570b9426",
+      "official_name": "現和の種子島大踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2f92d2c7570b9426"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_4707b48ee83a7480": {
+    "title": "保呂羽山の霜月神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「保呂羽山の霜月神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/16"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「保呂羽山の霜月神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/212"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_4707b48ee83a7480",
+      "official_name": "保呂羽山の霜月神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-4707b48ee83a7480"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ffaa6db8aca5a7fe": {
+    "title": "睦月神事",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1978-05-22",
+        "source_title": "国指定文化財等データベース「睦月神事」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/64"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ffaa6db8aca5a7fe",
+      "official_name": "睦月神事",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ffaa6db8aca5a7fe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_07e4430664962aeb": {
+    "title": "仁組獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12235",
+        "municipality_name": "匝瑳市",
+        "geographic_scope": "匝瑳市栢田"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1984-02-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_07e4430664962aeb",
+      "official_name": "仁組獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12235",
+          "municipality_name": "匝瑳市",
+          "geographic_scope": "匝瑳市栢田"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-07e4430664962aeb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_80581c5656b43080": {
+    "title": "梅坪の簓獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": "132012",
+        "municipality_name": "八王子市",
+        "geographic_scope": "東京都八王子市梅坪町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "八王子市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "八王子市",
+        "date": null,
+        "source_title": "東京都八王子市：文化財一覧「梅坪の簓獅子舞」",
+        "source_url": "https://www.city.hachioji.tokyo.jp/contents/open/002/p005877.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_80581c5656b43080",
+      "official_name": "梅坪の簓獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": "132012",
+          "municipality_name": "八王子市",
+          "geographic_scope": "東京都八王子市梅坪町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-80581c5656b43080"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

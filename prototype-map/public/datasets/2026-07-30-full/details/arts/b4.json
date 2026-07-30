@@ -1,1 +1,406 @@
-{"arts/art_kuni_b8d50937255b5ff3":{"title":"鹿島みろく","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2009-03-11","source_title":"国指定文化財等データベース「鹿島みろく」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000907"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_b8d50937255b5ff3","official_name":"鹿島みろく","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-b8d50937255b5ff3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2b8ea11231372772":{"title":"こだいじん","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21604","municipality_name":"白川村","geographic_scope":"白川村"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1962-10-19","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2b8ea11231372772","official_name":"こだいじん","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21604","municipality_name":"白川村","geographic_scope":"白川村"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2b8ea11231372772"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_50207af8e22af974":{"title":"肥後神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43101","municipality_name":"熊本市","geographic_scope":"熊本市中央区本丸"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1960-04-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_50207af8e22af974","official_name":"肥後神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43101","municipality_name":"熊本市","geographic_scope":"熊本市中央区本丸"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-50207af8e22af974"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8ba127ae6c93a64e":{"title":"大宮諏訪神社の狂拍子と奴踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20486","municipality_name":"小谷村","geographic_scope":"小谷村中土宮の場13722"}],"archive_genre_ids":["yakko_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長野県","date":"1991-02-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8ba127ae6c93a64e","official_name":"大宮諏訪神社の狂拍子と奴踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20486","municipality_name":"小谷村","geographic_scope":"小谷村中土宮の場13722"}],"archive_genre_ids":["yakko_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8ba127ae6c93a64e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9f1fb5b4fafd8bb3":{"title":"広瀬人形芝居","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3215","municipality_name":"奥州市","geographic_scope":"奥州市江刺区広瀬字宝良"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"1995-09-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9f1fb5b4fafd8bb3","official_name":"広瀬人形芝居","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3215","municipality_name":"奥州市","geographic_scope":"奥州市江刺区広瀬字宝良"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9f1fb5b4fafd8bb3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c5062f9240b85a23":{"title":"江差追分","summary":null,"aliases":[],"locations":[{"prefecture_code":"01","prefecture_name":"北海道","municipality_code":"1361","municipality_name":"江差町","geographic_scope":"江差町"}],"archive_genre_ids":["folk_song"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"北海道","date":"1977-04-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c5062f9240b85a23","official_name":"江差追分","reading":null,"aliases":[],"locations":[{"prefecture_code":"01","prefecture_name":"北海道","municipality_code":"1361","municipality_name":"江差町","geographic_scope":"江差町"}],"archive_genre_ids":["folk_song"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c5062f9240b85a23"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e502ece2fbacf7a9":{"title":"湖南の会津万歳","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7203","municipality_name":"郡山市","geographic_scope":"郡山市湖南町中野"}],"archive_genre_ids":["blessing_art"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"1981-03-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e502ece2fbacf7a9","official_name":"湖南の会津万歳","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7203","municipality_name":"郡山市","geographic_scope":"郡山市湖南町中野"}],"archive_genre_ids":["blessing_art"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e502ece2fbacf7a9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f9b532db2bc35ca3":{"title":"山野の楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40227","municipality_name":"嘉麻市","geographic_scope":"嘉麻市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f9b532db2bc35ca3","official_name":"山野の楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40227","municipality_name":"嘉麻市","geographic_scope":"嘉麻市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f9b532db2bc35ca3"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_b8d50937255b5ff3": {
+    "title": "鹿島みろく",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2009-03-11",
+        "source_title": "国指定文化財等データベース「鹿島みろく」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000907"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_b8d50937255b5ff3",
+      "official_name": "鹿島みろく",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-b8d50937255b5ff3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2b8ea11231372772": {
+    "title": "こだいじん",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21604",
+        "municipality_name": "白川村",
+        "geographic_scope": "白川村"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1962-10-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2b8ea11231372772",
+      "official_name": "こだいじん",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21604",
+          "municipality_name": "白川村",
+          "geographic_scope": "白川村"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2b8ea11231372772"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_50207af8e22af974": {
+    "title": "肥後神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43101",
+        "municipality_name": "熊本市",
+        "geographic_scope": "熊本市中央区本丸"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1960-04-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_50207af8e22af974",
+      "official_name": "肥後神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43101",
+          "municipality_name": "熊本市",
+          "geographic_scope": "熊本市中央区本丸"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-50207af8e22af974"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8ba127ae6c93a64e": {
+    "title": "大宮諏訪神社の狂拍子と奴踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": "20486",
+        "municipality_name": "小谷村",
+        "geographic_scope": "小谷村中土宮の場13722"
+      }
+    ],
+    "archive_genre_ids": [
+      "yakko_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長野県",
+        "date": "1991-02-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8ba127ae6c93a64e",
+      "official_name": "大宮諏訪神社の狂拍子と奴踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": "20486",
+          "municipality_name": "小谷村",
+          "geographic_scope": "小谷村中土宮の場13722"
+        }
+      ],
+      "archive_genre_ids": [
+        "yakko_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8ba127ae6c93a64e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9f1fb5b4fafd8bb3": {
+    "title": "広瀬人形芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3215",
+        "municipality_name": "奥州市",
+        "geographic_scope": "奥州市江刺区広瀬字宝良"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "1995-09-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9f1fb5b4fafd8bb3",
+      "official_name": "広瀬人形芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3215",
+          "municipality_name": "奥州市",
+          "geographic_scope": "奥州市江刺区広瀬字宝良"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9f1fb5b4fafd8bb3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c5062f9240b85a23": {
+    "title": "江差追分",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "01",
+        "prefecture_name": "北海道",
+        "municipality_code": "1361",
+        "municipality_name": "江差町",
+        "geographic_scope": "江差町"
+      }
+    ],
+    "archive_genre_ids": [
+      "folk_song"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "北海道",
+        "date": "1977-04-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c5062f9240b85a23",
+      "official_name": "江差追分",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "01",
+          "prefecture_name": "北海道",
+          "municipality_code": "1361",
+          "municipality_name": "江差町",
+          "geographic_scope": "江差町"
+        }
+      ],
+      "archive_genre_ids": [
+        "folk_song"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c5062f9240b85a23"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e502ece2fbacf7a9": {
+    "title": "湖南の会津万歳",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7203",
+        "municipality_name": "郡山市",
+        "geographic_scope": "郡山市湖南町中野"
+      }
+    ],
+    "archive_genre_ids": [
+      "blessing_art"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1981-03-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e502ece2fbacf7a9",
+      "official_name": "湖南の会津万歳",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7203",
+          "municipality_name": "郡山市",
+          "geographic_scope": "郡山市湖南町中野"
+        }
+      ],
+      "archive_genre_ids": [
+        "blessing_art"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e502ece2fbacf7a9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f9b532db2bc35ca3": {
+    "title": "山野の楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40227",
+        "municipality_name": "嘉麻市",
+        "geographic_scope": "嘉麻市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f9b532db2bc35ca3",
+      "official_name": "山野の楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40227",
+          "municipality_name": "嘉麻市",
+          "geographic_scope": "嘉麻市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f9b532db2bc35ca3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

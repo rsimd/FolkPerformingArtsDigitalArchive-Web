@@ -1,1 +1,278 @@
-{"arts/art_kuni_0b53b0541cb8afe2":{"title":"水海の田楽・能舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["dengaku_dance","noh_kyogen"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1976-05-04","source_title":"国指定文化財等データベース「水海の田楽・能舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/63"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_0b53b0541cb8afe2","official_name":"水海の田楽・能舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["dengaku_dance","noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-0b53b0541cb8afe2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c5b8a8b00f968f02":{"title":"南須釜の念仏踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7502","municipality_name":"玉川村","geographic_scope":"玉川村南須釜字根搦"}],"archive_genre_ids":["nenbutsu_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-12-08","source_title":"国指定文化財等データベース「南須釜の念仏踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/244"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"1975-05-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c5b8a8b00f968f02","official_name":"南須釜の念仏踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7502","municipality_name":"玉川村","geographic_scope":"玉川村南須釜字根搦"}],"archive_genre_ids":["nenbutsu_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c5b8a8b00f968f02"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_444f14eb2e90e6ca":{"title":"祝島の神舞神事","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35341","municipality_name":"上関町","geographic_scope":"上関町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山口県","date":"1976-11-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_444f14eb2e90e6ca","official_name":"祝島の神舞神事","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35341","municipality_name":"上関町","geographic_scope":"上関町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-444f14eb2e90e6ca"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8f87f8cc99ef1e15":{"title":"阿蘇の虎舞（蔵原）","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市蔵原"}],"archive_genre_ids":["tiger_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1986-01-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8f87f8cc99ef1e15","official_name":"阿蘇の虎舞（蔵原）","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43214","municipality_name":"阿蘇市","geographic_scope":"阿蘇市蔵原"}],"archive_genre_ids":["tiger_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8f87f8cc99ef1e15"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a0611e09a2561ac6":{"title":"櫻井町の棒の手","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23212","municipality_name":"安城市","geographic_scope":"安城市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛知県","date":"1964-03-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a0611e09a2561ac6","official_name":"櫻井町の棒の手","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23212","municipality_name":"安城市","geographic_scope":"安城市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a0611e09a2561ac6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_0b53b0541cb8afe2": {
+    "title": "水海の田楽・能舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance",
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「水海の田楽・能舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/63"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_0b53b0541cb8afe2",
+      "official_name": "水海の田楽・能舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance",
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-0b53b0541cb8afe2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c5b8a8b00f968f02": {
+    "title": "南須釜の念仏踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7502",
+        "municipality_name": "玉川村",
+        "geographic_scope": "玉川村南須釜字根搦"
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-12-08",
+        "source_title": "国指定文化財等データベース「南須釜の念仏踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/244"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1975-05-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c5b8a8b00f968f02",
+      "official_name": "南須釜の念仏踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7502",
+          "municipality_name": "玉川村",
+          "geographic_scope": "玉川村南須釜字根搦"
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c5b8a8b00f968f02"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_444f14eb2e90e6ca": {
+    "title": "祝島の神舞神事",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35341",
+        "municipality_name": "上関町",
+        "geographic_scope": "上関町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-11-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_444f14eb2e90e6ca",
+      "official_name": "祝島の神舞神事",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35341",
+          "municipality_name": "上関町",
+          "geographic_scope": "上関町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-444f14eb2e90e6ca"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8f87f8cc99ef1e15": {
+    "title": "阿蘇の虎舞（蔵原）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43214",
+        "municipality_name": "阿蘇市",
+        "geographic_scope": "阿蘇市蔵原"
+      }
+    ],
+    "archive_genre_ids": [
+      "tiger_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1986-01-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8f87f8cc99ef1e15",
+      "official_name": "阿蘇の虎舞（蔵原）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43214",
+          "municipality_name": "阿蘇市",
+          "geographic_scope": "阿蘇市蔵原"
+        }
+      ],
+      "archive_genre_ids": [
+        "tiger_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8f87f8cc99ef1e15"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a0611e09a2561ac6": {
+    "title": "櫻井町の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23212",
+        "municipality_name": "安城市",
+        "geographic_scope": "安城市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1964-03-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a0611e09a2561ac6",
+      "official_name": "櫻井町の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23212",
+          "municipality_name": "安城市",
+          "geographic_scope": "安城市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a0611e09a2561ac6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

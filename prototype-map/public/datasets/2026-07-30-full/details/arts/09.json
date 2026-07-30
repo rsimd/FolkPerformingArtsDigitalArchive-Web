@@ -1,1 +1,458 @@
-{"arts/art_kuni_090dbd0471e2b094":{"title":"能囃子方太鼓","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2014-10-23","source_title":"国指定文化財等データベース「能囃子方太鼓」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/6"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_090dbd0471e2b094","official_name":"能囃子方太鼓","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-090dbd0471e2b094"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_8bfb5962c9d5ca7b":{"title":"跡部の踊り念仏","summary":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["nenbutsu_dance"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2000-12-27","source_title":"国指定文化財等データベース「跡部の踊り念仏」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/727"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_8bfb5962c9d5ca7b","official_name":"跡部の踊り念仏","reading":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["nenbutsu_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-8bfb5962c9d5ca7b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_a40ca0c972adbfe9":{"title":"荒踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1975-12-08","source_title":"国指定文化財等データベース「荒踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/584"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_a40ca0c972adbfe9","official_name":"荒踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-a40ca0c972adbfe9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3ed4071e4f9d7f0a":{"title":"岩坪神社獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市岩坪"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1959-12-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3ed4071e4f9d7f0a","official_name":"岩坪神社獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市岩坪"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3ed4071e4f9d7f0a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_5b36dd690dff88a2":{"title":"美作町の地下芝居","summary":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33215","municipality_name":"美作市","geographic_scope":"美作市林野中尾"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岡山県","date":"1973-05-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_5b36dd690dff88a2","official_name":"美作町の地下芝居","reading":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33215","municipality_name":"美作市","geographic_scope":"美作市林野中尾"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-5b36dd690dff88a2"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_76766597c2e57add":{"title":"宇美神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40341","municipality_name":"宇美町","geographic_scope":"宇美町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_76766597c2e57add","official_name":"宇美神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40341","municipality_name":"宇美町","geographic_scope":"宇美町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-76766597c2e57add"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9a9934f76e233fde":{"title":"津田の盆踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36201","municipality_name":"徳島市","geographic_scope":"徳島市津田町"}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"徳島県","date":"2002-05-07","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9a9934f76e233fde","official_name":"津田の盆踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36201","municipality_name":"徳島市","geographic_scope":"徳島市津田町"}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9a9934f76e233fde"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a2b1f6697c3741bb":{"title":"小原大元神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34369","municipality_name":"北広島町","geographic_scope":"北広島町小原"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1986-02-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a2b1f6697c3741bb","official_name":"小原大元神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34369","municipality_name":"北広島町","geographic_scope":"北広島町小原"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a2b1f6697c3741bb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a4e331e8cbedcb49":{"title":"ひよこち踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39301","municipality_name":"東洋町","geographic_scope":"東洋町甲浦"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1989-03-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a4e331e8cbedcb49","official_name":"ひよこち踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39301","municipality_name":"東洋町","geographic_scope":"東洋町甲浦"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a4e331e8cbedcb49"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_090dbd0471e2b094": {
+    "title": "能囃子方太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2014-10-23",
+        "source_title": "国指定文化財等データベース「能囃子方太鼓」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/6"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_090dbd0471e2b094",
+      "official_name": "能囃子方太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-090dbd0471e2b094"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8bfb5962c9d5ca7b": {
+    "title": "跡部の踊り念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2000-12-27",
+        "source_title": "国指定文化財等データベース「跡部の踊り念仏」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/727"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8bfb5962c9d5ca7b",
+      "official_name": "跡部の踊り念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8bfb5962c9d5ca7b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a40ca0c972adbfe9": {
+    "title": "荒踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「荒踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/584"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a40ca0c972adbfe9",
+      "official_name": "荒踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a40ca0c972adbfe9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3ed4071e4f9d7f0a": {
+    "title": "岩坪神社獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31201",
+        "municipality_name": "鳥取市",
+        "geographic_scope": "鳥取市岩坪"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1959-12-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3ed4071e4f9d7f0a",
+      "official_name": "岩坪神社獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31201",
+          "municipality_name": "鳥取市",
+          "geographic_scope": "鳥取市岩坪"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3ed4071e4f9d7f0a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5b36dd690dff88a2": {
+    "title": "美作町の地下芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": "33215",
+        "municipality_name": "美作市",
+        "geographic_scope": "美作市林野中尾"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岡山県",
+        "date": "1973-05-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5b36dd690dff88a2",
+      "official_name": "美作町の地下芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": "33215",
+          "municipality_name": "美作市",
+          "geographic_scope": "美作市林野中尾"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5b36dd690dff88a2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_76766597c2e57add": {
+    "title": "宇美神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40341",
+        "municipality_name": "宇美町",
+        "geographic_scope": "宇美町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_76766597c2e57add",
+      "official_name": "宇美神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40341",
+          "municipality_name": "宇美町",
+          "geographic_scope": "宇美町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-76766597c2e57add"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9a9934f76e233fde": {
+    "title": "津田の盆踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "36201",
+        "municipality_name": "徳島市",
+        "geographic_scope": "徳島市津田町"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "徳島県",
+        "date": "2002-05-07",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9a9934f76e233fde",
+      "official_name": "津田の盆踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "36201",
+          "municipality_name": "徳島市",
+          "geographic_scope": "徳島市津田町"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9a9934f76e233fde"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a2b1f6697c3741bb": {
+    "title": "小原大元神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34369",
+        "municipality_name": "北広島町",
+        "geographic_scope": "北広島町小原"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1986-02-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a2b1f6697c3741bb",
+      "official_name": "小原大元神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34369",
+          "municipality_name": "北広島町",
+          "geographic_scope": "北広島町小原"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a2b1f6697c3741bb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a4e331e8cbedcb49": {
+    "title": "ひよこち踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39301",
+        "municipality_name": "東洋町",
+        "geographic_scope": "東洋町甲浦"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1989-03-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a4e331e8cbedcb49",
+      "official_name": "ひよこち踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39301",
+          "municipality_name": "東洋町",
+          "geographic_scope": "東洋町甲浦"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a4e331e8cbedcb49"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

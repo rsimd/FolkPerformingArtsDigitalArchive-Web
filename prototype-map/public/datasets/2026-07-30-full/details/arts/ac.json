@@ -1,1 +1,274 @@
-{"arts/art_kuni_0a9f56488dc143f4":{"title":"吉浜の鹿島踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"14","prefecture_name":"神奈川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-11-11","source_title":"国指定文化財等データベース「吉浜の鹿島踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/299"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_0a9f56488dc143f4","official_name":"吉浜の鹿島踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"14","prefecture_name":"神奈川県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-0a9f56488dc143f4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_d96ee287ead5dbef":{"title":"長唄三味線","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1987-04-20","source_title":"国指定文化財等データベース「長唄三味線」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/23"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_d96ee287ead5dbef","official_name":"長唄三味線","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-d96ee287ead5dbef"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_0b6df16051ef8a15":{"title":"しし踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3205","municipality_name":"花巻市","geographic_scope":"花巻市東和町落合"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3208","municipality_name":"遠野市","geographic_scope":"遠野市青笹町糠前"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3208","municipality_name":"遠野市","geographic_scope":"遠野市附馬牛町上附馬牛"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"1974-02-15","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_0b6df16051ef8a15","official_name":"しし踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3205","municipality_name":"花巻市","geographic_scope":"花巻市東和町落合"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3208","municipality_name":"遠野市","geographic_scope":"遠野市青笹町糠前"},{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3208","municipality_name":"遠野市","geographic_scope":"遠野市附馬牛町上附馬牛"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-0b6df16051ef8a15"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_68b4302ae765d8f0":{"title":"輪島麦屋節","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172049","municipality_name":"輪島市","geographic_scope":"石川県輪島市河井町22部71番地6"}],"archive_genre_ids":[],"designations":[{"type":"輪島市指定　無形民俗文化財","jurisdiction":"municipal","authority":"輪島市","date":"1982-10-27","source_title":"全国文化財目録「輪島麦屋節」","source_url":"https://www.city.wajima.ishikawa.jp/docs/2020011000019/"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_68b4302ae765d8f0","official_name":"輪島麦屋節","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"172049","municipality_name":"輪島市","geographic_scope":"石川県輪島市河井町22部71番地6"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-68b4302ae765d8f0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c0f1fe58d858cdac":{"title":"和谷式神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24203","municipality_name":"伊勢市","geographic_scope":"伊勢市一色町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"三重県","date":"1991-03-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c0f1fe58d858cdac","official_name":"和谷式神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24203","municipality_name":"伊勢市","geographic_scope":"伊勢市一色町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c0f1fe58d858cdac"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_0a9f56488dc143f4": {
+    "title": "吉浜の鹿島踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "14",
+        "prefecture_name": "神奈川県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「吉浜の鹿島踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/299"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_0a9f56488dc143f4",
+      "official_name": "吉浜の鹿島踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "14",
+          "prefecture_name": "神奈川県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-0a9f56488dc143f4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_d96ee287ead5dbef": {
+    "title": "長唄三味線",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1987-04-20",
+        "source_title": "国指定文化財等データベース「長唄三味線」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/23"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d96ee287ead5dbef",
+      "official_name": "長唄三味線",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d96ee287ead5dbef"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0b6df16051ef8a15": {
+    "title": "しし踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3205",
+        "municipality_name": "花巻市",
+        "geographic_scope": "花巻市東和町落合"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3208",
+        "municipality_name": "遠野市",
+        "geographic_scope": "遠野市青笹町糠前"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3208",
+        "municipality_name": "遠野市",
+        "geographic_scope": "遠野市附馬牛町上附馬牛"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "1974-02-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0b6df16051ef8a15",
+      "official_name": "しし踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3205",
+          "municipality_name": "花巻市",
+          "geographic_scope": "花巻市東和町落合"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3208",
+          "municipality_name": "遠野市",
+          "geographic_scope": "遠野市青笹町糠前"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3208",
+          "municipality_name": "遠野市",
+          "geographic_scope": "遠野市附馬牛町上附馬牛"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0b6df16051ef8a15"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_68b4302ae765d8f0": {
+    "title": "輪島麦屋節",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "172049",
+        "municipality_name": "輪島市",
+        "geographic_scope": "石川県輪島市河井町22部71番地6"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "輪島市指定　無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "輪島市",
+        "date": "1982-10-27",
+        "source_title": "全国文化財目録「輪島麦屋節」",
+        "source_url": "https://www.city.wajima.ishikawa.jp/docs/2020011000019/"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_68b4302ae765d8f0",
+      "official_name": "輪島麦屋節",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "172049",
+          "municipality_name": "輪島市",
+          "geographic_scope": "石川県輪島市河井町22部71番地6"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-68b4302ae765d8f0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c0f1fe58d858cdac": {
+    "title": "和谷式神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24203",
+        "municipality_name": "伊勢市",
+        "geographic_scope": "伊勢市一色町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1991-03-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c0f1fe58d858cdac",
+      "official_name": "和谷式神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24203",
+          "municipality_name": "伊勢市",
+          "geographic_scope": "伊勢市一色町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c0f1fe58d858cdac"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

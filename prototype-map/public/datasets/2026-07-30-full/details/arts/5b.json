@@ -1,1 +1,276 @@
-{"arts/art_local_1bb50b46a03d533d":{"title":"御坊下組の雀踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30205","municipality_name":"御坊市","geographic_scope":"御坊市薗"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"和歌山県","date":"1981-07-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_1bb50b46a03d533d","official_name":"御坊下組の雀踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"30","prefecture_name":"和歌山県","municipality_code":"30205","municipality_name":"御坊市","geographic_scope":"御坊市薗"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-1bb50b46a03d533d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_a3de12b488882696":{"title":"釜ケ台番楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5214","municipality_name":"にかほ市","geographic_scope":"にかほ市釜ケ台"},{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5214","municipality_name":"にかほ市","geographic_scope":"秋田県にかほ市釜ヶ台字中島9-2"}],"archive_genre_ids":["yamabushi_kagura"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"1973-06-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"},{"type":"秋田県指定無形民俗文化財","jurisdiction":"prefectural","authority":"秋田県","date":null,"source_title":"秋田県にかほ市：文化財一覧「釜ケ台番楽」","source_url":"https://www.city.nikaho.akita.jp/administration/detail.html?id=3190"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_a3de12b488882696","official_name":"釜ケ台番楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5214","municipality_name":"にかほ市","geographic_scope":"にかほ市釜ケ台"},{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5214","municipality_name":"にかほ市","geographic_scope":"秋田県にかほ市釜ヶ台字中島9-2"}],"archive_genre_ids":["yamabushi_kagura"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-a3de12b488882696"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b7c48bfcfeaf45ec":{"title":"屋敷番楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市西沢字下屋敷"}],"archive_genre_ids":["yamabushi_kagura"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"秋田県","date":"1971-12-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b7c48bfcfeaf45ec","official_name":"屋敷番楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"05","prefecture_name":"秋田県","municipality_code":"5210","municipality_name":"由利本荘市","geographic_scope":"由利本荘市西沢字下屋敷"}],"archive_genre_ids":["yamabushi_kagura"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b7c48bfcfeaf45ec"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b92c8e993c09178e":{"title":"宜野座の京太郎","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":"47313","municipality_name":"宜野座村","geographic_scope":"宜野座村字宜野座"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"沖縄県","date":"1985-10-08","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b92c8e993c09178e","official_name":"宜野座の京太郎","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":"47313","municipality_name":"宜野座村","geographic_scope":"宜野座村字宜野座"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b92c8e993c09178e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_fae4ba86c5db2beb":{"title":"熊野堂舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4207","municipality_name":"名取市","geographic_scope":"名取市高館熊野堂"}],"archive_genre_ids":["bugaku"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮城県","date":"2003-01-31","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_fae4ba86c5db2beb","official_name":"熊野堂舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"04","prefecture_name":"宮城県","municipality_code":"4207","municipality_name":"名取市","geographic_scope":"名取市高館熊野堂"}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-fae4ba86c5db2beb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_1bb50b46a03d533d": {
+    "title": "御坊下組の雀踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30205",
+        "municipality_name": "御坊市",
+        "geographic_scope": "御坊市薗"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1981-07-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1bb50b46a03d533d",
+      "official_name": "御坊下組の雀踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30205",
+          "municipality_name": "御坊市",
+          "geographic_scope": "御坊市薗"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1bb50b46a03d533d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a3de12b488882696": {
+    "title": "釜ケ台番楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "にかほ市釜ケ台"
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "秋田県にかほ市釜ヶ台字中島9-2"
+      }
+    ],
+    "archive_genre_ids": [
+      "yamabushi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1973-06-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "秋田県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": null,
+        "source_title": "秋田県にかほ市：文化財一覧「釜ケ台番楽」",
+        "source_url": "https://www.city.nikaho.akita.jp/administration/detail.html?id=3190"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a3de12b488882696",
+      "official_name": "釜ケ台番楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "にかほ市釜ケ台"
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "秋田県にかほ市釜ヶ台字中島9-2"
+        }
+      ],
+      "archive_genre_ids": [
+        "yamabushi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a3de12b488882696"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b7c48bfcfeaf45ec": {
+    "title": "屋敷番楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5210",
+        "municipality_name": "由利本荘市",
+        "geographic_scope": "由利本荘市西沢字下屋敷"
+      }
+    ],
+    "archive_genre_ids": [
+      "yamabushi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1971-12-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b7c48bfcfeaf45ec",
+      "official_name": "屋敷番楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5210",
+          "municipality_name": "由利本荘市",
+          "geographic_scope": "由利本荘市西沢字下屋敷"
+        }
+      ],
+      "archive_genre_ids": [
+        "yamabushi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b7c48bfcfeaf45ec"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b92c8e993c09178e": {
+    "title": "宜野座の京太郎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": "47313",
+        "municipality_name": "宜野座村",
+        "geographic_scope": "宜野座村字宜野座"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "沖縄県",
+        "date": "1985-10-08",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b92c8e993c09178e",
+      "official_name": "宜野座の京太郎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": "47313",
+          "municipality_name": "宜野座村",
+          "geographic_scope": "宜野座村字宜野座"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b92c8e993c09178e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fae4ba86c5db2beb": {
+    "title": "熊野堂舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "4207",
+        "municipality_name": "名取市",
+        "geographic_scope": "名取市高館熊野堂"
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "2003-01-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fae4ba86c5db2beb",
+      "official_name": "熊野堂舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "4207",
+          "municipality_name": "名取市",
+          "geographic_scope": "名取市高館熊野堂"
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fae4ba86c5db2beb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

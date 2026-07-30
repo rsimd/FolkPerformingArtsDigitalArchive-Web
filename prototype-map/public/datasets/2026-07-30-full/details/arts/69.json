@@ -1,1 +1,328 @@
-{"arts/art_kuni_9f1d34d7acb335b7":{"title":"伊予神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1981-01-21","source_title":"国指定文化財等データベース「伊予神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/128"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「伊予神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/509"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_9f1d34d7acb335b7","official_name":"伊予神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-9f1d34d7acb335b7"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_b85c45d117585af9":{"title":"はんや舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40210","municipality_name":"八女市","geographic_scope":"八女市"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1978-01-31","source_title":"国指定文化財等データベース「はんや舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/534"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福岡県","date":"1976-04-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_b85c45d117585af9","official_name":"はんや舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"40","prefecture_name":"福岡県","municipality_code":"40210","municipality_name":"八女市","geographic_scope":"八女市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-b85c45d117585af9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_381961affd937932":{"title":"シカシカ踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37204","municipality_name":"善通寺市","geographic_scope":"善通寺市原田町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"香川県","date":"1973-05-12","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_381961affd937932","official_name":"シカシカ踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37204","municipality_name":"善通寺市","geographic_scope":"善通寺市原田町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-381961affd937932"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_80a40c5cf3099965":{"title":"吹浦田楽舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6461","municipality_name":"遊佐町","geographic_scope":"遊佐町吹浦"}],"archive_genre_ids":["dengaku_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"1993-12-03","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_80a40c5cf3099965","official_name":"吹浦田楽舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6461","municipality_name":"遊佐町","geographic_scope":"遊佐町吹浦"}],"archive_genre_ids":["dengaku_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-80a40c5cf3099965"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_86a9d476119e75c0":{"title":"後面","summary":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":"152099","municipality_name":"加茂市","geographic_scope":"加茂市松坂町3番20号"}],"archive_genre_ids":[],"designations":[{"type":"市指定文化財","jurisdiction":"municipal","authority":"加茂市","date":null,"source_title":"新潟県加茂市：文化財一覧表「後面」","source_url":"http://linkdata.org/work/rdf1s8214i"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_86a9d476119e75c0","official_name":"後面","reading":"ウシロメン文化財分類:市指定文化財","aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":"152099","municipality_name":"加茂市","geographic_scope":"加茂市松坂町3番20号"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-86a9d476119e75c0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_af2479aff06dc552":{"title":"湯本南条踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35211","municipality_name":"長門市","geographic_scope":"長門市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山口県","date":"1976-03-16","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_af2479aff06dc552","official_name":"湯本南条踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"35","prefecture_name":"山口県","municipality_code":"35211","municipality_name":"長門市","geographic_scope":"長門市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-af2479aff06dc552"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_9f1d34d7acb335b7": {
+    "title": "伊予神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1981-01-21",
+        "source_title": "国指定文化財等データベース「伊予神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/128"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「伊予神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/509"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9f1d34d7acb335b7",
+      "official_name": "伊予神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9f1d34d7acb335b7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_b85c45d117585af9": {
+    "title": "はんや舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40210",
+        "municipality_name": "八女市",
+        "geographic_scope": "八女市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「はんや舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/534"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_b85c45d117585af9",
+      "official_name": "はんや舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40210",
+          "municipality_name": "八女市",
+          "geographic_scope": "八女市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-b85c45d117585af9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_381961affd937932": {
+    "title": "シカシカ踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37204",
+        "municipality_name": "善通寺市",
+        "geographic_scope": "善通寺市原田町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1973-05-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_381961affd937932",
+      "official_name": "シカシカ踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37204",
+          "municipality_name": "善通寺市",
+          "geographic_scope": "善通寺市原田町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-381961affd937932"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_80a40c5cf3099965": {
+    "title": "吹浦田楽舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6461",
+        "municipality_name": "遊佐町",
+        "geographic_scope": "遊佐町吹浦"
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "1993-12-03",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_80a40c5cf3099965",
+      "official_name": "吹浦田楽舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6461",
+          "municipality_name": "遊佐町",
+          "geographic_scope": "遊佐町吹浦"
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-80a40c5cf3099965"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_86a9d476119e75c0": {
+    "title": "後面",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": "152099",
+        "municipality_name": "加茂市",
+        "geographic_scope": "加茂市松坂町3番20号"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定文化財",
+        "jurisdiction": "municipal",
+        "authority": "加茂市",
+        "date": null,
+        "source_title": "新潟県加茂市：文化財一覧表「後面」",
+        "source_url": "http://linkdata.org/work/rdf1s8214i"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_86a9d476119e75c0",
+      "official_name": "後面",
+      "reading": "ウシロメン文化財分類:市指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": "152099",
+          "municipality_name": "加茂市",
+          "geographic_scope": "加茂市松坂町3番20号"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-86a9d476119e75c0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_af2479aff06dc552": {
+    "title": "湯本南条踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35211",
+        "municipality_name": "長門市",
+        "geographic_scope": "長門市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_af2479aff06dc552",
+      "official_name": "湯本南条踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35211",
+          "municipality_name": "長門市",
+          "geographic_scope": "長門市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-af2479aff06dc552"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,406 @@
-{"arts/art_kuni_14aab5dced849147":{"title":"府招の浮立","summary":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1987-12-18","source_title":"国指定文化財等データベース「府招の浮立」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/546"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_14aab5dced849147","official_name":"府招の浮立","reading":null,"aliases":[],"locations":[{"prefecture_code":"41","prefecture_name":"佐賀県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-14aab5dced849147"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c33d5bf6a521f5bd":{"title":"能楽","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1957-12-04","source_title":"国指定文化財等データベース「能楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/102"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c33d5bf6a521f5bd","official_name":"能楽","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c33d5bf6a521f5bd"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_e7f450e266699441":{"title":"春日若宮おん祭の芸能","summary":null,"aliases":[],"locations":[{"prefecture_code":"29","prefecture_name":"奈良県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1975-12-08","source_title":"国指定文化財等データベース「春日若宮おん祭の芸能」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/440"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_e7f450e266699441","official_name":"春日若宮おん祭の芸能","reading":null,"aliases":[],"locations":[{"prefecture_code":"29","prefecture_name":"奈良県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-e7f450e266699441"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_06ef66b88337f046":{"title":"安良の棒の手","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23217","municipality_name":"江南市","geographic_scope":"江南市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛知県","date":"1956-06-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_06ef66b88337f046","official_name":"安良の棒の手","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23217","municipality_name":"江南市","geographic_scope":"江南市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-06ef66b88337f046"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_48e874fcbfce1be0":{"title":"杉沢の三匹獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市杉沢字高森2番地"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"1999-07-06","source_title":"福島県二本松市：文化財一覧「杉沢の三匹獅子舞」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_48e874fcbfce1be0","official_name":"杉沢の三匹獅子舞","reading":"スギサワノザンビキシシマイ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市杉沢字高森2番地"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-48e874fcbfce1be0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_843beb4a09c4ac0b":{"title":"富士宮囃子","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22207","municipality_name":"富士宮市","geographic_scope":"富士宮市"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1995-03-20","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_843beb4a09c4ac0b","official_name":"富士宮囃子","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22207","municipality_name":"富士宮市","geographic_scope":"富士宮市"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-843beb4a09c4ac0b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9480ae58ff65b36f":{"title":"岡三沢神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2207","municipality_name":"三沢市","geographic_scope":"三沢市岡三沢"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"青森県","date":"2010-07-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9480ae58ff65b36f","official_name":"岡三沢神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"02","prefecture_name":"青森県","municipality_code":"2207","municipality_name":"三沢市","geographic_scope":"三沢市岡三沢"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9480ae58ff65b36f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ffd0e27328da838e":{"title":"平塩舞楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6206","municipality_name":"寒河江市","geographic_scope":"寒河江市大字平塩107"}],"archive_genre_ids":["bugaku"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"山形県","date":"1979-05-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ffd0e27328da838e","official_name":"平塩舞楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":"6206","municipality_name":"寒河江市","geographic_scope":"寒河江市大字平塩107"}],"archive_genre_ids":["bugaku"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ffd0e27328da838e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_14aab5dced849147": {
+    "title": "府招の浮立",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1987-12-18",
+        "source_title": "国指定文化財等データベース「府招の浮立」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/546"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_14aab5dced849147",
+      "official_name": "府招の浮立",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-14aab5dced849147"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c33d5bf6a521f5bd": {
+    "title": "能楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1957-12-04",
+        "source_title": "国指定文化財等データベース「能楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/102"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c33d5bf6a521f5bd",
+      "official_name": "能楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c33d5bf6a521f5bd"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e7f450e266699441": {
+    "title": "春日若宮おん祭の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "29",
+        "prefecture_name": "奈良県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「春日若宮おん祭の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/440"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e7f450e266699441",
+      "official_name": "春日若宮おん祭の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "29",
+          "prefecture_name": "奈良県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e7f450e266699441"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_06ef66b88337f046": {
+    "title": "安良の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23217",
+        "municipality_name": "江南市",
+        "geographic_scope": "江南市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1956-06-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_06ef66b88337f046",
+      "official_name": "安良の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23217",
+          "municipality_name": "江南市",
+          "geographic_scope": "江南市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-06ef66b88337f046"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_48e874fcbfce1be0": {
+    "title": "杉沢の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市杉沢字高森2番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1999-07-06",
+        "source_title": "福島県二本松市：文化財一覧「杉沢の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_48e874fcbfce1be0",
+      "official_name": "杉沢の三匹獅子舞",
+      "reading": "スギサワノザンビキシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市杉沢字高森2番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-48e874fcbfce1be0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_843beb4a09c4ac0b": {
+    "title": "富士宮囃子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22207",
+        "municipality_name": "富士宮市",
+        "geographic_scope": "富士宮市"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1995-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_843beb4a09c4ac0b",
+      "official_name": "富士宮囃子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22207",
+          "municipality_name": "富士宮市",
+          "geographic_scope": "富士宮市"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-843beb4a09c4ac0b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9480ae58ff65b36f": {
+    "title": "岡三沢神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2207",
+        "municipality_name": "三沢市",
+        "geographic_scope": "三沢市岡三沢"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "2010-07-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9480ae58ff65b36f",
+      "official_name": "岡三沢神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2207",
+          "municipality_name": "三沢市",
+          "geographic_scope": "三沢市岡三沢"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9480ae58ff65b36f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ffd0e27328da838e": {
+    "title": "平塩舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6206",
+        "municipality_name": "寒河江市",
+        "geographic_scope": "寒河江市大字平塩107"
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "1979-05-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ffd0e27328da838e",
+      "official_name": "平塩舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6206",
+          "municipality_name": "寒河江市",
+          "geographic_scope": "寒河江市大字平塩107"
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ffd0e27328da838e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

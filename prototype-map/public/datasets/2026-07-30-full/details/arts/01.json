@@ -1,1 +1,468 @@
-{"arts/art_kuni_c27ffff415b8d036":{"title":"越路の雨乞踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1973-11-05","source_title":"国指定文化財等データベース「越路の雨乞踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/454"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c27ffff415b8d036","official_name":"越路の雨乞踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c27ffff415b8d036"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_e9005ba99a955016":{"title":"寒水の掛踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":null,"municipality_name":null,"geographic_scope":"岐阜県郡上市明宝寒水"}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2021-03-11","source_title":"国指定文化財等データベース「寒水の掛踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/00001007"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_e9005ba99a955016","official_name":"寒水の掛踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":null,"municipality_name":null,"geographic_scope":"岐阜県郡上市明宝寒水"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-e9005ba99a955016"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_586cc3623db49576":{"title":"宇倍神社獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市国府町宮下"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1959-12-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_586cc3623db49576","official_name":"宇倍神社獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31201","municipality_name":"鳥取市","geographic_scope":"鳥取市国府町宮下"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-586cc3623db49576"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_7c2debb94f7a0515":{"title":"一之瀬獅子神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町和井野"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町市場"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町南中村"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町脇出"}],"archive_genre_ids":["kagura_general","shishi_kagura"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"三重県","date":"1983-03-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_7c2debb94f7a0515","official_name":"一之瀬獅子神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町和井野"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町市場"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町南中村"},{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24470","municipality_name":"度会町","geographic_scope":"度会町脇出"}],"archive_genre_ids":["kagura_general","shishi_kagura"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-7c2debb94f7a0515"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d555cd8967015148":{"title":"牧谷のはねそ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31302","municipality_name":"岩美町","geographic_scope":"岩美町牧谷"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"鳥取県","date":"1974-10-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d555cd8967015148","official_name":"牧谷のはねそ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"31","prefecture_name":"鳥取県","municipality_code":"31302","municipality_name":"岩美町","geographic_scope":"岩美町牧谷"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d555cd8967015148"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e4c8714a5eaf78b4":{"title":"下村の獅子舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18483","municipality_name":"おおい町","geographic_scope":"おおい町名田庄下"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福井県","date":"1966-04-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e4c8714a5eaf78b4","official_name":"下村の獅子舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18483","municipality_name":"おおい町","geographic_scope":"おおい町名田庄下"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e4c8714a5eaf78b4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e54f7f14af024503":{"title":"奥州白河歌念仏踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7205","municipality_name":"白河市","geographic_scope":"白河市天神町"}],"archive_genre_ids":["nenbutsu_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"1993-03-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e54f7f14af024503","official_name":"奥州白河歌念仏踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7205","municipality_name":"白河市","geographic_scope":"白河市天神町"}],"archive_genre_ids":["nenbutsu_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e54f7f14af024503"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_fa7bc64bbfd84e23":{"title":"供養田植","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34545","municipality_name":"神石高原町","geographic_scope":"神石高原町下豊松"},{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34210","municipality_name":"庄原市","geographic_scope":"庄原市比和町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1966-12-08","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1971-04-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_fa7bc64bbfd84e23","official_name":"供養田植","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34545","municipality_name":"神石高原町","geographic_scope":"神石高原町下豊松"},{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34210","municipality_name":"庄原市","geographic_scope":"庄原市比和町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-fa7bc64bbfd84e23"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_c27ffff415b8d036": {
+    "title": "越路の雨乞踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「越路の雨乞踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/454"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c27ffff415b8d036",
+      "official_name": "越路の雨乞踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c27ffff415b8d036"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e9005ba99a955016": {
+    "title": "寒水の掛踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "岐阜県郡上市明宝寒水"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2021-03-11",
+        "source_title": "国指定文化財等データベース「寒水の掛踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001007"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e9005ba99a955016",
+      "official_name": "寒水の掛踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "岐阜県郡上市明宝寒水"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e9005ba99a955016"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_586cc3623db49576": {
+    "title": "宇倍神社獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31201",
+        "municipality_name": "鳥取市",
+        "geographic_scope": "鳥取市国府町宮下"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1959-12-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_586cc3623db49576",
+      "official_name": "宇倍神社獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31201",
+          "municipality_name": "鳥取市",
+          "geographic_scope": "鳥取市国府町宮下"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-586cc3623db49576"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_7c2debb94f7a0515": {
+    "title": "一之瀬獅子神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24470",
+        "municipality_name": "度会町",
+        "geographic_scope": "度会町和井野"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24470",
+        "municipality_name": "度会町",
+        "geographic_scope": "度会町市場"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24470",
+        "municipality_name": "度会町",
+        "geographic_scope": "度会町南中村"
+      },
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24470",
+        "municipality_name": "度会町",
+        "geographic_scope": "度会町脇出"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general",
+      "shishi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1983-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_7c2debb94f7a0515",
+      "official_name": "一之瀬獅子神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24470",
+          "municipality_name": "度会町",
+          "geographic_scope": "度会町和井野"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24470",
+          "municipality_name": "度会町",
+          "geographic_scope": "度会町市場"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24470",
+          "municipality_name": "度会町",
+          "geographic_scope": "度会町南中村"
+        },
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24470",
+          "municipality_name": "度会町",
+          "geographic_scope": "度会町脇出"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general",
+        "shishi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-7c2debb94f7a0515"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d555cd8967015148": {
+    "title": "牧谷のはねそ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31302",
+        "municipality_name": "岩美町",
+        "geographic_scope": "岩美町牧谷"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1974-10-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d555cd8967015148",
+      "official_name": "牧谷のはねそ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31302",
+          "municipality_name": "岩美町",
+          "geographic_scope": "岩美町牧谷"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d555cd8967015148"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e4c8714a5eaf78b4": {
+    "title": "下村の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18483",
+        "municipality_name": "おおい町",
+        "geographic_scope": "おおい町名田庄下"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1966-04-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e4c8714a5eaf78b4",
+      "official_name": "下村の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18483",
+          "municipality_name": "おおい町",
+          "geographic_scope": "おおい町名田庄下"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e4c8714a5eaf78b4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e54f7f14af024503": {
+    "title": "奥州白河歌念仏踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7205",
+        "municipality_name": "白河市",
+        "geographic_scope": "白河市天神町"
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1993-03-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e54f7f14af024503",
+      "official_name": "奥州白河歌念仏踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7205",
+          "municipality_name": "白河市",
+          "geographic_scope": "白河市天神町"
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e54f7f14af024503"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fa7bc64bbfd84e23": {
+    "title": "供養田植",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34545",
+        "municipality_name": "神石高原町",
+        "geographic_scope": "神石高原町下豊松"
+      },
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34210",
+        "municipality_name": "庄原市",
+        "geographic_scope": "庄原市比和町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1966-12-08",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1971-04-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fa7bc64bbfd84e23",
+      "official_name": "供養田植",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34545",
+          "municipality_name": "神石高原町",
+          "geographic_scope": "神石高原町下豊松"
+        },
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34210",
+          "municipality_name": "庄原市",
+          "geographic_scope": "庄原市比和町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fa7bc64bbfd84e23"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,1 +1,266 @@
-{"arts/art_kuni_3d516748fdb0c9e1":{"title":"講談","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2002-07-08","source_title":"国指定文化財等データベース「講談」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/278"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-05-27","source_title":"国指定文化財等データベース「講談」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/00000291"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-05-27","source_title":"国指定文化財等データベース「講談」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/00000292"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-05-27","source_title":"国指定文化財等データベース「講談」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/255"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_3d516748fdb0c9e1","official_name":"講談","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-3d516748fdb0c9e1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_545f333e3b368a4d":{"title":"杉沢比山","summary":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1978-05-22","source_title":"国指定文化財等データベース「杉沢比山」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/25"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1971-04-21","source_title":"国指定文化財等データベース「杉沢比山」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/225"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_545f333e3b368a4d","official_name":"杉沢比山","reading":null,"aliases":[],"locations":[{"prefecture_code":"06","prefecture_name":"山形県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-545f333e3b368a4d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_3ee611753784ae38":{"title":"八幡神社太々神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市上川崎字宮64番地"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"1986-06-01","source_title":"福島県二本松市：文化財一覧「八幡神社太々神楽」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_3ee611753784ae38","official_name":"八幡神社太々神楽","reading":"ハチマンジンジャダイダイカグラ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市上川崎字宮64番地"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-3ee611753784ae38"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_adc59132d2f96036":{"title":"ぞんべら祭と万歳楽土　附 『農之次第』1巻","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町鬼屋"},{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町走出"},{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町清水"}],"archive_genre_ids":["blessing_art"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"石川県","date":"1986-08-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_adc59132d2f96036","official_name":"ぞんべら祭と万歳楽土　附 『農之次第』1巻","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町鬼屋"},{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町走出"},{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17204","municipality_name":"輪島市","geographic_scope":"輪島市門前町清水"}],"archive_genre_ids":["blessing_art"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-adc59132d2f96036"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_3d516748fdb0c9e1": {
+    "title": "講談",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2002-07-08",
+        "source_title": "国指定文化財等データベース「講談」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/278"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-05-27",
+        "source_title": "国指定文化財等データベース「講談」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/00000291"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-05-27",
+        "source_title": "国指定文化財等データベース「講談」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/00000292"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-05-27",
+        "source_title": "国指定文化財等データベース「講談」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/255"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3d516748fdb0c9e1",
+      "official_name": "講談",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3d516748fdb0c9e1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_545f333e3b368a4d": {
+    "title": "杉沢比山",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1978-05-22",
+        "source_title": "国指定文化財等データベース「杉沢比山」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/25"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「杉沢比山」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/225"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_545f333e3b368a4d",
+      "official_name": "杉沢比山",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-545f333e3b368a4d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3ee611753784ae38": {
+    "title": "八幡神社太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市上川崎字宮64番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1986-06-01",
+        "source_title": "福島県二本松市：文化財一覧「八幡神社太々神楽」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3ee611753784ae38",
+      "official_name": "八幡神社太々神楽",
+      "reading": "ハチマンジンジャダイダイカグラ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市上川崎字宮64番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3ee611753784ae38"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_adc59132d2f96036": {
+    "title": "ぞんべら祭と万歳楽土　附 『農之次第』1巻",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "17204",
+        "municipality_name": "輪島市",
+        "geographic_scope": "輪島市門前町鬼屋"
+      },
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "17204",
+        "municipality_name": "輪島市",
+        "geographic_scope": "輪島市門前町走出"
+      },
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "17204",
+        "municipality_name": "輪島市",
+        "geographic_scope": "輪島市門前町清水"
+      }
+    ],
+    "archive_genre_ids": [
+      "blessing_art"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "石川県",
+        "date": "1986-08-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_adc59132d2f96036",
+      "official_name": "ぞんべら祭と万歳楽土　附 『農之次第』1巻",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "17204",
+          "municipality_name": "輪島市",
+          "geographic_scope": "輪島市門前町鬼屋"
+        },
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "17204",
+          "municipality_name": "輪島市",
+          "geographic_scope": "輪島市門前町走出"
+        },
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "17204",
+          "municipality_name": "輪島市",
+          "geographic_scope": "輪島市門前町清水"
+        }
+      ],
+      "archive_genre_ids": [
+        "blessing_art"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-adc59132d2f96036"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

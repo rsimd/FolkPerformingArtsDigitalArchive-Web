@@ -1,1 +1,258 @@
-{"arts/art_kuni_159c0274e7d2189d":{"title":"御頭神事","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1977-05-17","source_title":"国指定文化財等データベース「御頭神事」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/89"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_159c0274e7d2189d","official_name":"御頭神事","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-159c0274e7d2189d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_4ecaf9cc5978a884":{"title":"安田のシヌグ","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1978-05-22","source_title":"国指定文化財等データベース「安田のシヌグ」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/159"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_4ecaf9cc5978a884","official_name":"安田のシヌグ","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-4ecaf9cc5978a884"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_50eaf62ba3db3f91":{"title":"根知山寺の延年","summary":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["ennen"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1980-01-28","source_title":"国指定文化財等データベース「根知山寺の延年」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/54"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「根知山寺の延年」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/308"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_50eaf62ba3db3f91","official_name":"根知山寺の延年","reading":null,"aliases":[],"locations":[{"prefecture_code":"15","prefecture_name":"新潟県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["ennen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-50eaf62ba3db3f91"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_797bb7b2443f29da":{"title":"藤岡町の棒の手","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23211","municipality_name":"豊田市","geographic_scope":"豊田市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛知県","date":"1958-03-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_797bb7b2443f29da","official_name":"藤岡町の棒の手","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23211","municipality_name":"豊田市","geographic_scope":"豊田市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-797bb7b2443f29da"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_ffb0dc76796f683a":{"title":"神子踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18205","municipality_name":"大野市","geographic_scope":"大野市上打波"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福井県","date":"1959-09-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_ffb0dc76796f683a","official_name":"神子踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"18","prefecture_name":"福井県","municipality_code":"18205","municipality_name":"大野市","geographic_scope":"大野市上打波"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-ffb0dc76796f683a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_159c0274e7d2189d": {
+    "title": "御頭神事",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「御頭神事」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/89"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_159c0274e7d2189d",
+      "official_name": "御頭神事",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-159c0274e7d2189d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_4ecaf9cc5978a884": {
+    "title": "安田のシヌグ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1978-05-22",
+        "source_title": "国指定文化財等データベース「安田のシヌグ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/159"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_4ecaf9cc5978a884",
+      "official_name": "安田のシヌグ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-4ecaf9cc5978a884"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_50eaf62ba3db3f91": {
+    "title": "根知山寺の延年",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "ennen"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1980-01-28",
+        "source_title": "国指定文化財等データベース「根知山寺の延年」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/54"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「根知山寺の延年」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/308"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_50eaf62ba3db3f91",
+      "official_name": "根知山寺の延年",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "ennen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-50eaf62ba3db3f91"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_797bb7b2443f29da": {
+    "title": "藤岡町の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23211",
+        "municipality_name": "豊田市",
+        "geographic_scope": "豊田市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1958-03-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_797bb7b2443f29da",
+      "official_name": "藤岡町の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23211",
+          "municipality_name": "豊田市",
+          "geographic_scope": "豊田市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-797bb7b2443f29da"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ffb0dc76796f683a": {
+    "title": "神子踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18205",
+        "municipality_name": "大野市",
+        "geographic_scope": "大野市上打波"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1959-09-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ffb0dc76796f683a",
+      "official_name": "神子踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18205",
+          "municipality_name": "大野市",
+          "geographic_scope": "大野市上打波"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ffb0dc76796f683a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

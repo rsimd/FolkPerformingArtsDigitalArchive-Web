@@ -1,1 +1,346 @@
-{"organizations/channel_UCPN8c2T4ficSWNKUSGO4d5g":{"title":"遊佐町公式","organization_type":"個人・地域記録者等","prefecture":"山形県","region":"東北","channel_url":"https://www.youtube.com/channel/UCPN8c2T4ficSWNKUSGO4d5g","location_evidence_type":"evidence_video","location_confidence":0.9,"relevance_confidence":"medium","detected_art_terms":["民俗芸能","神楽","田楽"],"dedicated_channel":"一般","source_urls":["https://www.youtube.com/watch?v=p8GjLrkNcJM"],"source_workbook":"outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx","source_fields":{"channel_id":"UCPN8c2T4ficSWNKUSGO4d5g","チャンネル名":"遊佐町公式","チャンネルURL":"https://www.youtube.com/channel/UCPN8c2T4ficSWNKUSGO4d5g","運営主体":"個人・地域記録者等","地方":"東北","都道府県":"山形県","所在地根拠種別":"evidence_video","所在地確度":0.9,"関連確信度":"medium","要確認":"確認不要","関連性スコア":29,"根拠動画数":2,"検出芸能語":"民俗芸能 | 神楽 | 田楽","代表根拠動画":"蕨岡延年の舞保存会【令和３年度遊佐町民俗芸能公演会】","代表根拠URL":"https://www.youtube.com/watch?v=p8GjLrkNcJM","登録者数":401,"公開動画数":25,"専用チャンネル":"一般","既存調査継承":"新規","サブエージェント検証":"未検証"}},"organizations/directory_org_d358565f3317":{"title":"鼎中平獅子舞保存会","aliases":[],"organization_type":null,"appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":"https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.96,"representative_video_ids":["-YuRfTglmL8","88HWowY007s","hzZ39QPINwU"],"source_urls":["https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf","https://www.youtube.com/watch?v=-YuRfTglmL8","https://www.youtube.com/watch?v=88HWowY007s","https://www.youtube.com/watch?v=hzZ39QPINwU"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_d358565f3317","団体名":"鼎中平獅子舞保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":null,"登場チャンネル":"Mokaちゃんねる 河原の総領 (そうだに いなだに いいだだに)","動画数":3,"代表video_id":"-YuRfTglmL8 / 88HWowY007s / hzZ39QPINwU","YouTubeチャンネル":null,"Webサイト・紹介ページ":"https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"飯田市立図書館の地域資料案内が同会編纂の「中平獅子舞誌」を掲載し、団体名を確認できる。: https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (-YuRfTglmL8) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (-YuRfTglmL8) | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (88HWowY007s) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (88HWowY007s) | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (hzZ39QPINwU) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (hzZ39QPINwU)","根拠URL":"https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf | https://www.youtube.com/watch?v=-YuRfTglmL8 | https://www.youtube.com/watch?v=88HWowY007s | https://www.youtube.com/watch?v=hzZ39QPINwU","確信度":0.96,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_86920da951f9":{"title":"宮崎神楽保存会","aliases":[],"organization_type":null,"appearance_type":"保存団体 / 出演団体","prefecture":"富山県","municipality":"下新川郡朝日町","channel_url":null,"web_url":"https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.98,"representative_video_ids":["JbrdrFT3tjE"],"source_urls":["https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf","https://www.youtube.com/watch?v=JbrdrFT3tjE"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_86920da951f9","団体名":"宮崎神楽保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":null,"登場チャンネル":"ToyamaClub.channel","動画数":1,"代表video_id":"JbrdrFT3tjE","YouTubeチャンネル":null,"Webサイト・紹介ページ":"https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"富山県朝日町の公式文化資料が宮崎地区の獅子舞と宮崎神楽保存会を掲載している。: https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf | youtube_structured_video: 出演団体として「宮崎神楽保存会」を抽出 (JbrdrFT3tjE) | youtube_structured_video: 保存団体として「宮崎神楽保存会」を抽出 (JbrdrFT3tjE)","根拠URL":"https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf | https://www.youtube.com/watch?v=JbrdrFT3tjE","確信度":0.98,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_2a02a99639df":{"title":"リュウカツチュウ","aliases":["リュウカツチュウ - 琉球芸能活動中","琉球芸能活動中"],"organization_type":"出演団体","appearance_type":null,"prefecture":null,"municipality":null,"channel_url":"https://www.youtube.com/@ryukatsutyu","web_url":"https://ryukatsutyu.ryukyucp.com/about-as/","instagram":null,"x":null,"facebook":null,"relevance_confidence":0.98,"representative_video_ids":[],"source_urls":["https://ryukatsutyu.ryukyucp.com/about-as/","https://www.youtube.com/@ryukatsutyu"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_2a02a99639df","団体名":"リュウカツチュウ","別名":"リュウカツチュウ - 琉球芸能活動中 / 琉球芸能活動中","登場区分":null,"団体種別":"出演団体","登場チャンネル":null,"動画数":0,"代表video_id":null,"YouTubeチャンネル":"https://www.youtube.com/@ryukatsutyu","Webサイト・紹介ページ":"https://ryukatsutyu.ryukyucp.com/about-as/","Instagram":null,"X":null,"Facebook":null,"根拠文字列":"web_research_summary: 団体公式サイトのABOUT USが、2020年からYouTube発信・公演・ワークショップを行う3名の実演家グループとして同団体を紹介。YouTube概要欄のInstagramは構成員個人のアカウントのため団体SNSには採用せず。","根拠URL":"https://ryukatsutyu.ryukyucp.com/about-as/ | https://www.youtube.com/@ryukatsutyu","確信度":0.98,"検索状態":"URL確認済","要確認":"確認不要"}},"organizations/directory_org_ffc15f8b5ee9":{"title":"下猿沢伊勢神楽","aliases":[],"organization_type":"出演団体","appearance_type":"出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.9,"representative_video_ids":["l3iLkedvyFA","Gf9a7HYojnA","z4bBJm1DqHY","OzxP-2Im95w"],"source_urls":["https://www.youtube.com/watch?v=l3iLkedvyFA","https://www.youtube.com/watch?v=Gf9a7HYojnA","https://www.youtube.com/watch?v=z4bBJm1DqHY","https://www.youtube.com/watch?v=OzxP-2Im95w"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_ffc15f8b5ee9","団体名":"下猿沢伊勢神楽","別名":null,"登場区分":"出演団体","団体種別":"出演団体","登場チャンネル":"maturinookkake","動画数":4,"代表video_id":"l3iLkedvyFA / Gf9a7HYojnA / z4bBJm1DqHY / OzxP-2Im95w","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「下猿沢伊勢神楽」 | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (l3iLkedvyFA) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (Gf9a7HYojnA) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (z4bBJm1DqHY) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (OzxP-2Im95w)","根拠URL":"https://www.youtube.com/watch?v=l3iLkedvyFA | https://www.youtube.com/watch?v=Gf9a7HYojnA | https://www.youtube.com/watch?v=z4bBJm1DqHY | https://www.youtube.com/watch?v=OzxP-2Im95w","確信度":0.9,"検索状態":"検索済・URL未確定","要確認":"要確認"}},"organizations/directory_org_2b5503beb606":{"title":"松原真言保存会","aliases":[],"organization_type":null,"appearance_type":"保存団体 / 出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.99,"representative_video_ids":["-iClFU5kQ9Q"],"source_urls":["https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html","https://www.youtube.com/watch?v=-iClFU5kQ9Q"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_2b5503beb606","団体名":"松原真言保存会","別名":null,"登場区分":"保存団体 / 出演団体","団体種別":null,"登場チャンネル":"桶川市チャンネル","動画数":1,"代表video_id":"-iClFU5kQ9Q","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"桶川市の文化財ページが松原真言保存会を保存団体として掲載している。: https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html | youtube_structured_video: 出演団体として「松原真言保存会」を抽出 (-iClFU5kQ9Q) | youtube_structured_video: 保存団体として「松原真言保存会」を抽出 (-iClFU5kQ9Q)","根拠URL":"https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html | https://www.youtube.com/watch?v=-iClFU5kQ9Q","確信度":0.99,"検索状態":"検索済・URL未確定","要確認":"確認不要"}},"organizations/directory_org_759a462d1873":{"title":"松倉太神楽","aliases":[],"organization_type":"出演団体","appearance_type":"出演団体","prefecture":null,"municipality":null,"channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.9,"representative_video_ids":["PP8ET3R0pIM"],"source_urls":["https://www.youtube.com/watch?v=PP8ET3R0pIM"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_759a462d1873","団体名":"松倉太神楽","別名":null,"登場区分":"出演団体","団体種別":"出演団体","登場チャンネル":"maturinookkake","動画数":1,"代表video_id":"PP8ET3R0pIM","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「松倉太神楽」 | youtube_structured_video: 出演団体として「松倉太神楽」を抽出 (PP8ET3R0pIM)","根拠URL":"https://www.youtube.com/watch?v=PP8ET3R0pIM","確信度":0.9,"検索状態":"検索済・URL未確定","要確認":"要確認"}},"organizations/directory_org_dff0d7a70419":{"title":"八戸湊虎舞","aliases":[],"organization_type":"出演団体","appearance_type":"出演団体","prefecture":"青森県","municipality":"八戸市","channel_url":null,"web_url":null,"instagram":null,"x":null,"facebook":null,"relevance_confidence":0.9,"representative_video_ids":["9-m4Z7YvAgE"],"source_urls":["https://www.youtube.com/watch?v=9-m4Z7YvAgE"],"source_workbook":"outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx","source_fields":{"団体ID":"org_dff0d7a70419","団体名":"八戸湊虎舞","別名":null,"登場区分":"出演団体","団体種別":"出演団体","登場チャンネル":"maturinookkake","動画数":1,"代表video_id":"9-m4Z7YvAgE","YouTubeチャンネル":null,"Webサイト・紹介ページ":null,"Instagram":null,"X":null,"Facebook":null,"根拠文字列":"youtube_title: 動画タイトルに団体名候補「八戸湊虎舞」 | youtube_structured_video: 出演団体として「八戸湊虎舞」を抽出 (9-m4Z7YvAgE)","根拠URL":"https://www.youtube.com/watch?v=9-m4Z7YvAgE","確信度":0.9,"検索状態":"検索済・URL未確定","要確認":"要確認"}}}
+{
+  "organizations/channel_UCPN8c2T4ficSWNKUSGO4d5g": {
+    "title": "遊佐町公式",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "山形県",
+    "region": "東北",
+    "channel_url": "https://www.youtube.com/channel/UCPN8c2T4ficSWNKUSGO4d5g",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "民俗芸能",
+      "神楽",
+      "田楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=p8GjLrkNcJM"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCPN8c2T4ficSWNKUSGO4d5g",
+      "チャンネル名": "遊佐町公式",
+      "チャンネルURL": "https://www.youtube.com/channel/UCPN8c2T4ficSWNKUSGO4d5g",
+      "運営主体": "個人・地域記録者等",
+      "地方": "東北",
+      "都道府県": "山形県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 29,
+      "根拠動画数": 2,
+      "検出芸能語": "民俗芸能 | 神楽 | 田楽",
+      "代表根拠動画": "蕨岡延年の舞保存会【令和３年度遊佐町民俗芸能公演会】",
+      "代表根拠URL": "https://www.youtube.com/watch?v=p8GjLrkNcJM",
+      "登録者数": 401,
+      "公開動画数": 25,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_d358565f3317": {
+    "title": "鼎中平獅子舞保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "-YuRfTglmL8",
+      "88HWowY007s",
+      "hzZ39QPINwU"
+    ],
+    "source_urls": [
+      "https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf",
+      "https://www.youtube.com/watch?v=-YuRfTglmL8",
+      "https://www.youtube.com/watch?v=88HWowY007s",
+      "https://www.youtube.com/watch?v=hzZ39QPINwU"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_d358565f3317",
+      "団体名": "鼎中平獅子舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "Mokaちゃんねる 河原の総領 (そうだに いなだに いいだだに)",
+      "動画数": 3,
+      "代表video_id": "-YuRfTglmL8 / 88HWowY007s / hzZ39QPINwU",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "飯田市立図書館の地域資料案内が同会編纂の「中平獅子舞誌」を掲載し、団体名を確認できる。: https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (-YuRfTglmL8) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (-YuRfTglmL8) | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (88HWowY007s) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (88HWowY007s) | youtube_structured_video: 出演団体として「鼎中平獅子舞保存会」を抽出 (hzZ39QPINwU) | youtube_structured_video: 保存団体として「鼎中平獅子舞保存会」を抽出 (hzZ39QPINwU)",
+      "根拠URL": "https://www.iida.nanshin-lib.jp/cmsfiles/contents/0000000/441/shishimai.pdf | https://www.youtube.com/watch?v=-YuRfTglmL8 | https://www.youtube.com/watch?v=88HWowY007s | https://www.youtube.com/watch?v=hzZ39QPINwU",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_86920da951f9": {
+    "title": "宮崎神楽保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "富山県",
+    "municipality": "下新川郡朝日町",
+    "channel_url": null,
+    "web_url": "https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "JbrdrFT3tjE"
+    ],
+    "source_urls": [
+      "https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf",
+      "https://www.youtube.com/watch?v=JbrdrFT3tjE"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_86920da951f9",
+      "団体名": "宮崎神楽保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "ToyamaClub.channel",
+      "動画数": 1,
+      "代表video_id": "JbrdrFT3tjE",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "富山県朝日町の公式文化資料が宮崎地区の獅子舞と宮崎神楽保存会を掲載している。: https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf | youtube_structured_video: 出演団体として「宮崎神楽保存会」を抽出 (JbrdrFT3tjE) | youtube_structured_video: 保存団体として「宮崎神楽保存会」を抽出 (JbrdrFT3tjE)",
+      "根拠URL": "https://www.town.asahi.toyama.jp/section/buntai/tigomai.pdf | https://www.youtube.com/watch?v=JbrdrFT3tjE",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_2a02a99639df": {
+    "title": "リュウカツチュウ",
+    "aliases": [
+      "リュウカツチュウ - 琉球芸能活動中",
+      "琉球芸能活動中"
+    ],
+    "organization_type": "出演団体",
+    "appearance_type": null,
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": "https://www.youtube.com/@ryukatsutyu",
+    "web_url": "https://ryukatsutyu.ryukyucp.com/about-as/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [],
+    "source_urls": [
+      "https://ryukatsutyu.ryukyucp.com/about-as/",
+      "https://www.youtube.com/@ryukatsutyu"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_2a02a99639df",
+      "団体名": "リュウカツチュウ",
+      "別名": "リュウカツチュウ - 琉球芸能活動中 / 琉球芸能活動中",
+      "登場区分": null,
+      "団体種別": "出演団体",
+      "登場チャンネル": null,
+      "動画数": 0,
+      "代表video_id": null,
+      "YouTubeチャンネル": "https://www.youtube.com/@ryukatsutyu",
+      "Webサイト・紹介ページ": "https://ryukatsutyu.ryukyucp.com/about-as/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "web_research_summary: 団体公式サイトのABOUT USが、2020年からYouTube発信・公演・ワークショップを行う3名の実演家グループとして同団体を紹介。YouTube概要欄のInstagramは構成員個人のアカウントのため団体SNSには採用せず。",
+      "根拠URL": "https://ryukatsutyu.ryukyucp.com/about-as/ | https://www.youtube.com/@ryukatsutyu",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_ffc15f8b5ee9": {
+    "title": "下猿沢伊勢神楽",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "l3iLkedvyFA",
+      "Gf9a7HYojnA",
+      "z4bBJm1DqHY",
+      "OzxP-2Im95w"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=l3iLkedvyFA",
+      "https://www.youtube.com/watch?v=Gf9a7HYojnA",
+      "https://www.youtube.com/watch?v=z4bBJm1DqHY",
+      "https://www.youtube.com/watch?v=OzxP-2Im95w"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_ffc15f8b5ee9",
+      "団体名": "下猿沢伊勢神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 4,
+      "代表video_id": "l3iLkedvyFA / Gf9a7HYojnA / z4bBJm1DqHY / OzxP-2Im95w",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「下猿沢伊勢神楽」 | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (l3iLkedvyFA) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (Gf9a7HYojnA) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (z4bBJm1DqHY) | youtube_structured_video: 出演団体として「下猿沢伊勢神楽」を抽出 (OzxP-2Im95w)",
+      "根拠URL": "https://www.youtube.com/watch?v=l3iLkedvyFA | https://www.youtube.com/watch?v=Gf9a7HYojnA | https://www.youtube.com/watch?v=z4bBJm1DqHY | https://www.youtube.com/watch?v=OzxP-2Im95w",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_2b5503beb606": {
+    "title": "松原真言保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "-iClFU5kQ9Q"
+    ],
+    "source_urls": [
+      "https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html",
+      "https://www.youtube.com/watch?v=-iClFU5kQ9Q"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_2b5503beb606",
+      "団体名": "松原真言保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "桶川市チャンネル",
+      "動画数": 1,
+      "代表video_id": "-iClFU5kQ9Q",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "桶川市の文化財ページが松原真言保存会を保存団体として掲載している。: https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html | youtube_structured_video: 出演団体として「松原真言保存会」を抽出 (-iClFU5kQ9Q) | youtube_structured_video: 保存団体として「松原真言保存会」を抽出 (-iClFU5kQ9Q)",
+      "根拠URL": "https://www.city.okegawa.lg.jp/soshiki/kyoiku/bunkazai/shokai/bunkazai/9927.html | https://www.youtube.com/watch?v=-iClFU5kQ9Q",
+      "確信度": 0.99,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_759a462d1873": {
+    "title": "松倉太神楽",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "PP8ET3R0pIM"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=PP8ET3R0pIM"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_759a462d1873",
+      "団体名": "松倉太神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "PP8ET3R0pIM",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「松倉太神楽」 | youtube_structured_video: 出演団体として「松倉太神楽」を抽出 (PP8ET3R0pIM)",
+      "根拠URL": "https://www.youtube.com/watch?v=PP8ET3R0pIM",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_dff0d7a70419": {
+    "title": "八戸湊虎舞",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": "青森県",
+    "municipality": "八戸市",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "9-m4Z7YvAgE"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=9-m4Z7YvAgE"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_dff0d7a70419",
+      "団体名": "八戸湊虎舞",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "9-m4Z7YvAgE",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「八戸湊虎舞」 | youtube_structured_video: 出演団体として「八戸湊虎舞」を抽出 (9-m4Z7YvAgE)",
+      "根拠URL": "https://www.youtube.com/watch?v=9-m4Z7YvAgE",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

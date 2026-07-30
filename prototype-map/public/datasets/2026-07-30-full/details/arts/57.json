@@ -1,1 +1,342 @@
-{"arts/art_kuni_1b7e9e49a7418b9a":{"title":"益田の糸あやつり人形","summary":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「益田の糸あやつり人形」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/461"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_1b7e9e49a7418b9a","official_name":"益田の糸あやつり人形","reading":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-1b7e9e49a7418b9a"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_4094d27974a73011":{"title":"対馬厳原の盆踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1997-12-04","source_title":"国指定文化財等データベース「対馬厳原の盆踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/658"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_4094d27974a73011","official_name":"対馬厳原の盆踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"42","prefecture_name":"長崎県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-4094d27974a73011"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_f25e80bca049a289":{"title":"一絃琴","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1955-03-19","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/170"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1957-03-20","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/171"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1961-03-31","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/172"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1961-03-31","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/173"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1977-06-01","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/174"},{"type":"記録作成等の措置を講ずべき無形文化財","jurisdiction":"national","authority":"文化庁長官","date":"1980-04-04","source_title":"国指定文化財等データベース「一絃琴」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/313/175"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_f25e80bca049a289","official_name":"一絃琴","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-f25e80bca049a289"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_033453a4b4f44f79":{"title":"西米良神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":"45403","municipality_name":"西米良村","geographic_scope":"西米良村"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"宮崎県","date":"1997-03-24","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_033453a4b4f44f79","official_name":"西米良神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"45","prefecture_name":"宮崎県","municipality_code":"45403","municipality_name":"西米良村","geographic_scope":"西米良村"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-033453a4b4f44f79"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_607c30a52f039cf9":{"title":"藤江の的射","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市東藤江2-15"}],"archive_genre_ids":[],"designations":[{"type":"市指定文化財（種類:無形民俗）","jurisdiction":"municipal","authority":"明石市","date":"1975-02-06","source_title":"兵庫県明石市：文化財一覧「藤江の的射」","source_url":"https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_607c30a52f039cf9","official_name":"藤江の的射","reading":"フジエノマトイ文化財分類:市指定文化財","aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市東藤江2-15"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-607c30a52f039cf9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_97c25d9c45aa30a6":{"title":"川合花の舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22137","municipality_name":"浜松市","geographic_scope":"浜松市天竜区"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"静岡県","date":"1975-03-25","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_97c25d9c45aa30a6","official_name":"川合花の舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"22","prefecture_name":"静岡県","municipality_code":"22137","municipality_name":"浜松市","geographic_scope":"浜松市天竜区"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-97c25d9c45aa30a6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_1b7e9e49a7418b9a": {
+    "title": "益田の糸あやつり人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「益田の糸あやつり人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/461"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1b7e9e49a7418b9a",
+      "official_name": "益田の糸あやつり人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1b7e9e49a7418b9a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_4094d27974a73011": {
+    "title": "対馬厳原の盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1997-12-04",
+        "source_title": "国指定文化財等データベース「対馬厳原の盆踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/658"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_4094d27974a73011",
+      "official_name": "対馬厳原の盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-4094d27974a73011"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f25e80bca049a289": {
+    "title": "一絃琴",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1955-03-19",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/170"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-20",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/171"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1961-03-31",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/172"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1961-03-31",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/173"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1977-06-01",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/174"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1980-04-04",
+        "source_title": "国指定文化財等データベース「一絃琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/175"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f25e80bca049a289",
+      "official_name": "一絃琴",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f25e80bca049a289"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_033453a4b4f44f79": {
+    "title": "西米良神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": "45403",
+        "municipality_name": "西米良村",
+        "geographic_scope": "西米良村"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮崎県",
+        "date": "1997-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_033453a4b4f44f79",
+      "official_name": "西米良神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": "45403",
+          "municipality_name": "西米良村",
+          "geographic_scope": "西米良村"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-033453a4b4f44f79"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_607c30a52f039cf9": {
+    "title": "藤江の的射",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "282031",
+        "municipality_name": "明石市",
+        "geographic_scope": "兵庫県明石市東藤江2-15"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定文化財（種類:無形民俗）",
+        "jurisdiction": "municipal",
+        "authority": "明石市",
+        "date": "1975-02-06",
+        "source_title": "兵庫県明石市：文化財一覧「藤江の的射」",
+        "source_url": "https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_607c30a52f039cf9",
+      "official_name": "藤江の的射",
+      "reading": "フジエノマトイ文化財分類:市指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "282031",
+          "municipality_name": "明石市",
+          "geographic_scope": "兵庫県明石市東藤江2-15"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-607c30a52f039cf9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_97c25d9c45aa30a6": {
+    "title": "川合花の舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22137",
+        "municipality_name": "浜松市",
+        "geographic_scope": "浜松市天竜区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1975-03-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_97c25d9c45aa30a6",
+      "official_name": "川合花の舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22137",
+          "municipality_name": "浜松市",
+          "geographic_scope": "浜松市天竜区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-97c25d9c45aa30a6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

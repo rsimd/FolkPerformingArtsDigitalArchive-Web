@@ -1,1 +1,258 @@
-{"arts/art_local_264c1200e6dfab13":{"title":"土佐の獅子踊（若一王子宮獅子舞）","summary":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39211","municipality_name":"香南市","geographic_scope":"香南市香我美町徳王子字澪標1791"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"高知県","date":"1969-08-08","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_264c1200e6dfab13","official_name":"土佐の獅子踊（若一王子宮獅子舞）","reading":null,"aliases":[],"locations":[{"prefecture_code":"39","prefecture_name":"高知県","municipality_code":"39211","municipality_name":"香南市","geographic_scope":"香南市香我美町徳王子字澪標1791"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-264c1200e6dfab13"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6432b11d5b99f7eb":{"title":"浦浜念仏剣舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3203","municipality_name":"大船渡市","geographic_scope":"大船渡市三陸町越喜来字小出"}],"archive_genre_ids":["kenbai"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"2006-09-26","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6432b11d5b99f7eb","official_name":"浦浜念仏剣舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3203","municipality_name":"大船渡市","geographic_scope":"大船渡市三陸町越喜来字小出"}],"archive_genre_ids":["kenbai"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6432b11d5b99f7eb"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6960204877da186d":{"title":"球磨地方の臼太鼓踊り（中原）","summary":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43505","municipality_name":"多良木町","geographic_scope":"多良木町多良木字中原"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"熊本県","date":"1973-06-09","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6960204877da186d","official_name":"球磨地方の臼太鼓踊り（中原）","reading":null,"aliases":[],"locations":[{"prefecture_code":"43","prefecture_name":"熊本県","municipality_code":"43505","municipality_name":"多良木町","geographic_scope":"多良木町多良木字中原"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6960204877da186d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c3bcfe26486bfabc":{"title":"バンバ踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33663","municipality_name":"久米南町","geographic_scope":"久米南町仏教寺"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岡山県","date":"1956-04-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c3bcfe26486bfabc","official_name":"バンバ踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":"33663","municipality_name":"久米南町","geographic_scope":"久米南町仏教寺"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c3bcfe26486bfabc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c7b5f88e94c0cf64":{"title":"奥飯石神職神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32386","municipality_name":"飯南町","geographic_scope":"飯南町八神"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"島根県","date":"1961-06-13","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c7b5f88e94c0cf64","official_name":"奥飯石神職神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"32","prefecture_name":"島根県","municipality_code":"32386","municipality_name":"飯南町","geographic_scope":"飯南町八神"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c7b5f88e94c0cf64"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_local_264c1200e6dfab13": {
+    "title": "土佐の獅子踊（若一王子宮獅子舞）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39211",
+        "municipality_name": "香南市",
+        "geographic_scope": "香南市香我美町徳王子字澪標1791"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1969-08-08",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_264c1200e6dfab13",
+      "official_name": "土佐の獅子踊（若一王子宮獅子舞）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39211",
+          "municipality_name": "香南市",
+          "geographic_scope": "香南市香我美町徳王子字澪標1791"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-264c1200e6dfab13"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6432b11d5b99f7eb": {
+    "title": "浦浜念仏剣舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3203",
+        "municipality_name": "大船渡市",
+        "geographic_scope": "大船渡市三陸町越喜来字小出"
+      }
+    ],
+    "archive_genre_ids": [
+      "kenbai"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "2006-09-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6432b11d5b99f7eb",
+      "official_name": "浦浜念仏剣舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3203",
+          "municipality_name": "大船渡市",
+          "geographic_scope": "大船渡市三陸町越喜来字小出"
+        }
+      ],
+      "archive_genre_ids": [
+        "kenbai"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6432b11d5b99f7eb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6960204877da186d": {
+    "title": "球磨地方の臼太鼓踊り（中原）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43505",
+        "municipality_name": "多良木町",
+        "geographic_scope": "多良木町多良木字中原"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1973-06-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6960204877da186d",
+      "official_name": "球磨地方の臼太鼓踊り（中原）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43505",
+          "municipality_name": "多良木町",
+          "geographic_scope": "多良木町多良木字中原"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6960204877da186d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c3bcfe26486bfabc": {
+    "title": "バンバ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": "33663",
+        "municipality_name": "久米南町",
+        "geographic_scope": "久米南町仏教寺"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岡山県",
+        "date": "1956-04-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c3bcfe26486bfabc",
+      "official_name": "バンバ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": "33663",
+          "municipality_name": "久米南町",
+          "geographic_scope": "久米南町仏教寺"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c3bcfe26486bfabc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c7b5f88e94c0cf64": {
+    "title": "奥飯石神職神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32386",
+        "municipality_name": "飯南町",
+        "geographic_scope": "飯南町八神"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1961-06-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c7b5f88e94c0cf64",
+      "official_name": "奥飯石神職神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32386",
+          "municipality_name": "飯南町",
+          "geographic_scope": "飯南町八神"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c7b5f88e94c0cf64"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

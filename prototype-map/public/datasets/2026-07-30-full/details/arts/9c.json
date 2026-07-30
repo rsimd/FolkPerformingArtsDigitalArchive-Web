@@ -1,1 +1,490 @@
-{"arts/art_kuni_72a91847f103f8c0":{"title":"姫島の盆踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"2012-03-08","source_title":"国指定文化財等データベース「姫島の盆踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/00000914"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_72a91847f103f8c0","official_name":"姫島の盆踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"44","prefecture_name":"大分県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["bon_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-72a91847f103f8c0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_c8522eb0d76acf1d":{"title":"組踊音楽歌三線","summary":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"重要無形文化財","jurisdiction":"national","authority":"文部科学大臣","date":"2005-08-30","source_title":"国指定文化財等データベース「組踊音楽歌三線」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/303/00000295"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_c8522eb0d76acf1d","official_name":"組踊音楽歌三線","reading":null,"aliases":[],"locations":[{"prefecture_code":null,"prefecture_name":null,"municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-c8522eb0d76acf1d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_d5d392c196d101ec":{"title":"閏戸の式三番","summary":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11238","municipality_name":"蓮田市","geographic_scope":"蓮田市閏戸"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1972-08-05","source_title":"国指定文化財等データベース「閏戸の式三番」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/274"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"埼玉県","date":"1955-11-01","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_d5d392c196d101ec","official_name":"閏戸の式三番","reading":null,"aliases":[],"locations":[{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"11","prefecture_name":"埼玉県","municipality_code":"11238","municipality_name":"蓮田市","geographic_scope":"蓮田市閏戸"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-d5d392c196d101ec"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_kuni_e23b231bd2c92e3d":{"title":"多古のしいかご舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12347","municipality_name":"多古町","geographic_scope":"多古町多古"}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1976-12-25","source_title":"国指定文化財等データベース「多古のしいかご舞」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/283"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1975-12-12","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_e23b231bd2c92e3d","official_name":"多古のしいかご舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":null,"municipality_name":null,"geographic_scope":null},{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12347","municipality_name":"多古町","geographic_scope":"多古町多古"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-e23b231bd2c92e3d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_06bba68c023b8f48":{"title":"木更津ばやし","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12206","municipality_name":"木更津市","geographic_scope":"木更津市中央"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1963-05-04","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_06bba68c023b8f48","official_name":"木更津ばやし","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12206","municipality_name":"木更津市","geographic_scope":"木更津市中央"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-06bba68c023b8f48"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6f8eb33a4de0f3c0":{"title":"泰阜村南山の榑木踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20414","municipality_name":"泰阜村","geographic_scope":"泰阜村南山（梨久保・温田）"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"長野県","date":"2000-09-21","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6f8eb33a4de0f3c0","official_name":"泰阜村南山の榑木踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"20","prefecture_name":"長野県","municipality_code":"20414","municipality_name":"泰阜村","geographic_scope":"泰阜村南山（梨久保・温田）"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6f8eb33a4de0f3c0"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_809294b38965c3b9":{"title":"中沢麦つき踊り","summary":"もとは農作業中に歌われていた作業歌で","aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"122335","municipality_name":"富里市","geographic_scope":"千葉県富里市新中沢232"}],"archive_genre_ids":[],"designations":[{"type":"富里市指定無形民俗文化財","jurisdiction":"municipal","authority":"富里市","date":null,"source_title":"千葉県富里市：文化財一覧「中沢麦つき踊り」","source_url":"https://www.city.tomisato.lg.jp/0000010527.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_809294b38965c3b9","official_name":"中沢麦つき踊り","reading":"ナカザワムギツキオドリ文化財分類:富里市指定無形民俗文化財","aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"122335","municipality_name":"富里市","geographic_scope":"千葉県富里市新中沢232"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":"もとは農作業中に歌われていた作業歌で","continuation_status_id":"unknown","wiki_slug":"art-local-809294b38965c3b9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_8d3263f6ace9727c":{"title":"田峯念佛踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23561","municipality_name":"設楽町","geographic_scope":"設楽町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛知県","date":"1961-03-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_8d3263f6ace9727c","official_name":"田峯念佛踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"23","prefecture_name":"愛知県","municipality_code":"23561","municipality_name":"設楽町","geographic_scope":"設楽町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-8d3263f6ace9727c"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f29d599b92cf63b4":{"title":"三人背継ぎ獅子舞と練り","summary":"広島春日神社の秋祭礼で2年に1度行われる獅子舞と練り。","aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"364011","municipality_name":"松茂町","geographic_scope":"徳島県板野郡松茂町広島字宮ノ後2"}],"archive_genre_ids":["shishi_dance"],"designations":[{"type":"町指定無形民俗文化財","jurisdiction":"municipal","authority":"松茂町","date":"1986-03-25","source_title":"徳島県松茂町：文化財一覧「三人背継ぎ獅子舞と練り」","source_url":"https://ouropendata.jp/dataset/2177.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f29d599b92cf63b4","official_name":"三人背継ぎ獅子舞と練り","reading":"サンニンセツギシシマイトネリ","aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"364011","municipality_name":"松茂町","geographic_scope":"徳島県板野郡松茂町広島字宮ノ後2"}],"archive_genre_ids":["shishi_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":"広島春日神社の秋祭礼で2年に1度行われる獅子舞と練り。","continuation_status_id":"unknown","wiki_slug":"art-local-f29d599b92cf63b4"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_72a91847f103f8c0": {
+    "title": "姫島の盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "44",
+        "prefecture_name": "大分県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2012-03-08",
+        "source_title": "国指定文化財等データベース「姫島の盆踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000914"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_72a91847f103f8c0",
+      "official_name": "姫島の盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "44",
+          "prefecture_name": "大分県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-72a91847f103f8c0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c8522eb0d76acf1d": {
+    "title": "組踊音楽歌三線",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2005-08-30",
+        "source_title": "国指定文化財等データベース「組踊音楽歌三線」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/00000295"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c8522eb0d76acf1d",
+      "official_name": "組踊音楽歌三線",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c8522eb0d76acf1d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_d5d392c196d101ec": {
+    "title": "閏戸の式三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11238",
+        "municipality_name": "蓮田市",
+        "geographic_scope": "蓮田市閏戸"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「閏戸の式三番」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/274"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1955-11-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d5d392c196d101ec",
+      "official_name": "閏戸の式三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11238",
+          "municipality_name": "蓮田市",
+          "geographic_scope": "蓮田市閏戸"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d5d392c196d101ec"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e23b231bd2c92e3d": {
+    "title": "多古のしいかご舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12347",
+        "municipality_name": "多古町",
+        "geographic_scope": "多古町多古"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「多古のしいかご舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/283"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1975-12-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e23b231bd2c92e3d",
+      "official_name": "多古のしいかご舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12347",
+          "municipality_name": "多古町",
+          "geographic_scope": "多古町多古"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e23b231bd2c92e3d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_06bba68c023b8f48": {
+    "title": "木更津ばやし",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12206",
+        "municipality_name": "木更津市",
+        "geographic_scope": "木更津市中央"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1963-05-04",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_06bba68c023b8f48",
+      "official_name": "木更津ばやし",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12206",
+          "municipality_name": "木更津市",
+          "geographic_scope": "木更津市中央"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-06bba68c023b8f48"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6f8eb33a4de0f3c0": {
+    "title": "泰阜村南山の榑木踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": "20414",
+        "municipality_name": "泰阜村",
+        "geographic_scope": "泰阜村南山（梨久保・温田）"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長野県",
+        "date": "2000-09-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6f8eb33a4de0f3c0",
+      "official_name": "泰阜村南山の榑木踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": "20414",
+          "municipality_name": "泰阜村",
+          "geographic_scope": "泰阜村南山（梨久保・温田）"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6f8eb33a4de0f3c0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_809294b38965c3b9": {
+    "title": "中沢麦つき踊り",
+    "summary": "もとは農作業中に歌われていた作業歌で",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "122335",
+        "municipality_name": "富里市",
+        "geographic_scope": "千葉県富里市新中沢232"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "富里市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "富里市",
+        "date": null,
+        "source_title": "千葉県富里市：文化財一覧「中沢麦つき踊り」",
+        "source_url": "https://www.city.tomisato.lg.jp/0000010527.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_809294b38965c3b9",
+      "official_name": "中沢麦つき踊り",
+      "reading": "ナカザワムギツキオドリ文化財分類:富里市指定無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "122335",
+          "municipality_name": "富里市",
+          "geographic_scope": "千葉県富里市新中沢232"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": "もとは農作業中に歌われていた作業歌で",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-809294b38965c3b9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8d3263f6ace9727c": {
+    "title": "田峯念佛踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23561",
+        "municipality_name": "設楽町",
+        "geographic_scope": "設楽町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1961-03-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8d3263f6ace9727c",
+      "official_name": "田峯念佛踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23561",
+          "municipality_name": "設楽町",
+          "geographic_scope": "設楽町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8d3263f6ace9727c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f29d599b92cf63b4": {
+    "title": "三人背継ぎ獅子舞と練り",
+    "summary": "広島春日神社の秋祭礼で2年に1度行われる獅子舞と練り。",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "364011",
+        "municipality_name": "松茂町",
+        "geographic_scope": "徳島県板野郡松茂町広島字宮ノ後2"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "町指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "松茂町",
+        "date": "1986-03-25",
+        "source_title": "徳島県松茂町：文化財一覧「三人背継ぎ獅子舞と練り」",
+        "source_url": "https://ouropendata.jp/dataset/2177.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f29d599b92cf63b4",
+      "official_name": "三人背継ぎ獅子舞と練り",
+      "reading": "サンニンセツギシシマイトネリ",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "364011",
+          "municipality_name": "松茂町",
+          "geographic_scope": "徳島県板野郡松茂町広島字宮ノ後2"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": "広島春日神社の秋祭礼で2年に1度行われる獅子舞と練り。",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f29d599b92cf63b4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

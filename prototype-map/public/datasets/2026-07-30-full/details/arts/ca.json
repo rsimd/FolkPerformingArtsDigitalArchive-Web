@@ -1,1 +1,518 @@
-{"arts/art_kuni_efa62ea6d56582e6":{"title":"備中神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"重要無形民俗文化財","jurisdiction":"national","authority":"文部科学大臣","date":"1979-02-03","source_title":"国指定文化財等データベース「備中神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/302/120"},{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1970-06-08","source_title":"国指定文化財等データベース「備中神楽」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/472"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_efa62ea6d56582e6","official_name":"備中神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"33","prefecture_name":"岡山県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-efa62ea6d56582e6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_12070468a626fe0d":{"title":"上宝一重ケ根鶏芸","summary":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21203","municipality_name":"高山市","geographic_scope":"高山市奥飛騨温泉郷一重ケ根"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岐阜県","date":"1956-06-22","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_12070468a626fe0d","official_name":"上宝一重ケ根鶏芸","reading":null,"aliases":[],"locations":[{"prefecture_code":"21","prefecture_name":"岐阜県","municipality_code":"21203","municipality_name":"高山市","geographic_scope":"高山市奥飛騨温泉郷一重ケ根"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-12070468a626fe0d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_4de9431dea2cc56f":{"title":"門中組虎舞","summary":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3203","municipality_name":"大船渡市","geographic_scope":"大船渡市末崎町門之浜　および　中井"}],"archive_genre_ids":["tiger_dance"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"岩手県","date":"2013-04-05","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_4de9431dea2cc56f","official_name":"門中組虎舞","reading":null,"aliases":[],"locations":[{"prefecture_code":"03","prefecture_name":"岩手県","municipality_code":"3203","municipality_name":"大船渡市","geographic_scope":"大船渡市末崎町門之浜　および　中井"}],"archive_genre_ids":["tiger_dance"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-4de9431dea2cc56f"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_7e91b32880eb0fe9":{"title":"油井神社太々神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市油井字飯出105番地"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"市指定文化財；無形文化財","jurisdiction":"municipal","authority":"二本松市","date":"1986-06-01","source_title":"福島県二本松市：文化財一覧「油井神社太々神楽」","source_url":"https://www.city.nihonmatsu.lg.jp/opendata.php"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_7e91b32880eb0fe9","official_name":"油井神社太々神楽","reading":"ユイジンジャダイダイカグラ文化財分類:市指定文化財；無形文化財","aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7210","municipality_name":"二本松市","geographic_scope":"福島県二本松市油井字飯出105番地"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-7e91b32880eb0fe9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_aa4f5da3236d5ff6":{"title":"本郷神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市本郷町"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1976-06-29","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_aa4f5da3236d5ff6","official_name":"本郷神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市本郷町"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-aa4f5da3236d5ff6"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_abbbcb1422b3f985":{"title":"石岡ばやし","summary":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8205","municipality_name":"石岡市","geographic_scope":"石岡市石岡2444-1"}],"archive_genre_ids":["festival_music"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"茨城県","date":"1980-02-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_abbbcb1422b3f985","official_name":"石岡ばやし","reading":null,"aliases":[],"locations":[{"prefecture_code":"08","prefecture_name":"茨城県","municipality_code":"8205","municipality_name":"石岡市","geographic_scope":"石岡市石岡2444-1"}],"archive_genre_ids":["festival_music"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-abbbcb1422b3f985"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b5cf66148ac62a0e":{"title":"直島女文楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37364","municipality_name":"直島町","geographic_scope":"直島町696-1"}],"archive_genre_ids":["puppet_theater"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"香川県","date":"1984-08-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b5cf66148ac62a0e","official_name":"直島女文楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"37","prefecture_name":"香川県","municipality_code":"37364","municipality_name":"直島町","geographic_scope":"直島町696-1"}],"archive_genre_ids":["puppet_theater"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b5cf66148ac62a0e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_c1cea323ba262f1e":{"title":"大蔵谷の囃口流し","summary":null,"aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市大蔵本町6-10"}],"archive_genre_ids":[],"designations":[{"type":"市指定文化財（種類:無形民俗）","jurisdiction":"municipal","authority":"明石市","date":"1975-02-06","source_title":"兵庫県明石市：文化財一覧「大蔵谷の囃口流し」","source_url":"https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_c1cea323ba262f1e","official_name":"大蔵谷の囃口流し","reading":"オオクラダニノハヤクチナガシ文化財分類:市指定文化財","aliases":[],"locations":[{"prefecture_code":"28","prefecture_name":"兵庫県","municipality_code":"282031","municipality_name":"明石市","geographic_scope":"兵庫県明石市大蔵本町6-10"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-c1cea323ba262f1e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_d960119d4c43614e":{"title":"中河内の太鼓踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":"25203","municipality_name":"長浜市","geographic_scope":"長浜市余呉町中河内"}],"archive_genre_ids":["regional_drumming"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"滋賀県","date":"1986-03-28","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_d960119d4c43614e","official_name":"中河内の太鼓踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"25","prefecture_name":"滋賀県","municipality_code":"25203","municipality_name":"長浜市","geographic_scope":"長浜市余呉町中河内"}],"archive_genre_ids":["regional_drumming"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-d960119d4c43614e"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e4832d0f7d10148b":{"title":"椋浦の法楽おどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34205","municipality_name":"因島椋浦町","geographic_scope":"尾道市因島椋浦町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1981-04-17","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e4832d0f7d10148b","official_name":"椋浦の法楽おどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34205","municipality_name":"因島椋浦町","geographic_scope":"尾道市因島椋浦町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e4832d0f7d10148b"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_efa62ea6d56582e6": {
+    "title": "備中神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1979-02-03",
+        "source_title": "国指定文化財等データベース「備中神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/120"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「備中神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/472"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_efa62ea6d56582e6",
+      "official_name": "備中神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-efa62ea6d56582e6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_12070468a626fe0d": {
+    "title": "上宝一重ケ根鶏芸",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21203",
+        "municipality_name": "高山市",
+        "geographic_scope": "高山市奥飛騨温泉郷一重ケ根"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1956-06-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_12070468a626fe0d",
+      "official_name": "上宝一重ケ根鶏芸",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21203",
+          "municipality_name": "高山市",
+          "geographic_scope": "高山市奥飛騨温泉郷一重ケ根"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-12070468a626fe0d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4de9431dea2cc56f": {
+    "title": "門中組虎舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3203",
+        "municipality_name": "大船渡市",
+        "geographic_scope": "大船渡市末崎町門之浜　および　中井"
+      }
+    ],
+    "archive_genre_ids": [
+      "tiger_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "2013-04-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4de9431dea2cc56f",
+      "official_name": "門中組虎舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3203",
+          "municipality_name": "大船渡市",
+          "geographic_scope": "大船渡市末崎町門之浜　および　中井"
+        }
+      ],
+      "archive_genre_ids": [
+        "tiger_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4de9431dea2cc56f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_7e91b32880eb0fe9": {
+    "title": "油井神社太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市油井字飯出105番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1986-06-01",
+        "source_title": "福島県二本松市：文化財一覧「油井神社太々神楽」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_7e91b32880eb0fe9",
+      "official_name": "油井神社太々神楽",
+      "reading": "ユイジンジャダイダイカグラ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市油井字飯出105番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-7e91b32880eb0fe9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_aa4f5da3236d5ff6": {
+    "title": "本郷神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34207",
+        "municipality_name": "福山市",
+        "geographic_scope": "福山市本郷町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1976-06-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_aa4f5da3236d5ff6",
+      "official_name": "本郷神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34207",
+          "municipality_name": "福山市",
+          "geographic_scope": "福山市本郷町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-aa4f5da3236d5ff6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_abbbcb1422b3f985": {
+    "title": "石岡ばやし",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8205",
+        "municipality_name": "石岡市",
+        "geographic_scope": "石岡市石岡2444-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1980-02-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_abbbcb1422b3f985",
+      "official_name": "石岡ばやし",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8205",
+          "municipality_name": "石岡市",
+          "geographic_scope": "石岡市石岡2444-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-abbbcb1422b3f985"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b5cf66148ac62a0e": {
+    "title": "直島女文楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37364",
+        "municipality_name": "直島町",
+        "geographic_scope": "直島町696-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1984-08-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b5cf66148ac62a0e",
+      "official_name": "直島女文楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37364",
+          "municipality_name": "直島町",
+          "geographic_scope": "直島町696-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b5cf66148ac62a0e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c1cea323ba262f1e": {
+    "title": "大蔵谷の囃口流し",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "282031",
+        "municipality_name": "明石市",
+        "geographic_scope": "兵庫県明石市大蔵本町6-10"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定文化財（種類:無形民俗）",
+        "jurisdiction": "municipal",
+        "authority": "明石市",
+        "date": "1975-02-06",
+        "source_title": "兵庫県明石市：文化財一覧「大蔵谷の囃口流し」",
+        "source_url": "https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c1cea323ba262f1e",
+      "official_name": "大蔵谷の囃口流し",
+      "reading": "オオクラダニノハヤクチナガシ文化財分類:市指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "282031",
+          "municipality_name": "明石市",
+          "geographic_scope": "兵庫県明石市大蔵本町6-10"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c1cea323ba262f1e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d960119d4c43614e": {
+    "title": "中河内の太鼓踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "25",
+        "prefecture_name": "滋賀県",
+        "municipality_code": "25203",
+        "municipality_name": "長浜市",
+        "geographic_scope": "長浜市余呉町中河内"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "滋賀県",
+        "date": "1986-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d960119d4c43614e",
+      "official_name": "中河内の太鼓踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "25",
+          "prefecture_name": "滋賀県",
+          "municipality_code": "25203",
+          "municipality_name": "長浜市",
+          "geographic_scope": "長浜市余呉町中河内"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d960119d4c43614e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e4832d0f7d10148b": {
+    "title": "椋浦の法楽おどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34205",
+        "municipality_name": "因島椋浦町",
+        "geographic_scope": "尾道市因島椋浦町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1981-04-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e4832d0f7d10148b",
+      "official_name": "椋浦の法楽おどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34205",
+          "municipality_name": "因島椋浦町",
+          "geographic_scope": "尾道市因島椋浦町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e4832d0f7d10148b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

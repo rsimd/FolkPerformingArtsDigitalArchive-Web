@@ -1,1 +1,534 @@
-{"arts/art_kuni_69ab887d662da9fe":{"title":"多良間島の八月踊","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"designations":[{"type":"記録作成等の措置を講ずべき無形の民俗文化財","jurisdiction":"national","authority":"文化庁長官","date":"1975-12-08","source_title":"国指定文化財等データベース「多良間島の八月踊」","source_url":"https://kunishitei.bunka.go.jp/heritage/detail/312/608"}],"source_fields":{"schema_version":"1.0","art_id":"art_kuni_69ab887d662da9fe","official_name":"多良間島の八月踊","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":null,"municipality_name":null,"geographic_scope":null}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-69ab887d662da9fe"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_2ccded8fa2cf010d":{"title":"宅宮神社の神踊り","summary":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36201","municipality_name":"徳島市","geographic_scope":"徳島市上八万町上中筋558"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"徳島県","date":"2010-02-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_2ccded8fa2cf010d","official_name":"宅宮神社の神踊り","reading":null,"aliases":[],"locations":[{"prefecture_code":"36","prefecture_name":"徳島県","municipality_code":"36201","municipality_name":"徳島市","geographic_scope":"徳島市上八万町上中筋558"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-2ccded8fa2cf010d"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_32a9cab2a465e8bc":{"title":"オンナイ念仏会","summary":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24207","municipality_name":"鈴鹿市","geographic_scope":"鈴鹿市三日市"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"三重県","date":"1975-03-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_32a9cab2a465e8bc","official_name":"オンナイ念仏会","reading":null,"aliases":[],"locations":[{"prefecture_code":"24","prefecture_name":"三重県","municipality_code":"24207","municipality_name":"鈴鹿市","geographic_scope":"鈴鹿市三日市"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-32a9cab2a465e8bc"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_40c68382b4ccf7cf":{"title":"小林・梁取の早乙女踊と神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7367","municipality_name":"只見町","geographic_scope":"只見町大字小林"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7367","municipality_name":"只見町","geographic_scope":"只見町大字梁取"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"福島県","date":"2006-04-07","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_40c68382b4ccf7cf","official_name":"小林・梁取の早乙女踊と神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7367","municipality_name":"只見町","geographic_scope":"只見町大字小林"},{"prefecture_code":"07","prefecture_name":"福島県","municipality_code":"7367","municipality_name":"只見町","geographic_scope":"只見町大字梁取"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-40c68382b4ccf7cf"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_6ebaab3aeb44abf9":{"title":"鎌数の神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12215","municipality_name":"旭市","geographic_scope":"旭市鎌数"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"千葉県","date":"1965-04-27","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_6ebaab3aeb44abf9","official_name":"鎌数の神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"12","prefecture_name":"千葉県","municipality_code":"12215","municipality_name":"旭市","geographic_scope":"旭市鎌数"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-6ebaab3aeb44abf9"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_9deca5ca21bd1ed1":{"title":"蛸島早船狂言　附 早船1隻　（附属船具・伝馬船含む）木偶9個","summary":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17205","municipality_name":"珠洲市","geographic_scope":"珠洲市蛸島町"}],"archive_genre_ids":["noh_kyogen"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"石川県","date":"1996-09-14","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_9deca5ca21bd1ed1","official_name":"蛸島早船狂言　附 早船1隻　（附属船具・伝馬船含む）木偶9個","reading":null,"aliases":[],"locations":[{"prefecture_code":"17","prefecture_name":"石川県","municipality_code":"17205","municipality_name":"珠洲市","geographic_scope":"珠洲市蛸島町"}],"archive_genre_ids":["noh_kyogen"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-9deca5ca21bd1ed1"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_b2a9b18f8bb09d78":{"title":"謝名のアヤーチ（操り）獅子","summary":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":"47306","municipality_name":"今帰仁村","geographic_scope":"今帰仁村謝名"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"沖縄県","date":"2002-01-18","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_b2a9b18f8bb09d78","official_name":"謝名のアヤーチ（操り）獅子","reading":null,"aliases":[],"locations":[{"prefecture_code":"47","prefecture_name":"沖縄県","municipality_code":"47306","municipality_name":"今帰仁村","geographic_scope":"今帰仁村謝名"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-b2a9b18f8bb09d78"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e2d8ebf4e70103ee":{"title":"来女木神楽","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市高宮町来女木"}],"archive_genre_ids":["kagura_general"],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1982-02-23","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e2d8ebf4e70103ee","official_name":"来女木神楽","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34214","municipality_name":"安芸高田市","geographic_scope":"安芸高田市高宮町来女木"}],"archive_genre_ids":["kagura_general"],"archive_genre_basis_id":"official_name_rule","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e2d8ebf4e70103ee"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_e9cfb31d62aed638":{"title":"はねおどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市沼隈町"},{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市田尻町"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1959-10-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"},{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"広島県","date":"1971-04-30","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_e9cfb31d62aed638","official_name":"はねおどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市沼隈町"},{"prefecture_code":"34","prefecture_name":"広島県","municipality_code":"34207","municipality_name":"福山市","geographic_scope":"福山市田尻町"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-e9cfb31d62aed638"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"},"arts/art_local_f9a9cf5a7c3902e7":{"title":"五ツ鹿おどり","summary":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38488","municipality_name":"鬼北町","geographic_scope":"鬼北町清水"}],"archive_genre_ids":[],"designations":[{"type":"都道府県指定無形文化財","jurisdiction":"prefectural","authority":"愛媛県","date":"1977-01-11","source_title":"国土数値情報 都道府県指定文化財データ（平成26年度）","source_url":"https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"}],"source_fields":{"schema_version":"1.0","art_id":"art_local_f9a9cf5a7c3902e7","official_name":"五ツ鹿おどり","reading":null,"aliases":[],"locations":[{"prefecture_code":"38","prefecture_name":"愛媛県","municipality_code":"38488","municipality_name":"鬼北町","geographic_scope":"鬼北町清水"}],"archive_genre_ids":[],"archive_genre_basis_id":"unclassified","local_genre_names":[],"summary":null,"continuation_status_id":"unknown","wiki_slug":"art-local-f9a9cf5a7c3902e7"},"source_workbook":"data/cultural_properties/performing_arts.jsonl"}}
+{
+  "arts/art_kuni_69ab887d662da9fe": {
+    "title": "多良間島の八月踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「多良間島の八月踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/608"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_69ab887d662da9fe",
+      "official_name": "多良間島の八月踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-69ab887d662da9fe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2ccded8fa2cf010d": {
+    "title": "宅宮神社の神踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "36201",
+        "municipality_name": "徳島市",
+        "geographic_scope": "徳島市上八万町上中筋558"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "徳島県",
+        "date": "2010-02-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2ccded8fa2cf010d",
+      "official_name": "宅宮神社の神踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "36201",
+          "municipality_name": "徳島市",
+          "geographic_scope": "徳島市上八万町上中筋558"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2ccded8fa2cf010d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_32a9cab2a465e8bc": {
+    "title": "オンナイ念仏会",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24207",
+        "municipality_name": "鈴鹿市",
+        "geographic_scope": "鈴鹿市三日市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1975-03-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_32a9cab2a465e8bc",
+      "official_name": "オンナイ念仏会",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24207",
+          "municipality_name": "鈴鹿市",
+          "geographic_scope": "鈴鹿市三日市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-32a9cab2a465e8bc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_40c68382b4ccf7cf": {
+    "title": "小林・梁取の早乙女踊と神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7367",
+        "municipality_name": "只見町",
+        "geographic_scope": "只見町大字小林"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7367",
+        "municipality_name": "只見町",
+        "geographic_scope": "只見町大字梁取"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "2006-04-07",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_40c68382b4ccf7cf",
+      "official_name": "小林・梁取の早乙女踊と神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7367",
+          "municipality_name": "只見町",
+          "geographic_scope": "只見町大字小林"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7367",
+          "municipality_name": "只見町",
+          "geographic_scope": "只見町大字梁取"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-40c68382b4ccf7cf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6ebaab3aeb44abf9": {
+    "title": "鎌数の神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12215",
+        "municipality_name": "旭市",
+        "geographic_scope": "旭市鎌数"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1965-04-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6ebaab3aeb44abf9",
+      "official_name": "鎌数の神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12215",
+          "municipality_name": "旭市",
+          "geographic_scope": "旭市鎌数"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6ebaab3aeb44abf9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9deca5ca21bd1ed1": {
+    "title": "蛸島早船狂言　附 早船1隻　（附属船具・伝馬船含む）木偶9個",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "17205",
+        "municipality_name": "珠洲市",
+        "geographic_scope": "珠洲市蛸島町"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "石川県",
+        "date": "1996-09-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9deca5ca21bd1ed1",
+      "official_name": "蛸島早船狂言　附 早船1隻　（附属船具・伝馬船含む）木偶9個",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "17205",
+          "municipality_name": "珠洲市",
+          "geographic_scope": "珠洲市蛸島町"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9deca5ca21bd1ed1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b2a9b18f8bb09d78": {
+    "title": "謝名のアヤーチ（操り）獅子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": "47306",
+        "municipality_name": "今帰仁村",
+        "geographic_scope": "今帰仁村謝名"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "沖縄県",
+        "date": "2002-01-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b2a9b18f8bb09d78",
+      "official_name": "謝名のアヤーチ（操り）獅子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": "47306",
+          "municipality_name": "今帰仁村",
+          "geographic_scope": "今帰仁村謝名"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b2a9b18f8bb09d78"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e2d8ebf4e70103ee": {
+    "title": "来女木神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34214",
+        "municipality_name": "安芸高田市",
+        "geographic_scope": "安芸高田市高宮町来女木"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1982-02-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e2d8ebf4e70103ee",
+      "official_name": "来女木神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34214",
+          "municipality_name": "安芸高田市",
+          "geographic_scope": "安芸高田市高宮町来女木"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e2d8ebf4e70103ee"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e9cfb31d62aed638": {
+    "title": "はねおどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34207",
+        "municipality_name": "福山市",
+        "geographic_scope": "福山市沼隈町"
+      },
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34207",
+        "municipality_name": "福山市",
+        "geographic_scope": "福山市田尻町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1959-10-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "1971-04-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e9cfb31d62aed638",
+      "official_name": "はねおどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34207",
+          "municipality_name": "福山市",
+          "geographic_scope": "福山市沼隈町"
+        },
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34207",
+          "municipality_name": "福山市",
+          "geographic_scope": "福山市田尻町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e9cfb31d62aed638"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f9a9cf5a7c3902e7": {
+    "title": "五ツ鹿おどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38488",
+        "municipality_name": "鬼北町",
+        "geographic_scope": "鬼北町清水"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f9a9cf5a7c3902e7",
+      "official_name": "五ツ鹿おどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38488",
+          "municipality_name": "鬼北町",
+          "geographic_scope": "鬼北町清水"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f9a9cf5a7c3902e7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}
