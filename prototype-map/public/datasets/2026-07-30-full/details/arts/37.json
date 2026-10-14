@@ -1,0 +1,258 @@
+{
+  "arts/art_kuni_42d59defc8392862": {
+    "title": "宮古のクイチャー",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2002-02-12",
+        "source_title": "国指定文化財等データベース「宮古のクイチャー」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000791"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_42d59defc8392862",
+      "official_name": "宮古のクイチャー",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-42d59defc8392862"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6d49bda1972f425d": {
+    "title": "由比のお太鼓祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22103",
+        "municipality_name": "静岡市",
+        "geographic_scope": "静岡市清水区"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1998-11-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6d49bda1972f425d",
+      "official_name": "由比のお太鼓祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22103",
+          "municipality_name": "静岡市",
+          "geographic_scope": "静岡市清水区"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6d49bda1972f425d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_9b1c8eaab2cad096": {
+    "title": "千綿の人形芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42321",
+        "municipality_name": "東彼杵町",
+        "geographic_scope": "東彼杵町千綿宿郷"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_9b1c8eaab2cad096",
+      "official_name": "千綿の人形芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42321",
+          "municipality_name": "東彼杵町",
+          "geographic_scope": "東彼杵町千綿宿郷"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-9b1c8eaab2cad096"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c103ccc8c3a2e586": {
+    "title": "江差餅つき囃子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "01",
+        "prefecture_name": "北海道",
+        "municipality_code": "1361",
+        "municipality_name": "江差町",
+        "geographic_scope": "江差町"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "北海道",
+        "date": "1982-06-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c103ccc8c3a2e586",
+      "official_name": "江差餅つき囃子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "01",
+          "prefecture_name": "北海道",
+          "municipality_code": "1361",
+          "municipality_name": "江差町",
+          "geographic_scope": "江差町"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c103ccc8c3a2e586"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f7269d042c785899": {
+    "title": "梅津神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22429",
+        "municipality_name": "川根本町",
+        "geographic_scope": "川根本町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1972-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f7269d042c785899",
+      "official_name": "梅津神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22429",
+          "municipality_name": "川根本町",
+          "geographic_scope": "川根本町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f7269d042c785899"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

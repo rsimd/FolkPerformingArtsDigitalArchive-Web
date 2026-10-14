@@ -1,0 +1,202 @@
+{
+  "arts/art_kuni_c8f875743b44bc07": {
+    "title": "長岩屋の修正鬼会の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "44",
+        "prefecture_name": "大分県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「長岩屋の修正鬼会の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/574"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c8f875743b44bc07",
+      "official_name": "長岩屋の修正鬼会の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "44",
+          "prefecture_name": "大分県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c8f875743b44bc07"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e367eccae3b69a39": {
+    "title": "久多の花笠踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1997-12-15",
+        "source_title": "国指定文化財等データベース「久多の花笠踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/638"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「久多の花笠踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/417"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e367eccae3b69a39",
+      "official_name": "久多の花笠踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e367eccae3b69a39"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1a82ef9a9f709f1a": {
+    "title": "上平川の大蛇踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46534",
+        "municipality_name": "知名町",
+        "geographic_scope": "知名町上平川"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1984-04-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1a82ef9a9f709f1a",
+      "official_name": "上平川の大蛇踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46534",
+          "municipality_name": "知名町",
+          "geographic_scope": "知名町上平川"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1a82ef9a9f709f1a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ce424862a0a13786": {
+    "title": "黒部の踊子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26212",
+        "municipality_name": "京丹後市",
+        "geographic_scope": "京丹後市弥栄町字黒部"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1984-04-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ce424862a0a13786",
+      "official_name": "黒部の踊子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26212",
+          "municipality_name": "京丹後市",
+          "geographic_scope": "京丹後市弥栄町字黒部"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ce424862a0a13786"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

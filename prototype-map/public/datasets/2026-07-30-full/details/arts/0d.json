@@ -1,0 +1,466 @@
+{
+  "arts/art_kuni_65ef7503fc92c08e": {
+    "title": "上鴨川住吉神社の神事舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「上鴨川住吉神社の神事舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/429"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_65ef7503fc92c08e",
+      "official_name": "上鴨川住吉神社の神事舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-65ef7503fc92c08e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_bdc33ef00ab7b372": {
+    "title": "瞽女唄",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-04-17",
+        "source_title": "国指定文化財等データベース「瞽女唄」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/186"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-04-17",
+        "source_title": "国指定文化財等データベース「瞽女唄」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/187"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-03-25",
+        "source_title": "国指定文化財等データベース「瞽女唄」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/188"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_bdc33ef00ab7b372",
+      "official_name": "瞽女唄",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-bdc33ef00ab7b372"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_bf0a185b44f8a51e": {
+    "title": "東伊豆地方の鹿島踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2005-02-21",
+        "source_title": "国指定文化財等データベース「東伊豆地方の鹿島踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000782"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_bf0a185b44f8a51e",
+      "official_name": "東伊豆地方の鹿島踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-bf0a185b44f8a51e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1b3538972b720ff3": {
+    "title": "茂原の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市茂原字福内56番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1999-07-06",
+        "source_title": "福島県二本松市：文化財一覧「茂原の獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1b3538972b720ff3",
+      "official_name": "茂原の獅子舞",
+      "reading": "モバラノシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市茂原字福内56番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1b3538972b720ff3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2ac430a40e06e736": {
+    "title": "黒沢囃子田",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32202",
+        "municipality_name": "浜田市",
+        "geographic_scope": "浜田市三隅町黒沢"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1965-05-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2ac430a40e06e736",
+      "official_name": "黒沢囃子田",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32202",
+          "municipality_name": "浜田市",
+          "geographic_scope": "浜田市三隅町黒沢"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2ac430a40e06e736"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_70718371f7e9cb39": {
+    "title": "越路雨乞踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31201",
+        "municipality_name": "鳥取市",
+        "geographic_scope": "鳥取市越路"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1959-12-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_70718371f7e9cb39",
+      "official_name": "越路雨乞踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31201",
+          "municipality_name": "鳥取市",
+          "geographic_scope": "鳥取市越路"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-70718371f7e9cb39"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ca955733780dc819": {
+    "title": "根府川寺山神社の鹿島踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "14",
+        "prefecture_name": "神奈川県",
+        "municipality_code": "14206",
+        "municipality_name": "小田原市",
+        "geographic_scope": "神奈川県小田原市根府川92"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "神奈川県",
+        "date": null,
+        "source_title": "神奈川県小田原市：文化財一覧「根府川寺山神社の鹿島踊」",
+        "source_url": "https://www.city.odawara.kanagawa.jp/municipality/itpolicy/p25549.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ca955733780dc819",
+      "official_name": "根府川寺山神社の鹿島踊",
+      "reading": "ネブカワテラヤマジンジャノカシマオドリ文化財分類:県指定無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "14",
+          "prefecture_name": "神奈川県",
+          "municipality_code": "14206",
+          "municipality_name": "小田原市",
+          "geographic_scope": "神奈川県小田原市根府川92"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ca955733780dc819"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_daf7ea175195e9be": {
+    "title": "山神の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24461",
+        "municipality_name": "玉城町",
+        "geographic_scope": "玉城町山神"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1965-12-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_daf7ea175195e9be",
+      "official_name": "山神の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24461",
+          "municipality_name": "玉城町",
+          "geographic_scope": "玉城町山神"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-daf7ea175195e9be"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fa0bd31cd67cd21c": {
+    "title": "巨田神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": "452017",
+        "municipality_name": "宮崎市",
+        "geographic_scope": "宮崎県宮崎市佐土原町上田島巨田地区"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "宮崎市",
+        "date": "1993-03-25",
+        "source_title": "宮崎県宮崎市：文化財一覧「巨田神楽」",
+        "source_url": "https://data.bodik.jp/dataset/452017_bunkazai/resource/04ef0f13-746d-4b69-8924-a9968aad5ffa"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fa0bd31cd67cd21c",
+      "official_name": "巨田神楽",
+      "reading": "コタカグラ文化財分類:市指定無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": "452017",
+          "municipality_name": "宮崎市",
+          "geographic_scope": "宮崎県宮崎市佐土原町上田島巨田地区"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fa0bd31cd67cd21c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

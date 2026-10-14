@@ -1,0 +1,354 @@
+{
+  "arts/art_kuni_2c43a25a665648ef": {
+    "title": "隠岐国分寺蓮華会舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1977-05-17",
+        "source_title": "国指定文化財等データベース「隠岐国分寺蓮華会舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/115"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2c43a25a665648ef",
+      "official_name": "隠岐国分寺蓮華会舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2c43a25a665648ef"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_3488f53c1127372f": {
+    "title": "人形浄瑠璃文楽太夫",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1971-04-23",
+        "source_title": "国指定文化財等データベース「人形浄瑠璃文楽太夫」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/8"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_3488f53c1127372f",
+      "official_name": "人形浄瑠璃文楽太夫",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-3488f53c1127372f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_266ef70863363570": {
+    "title": "下市之瀬の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "19",
+        "prefecture_name": "山梨県",
+        "municipality_code": "19208",
+        "municipality_name": "南アルプス市",
+        "geographic_scope": "南アルプス市下市之瀬"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山梨県",
+        "date": "2006-04-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_266ef70863363570",
+      "official_name": "下市之瀬の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "19",
+          "prefecture_name": "山梨県",
+          "municipality_code": "19208",
+          "municipality_name": "南アルプス市",
+          "geographic_scope": "南アルプス市下市之瀬"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-266ef70863363570"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3a63cce5381ccb84": {
+    "title": "倉橋の弥勒三番叟",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12215",
+        "municipality_name": "旭市",
+        "geographic_scope": "旭市倉橋"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1967-03-07",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3a63cce5381ccb84",
+      "official_name": "倉橋の弥勒三番叟",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12215",
+          "municipality_name": "旭市",
+          "geographic_scope": "旭市倉橋"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3a63cce5381ccb84"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_55e8b9e24c062cc6": {
+    "title": "田代神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22429",
+        "municipality_name": "川根本町",
+        "geographic_scope": "川根本町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1985-03-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_55e8b9e24c062cc6",
+      "official_name": "田代神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22429",
+          "municipality_name": "川根本町",
+          "geographic_scope": "川根本町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-55e8b9e24c062cc6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_85384badd8f70dde": {
+    "title": "下柴の彼岸獅子",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7208",
+        "municipality_name": "喜多方市",
+        "geographic_scope": "喜多方市関柴町下柴字大門口"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1987-03-27",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_85384badd8f70dde",
+      "official_name": "下柴の彼岸獅子",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7208",
+          "municipality_name": "喜多方市",
+          "geographic_scope": "喜多方市関柴町下柴字大門口"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-85384badd8f70dde"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_dae588ef9ca66d83": {
+    "title": "石田楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40107",
+        "municipality_name": "北九州市",
+        "geographic_scope": "北九州市小倉南区"
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_dae588ef9ca66d83",
+      "official_name": "石田楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40107",
+          "municipality_name": "北九州市",
+          "geographic_scope": "北九州市小倉南区"
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-dae588ef9ca66d83"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

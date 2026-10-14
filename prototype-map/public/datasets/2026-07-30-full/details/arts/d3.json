@@ -1,0 +1,590 @@
+{
+  "arts/art_kuni_1e6a73a69190e7b2": {
+    "title": "豊前神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "福岡県豊前地域，大分県中津市及び宇佐市"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2016-03-02",
+        "source_title": "国指定文化財等データベース「豊前神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000969"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1e6a73a69190e7b2",
+      "official_name": "豊前神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "福岡県豊前地域，大分県中津市及び宇佐市"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1e6a73a69190e7b2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_531270ff1c3e65fe": {
+    "title": "奥浄瑠璃",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1961-03-31",
+        "source_title": "国指定文化財等データベース「奥浄瑠璃」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/169"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_531270ff1c3e65fe",
+      "official_name": "奥浄瑠璃",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-531270ff1c3e65fe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_5929b0e0e4fe3e3d": {
+    "title": "林家舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1981-01-21",
+        "source_title": "国指定文化財等データベース「林家舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/26"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_5929b0e0e4fe3e3d",
+      "official_name": "林家舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-5929b0e0e4fe3e3d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_62954f4eff6633fe": {
+    "title": "猿倉人形芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5213",
+        "municipality_name": "北秋田市",
+        "geographic_scope": "北秋田市増沢"
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5210",
+        "municipality_name": "由利本荘市",
+        "geographic_scope": "由利本荘市石脇字田尻"
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5463",
+        "municipality_name": "羽後町",
+        "geographic_scope": "羽後町野中"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1996-11-28",
+        "source_title": "国指定文化財等データベース「猿倉人形芝居」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/648"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1974-10-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_62954f4eff6633fe",
+      "official_name": "猿倉人形芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5213",
+          "municipality_name": "北秋田市",
+          "geographic_scope": "北秋田市増沢"
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5210",
+          "municipality_name": "由利本荘市",
+          "geographic_scope": "由利本荘市石脇字田尻"
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5463",
+          "municipality_name": "羽後町",
+          "geographic_scope": "羽後町野中"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-62954f4eff6633fe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6db268edf4b55226": {
+    "title": "三河万歳",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "blessing_art"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1995-12-26",
+        "source_title": "国指定文化財等データベース「三河万歳」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/634"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「三河万歳」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/383"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6db268edf4b55226",
+      "official_name": "三河万歳",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "blessing_art"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6db268edf4b55226"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_7c9cfcf4464ae734": {
+    "title": "鳳凰の舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「鳳凰の舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/290"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_7c9cfcf4464ae734",
+      "official_name": "鳳凰の舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-7c9cfcf4464ae734"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_fffc0cc4402eaceb": {
+    "title": "人形浄瑠璃文楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1955-05-12",
+        "source_title": "国指定文化財等データベース「人形浄瑠璃文楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/101"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_fffc0cc4402eaceb",
+      "official_name": "人形浄瑠璃文楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-fffc0cc4402eaceb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2274f805ca6f7dcc": {
+    "title": "竹の曲",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40221",
+        "municipality_name": null,
+        "geographic_scope": "太宰府市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2274f805ca6f7dcc",
+      "official_name": "竹の曲",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40221",
+          "municipality_name": null,
+          "geographic_scope": "太宰府市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2274f805ca6f7dcc"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_d99950880a55e6e7": {
+    "title": "伊勢居地番楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "にかほ市伊勢居地"
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "秋田県にかほ市伊勢居地字谷地37-1"
+      }
+    ],
+    "archive_genre_ids": [
+      "yamabushi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "秋田県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": null,
+        "source_title": "秋田県にかほ市：文化財一覧「伊勢居地番楽」",
+        "source_url": "https://www.city.nikaho.akita.jp/administration/detail.html?id=3190"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1973-06-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_d99950880a55e6e7",
+      "official_name": "伊勢居地番楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "にかほ市伊勢居地"
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "秋田県にかほ市伊勢居地字谷地37-1"
+        }
+      ],
+      "archive_genre_ids": [
+        "yamabushi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-d99950880a55e6e7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f44fcee91e746d26": {
+    "title": "白岩ささら",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5215",
+        "municipality_name": "仙北市",
+        "geographic_scope": "仙北市角館町白岩字前郷"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1964-11-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f44fcee91e746d26",
+      "official_name": "白岩ささら",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5215",
+          "municipality_name": "仙北市",
+          "geographic_scope": "仙北市角館町白岩字前郷"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f44fcee91e746d26"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

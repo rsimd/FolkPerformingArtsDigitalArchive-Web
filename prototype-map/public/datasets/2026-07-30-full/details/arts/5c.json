@@ -1,0 +1,158 @@
+{
+  "arts/art_local_4a2812e5ba3cb838": {
+    "title": "大原神職神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32209",
+        "municipality_name": "雲南市",
+        "geographic_scope": "雲南市大東町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1961-06-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4a2812e5ba3cb838",
+      "official_name": "大原神職神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32209",
+          "municipality_name": "雲南市",
+          "geographic_scope": "雲南市大東町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4a2812e5ba3cb838"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4e6db1503770a257": {
+    "title": "富谷の田植踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "04216",
+        "municipality_name": "富谷町",
+        "geographic_scope": "富谷町三の関"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1960-04-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4e6db1503770a257",
+      "official_name": "富谷の田植踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "04216",
+          "municipality_name": "富谷町",
+          "geographic_scope": "富谷町三の関"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4e6db1503770a257"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b7a4eca772f2e825": {
+    "title": "宇良神社祭礼芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26463",
+        "municipality_name": "伊根町",
+        "geographic_scope": "伊根町字本庄浜"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1985-05-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b7a4eca772f2e825",
+      "official_name": "宇良神社祭礼芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26463",
+          "municipality_name": "伊根町",
+          "geographic_scope": "伊根町字本庄浜"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b7a4eca772f2e825"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

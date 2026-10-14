@@ -1,0 +1,420 @@
+{
+  "arts/art_kuni_1f76475be6ee3672": {
+    "title": "大杉のざんざこ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「大杉のざんざこ踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/432"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1f76475be6ee3672",
+      "official_name": "大杉のざんざこ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1f76475be6ee3672"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_53bc3e88c755330a": {
+    "title": "小倉祇園太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "福岡県北九州市"
+      },
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40106",
+        "municipality_name": "北九州市",
+        "geographic_scope": "北九州市小倉北区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2016-03-28",
+        "source_title": "国指定文化財等データベース「小倉祇園太鼓」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000992"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_53bc3e88c755330a",
+      "official_name": "小倉祇園太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "福岡県北九州市"
+        },
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40106",
+          "municipality_name": "北九州市",
+          "geographic_scope": "北九州市小倉北区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-53bc3e88c755330a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_64e82b2d5a3cf469": {
+    "title": "天台声明",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1955-03-19",
+        "source_title": "国指定文化財等データベース「天台声明」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/134"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_64e82b2d5a3cf469",
+      "official_name": "天台声明",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-64e82b2d5a3cf469"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8471def6e7f63e06": {
+    "title": "寺野の三日堂ひよんどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「寺野の三日堂ひよんどり」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/369"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8471def6e7f63e06",
+      "official_name": "寺野の三日堂ひよんどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8471def6e7f63e06"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ad5e7712b326e9f3": {
+    "title": "池川神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「池川神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/517"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ad5e7712b326e9f3",
+      "official_name": "池川神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ad5e7712b326e9f3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_575edf3ca379f3b0": {
+    "title": "土佐の太刀踊（蓮池太刀踊）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39205",
+        "municipality_name": "土佐市",
+        "geographic_scope": "土佐市蓮池1947-ロ"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1965-06-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_575edf3ca379f3b0",
+      "official_name": "土佐の太刀踊（蓮池太刀踊）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39205",
+          "municipality_name": "土佐市",
+          "geographic_scope": "土佐市蓮池1947-ロ"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-575edf3ca379f3b0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_af1bfaad1a0ec5c6": {
+    "title": "瑞応の盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": "39402",
+        "municipality_name": "佐川町",
+        "geographic_scope": "佐川町瑞応133"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "高知県",
+        "date": "1963-07-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_af1bfaad1a0ec5c6",
+      "official_name": "瑞応の盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": "39402",
+          "municipality_name": "佐川町",
+          "geographic_scope": "佐川町瑞応133"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-af1bfaad1a0ec5c6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_df4624d07fd6b6b4": {
+    "title": "羽立大神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5202",
+        "municipality_name": "能代市",
+        "geographic_scope": "能代市二ツ井町飛根字羽立"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1983-02-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_df4624d07fd6b6b4",
+      "official_name": "羽立大神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5202",
+          "municipality_name": "能代市",
+          "geographic_scope": "能代市二ツ井町飛根字羽立"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-df4624d07fd6b6b4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

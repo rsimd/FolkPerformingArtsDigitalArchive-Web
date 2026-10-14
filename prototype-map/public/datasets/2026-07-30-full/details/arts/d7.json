@@ -1,0 +1,170 @@
+{
+  "arts/art_kuni_42c5ad093c034943": {
+    "title": "太田八坂神社のエンヤーホー",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1999-12-03",
+        "source_title": "国指定文化財等データベース「太田八坂神社のエンヤーホー」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/707"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_42c5ad093c034943",
+      "official_name": "太田八坂神社のエンヤーホー",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-42c5ad093c034943"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8150a34ff9b2d98c": {
+    "title": "八雲琴",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-30",
+        "source_title": "国指定文化財等データベース「八雲琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/176"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-30",
+        "source_title": "国指定文化財等データベース「八雲琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/177"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1961-03-31",
+        "source_title": "国指定文化財等データベース「八雲琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/178"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1968-03-28",
+        "source_title": "国指定文化財等データベース「八雲琴」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/179"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8150a34ff9b2d98c",
+      "official_name": "八雲琴",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8150a34ff9b2d98c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a30dc664b668bbaa": {
+    "title": "東津汲の鎌倉踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「東津汲の鎌倉踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/364"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a30dc664b668bbaa",
+      "official_name": "東津汲の鎌倉踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a30dc664b668bbaa"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

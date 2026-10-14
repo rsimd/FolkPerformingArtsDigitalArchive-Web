@@ -1,0 +1,468 @@
+{
+  "arts/art_kuni_37540b605597daf1": {
+    "title": "島後久見神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32528",
+        "municipality_name": "隠岐の島町",
+        "geographic_scope": "隠岐の島町久見"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「島後久見神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/468"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1962-06-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_37540b605597daf1",
+      "official_name": "島後久見神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32528",
+          "municipality_name": "隠岐の島町",
+          "geographic_scope": "隠岐の島町久見"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-37540b605597daf1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f5863cfacefbbf00": {
+    "title": "平内の鶏舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「平内の鶏舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/185"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f5863cfacefbbf00",
+      "official_name": "平内の鶏舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f5863cfacefbbf00"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_32e6ae35437603b0": {
+    "title": "津田神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "34",
+        "prefecture_name": "広島県",
+        "municipality_code": "34213",
+        "municipality_name": "廿日市",
+        "geographic_scope": "廿日市市津田"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "広島県",
+        "date": "2008-02-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_32e6ae35437603b0",
+      "official_name": "津田神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "34",
+          "prefecture_name": "広島県",
+          "municipality_code": "34213",
+          "municipality_name": "廿日市",
+          "geographic_scope": "廿日市市津田"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-32e6ae35437603b0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3f8a8942c169f857": {
+    "title": "シテナ踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18501",
+        "municipality_name": "若狭町",
+        "geographic_scope": "若狭町鳥浜"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1962-05-15",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3f8a8942c169f857",
+      "official_name": "シテナ踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18501",
+          "municipality_name": "若狭町",
+          "geographic_scope": "若狭町鳥浜"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3f8a8942c169f857"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6dfab60c7cca0aaf": {
+    "title": "宿の鉦浮立",
+    "summary": "鳥栖市宿町の船底神社で奉納される民俗芸能である。",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "412031",
+        "municipality_name": "鳥栖市",
+        "geographic_scope": "鳥栖市宿町1266"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "市指定重要無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "鳥栖市",
+        "date": null,
+        "source_title": "佐賀県鳥栖市：文化財一覧「宿の鉦浮立」",
+        "source_url": "https://www.city.tosu.lg.jp/5726.htm"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6dfab60c7cca0aaf",
+      "official_name": "宿の鉦浮立",
+      "reading": "シュクノカネフリュウ文化財分類:市指定重要無形民俗文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "412031",
+          "municipality_name": "鳥栖市",
+          "geographic_scope": "鳥栖市宿町1266"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": "鳥栖市宿町の船底神社で奉納される民俗芸能である。",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6dfab60c7cca0aaf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_914b181801fa0cd0": {
+    "title": "今古賀風流",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40207",
+        "municipality_name": "柳川市",
+        "geographic_scope": "柳川市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_914b181801fa0cd0",
+      "official_name": "今古賀風流",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40207",
+          "municipality_name": "柳川市",
+          "geographic_scope": "柳川市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-914b181801fa0cd0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_dfb32a01e421d9df": {
+    "title": "野原八幡宮風流",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43204",
+        "municipality_name": "荒尾市",
+        "geographic_scope": "荒尾市野原　および　菰屋　および　川登"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1977-06-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_dfb32a01e421d9df",
+      "official_name": "野原八幡宮風流",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43204",
+          "municipality_name": "荒尾市",
+          "geographic_scope": "荒尾市野原　および　菰屋　および　川登"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-dfb32a01e421d9df"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e556fab91fb193da": {
+    "title": "旭座人形芝居",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40210",
+        "municipality_name": "八女市",
+        "geographic_scope": "八女市"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e556fab91fb193da",
+      "official_name": "旭座人形芝居",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40210",
+          "municipality_name": "八女市",
+          "geographic_scope": "八女市"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e556fab91fb193da"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e904de8d588a9cda": {
+    "title": "長久手の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23238",
+        "municipality_name": "長久手市",
+        "geographic_scope": "長久手市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1956-06-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e904de8d588a9cda",
+      "official_name": "長久手の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23238",
+          "municipality_name": "長久手市",
+          "geographic_scope": "長久手市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e904de8d588a9cda"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

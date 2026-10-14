@@ -1,0 +1,398 @@
+{
+  "arts/art_kuni_f6852539ef24e8f9": {
+    "title": "日吉神社の庭の舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「日吉神社の庭の舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/467"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f6852539ef24e8f9",
+      "official_name": "日吉神社の庭の舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f6852539ef24e8f9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_22db40ca0e06f402": {
+    "title": "阿蘇の虎舞（竹原）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43214",
+        "municipality_name": "阿蘇市",
+        "geographic_scope": "阿蘇市竹原"
+      }
+    ],
+    "archive_genre_ids": [
+      "tiger_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1986-01-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_22db40ca0e06f402",
+      "official_name": "阿蘇の虎舞（竹原）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43214",
+          "municipality_name": "阿蘇市",
+          "geographic_scope": "阿蘇市竹原"
+        }
+      ],
+      "archive_genre_ids": [
+        "tiger_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-22db40ca0e06f402"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2f0c7ed01ad51c3f": {
+    "title": "代々木もちつき唄",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": "131130",
+        "municipality_name": "渋谷区",
+        "geographic_scope": "代々木5-1-1"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "区指定文化財（種類:区指定無形民俗文化財）",
+        "jurisdiction": "municipal",
+        "authority": "渋谷区",
+        "date": null,
+        "source_title": "東京都渋谷区：文化財一覧「代々木もちつき唄」",
+        "source_url": "http://www.city.shibuya.tokyo.jp/kusei/tokei/opendata/index1.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2f0c7ed01ad51c3f",
+      "official_name": "代々木もちつき唄",
+      "reading": "ヨヨギモチツキウタ文化財分類:区指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": "131130",
+          "municipality_name": "渋谷区",
+          "geographic_scope": "代々木5-1-1"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2f0c7ed01ad51c3f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3335e3a5f1a690b8": {
+    "title": "有瀬かぐら踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "36208",
+        "municipality_name": "三好市",
+        "geographic_scope": "三好市西祖谷山村有瀬"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "徳島県",
+        "date": "2001-05-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3335e3a5f1a690b8",
+      "official_name": "有瀬かぐら踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "36208",
+          "municipality_name": "三好市",
+          "geographic_scope": "三好市西祖谷山村有瀬"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3335e3a5f1a690b8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4300beb3427605db": {
+    "title": "小松谷盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "31",
+        "prefecture_name": "鳥取県",
+        "municipality_code": "31389",
+        "municipality_name": "南部町",
+        "geographic_scope": "南部町御内谷"
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鳥取県",
+        "date": "1995-04-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4300beb3427605db",
+      "official_name": "小松谷盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "31",
+          "prefecture_name": "鳥取県",
+          "municipality_code": "31389",
+          "municipality_name": "南部町",
+          "geographic_scope": "南部町御内谷"
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4300beb3427605db"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_51cbfebd4a45c74a": {
+    "title": "五勝手鹿子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "01",
+        "prefecture_name": "北海道",
+        "municipality_code": "1361",
+        "municipality_name": "江差町",
+        "geographic_scope": "江差町"
+      }
+    ],
+    "archive_genre_ids": [
+      "deer_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "北海道",
+        "date": "1977-03-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_51cbfebd4a45c74a",
+      "official_name": "五勝手鹿子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "01",
+          "prefecture_name": "北海道",
+          "municipality_code": "1361",
+          "municipality_name": "江差町",
+          "geographic_scope": "江差町"
+        }
+      ],
+      "archive_genre_ids": [
+        "deer_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-51cbfebd4a45c74a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_59541d47d23b2eaf": {
+    "title": "木原の鯖踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "174611",
+        "municipality_name": "鳳珠郡穴水町",
+        "geographic_scope": "石川県鳳珠郡穴水町字木原"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "鳳珠郡穴水町",
+        "date": "1988-07-18",
+        "source_title": "全国文化財目録「木原の鯖踊り」",
+        "source_url": "https://www.town.anamizu.lg.jp/kikaku/anamizu_opendata.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_59541d47d23b2eaf",
+      "official_name": "木原の鯖踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "174611",
+          "municipality_name": "鳳珠郡穴水町",
+          "geographic_scope": "石川県鳳珠郡穴水町字木原"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-59541d47d23b2eaf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c1b8fa147bf1d655": {
+    "title": "三島大社のお田打",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22206",
+        "municipality_name": "三島市",
+        "geographic_scope": "三島市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1972-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c1b8fa147bf1d655",
+      "official_name": "三島大社のお田打",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22206",
+          "municipality_name": "三島市",
+          "geographic_scope": "三島市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c1b8fa147bf1d655"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

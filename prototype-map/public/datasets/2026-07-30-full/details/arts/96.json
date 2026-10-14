@@ -1,0 +1,514 @@
+{
+  "arts/art_kuni_153e9d576559a2ed": {
+    "title": "美作の護法祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "33",
+        "prefecture_name": "岡山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1985-12-20",
+        "source_title": "国指定文化財等データベース「美作の護法祭」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/481"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_153e9d576559a2ed",
+      "official_name": "美作の護法祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "33",
+          "prefecture_name": "岡山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-153e9d576559a2ed"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_69584c6b421b26f3": {
+    "title": "五島神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "長崎県五島市，新上五島町，佐世保市"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2016-03-02",
+        "source_title": "国指定文化財等データベース「五島神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000970"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_69584c6b421b26f3",
+      "official_name": "五島神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "長崎県五島市，新上五島町，佐世保市"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-69584c6b421b26f3"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6dde3823192f1261": {
+    "title": "筑紫流箏曲",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-20",
+        "source_title": "国指定文化財等データベース「筑紫流箏曲」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/142"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-20",
+        "source_title": "国指定文化財等データベース「筑紫流箏曲」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/143"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6dde3823192f1261",
+      "official_name": "筑紫流箏曲",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6dde3823192f1261"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a5b5198ec5f1dd32": {
+    "title": "広瀬熊野神社の御田植",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「広瀬熊野神社の御田植」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/241"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a5b5198ec5f1dd32",
+      "official_name": "広瀬熊野神社の御田植",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a5b5198ec5f1dd32"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_00fc3030ac114574": {
+    "title": "池田追分け",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18382",
+        "municipality_name": "池田町",
+        "geographic_scope": "池田町稲荷"
+      }
+    ],
+    "archive_genre_ids": [
+      "folk_song"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1973-05-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_00fc3030ac114574",
+      "official_name": "池田追分け",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18382",
+          "municipality_name": "池田町",
+          "geographic_scope": "池田町稲荷"
+        }
+      ],
+      "archive_genre_ids": [
+        "folk_song"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-00fc3030ac114574"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_46c6e193dbb45c5c": {
+    "title": "八幡神社の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市戸沢字立石3番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1984-06-26",
+        "source_title": "福島県二本松市：文化財一覧「八幡神社の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_46c6e193dbb45c5c",
+      "official_name": "八幡神社の三匹獅子舞",
+      "reading": "ハチマンジンジャノサンビキシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市戸沢字立石3番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-46c6e193dbb45c5c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_73386e7640223f0c": {
+    "title": "讃岐源之丞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37208",
+        "municipality_name": "三豊市",
+        "geographic_scope": "三豊市三野町大見甲4075"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "2004-03-05",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_73386e7640223f0c",
+      "official_name": "讃岐源之丞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37208",
+          "municipality_name": "三豊市",
+          "geographic_scope": "三豊市三野町大見甲4075"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-73386e7640223f0c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b28739b5b90fb702": {
+    "title": "下川原ささら",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5215",
+        "municipality_name": "仙北市",
+        "geographic_scope": "仙北市角館町岩瀬字下川原"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1971-12-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b28739b5b90fb702",
+      "official_name": "下川原ささら",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5215",
+          "municipality_name": "仙北市",
+          "geographic_scope": "仙北市角館町岩瀬字下川原"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b28739b5b90fb702"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f893ed8ed6b7e3fd": {
+    "title": "井野神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32202",
+        "municipality_name": "浜田市",
+        "geographic_scope": "浜田市三隅町井野"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1962-06-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f893ed8ed6b7e3fd",
+      "official_name": "井野神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32202",
+          "municipality_name": "浜田市",
+          "geographic_scope": "浜田市三隅町井野"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f893ed8ed6b7e3fd"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fac8820b45db9ae2": {
+    "title": "岩戸神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40305",
+        "municipality_name": "那珂川町",
+        "geographic_scope": "那珂川町"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fac8820b45db9ae2",
+      "official_name": "岩戸神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40305",
+          "municipality_name": "那珂川町",
+          "geographic_scope": "那珂川町"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fac8820b45db9ae2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

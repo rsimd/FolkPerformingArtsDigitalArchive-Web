@@ -1,0 +1,402 @@
+{
+  "arts/art_kuni_40d9a8898a75b965": {
+    "title": "人形浄瑠璃文楽三味線",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1985-04-13",
+        "source_title": "国指定文化財等データベース「人形浄瑠璃文楽三味線」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/9"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_40d9a8898a75b965",
+      "official_name": "人形浄瑠璃文楽三味線",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-40d9a8898a75b965"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6f819e6d39bcd23f": {
+    "title": "田原の御田",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2000-12-27",
+        "source_title": "国指定文化財等データベース「田原の御田」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/728"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6f819e6d39bcd23f",
+      "official_name": "田原の御田",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6f819e6d39bcd23f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_b901e1ebe361240d": {
+    "title": "坂部の冬祭の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「坂部の冬祭の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/343"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_b901e1ebe361240d",
+      "official_name": "坂部の冬祭の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-b901e1ebe361240d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ca1545f96e1d547e": {
+    "title": "小浜島の盆、結願祭、種子取祭の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2007-03-07",
+        "source_title": "国指定文化財等データベース「小浜島の盆、結願祭、種子取祭の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000829"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ca1545f96e1d547e",
+      "official_name": "小浜島の盆、結願祭、種子取祭の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ca1545f96e1d547e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_15e79fcd7a8c69bb": {
+    "title": "安代原　獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "17",
+        "prefecture_name": "石川県",
+        "municipality_code": "172049",
+        "municipality_name": "輪島市",
+        "geographic_scope": "石川県輪島市門前町安代原5の81番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "輪島市指定　無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "輪島市",
+        "date": "1974-02-06",
+        "source_title": "全国文化財目録「安代原　獅子舞」",
+        "source_url": "https://www.city.wajima.ishikawa.jp/docs/2020011000019/"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_15e79fcd7a8c69bb",
+      "official_name": "安代原　獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "17",
+          "prefecture_name": "石川県",
+          "municipality_code": "172049",
+          "municipality_name": "輪島市",
+          "geographic_scope": "石川県輪島市門前町安代原5の81番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-15e79fcd7a8c69bb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1facfb436ad94942": {
+    "title": "深角団七踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "45",
+        "prefecture_name": "宮崎県",
+        "municipality_code": "45442",
+        "municipality_name": "日之影町",
+        "geographic_scope": "日之影町深角地区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮崎県",
+        "date": "2007-03-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1facfb436ad94942",
+      "official_name": "深角団七踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "45",
+          "prefecture_name": "宮崎県",
+          "municipality_code": "45442",
+          "municipality_name": "日之影町",
+          "geographic_scope": "日之影町深角地区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1facfb436ad94942"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_b86e4b466fe9c391": {
+    "title": "野中の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30206",
+        "municipality_name": "田辺市",
+        "geographic_scope": "田辺市中辺路町野中"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1971-03-22",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_b86e4b466fe9c391",
+      "official_name": "野中の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30206",
+          "municipality_name": "田辺市",
+          "geographic_scope": "田辺市中辺路町野中"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-b86e4b466fe9c391"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fdf8bb8d8dd169de": {
+    "title": "老袋の万作",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11201",
+        "municipality_name": "川越市",
+        "geographic_scope": "川越市下老袋"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1973-03-09",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fdf8bb8d8dd169de",
+      "official_name": "老袋の万作",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11201",
+          "municipality_name": "川越市",
+          "geographic_scope": "川越市下老袋"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fdf8bb8d8dd169de"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "arts/art_kuni_2f2f24818120f627": {
+    "title": "明日の稚児舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "16",
+        "prefecture_name": "富山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「明日の稚児舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/317"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_2f2f24818120f627",
+      "official_name": "明日の稚児舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "16",
+          "prefecture_name": "富山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-2f2f24818120f627"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1be3d96b0922bef2": {
+    "title": "式内踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35215",
+        "municipality_name": "周南市",
+        "geographic_scope": "周南市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1be3d96b0922bef2",
+      "official_name": "式内踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35215",
+          "municipality_name": "周南市",
+          "geographic_scope": "周南市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1be3d96b0922bef2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ba5f45446f177a7a": {
+    "title": "天吹",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46201",
+        "municipality_name": "鹿児島市",
+        "geographic_scope": "鹿児島市上之園町20-17"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1990-03-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ba5f45446f177a7a",
+      "official_name": "天吹",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46201",
+          "municipality_name": "鹿児島市",
+          "geographic_scope": "鹿児島市上之園町20-17"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ba5f45446f177a7a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_e189bdc986866813": {
+    "title": "上十川獅子踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2204",
+        "municipality_name": "黒石市",
+        "geographic_scope": "黒石市上十川"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1999-07-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_e189bdc986866813",
+      "official_name": "上十川獅子踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2204",
+          "municipality_name": "黒石市",
+          "geographic_scope": "黒石市上十川"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-e189bdc986866813"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

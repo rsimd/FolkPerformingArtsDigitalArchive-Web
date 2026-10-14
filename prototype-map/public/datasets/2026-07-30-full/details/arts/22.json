@@ -1,0 +1,458 @@
+{
+  "arts/art_kuni_1e3b945fdf7dcf34": {
+    "title": "宮薗節浄瑠璃",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2007-09-06",
+        "source_title": "国指定文化財等データベース「宮薗節浄瑠璃」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/29"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1e3b945fdf7dcf34",
+      "official_name": "宮薗節浄瑠璃",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1e3b945fdf7dcf34"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_26a67d8cf8fefb66": {
+    "title": "小浜島の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1995-12-26",
+        "source_title": "国指定文化財等データベース「小浜島の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/631"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_26a67d8cf8fefb66",
+      "official_name": "小浜島の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-26a67d8cf8fefb66"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_926f066de0d0d022": {
+    "title": "車大歳神社の翁舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2000-12-27",
+        "source_title": "国指定文化財等データベース「車大歳神社の翁舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/729"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「車大歳神社の翁舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/434"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_926f066de0d0d022",
+      "official_name": "車大歳神社の翁舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-926f066de0d0d022"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0411b10bc5960b1f": {
+    "title": "小室の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12204",
+        "municipality_name": "船橋市",
+        "geographic_scope": "船橋市小室町"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1964-04-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0411b10bc5960b1f",
+      "official_name": "小室の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12204",
+          "municipality_name": "船橋市",
+          "geographic_scope": "船橋市小室町"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0411b10bc5960b1f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0de86d71d6f5bea2": {
+    "title": "益田糸操り人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32204",
+        "municipality_name": "益田市",
+        "geographic_scope": "益田市"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1963-07-02",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0de86d71d6f5bea2",
+      "official_name": "益田糸操り人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32204",
+          "municipality_name": "益田市",
+          "geographic_scope": "益田市"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0de86d71d6f5bea2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2c75840de56a1416": {
+    "title": "花おどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38203",
+        "municipality_name": "宇和島市",
+        "geographic_scope": "宇和島市三間町曽根"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2c75840de56a1416",
+      "official_name": "花おどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38203",
+          "municipality_name": "宇和島市",
+          "geographic_scope": "宇和島市三間町曽根"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2c75840de56a1416"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_43d8622f0efa58e6": {
+    "title": "木幡津島神社の太々神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市木幡字道之作425番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "2005-11-01",
+        "source_title": "福島県二本松市：文化財一覧「木幡津島神社の太々神楽」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_43d8622f0efa58e6",
+      "official_name": "木幡津島神社の太々神楽",
+      "reading": "コハタツシマジンジャノダイダイカグラ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市木幡字道之作425番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-43d8622f0efa58e6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_5c9f31a9e774d76a": {
+    "title": "湧川の路次楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": "47306",
+        "municipality_name": "今帰仁村",
+        "geographic_scope": "今帰仁村湧川"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "沖縄県",
+        "date": "2002-01-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_5c9f31a9e774d76a",
+      "official_name": "湧川の路次楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": "47306",
+          "municipality_name": "今帰仁村",
+          "geographic_scope": "今帰仁村湧川"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-5c9f31a9e774d76a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_75a3896773bde896": {
+    "title": "守山の棒の手",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23113",
+        "municipality_name": "名古屋市",
+        "geographic_scope": "名古屋市守山区"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1962-03-10",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_75a3896773bde896",
+      "official_name": "守山の棒の手",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23113",
+          "municipality_name": "名古屋市",
+          "geographic_scope": "名古屋市守山区"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-75a3896773bde896"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

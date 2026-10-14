@@ -1,0 +1,568 @@
+{
+  "arts/art_kuni_1100dc2a0e63460a": {
+    "title": "岩国南条踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35208",
+        "municipality_name": "岩国市",
+        "geographic_scope": "岩国市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「岩国南条踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/496"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1100dc2a0e63460a",
+      "official_name": "岩国南条踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35208",
+          "municipality_name": "岩国市",
+          "geographic_scope": "岩国市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1100dc2a0e63460a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_20869add9b71e090": {
+    "title": "阿寒のアイヌ古式舞踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "01",
+        "prefecture_name": "北海道",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「阿寒のアイヌ古式舞踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/180"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_20869add9b71e090",
+      "official_name": "阿寒のアイヌ古式舞踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "01",
+          "prefecture_name": "北海道",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-20869add9b71e090"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_218865960c684c99": {
+    "title": "小浜長折の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "二本松市下長折字大柱"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市下長折字大柱"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「小浜長折の三匹獅子舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/240"
+      },
+      {
+        "type": "県指定文化財；重要無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1972-12-26",
+        "source_title": "福島県二本松市：文化財一覧「小浜長折の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "1972-12-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_218865960c684c99",
+      "official_name": "小浜長折の三匹獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "二本松市下長折字大柱"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市下長折字大柱"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-218865960c684c99"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_29114e48e2b21609": {
+    "title": "沼田・大坂の湯立神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "静岡県御殿場市沼田区、大坂区"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2022-03-13",
+        "source_title": "国指定文化財等データベース「沼田・大坂の湯立神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001054"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_29114e48e2b21609",
+      "official_name": "沼田・大坂の湯立神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "静岡県御殿場市沼田区、大坂区"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-29114e48e2b21609"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4764a499146144a8": {
+    "title": "南大塚の餅つき踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11201",
+        "municipality_name": "川越市",
+        "geographic_scope": "川越市南大塚"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1959-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4764a499146144a8",
+      "official_name": "南大塚の餅つき踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11201",
+          "municipality_name": "川越市",
+          "geographic_scope": "川越市南大塚"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4764a499146144a8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ccf4e22c8cfbd693": {
+    "title": "西金砂神社田楽舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8212",
+        "municipality_name": "常陸太田市",
+        "geographic_scope": "常陸太田市上宮河内町1915"
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1960-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ccf4e22c8cfbd693",
+      "official_name": "西金砂神社田楽舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8212",
+          "municipality_name": "常陸太田市",
+          "geographic_scope": "常陸太田市上宮河内町1915"
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ccf4e22c8cfbd693"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_cd641a2ece3c7444": {
+    "title": "野田町の山田楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46208",
+        "municipality_name": "出水市",
+        "geographic_scope": "出水市野田町上名青木"
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1963-06-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_cd641a2ece3c7444",
+      "official_name": "野田町の山田楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46208",
+          "municipality_name": "出水市",
+          "geographic_scope": "出水市野田町上名青木"
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-cd641a2ece3c7444"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f3a503b91f1832ea": {
+    "title": "宝満神社奉納能楽（面、衣装を含む）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": "40229",
+        "municipality_name": "みやま市",
+        "geographic_scope": "みやま市"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福岡県",
+        "date": "1976-04-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f3a503b91f1832ea",
+      "official_name": "宝満神社奉納能楽（面、衣装を含む）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": "40229",
+          "municipality_name": "みやま市",
+          "geographic_scope": "みやま市"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f3a503b91f1832ea"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f5bf26e9fbe83f7e": {
+    "title": "上大貫の城鍬舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "09",
+        "prefecture_name": "栃木県",
+        "municipality_code": "9213",
+        "municipality_name": "那須塩原市",
+        "geographic_scope": "那須塩原市上大貫"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "栃木県",
+        "date": "1985-01-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f5bf26e9fbe83f7e",
+      "official_name": "上大貫の城鍬舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "09",
+          "prefecture_name": "栃木県",
+          "municipality_code": "9213",
+          "municipality_name": "那須塩原市",
+          "geographic_scope": "那須塩原市上大貫"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f5bf26e9fbe83f7e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f7d0406f8dd56910": {
+    "title": "諌鼓踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": "35215",
+        "municipality_name": "周南市",
+        "geographic_scope": "周南市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山口県",
+        "date": "1976-03-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f7d0406f8dd56910",
+      "official_name": "諌鼓踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": "35215",
+          "municipality_name": "周南市",
+          "geographic_scope": "周南市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f7d0406f8dd56910"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

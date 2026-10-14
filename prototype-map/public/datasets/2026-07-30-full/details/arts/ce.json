@@ -1,0 +1,418 @@
+{
+  "arts/art_kuni_00b9938598474738": {
+    "title": "六斎念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-01-31",
+        "source_title": "国指定文化財等データベース「六斎念仏」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/420"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_00b9938598474738",
+      "official_name": "六斎念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-00b9938598474738"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_08bd160e273e416f": {
+    "title": "下長磯の式三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "10",
+        "prefecture_name": "群馬県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1970-06-08",
+        "source_title": "国指定文化財等データベース「下長磯の式三番」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/267"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_08bd160e273e416f",
+      "official_name": "下長磯の式三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "10",
+          "prefecture_name": "群馬県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-08bd160e273e416f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_8e97529c86d73044": {
+    "title": "早池峰神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1976-05-04",
+        "source_title": "国指定文化財等データベース「早池峰神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/7"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「早池峰神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/191"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_8e97529c86d73044",
+      "official_name": "早池峰神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-8e97529c86d73044"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c2db59f15540859d": {
+    "title": "蛭ヶ谷の田遊び",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2012-03-08",
+        "source_title": "国指定文化財等データベース「蛭ヶ谷の田遊び」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000901"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2006-03-15",
+        "source_title": "国指定文化財等データベース「蛭ヶ谷の田遊び」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000835"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c2db59f15540859d",
+      "official_name": "蛭ヶ谷の田遊び",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c2db59f15540859d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_d2eeef9def8af413": {
+    "title": "大矢田のヒンココ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1999-12-03",
+        "source_title": "国指定文化財等データベース「大矢田のヒンココ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/710"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_d2eeef9def8af413",
+      "official_name": "大矢田のヒンココ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-d2eeef9def8af413"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_64a22a7fc7f8777e": {
+    "title": "松原神社秋季例祭風流",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28201",
+        "municipality_name": "姫路市",
+        "geographic_scope": "姫路市白浜町甲396"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "2006-03-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_64a22a7fc7f8777e",
+      "official_name": "松原神社秋季例祭風流",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28201",
+          "municipality_name": "姫路市",
+          "geographic_scope": "姫路市白浜町甲396"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-64a22a7fc7f8777e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_8c4e9015d2956c97": {
+    "title": "木幡の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市木幡字山本114番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1981-07-21",
+        "source_title": "福島県二本松市：文化財一覧「木幡の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_8c4e9015d2956c97",
+      "official_name": "木幡の三匹獅子舞",
+      "reading": "コハタノサンビキシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市木幡字山本114番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-8c4e9015d2956c97"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a843352a02e49550": {
+    "title": "銭太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "23",
+        "prefecture_name": "愛知県",
+        "municipality_code": "23211",
+        "municipality_name": "豊田市",
+        "geographic_scope": "豊田市"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛知県",
+        "date": "1957-01-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a843352a02e49550",
+      "official_name": "銭太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "23",
+          "prefecture_name": "愛知県",
+          "municipality_code": "23211",
+          "municipality_name": "豊田市",
+          "geographic_scope": "豊田市"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a843352a02e49550"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

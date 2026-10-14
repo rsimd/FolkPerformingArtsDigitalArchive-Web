@@ -1,0 +1,358 @@
+{
+  "arts/art_kuni_c43889e8b2275bf2": {
+    "title": "小國神社の田遊び",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_ritual"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2007-03-07",
+        "source_title": "国指定文化財等データベース「小國神社の田遊び」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000832"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c43889e8b2275bf2",
+      "official_name": "小國神社の田遊び",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_ritual"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c43889e8b2275bf2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_0bb7e6a0e7bc387f": {
+    "title": "大塚ばやし",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12219",
+        "municipality_name": "原市",
+        "geographic_scope": "市原市海保"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1970-01-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_0bb7e6a0e7bc387f",
+      "official_name": "大塚ばやし",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12219",
+          "municipality_name": "原市",
+          "geographic_scope": "市原市海保"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-0bb7e6a0e7bc387f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_23b6f9a4987d19b7": {
+    "title": "門前春駒",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "10",
+        "prefecture_name": "群馬県",
+        "municipality_code": "10444",
+        "municipality_name": "川場村",
+        "geographic_scope": "川場村大字門前"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "群馬県",
+        "date": "2000-03-21",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_23b6f9a4987d19b7",
+      "official_name": "門前春駒",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "10",
+          "prefecture_name": "群馬県",
+          "municipality_code": "10444",
+          "municipality_name": "川場村",
+          "geographic_scope": "川場村大字門前"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-23b6f9a4987d19b7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_296d0c5231168055": {
+    "title": "俵津文楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38214",
+        "municipality_name": "西予市",
+        "geographic_scope": "西予市明浜町俵津"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_296d0c5231168055",
+      "official_name": "俵津文楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38214",
+          "municipality_name": "西予市",
+          "geographic_scope": "西予市明浜町俵津"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-296d0c5231168055"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_77b475a36d833af2": {
+    "title": "相撲甚句",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18202",
+        "municipality_name": "敦賀市",
+        "geographic_scope": "敦賀市阿曽"
+      }
+    ],
+    "archive_genre_ids": [
+      "folk_song"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "1965-05-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_77b475a36d833af2",
+      "official_name": "相撲甚句",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18202",
+          "municipality_name": "敦賀市",
+          "geographic_scope": "敦賀市阿曽"
+        }
+      ],
+      "archive_genre_ids": [
+        "folk_song"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-77b475a36d833af2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_794db52891d49b32": {
+    "title": "椎出の鬼舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30343",
+        "municipality_name": "九度山町",
+        "geographic_scope": "九度山町椎出"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1964-05-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_794db52891d49b32",
+      "official_name": "椎出の鬼舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30343",
+          "municipality_name": "九度山町",
+          "geographic_scope": "九度山町椎出"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-794db52891d49b32"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_fb3f8280d9a5bc58": {
+    "title": "東金砂神社田楽舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8212",
+        "municipality_name": "常陸太田市",
+        "geographic_scope": "常陸太田市天下野町9740"
+      }
+    ],
+    "archive_genre_ids": [
+      "dengaku_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1960-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_fb3f8280d9a5bc58",
+      "official_name": "東金砂神社田楽舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8212",
+          "municipality_name": "常陸太田市",
+          "geographic_scope": "常陸太田市天下野町9740"
+        }
+      ],
+      "archive_genre_ids": [
+        "dengaku_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-fb3f8280d9a5bc58"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

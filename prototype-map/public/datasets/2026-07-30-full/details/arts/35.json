@@ -1,0 +1,524 @@
+{
+  "arts/art_kuni_1b883c1a8b239a32": {
+    "title": "八女の灯籠人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "40",
+        "prefecture_name": "福岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「八女の灯籠人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/528"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1b883c1a8b239a32",
+      "official_name": "八女の灯籠人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "40",
+          "prefecture_name": "福岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1b883c1a8b239a32"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_22543095c3187dc9": {
+    "title": "西表島の節祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1991-02-21",
+        "source_title": "国指定文化財等データベース「西表島の節祭」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/161"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_22543095c3187dc9",
+      "official_name": "西表島の節祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-22543095c3187dc9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_38361ac6a5c6f4e1": {
+    "title": "川野車人形",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "13",
+        "prefecture_name": "東京都",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2023-03-22",
+        "source_title": "国指定文化財等データベース「川野車人形」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00001056"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_38361ac6a5c6f4e1",
+      "official_name": "川野車人形",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "13",
+          "prefecture_name": "東京都",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-38361ac6a5c6f4e1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_654b22d57357c7eb": {
+    "title": "花園の御田舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1981-01-21",
+        "source_title": "国指定文化財等データベース「花園の御田舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/111"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-11-11",
+        "source_title": "国指定文化財等データベース「花園の御田舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/446"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_654b22d57357c7eb",
+      "official_name": "花園の御田舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-654b22d57357c7eb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_89e8ceb01d8801b8": {
+    "title": "倉沢人形歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "岩手県花巻市"
+      },
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": "3205",
+        "municipality_name": "花巻市",
+        "geographic_scope": "花巻市東和町倉沢4区"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "2019-03-28",
+        "source_title": "国指定文化財等データベース「倉沢人形歌舞伎」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/00000995"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岩手県",
+        "date": "1995-09-01",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_89e8ceb01d8801b8",
+      "official_name": "倉沢人形歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "岩手県花巻市"
+        },
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": "3205",
+          "municipality_name": "花巻市",
+          "geographic_scope": "花巻市東和町倉沢4区"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-89e8ceb01d8801b8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9c58f0c419d85110": {
+    "title": "大瀬の太鼓踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30206",
+        "municipality_name": "田辺市",
+        "geographic_scope": "田辺市本宮町大瀬"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1978-12-08",
+        "source_title": "国指定文化財等データベース「大瀬の太鼓踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/451"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "1965-09-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9c58f0c419d85110",
+      "official_name": "大瀬の太鼓踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30206",
+          "municipality_name": "田辺市",
+          "geographic_scope": "田辺市本宮町大瀬"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9c58f0c419d85110"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3111366badd1503d": {
+    "title": "大蔵谷の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "282031",
+        "municipality_name": "明石市",
+        "geographic_scope": "兵庫県明石市大蔵本町6-10"
+      },
+      {
+        "prefecture_code": "28",
+        "prefecture_name": "兵庫県",
+        "municipality_code": "28203",
+        "municipality_name": "明石市",
+        "geographic_scope": "明石市大蔵本町6-10"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1979-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      },
+      {
+        "type": "県指定文化財（種類:無形民俗）",
+        "jurisdiction": "prefectural",
+        "authority": "兵庫県",
+        "date": "1979-03-20",
+        "source_title": "兵庫県明石市：文化財一覧「大蔵谷の獅子舞」",
+        "source_url": "https://www.city.akashi.lg.jp/soumu/j_kanri_ka/shise/opendata/index.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3111366badd1503d",
+      "official_name": "大蔵谷の獅子舞",
+      "reading": "オオクラダニノシシマイ文化財分類:県指定文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "282031",
+          "municipality_name": "明石市",
+          "geographic_scope": "兵庫県明石市大蔵本町6-10"
+        },
+        {
+          "prefecture_code": "28",
+          "prefecture_name": "兵庫県",
+          "municipality_code": "28203",
+          "municipality_name": "明石市",
+          "geographic_scope": "明石市大蔵本町6-10"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3111366badd1503d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a9f784e728c29bd4": {
+    "title": "谷汲踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21401",
+        "municipality_name": "揖斐川町",
+        "geographic_scope": "揖斐川町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1955-08-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a9f784e728c29bd4",
+      "official_name": "谷汲踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21401",
+          "municipality_name": "揖斐川町",
+          "geographic_scope": "揖斐川町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a9f784e728c29bd4"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_ea9c7ef66e5a2d89": {
+    "title": "川瀬歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": "38386",
+        "municipality_name": "久万高原町",
+        "geographic_scope": "久万高原町直瀬"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "愛媛県",
+        "date": "2000-04-18",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_ea9c7ef66e5a2d89",
+      "official_name": "川瀬歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": "38386",
+          "municipality_name": "久万高原町",
+          "geographic_scope": "久万高原町直瀬"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-ea9c7ef66e5a2d89"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}
