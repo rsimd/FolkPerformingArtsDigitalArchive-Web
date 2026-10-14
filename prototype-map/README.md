@@ -44,3 +44,14 @@ node scripts/validate_map_prototype_dataset.mjs
 芸能暦は内部参照としてのみ扱い、出張計画や現地調査の内部情報を公開用データへ取り込みません。
 
 公開用データの内容はソフトウェアのMIT Licenseとは区別します。詳細はルートのREADMEとLICENSEを参照してください。
+
+## ブラウザ回帰テスト
+
+本番ビルド後に、検索・シリーズ遷移・遅延応答時の詳細表示を検証します。
+テスト中は背景タイルとフォント配信を置き換え、外部地図配信の状態に依存せずアーカイブの動作を確認します。
+
+```bash
+pnpm build
+pnpm exec playwright install chromium
+pnpm exec playwright test
+```

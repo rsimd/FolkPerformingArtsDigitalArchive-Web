@@ -28,3 +28,7 @@ prototype-map/vite.config.d.ts
 
 # Local code-navigation metadata
 .serena/
+
+# Browser test output
+prototype-map/test-results/
+prototype-map/playwright-report/

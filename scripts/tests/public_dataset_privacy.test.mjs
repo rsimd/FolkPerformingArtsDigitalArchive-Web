@@ -10,7 +10,7 @@ test("public provenance and source fields remain available", () => {
 });
 
 test("private calendar and fieldwork IDs are rejected", () => {
-  for (const id of ["events/calendar_123", "events/fieldwork_123"]) {
+  for (const id of ["events/calendar_123", "events/fieldwork_123", "organizations/fieldwork_123"]) {
     assert.throws(() => assertPublicDetail(id, {}), /private reference detail/);
   }
 });
@@ -26,5 +26,13 @@ test("internal workbook provenance is rejected within nested source fields", () 
     assert.throws(() => assertPublicDetail("events/video_public", {
       source_fields: { 原資料: { ファイル: workbook } },
     }), /internal source workbook/);
+  }
+});
+
+test("private records and IDs nested under a public series are rejected", () => {
+  for (const child of [{ record_type: "fieldwork_interview" }, { entity_id: "fieldwork_123" }]) {
+    assert.throws(() => assertPublicDetail("events/series_public", {
+      record_type: "event_series", children: [{ occurrences: [child] }],
+    }), /private reference detail/);
   }
 });
