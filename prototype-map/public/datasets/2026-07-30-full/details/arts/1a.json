@@ -1,0 +1,206 @@
+{
+  "arts/art_kuni_718e8e90ac1dc0ea": {
+    "title": "和合の念仏踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「和合の念仏踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/345"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_718e8e90ac1dc0ea",
+      "official_name": "和合の念仏踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-718e8e90ac1dc0ea"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_49554cc2b6377612": {
+    "title": "宮浦の棒踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "43",
+        "prefecture_name": "熊本県",
+        "municipality_code": "43482",
+        "municipality_name": "芦北町",
+        "geographic_scope": "芦北町宮浦"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "熊本県",
+        "date": "1967-04-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_49554cc2b6377612",
+      "official_name": "宮浦の棒踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "43",
+          "prefecture_name": "熊本県",
+          "municipality_code": "43482",
+          "municipality_name": "芦北町",
+          "geographic_scope": "芦北町宮浦"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-49554cc2b6377612"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_4dbc1f6317ff3868": {
+    "title": "浦山の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11207",
+        "municipality_name": "秩父市",
+        "geographic_scope": "秩父市浦山"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1977-03-29",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_4dbc1f6317ff3868",
+      "official_name": "浦山の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11207",
+          "municipality_name": "秩父市",
+          "geographic_scope": "秩父市浦山"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-4dbc1f6317ff3868"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c813062c252673be": {
+    "title": "隠岐島前神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": "32525",
+        "municipality_name": "海士町",
+        "geographic_scope": "海士町福井"
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "島根県",
+        "date": "1961-06-13",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c813062c252673be",
+      "official_name": "隠岐島前神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": "32525",
+          "municipality_name": "海士町",
+          "geographic_scope": "海士町福井"
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c813062c252673be"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

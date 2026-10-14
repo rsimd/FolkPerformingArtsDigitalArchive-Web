@@ -1,0 +1,146 @@
+{
+  "arts/art_kuni_1845d61396bcc0c7": {
+    "title": "鹿島の祭頭祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「鹿島の祭頭祭」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/253"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_1845d61396bcc0c7",
+      "official_name": "鹿島の祭頭祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-1845d61396bcc0c7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a52f45ee4b123ce2": {
+    "title": "大鹿歌舞伎",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": "20417",
+        "municipality_name": "大鹿村",
+        "geographic_scope": "大鹿村"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長野県",
+        "date": "1977-07-25",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a52f45ee4b123ce2",
+      "official_name": "大鹿歌舞伎",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": "20417",
+          "municipality_name": "大鹿村",
+          "geographic_scope": "大鹿村"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a52f45ee4b123ce2"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a76b504a49a00fb7": {
+    "title": "奥窪谷の六斎念仏",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "18",
+        "prefecture_name": "福井県",
+        "municipality_code": "18204",
+        "municipality_name": "小浜市",
+        "geographic_scope": "小浜市西相生"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福井県",
+        "date": "2004-04-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a76b504a49a00fb7",
+      "official_name": "奥窪谷の六斎念仏",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "18",
+          "prefecture_name": "福井県",
+          "municipality_code": "18204",
+          "municipality_name": "小浜市",
+          "geographic_scope": "小浜市西相生"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a76b504a49a00fb7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

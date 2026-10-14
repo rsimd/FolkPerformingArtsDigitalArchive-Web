@@ -1,0 +1,351 @@
+{
+  "organizations/channel_UCNWyo1o2iImFuj4btwMbv9g": {
+    "title": "向峠神楽保存会Official",
+    "organization_type": "保存団体",
+    "prefecture": null,
+    "region": "不明",
+    "channel_url": "https://www.youtube.com/channel/UCNWyo1o2iImFuj4btwMbv9g",
+    "location_evidence_type": "unknown",
+    "location_confidence": 0,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "神楽"
+    ],
+    "dedicated_channel": "専用",
+    "source_urls": [],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCNWyo1o2iImFuj4btwMbv9g",
+      "チャンネル名": "向峠神楽保存会Official",
+      "チャンネルURL": "https://www.youtube.com/channel/UCNWyo1o2iImFuj4btwMbv9g",
+      "運営主体": "保存団体",
+      "地方": "不明",
+      "都道府県": null,
+      "所在地根拠種別": "unknown",
+      "所在地確度": 0,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 66,
+      "根拠動画数": 0,
+      "検出芸能語": "神楽",
+      "代表根拠動画": "既存調査",
+      "代表根拠URL": null,
+      "登録者数": 176,
+      "公開動画数": 37,
+      "専用チャンネル": "専用",
+      "既存調査継承": "既存",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCUY22wZDhE6MM4E9F7139nQ": {
+    "title": "KRY山口放送ニュース公式チャンネル",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "山口県",
+    "region": "中国",
+    "channel_url": "https://www.youtube.com/channel/UCUY22wZDhE6MM4E9F7139nQ",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "無形民俗文化財",
+      "神楽",
+      "伝統芸能"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=rxQfzv9y3Rc"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCUY22wZDhE6MM4E9F7139nQ",
+      "チャンネル名": "KRY山口放送ニュース公式チャンネル",
+      "チャンネルURL": "https://www.youtube.com/channel/UCUY22wZDhE6MM4E9F7139nQ",
+      "運営主体": "報道・地域メディア",
+      "地方": "中国",
+      "都道府県": "山口県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 43,
+      "根拠動画数": 4,
+      "検出芸能語": "無形民俗文化財 | 神楽 | 伝統芸能",
+      "代表根拠動画": "【神楽甲子園へ】高校生が受け継ぐ伝統「山代神楽」 本番直前リハーサル！観客を魅了する「三鬼」に挑む（山口・岩国市）",
+      "代表根拠URL": "https://www.youtube.com/watch?v=rxQfzv9y3Rc",
+      "登録者数": 36900,
+      "公開動画数": 2276,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCybY_ZjH_a-4usCH9ovV-Mw": {
+    "title": "ブンカDEゲンキ あきた文化情報サイト",
+    "organization_type": "自治体・公共文化機関",
+    "prefecture": "秋田県",
+    "region": "東北",
+    "channel_url": "https://www.youtube.com/channel/UCybY_ZjH_a-4usCH9ovV-Mw",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "無形民俗文化財",
+      "番楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=BpBmY0pQY9I"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCybY_ZjH_a-4usCH9ovV-Mw",
+      "チャンネル名": "ブンカDEゲンキ あきた文化情報サイト",
+      "チャンネルURL": "https://www.youtube.com/channel/UCybY_ZjH_a-4usCH9ovV-Mw",
+      "運営主体": "自治体・公共文化機関",
+      "地方": "東北",
+      "都道府県": "秋田県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 29,
+      "根拠動画数": 2,
+      "検出芸能語": "無形民俗文化財 | 番楽",
+      "代表根拠動画": "根子番楽",
+      "代表根拠URL": "https://www.youtube.com/watch?v=BpBmY0pQY9I",
+      "登録者数": 2480,
+      "公開動画数": 329,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UC6_was4Te0fzTN-hh5mWgOQ": {
+    "title": "KM A",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "岡山県",
+    "region": "中国",
+    "channel_url": "https://www.youtube.com/channel/UC6_was4Te0fzTN-hh5mWgOQ",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "民俗芸能",
+      "無形民俗文化財",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=Gl4MmCDrWpE"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UC6_was4Te0fzTN-hh5mWgOQ",
+      "チャンネル名": "KM A",
+      "チャンネルURL": "https://www.youtube.com/channel/UC6_was4Te0fzTN-hh5mWgOQ",
+      "運営主体": "個人・地域記録者等",
+      "地方": "中国",
+      "都道府県": "岡山県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 20,
+      "根拠動画数": 1,
+      "検出芸能語": "民俗芸能 | 無形民俗文化財 | 神楽",
+      "代表根拠動画": "浅口市指定無形民俗文化財「吉備神楽」（岡山県浅口市金光町佐方地区）",
+      "代表根拠URL": "https://www.youtube.com/watch?v=Gl4MmCDrWpE",
+      "登録者数": 2,
+      "公開動画数": 1,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_1e9fe262a502": {
+    "title": "岩手県立葛巻高等学校郷土芸能部",
+    "aliases": [
+      "葛巻高校郷土芸能部"
+    ],
+    "organization_type": "学校部活動",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://kuz-hs.note.jp/n/nb222cf99190b",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.92,
+    "representative_video_ids": [
+      "MJfTka6XfJ8",
+      "Nsj37rre5xw",
+      "NbWZRZpOjJU"
+    ],
+    "source_urls": [
+      "https://kuz-hs.note.jp/n/nb222cf99190b",
+      "https://geinoumatsuri.com/download/6115/?tmstv=1752885574",
+      "https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf",
+      "https://www.youtube.com/watch?v=MJfTka6XfJ8",
+      "https://www.youtube.com/watch?v=Nsj37rre5xw",
+      "https://www.youtube.com/watch?v=NbWZRZpOjJU"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_1e9fe262a502",
+      "団体名": "岩手県立葛巻高等学校郷土芸能部",
+      "別名": "葛巻高校郷土芸能部",
+      "登場区分": "出演団体",
+      "団体種別": "学校部活動",
+      "登場チャンネル": "北上・みちのく芸能まつり公式",
+      "動画数": 3,
+      "代表video_id": "MJfTka6XfJ8 / Nsj37rre5xw / NbWZRZpOjJU",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://kuz-hs.note.jp/n/nb222cf99190b",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "団体公式サイト、自治体・文化財機関の団体紹介、または主体を確認できる公式SNSで名称とURLを照合。",
+      "根拠URL": "https://kuz-hs.note.jp/n/nb222cf99190b | https://geinoumatsuri.com/download/6115/?tmstv=1752885574 | https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf | https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf | https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf | https://www.youtube.com/watch?v=MJfTka6XfJ8 | https://www.youtube.com/watch?v=Nsj37rre5xw | https://www.youtube.com/watch?v=NbWZRZpOjJU",
+      "確信度": 0.92,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_8025806e64fb": {
+    "title": "中城村津覇伝統保存会",
+    "aliases": [
+      "津覇伝統芸能保存会"
+    ],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.nakagusuku-jo.jp/599.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "PifdrobDE8k",
+      "15HS9T3Kx5s"
+    ],
+    "source_urls": [
+      "https://www.nakagusuku-jo.jp/599.html",
+      "https://www.okinawatimes.co.jp/articles/-/1718251",
+      "https://www.youtube.com/watch?v=PifdrobDE8k",
+      "https://www.youtube.com/watch?v=15HS9T3Kx5s"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_8025806e64fb",
+      "団体名": "中城村津覇伝統保存会",
+      "別名": "津覇伝統芸能保存会",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "098エイサーチャンネル　098EISA-Channel",
+      "動画数": 2,
+      "代表video_id": "PifdrobDE8k / 15HS9T3Kx5s",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.nakagusuku-jo.jp/599.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "中城城跡の公式イベントページに「津覇伝統芸能保存会」と記載されている。: https://www.nakagusuku-jo.jp/599.html | 沖縄タイムスの記事に津覇伝統芸能保存会の活動が掲載されている。: https://www.okinawatimes.co.jp/articles/-/1718251 | youtube_structured_video: 出演団体として「中城村津覇伝統保存会」を抽出 (PifdrobDE8k) | youtube_structured_video: 保存団体として「中城村津覇伝統保存会」を抽出 (PifdrobDE8k) | youtube_structured_video: 出演団体として「中城村津覇伝統保存会」を抽出 (15HS9T3Kx5s) | youtube_structured_video: 保存団体として「中城村津覇伝統保存会」を抽出 (15HS9T3Kx5s)",
+      "根拠URL": "https://www.nakagusuku-jo.jp/599.html | https://www.okinawatimes.co.jp/articles/-/1718251 | https://www.youtube.com/watch?v=PifdrobDE8k | https://www.youtube.com/watch?v=15HS9T3Kx5s",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_658ba8c4c1cb": {
+    "title": "成沢屋台囃子保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.pref.saitama.lg.jp/wabunka/kyodogeino/hokubu/narisawa-yataibayashi.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "iM0KLvsihLM"
+    ],
+    "source_urls": [
+      "https://www.pref.saitama.lg.jp/wabunka/kyodogeino/hokubu/narisawa-yataibayashi.html",
+      "https://www.youtube.com/watch?v=iM0KLvsihLM"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_658ba8c4c1cb",
+      "団体名": "成沢屋台囃子保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "熊谷市立江南文化財センター konancpc",
+      "動画数": 1,
+      "代表video_id": "iM0KLvsihLM",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.pref.saitama.lg.jp/wabunka/kyodogeino/hokubu/narisawa-yataibayashi.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "YouTube動画のタイトルまたは説明欄から、対応候補となる出演団体・保存団体名が抽出されている。: https://www.youtube.com/watch?v=iM0KLvsihLM | 埼玉県公式伝統文化ページが成沢屋台囃子保存会と祭礼を掲載している。: https://www.pref.saitama.lg.jp/wabunka/kyodogeino/hokubu/narisawa-yataibayashi.html | youtube_structured_video: 出演団体として「成沢屋台囃子保存会」を抽出 (iM0KLvsihLM) | youtube_structured_video: 保存団体として「成沢屋台囃子保存会」を抽出 (iM0KLvsihLM)",
+      "根拠URL": "https://www.pref.saitama.lg.jp/wabunka/kyodogeino/hokubu/narisawa-yataibayashi.html | https://www.youtube.com/watch?v=iM0KLvsihLM",
+      "確信度": 0.99,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_02dab86c46ed": {
+    "title": "上柳しし踊り",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": "岩手県",
+    "municipality": "遠野市 | 花巻市",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.78,
+    "representative_video_ids": [
+      "3yUWnEKEpAg",
+      "ur93Lzj30qk",
+      "bgYKNxr5rgA"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=3yUWnEKEpAg",
+      "https://www.youtube.com/watch?v=ur93Lzj30qk",
+      "https://www.youtube.com/watch?v=bgYKNxr5rgA"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_02dab86c46ed",
+      "団体名": "上柳しし踊り",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 3,
+      "代表video_id": "3yUWnEKEpAg / ur93Lzj30qk / bgYKNxr5rgA",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「上柳しし踊り」",
+      "根拠URL": "https://www.youtube.com/watch?v=3yUWnEKEpAg | https://www.youtube.com/watch?v=ur93Lzj30qk | https://www.youtube.com/watch?v=bgYKNxr5rgA",
+      "確信度": 0.78,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

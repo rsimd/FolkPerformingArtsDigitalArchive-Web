@@ -1,0 +1,254 @@
+{
+  "arts/art_kuni_154f689fa7477e8a": {
+    "title": "窪野の八つ鹿踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "38",
+        "prefecture_name": "愛媛県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "deer_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「窪野の八つ鹿踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/511"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_154f689fa7477e8a",
+      "official_name": "窪野の八つ鹿踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "38",
+          "prefecture_name": "愛媛県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "deer_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-154f689fa7477e8a"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6771096e8baa526b": {
+    "title": "波照間島のムシャーマ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "47",
+        "prefecture_name": "沖縄県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1993-11-26",
+        "source_title": "国指定文化財等データベース「波照間島のムシャーマ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/616"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6771096e8baa526b",
+      "official_name": "波照間島のムシャーマ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "47",
+          "prefecture_name": "沖縄県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6771096e8baa526b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_aad89735d6d56c1f": {
+    "title": "郡上踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1996-12-20",
+        "source_title": "国指定文化財等データベース「郡上踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/633"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_aad89735d6d56c1f",
+      "official_name": "郡上踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-aad89735d6d56c1f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_404d844dd24ac910": {
+    "title": "芋沢の田植踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "04",
+        "prefecture_name": "宮城県",
+        "municipality_code": "04101",
+        "municipality_name": "仙台市",
+        "geographic_scope": "仙台市青葉区芋沢"
+      }
+    ],
+    "archive_genre_ids": [
+      "rice_planting_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "宮城県",
+        "date": "1960-04-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_404d844dd24ac910",
+      "official_name": "芋沢の田植踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "04",
+          "prefecture_name": "宮城県",
+          "municipality_code": "04101",
+          "municipality_name": "仙台市",
+          "geographic_scope": "仙台市青葉区芋沢"
+        }
+      ],
+      "archive_genre_ids": [
+        "rice_planting_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-404d844dd24ac910"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_decd94f153738375": {
+    "title": "三和祇園ばやし",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "08",
+        "prefecture_name": "茨城県",
+        "municipality_code": "8204",
+        "municipality_name": "古河市",
+        "geographic_scope": "古河市（旧三和町域）"
+      }
+    ],
+    "archive_genre_ids": [
+      "festival_music"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "茨城県",
+        "date": "1978-01-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_decd94f153738375",
+      "official_name": "三和祇園ばやし",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "08",
+          "prefecture_name": "茨城県",
+          "municipality_code": "8204",
+          "municipality_name": "古河市",
+          "geographic_scope": "古河市（旧三和町域）"
+        }
+      ],
+      "archive_genre_ids": [
+        "festival_music"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-decd94f153738375"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

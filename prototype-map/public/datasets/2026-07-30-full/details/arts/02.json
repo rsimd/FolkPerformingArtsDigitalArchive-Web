@@ -1,0 +1,298 @@
+{
+  "arts/art_kuni_a4e188a92ab5dfdb": {
+    "title": "大土地神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "32",
+        "prefecture_name": "島根県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2005-02-21",
+        "source_title": "国指定文化財等データベース「大土地神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000781"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a4e188a92ab5dfdb",
+      "official_name": "大土地神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "32",
+          "prefecture_name": "島根県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a4e188a92ab5dfdb"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a576b1f8bff3550b": {
+    "title": "八代の花笠踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "35",
+        "prefecture_name": "山口県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1971-04-21",
+        "source_title": "国指定文化財等データベース「八代の花笠踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/493"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a576b1f8bff3550b",
+      "official_name": "八代の花笠踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "35",
+          "prefecture_name": "山口県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a576b1f8bff3550b"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_b44e0814d8885830": {
+    "title": "琉球舞踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2009-09-02",
+        "source_title": "国指定文化財等データベース「琉球舞踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/00000308"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_b44e0814d8885830",
+      "official_name": "琉球舞踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-b44e0814d8885830"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_e4bf26eff138a881": {
+    "title": "地歌",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2009-09-02",
+        "source_title": "国指定文化財等データベース「地歌」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/303/00000300"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_e4bf26eff138a881",
+      "official_name": "地歌",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-e4bf26eff138a881"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f86d3a69f5560215": {
+    "title": "津野山神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "39",
+        "prefecture_name": "高知県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「津野山神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/521"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f86d3a69f5560215",
+      "official_name": "津野山神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "39",
+          "prefecture_name": "高知県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f86d3a69f5560215"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_24f6f72ed30a9720": {
+    "title": "深田神社春祭に伴う芸能（田打）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": "46219",
+        "municipality_name": "いちき串木野市",
+        "geographic_scope": "いちき串木野市下名20967"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "鹿児島県",
+        "date": "1962-10-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_24f6f72ed30a9720",
+      "official_name": "深田神社春祭に伴う芸能（田打）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": "46219",
+          "municipality_name": "いちき串木野市",
+          "geographic_scope": "いちき串木野市下名20967"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-24f6f72ed30a9720"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

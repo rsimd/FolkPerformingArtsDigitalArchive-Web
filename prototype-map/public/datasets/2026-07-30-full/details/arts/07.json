@@ -1,0 +1,528 @@
+{
+  "arts/art_kuni_77e8adfcbfd99194": {
+    "title": "新内節",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": null,
+        "prefecture_name": null,
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-30",
+        "source_title": "国指定文化財等データベース「新内節」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/163"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-30",
+        "source_title": "国指定文化財等データベース「新内節」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/164"
+      },
+      {
+        "type": "記録作成等の措置を講ずべき無形文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1957-03-30",
+        "source_title": "国指定文化財等データベース「新内節」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/313/165"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_77e8adfcbfd99194",
+      "official_name": "新内節",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": null,
+          "prefecture_name": null,
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-77e8adfcbfd99194"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_a5d4123240e63956": {
+    "title": "古実式三番",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「古実式三番」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/195"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_a5d4123240e63956",
+      "official_name": "古実式三番",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-a5d4123240e63956"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_1c44362ff596d92c": {
+    "title": "寒水の掛踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": "21219",
+        "municipality_name": "郡上市",
+        "geographic_scope": "郡上市明宝寒水"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "岐阜県",
+        "date": "1962-10-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_1c44362ff596d92c",
+      "official_name": "寒水の掛踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": "21219",
+          "municipality_name": "郡上市",
+          "geographic_scope": "郡上市明宝寒水"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-1c44362ff596d92c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_3aabf9ffc66febc7": {
+    "title": "佐渡の大神楽舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": "15224",
+        "municipality_name": "佐渡市",
+        "geographic_scope": "佐渡市羽茂村山"
+      },
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": "15224",
+        "municipality_name": "佐渡市",
+        "geographic_scope": "佐渡市小木"
+      },
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": "15224",
+        "municipality_name": "佐渡市",
+        "geographic_scope": "佐渡市宿根木"
+      },
+      {
+        "prefecture_code": "15",
+        "prefecture_name": "新潟県",
+        "municipality_code": "15224",
+        "municipality_name": "佐渡市",
+        "geographic_scope": "佐渡市羽茂本郷"
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku",
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "新潟県",
+        "date": "1977-03-31",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_3aabf9ffc66febc7",
+      "official_name": "佐渡の大神楽舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": "15224",
+          "municipality_name": "佐渡市",
+          "geographic_scope": "佐渡市羽茂村山"
+        },
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": "15224",
+          "municipality_name": "佐渡市",
+          "geographic_scope": "佐渡市小木"
+        },
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": "15224",
+          "municipality_name": "佐渡市",
+          "geographic_scope": "佐渡市宿根木"
+        },
+        {
+          "prefecture_code": "15",
+          "prefecture_name": "新潟県",
+          "municipality_code": "15224",
+          "municipality_name": "佐渡市",
+          "geographic_scope": "佐渡市羽茂本郷"
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku",
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-3aabf9ffc66febc7"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_6b7a61aab1c5b814": {
+    "title": "冬師番楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "にかほ市冬師"
+      },
+      {
+        "prefecture_code": "05",
+        "prefecture_name": "秋田県",
+        "municipality_code": "5214",
+        "municipality_name": "にかほ市",
+        "geographic_scope": "秋田県にかほ市冬師字冬師130"
+      }
+    ],
+    "archive_genre_ids": [
+      "yamabushi_kagura"
+    ],
+    "designations": [
+      {
+        "type": "秋田県指定無形民俗文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": null,
+        "source_title": "秋田県にかほ市：文化財一覧「冬師番楽」",
+        "source_url": "https://www.city.nikaho.akita.jp/administration/detail.html?id=3190"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "秋田県",
+        "date": "1964-11-17",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_6b7a61aab1c5b814",
+      "official_name": "冬師番楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "にかほ市冬師"
+        },
+        {
+          "prefecture_code": "05",
+          "prefecture_name": "秋田県",
+          "municipality_code": "5214",
+          "municipality_name": "にかほ市",
+          "geographic_scope": "秋田県にかほ市冬師字冬師130"
+        }
+      ],
+      "archive_genre_ids": [
+        "yamabushi_kagura"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-6b7a61aab1c5b814"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_74769526f04db18d": {
+    "title": "円座の羯鼓踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "24",
+        "prefecture_name": "三重県",
+        "municipality_code": "24203",
+        "municipality_name": "伊勢市",
+        "geographic_scope": "伊勢市円座町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "三重県",
+        "date": "1964-10-16",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_74769526f04db18d",
+      "official_name": "円座の羯鼓踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "24",
+          "prefecture_name": "三重県",
+          "municipality_code": "24203",
+          "municipality_name": "伊勢市",
+          "geographic_scope": "伊勢市円座町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-74769526f04db18d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c034c6c6fe2cc92d": {
+    "title": "妻良のぼんおどり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": "22304",
+        "municipality_name": "南伊豆町",
+        "geographic_scope": "南伊豆町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "静岡県",
+        "date": "1971-03-19",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c034c6c6fe2cc92d",
+      "official_name": "妻良のぼんおどり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": "22304",
+          "municipality_name": "南伊豆町",
+          "geographic_scope": "南伊豆町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c034c6c6fe2cc92d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f1ea147a0f6b9021": {
+    "title": "伊佐沢念仏踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "06",
+        "prefecture_name": "山形県",
+        "municipality_code": "6209",
+        "municipality_name": "長井市",
+        "geographic_scope": "長井市上伊佐沢"
+      }
+    ],
+    "archive_genre_ids": [
+      "nenbutsu_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "山形県",
+        "date": "1986-08-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f1ea147a0f6b9021",
+      "official_name": "伊佐沢念仏踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "06",
+          "prefecture_name": "山形県",
+          "municipality_code": "6209",
+          "municipality_name": "長井市",
+          "geographic_scope": "長井市上伊佐沢"
+        }
+      ],
+      "archive_genre_ids": [
+        "nenbutsu_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f1ea147a0f6b9021"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_f82c7d110682486d": {
+    "title": "両岩の小浮立",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "41209",
+        "municipality_name": "嬉野市",
+        "geographic_scope": "嬉野市嬉野町大字吉田両岩"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "佐賀県",
+        "date": "1960-03-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_f82c7d110682486d",
+      "official_name": "両岩の小浮立",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "41209",
+          "municipality_name": "嬉野市",
+          "geographic_scope": "嬉野市嬉野町大字吉田両岩"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-f82c7d110682486d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

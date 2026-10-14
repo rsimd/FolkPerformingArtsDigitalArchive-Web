@@ -1,0 +1,376 @@
+{
+  "arts/art_kuni_4ba268b96dbaaf2c": {
+    "title": "久田見の糸切りからくり",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "21",
+        "prefecture_name": "岐阜県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1975-12-08",
+        "source_title": "国指定文化財等データベース「久田見の糸切りからくり」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/362"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_4ba268b96dbaaf2c",
+      "official_name": "久田見の糸切りからくり",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "21",
+          "prefecture_name": "岐阜県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-4ba268b96dbaaf2c"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_69f2194ba0536783": {
+    "title": "野母の盆踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bon_dance"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「野母の盆踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/551"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_69f2194ba0536783",
+      "official_name": "野母の盆踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bon_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-69f2194ba0536783"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_c66d17e45654fe2e": {
+    "title": "能勢の浄瑠璃",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "27",
+        "prefecture_name": "大阪府",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "27",
+        "prefecture_name": "大阪府",
+        "municipality_code": "27322",
+        "municipality_name": "能勢町",
+        "geographic_scope": "能勢町宿野"
+      }
+    ],
+    "archive_genre_ids": [
+      "puppet_theater"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1999-12-03",
+        "source_title": "国指定文化財等データベース「能勢の浄瑠璃」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/711"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "大阪府",
+        "date": "1993-11-24",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_c66d17e45654fe2e",
+      "official_name": "能勢の浄瑠璃",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "27",
+          "prefecture_name": "大阪府",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "27",
+          "prefecture_name": "大阪府",
+          "municipality_code": "27322",
+          "municipality_name": "能勢町",
+          "geographic_scope": "能勢町宿野"
+        }
+      ],
+      "archive_genre_ids": [
+        "puppet_theater"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-c66d17e45654fe2e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2fcfd8566ecd7ba0": {
+    "title": "西由岐のうちわ踊り",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "36387",
+        "municipality_name": "美波町",
+        "geographic_scope": "美波町西由岐東13"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "徳島県",
+        "date": "1999-07-23",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2fcfd8566ecd7ba0",
+      "official_name": "西由岐のうちわ踊り",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "36387",
+          "municipality_name": "美波町",
+          "geographic_scope": "美波町西由岐東13"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2fcfd8566ecd7ba0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_7ee0cfcef1c48afe": {
+    "title": "岩倉の三匹獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7210",
+        "municipality_name": "二本松市",
+        "geographic_scope": "福島県二本松市太田字岩前78番地"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "市指定文化財；無形文化財",
+        "jurisdiction": "municipal",
+        "authority": "二本松市",
+        "date": "1984-06-26",
+        "source_title": "福島県二本松市：文化財一覧「岩倉の三匹獅子舞」",
+        "source_url": "https://www.city.nihonmatsu.lg.jp/opendata.php"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_7ee0cfcef1c48afe",
+      "official_name": "岩倉の三匹獅子舞",
+      "reading": "イワクラノサンビキシシマイ文化財分類:市指定文化財；無形文化財",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7210",
+          "municipality_name": "二本松市",
+          "geographic_scope": "福島県二本松市太田字岩前78番地"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-7ee0cfcef1c48afe"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_af0e17577b3a3125": {
+    "title": "印南八幡の重箱獅子と祭",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "30",
+        "prefecture_name": "和歌山県",
+        "municipality_code": "30390",
+        "municipality_name": "印南町",
+        "geographic_scope": "印南町印南"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "和歌山県",
+        "date": "2007-06-12",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_af0e17577b3a3125",
+      "official_name": "印南八幡の重箱獅子と祭",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "30",
+          "prefecture_name": "和歌山県",
+          "municipality_code": "30390",
+          "municipality_name": "印南町",
+          "geographic_scope": "印南町印南"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-af0e17577b3a3125"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_c91ea3a676ed0f70": {
+    "title": "南川太鼓",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "37",
+        "prefecture_name": "香川県",
+        "municipality_code": "37206",
+        "municipality_name": "さぬき市",
+        "geographic_scope": "さぬき市大川町南川"
+      }
+    ],
+    "archive_genre_ids": [
+      "regional_drumming"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "香川県",
+        "date": "1967-05-30",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_c91ea3a676ed0f70",
+      "official_name": "南川太鼓",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "37",
+          "prefecture_name": "香川県",
+          "municipality_code": "37206",
+          "municipality_name": "さぬき市",
+          "geographic_scope": "さぬき市大川町南川"
+        }
+      ],
+      "archive_genre_ids": [
+        "regional_drumming"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-c91ea3a676ed0f70"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

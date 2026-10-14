@@ -1,0 +1,184 @@
+{
+  "organizations/directory_org_5c29965d1628": {
+    "title": "細越えんぶり組",
+    "aliases": [],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://sanrikuarts.com/geinoh-list/2640/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "S3BUi4gsYHk",
+      "YU3Q9BIen1o",
+      "170eIRrbcrs",
+      "g7Wcfc9HLUw",
+      "SroqfWdOteY"
+    ],
+    "source_urls": [
+      "https://sanrikuarts.com/geinoh-list/2640/",
+      "https://www.youtube.com/watch?v=S3BUi4gsYHk",
+      "https://www.youtube.com/watch?v=YU3Q9BIen1o",
+      "https://www.youtube.com/watch?v=170eIRrbcrs",
+      "https://www.youtube.com/watch?v=g7Wcfc9HLUw",
+      "https://www.youtube.com/watch?v=SroqfWdOteY"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_5c29965d1628",
+      "団体名": "細越えんぶり組",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "北の祭りと芸能 / 大浜綾子",
+      "動画数": 17,
+      "代表video_id": "S3BUi4gsYHk / YU3Q9BIen1o / 170eIRrbcrs / g7Wcfc9HLUw / SroqfWdOteY",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://sanrikuarts.com/geinoh-list/2640/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "三陸国際芸術推進委員会アーカイブに団体名、所在地、伝承演目を掲載 | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (S3BUi4gsYHk) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (S3BUi4gsYHk) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (YU3Q9BIen1o) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (YU3Q9BIen1o) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (170eIRrbcrs) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (170eIRrbcrs) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (g7Wcfc9HLUw) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (g7Wcfc9HLUw) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (SroqfWdOteY) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (SroqfWdOteY) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (HyAr73fOioE) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (HyAr73fOioE) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (C-i35NWfwTo) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (C-i35NWfwTo) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (lMOU3sRlhuQ) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (lMOU3sRlhuQ) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (3vGGtXk3hn0) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (3vGGtXk3hn0) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (Vo0pBtFB9Sk) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (Vo0pBtFB9Sk) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (ICQ2GquEDLk) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (ICQ2GquEDLk) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (ZZpZKsJVmbg) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (ZZpZKsJVmbg) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (eBFnUEIoGQI) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (eBFnUEIoGQI) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (5Oh_iMveZqs) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (5Oh_iMveZqs) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (eVCvVLXwstU) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (eVCvVLXwstU) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (W0HqjjvvFOI) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (W0HqjjvvFOI) | youtube_structured_video: 出演団体として「細越えんぶり組」を抽出 (MVcfMqp7_Qg) | youtube_structured_video: 保存団体として「細越えんぶり組」を抽出 (MVcfMqp7_Qg)",
+      "根拠URL": "https://sanrikuarts.com/geinoh-list/2640/ | https://www.youtube.com/watch?v=S3BUi4gsYHk | https://www.youtube.com/watch?v=YU3Q9BIen1o | https://www.youtube.com/watch?v=170eIRrbcrs | https://www.youtube.com/watch?v=g7Wcfc9HLUw | https://www.youtube.com/watch?v=SroqfWdOteY",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_6b851b0b84a5": {
+    "title": "海老区神楽保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.jfe-21st-cf.or.jp/report/pdf/2018houkoku.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "twrSM74q9e8"
+    ],
+    "source_urls": [
+      "https://www.jfe-21st-cf.or.jp/report/pdf/2018houkoku.pdf",
+      "https://blog.livedoor.jp/tossan5/archives/52058100.html",
+      "https://www.youtube.com/watch?v=twrSM74q9e8"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_6b851b0b84a5",
+      "団体名": "海老区神楽保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "hikoza55",
+      "動画数": 1,
+      "代表video_id": "twrSM74q9e8",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.jfe-21st-cf.or.jp/report/pdf/2018houkoku.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "JFE21世紀財団の活動報告書が、広島県尾道市浦崎町の海老区神楽保存会への助成を掲載している。: https://www.jfe-21st-cf.or.jp/report/pdf/2018houkoku.pdf | 浦崎町住吉神社の祭礼記録が海老区神楽保存会による浦崎神楽の奉納を掲載している。: https://blog.livedoor.jp/tossan5/archives/52058100.html | youtube_structured_video: 出演団体として「海老区神楽保存会」を抽出 (twrSM74q9e8) | youtube_structured_video: 保存団体として「海老区神楽保存会」を抽出 (twrSM74q9e8)",
+      "根拠URL": "https://www.jfe-21st-cf.or.jp/report/pdf/2018houkoku.pdf | https://blog.livedoor.jp/tossan5/archives/52058100.html | https://www.youtube.com/watch?v=twrSM74q9e8",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_fe866e3749ca": {
+    "title": "関根橋神楽会",
+    "aliases": [
+      "関根橋神楽"
+    ],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://shimokita-geopark.com/2022/07/25/kyodogeino2022/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "PsnnukpOYkc"
+    ],
+    "source_urls": [
+      "https://www.city.mutsu.lg.jp/government/koho/kohomutsu/files/201505.pdf",
+      "https://shimokita-geopark.com/2022/07/25/kyodogeino2022/",
+      "https://www.youtube.com/watch?v=PsnnukpOYkc"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_fe866e3749ca",
+      "団体名": "関根橋神楽会",
+      "別名": "関根橋神楽",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "ゆらさらTV",
+      "動画数": 1,
+      "代表video_id": "PsnnukpOYkc",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://shimokita-geopark.com/2022/07/25/kyodogeino2022/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "むつ市公式広報が関根橋神楽会の活動を掲載する。: https://www.city.mutsu.lg.jp/government/koho/kohomutsu/files/201505.pdf | 下北ジオパーク公式サイトの郷土芸能公演案内にも関根橋神楽会が掲載される。: https://shimokita-geopark.com/2022/07/25/kyodogeino2022/ | youtube_structured_video: 出演団体として「関根橋神楽会」を抽出 (PsnnukpOYkc) | youtube_structured_video: 保存団体として「関根橋神楽会」を抽出 (PsnnukpOYkc)",
+      "根拠URL": "https://www.city.mutsu.lg.jp/government/koho/kohomutsu/files/201505.pdf | https://shimokita-geopark.com/2022/07/25/kyodogeino2022/ | https://www.youtube.com/watch?v=PsnnukpOYkc",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_53e4f3521a22": {
+    "title": "轟原公民会鷹踊り保存会",
+    "aliases": [
+      "虎居区 轟原公民会鷹踊り保存会"
+    ],
+    "organization_type": null,
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "LeaUxgGmouw"
+    ],
+    "source_urls": [
+      "https://www.satsuma-net.jp/material/files/group/25/dai_6kai.pdf",
+      "https://www.youtube.com/watch?v=LeaUxgGmouw"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_53e4f3521a22",
+      "団体名": "轟原公民会鷹踊り保存会",
+      "別名": "虎居区 轟原公民会鷹踊り保存会",
+      "登場区分": "出演団体",
+      "団体種別": null,
+      "登場チャンネル": "さつま町Satsuma Town Kagoshima",
+      "動画数": 1,
+      "代表video_id": "LeaUxgGmouw",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "さつま町の公式プログラムが虎居区轟原公民会鷹踊り保存会を出演団体として掲載している。: https://www.satsuma-net.jp/material/files/group/25/dai_6kai.pdf | youtube_structured_video: 出演団体として「轟原公民会鷹踊り保存会」を抽出 (LeaUxgGmouw)",
+      "根拠URL": "https://www.satsuma-net.jp/material/files/group/25/dai_6kai.pdf | https://www.youtube.com/watch?v=LeaUxgGmouw",
+      "確信度": 0.99,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  }
+}

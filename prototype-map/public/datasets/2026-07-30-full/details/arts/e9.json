@@ -1,0 +1,386 @@
+{
+  "arts/art_kuni_423ea2724f1d8ba5": {
+    "title": "平瀬マンカイ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "46",
+        "prefecture_name": "鹿児島県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「平瀬マンカイ」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/600"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_423ea2724f1d8ba5",
+      "official_name": "平瀬マンカイ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "46",
+          "prefecture_name": "鹿児島県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-423ea2724f1d8ba5"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6a464dee15df3589": {
+    "title": "陸中沿岸地方の廻り神楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1995-12-26",
+        "source_title": "国指定文化財等データベース「陸中沿岸地方の廻り神楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/629"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6a464dee15df3589",
+      "official_name": "陸中沿岸地方の廻り神楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6a464dee15df3589"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6c2b9ae5980a2af8": {
+    "title": "川原狂言",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      },
+      {
+        "prefecture_code": "41",
+        "prefecture_name": "佐賀県",
+        "municipality_code": "41441",
+        "municipality_name": "太良町",
+        "geographic_scope": "太良町大字多良"
+      }
+    ],
+    "archive_genre_ids": [
+      "noh_kyogen"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1974-12-04",
+        "source_title": "国指定文化財等データベース「川原狂言」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/542"
+      },
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "佐賀県",
+        "date": "1971-03-28",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6c2b9ae5980a2af8",
+      "official_name": "川原狂言",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        },
+        {
+          "prefecture_code": "41",
+          "prefecture_name": "佐賀県",
+          "municipality_code": "41441",
+          "municipality_name": "太良町",
+          "geographic_scope": "太良町大字多良"
+        }
+      ],
+      "archive_genre_ids": [
+        "noh_kyogen"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6c2b9ae5980a2af8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_ea868dc883bcf71d": {
+    "title": "永井の大念仏剣舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "03",
+        "prefecture_name": "岩手県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kenbai"
+    ],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "1980-01-28",
+        "source_title": "国指定文化財等データベース「永井の大念仏剣舞」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/9"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_ea868dc883bcf71d",
+      "official_name": "永井の大念仏剣舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "03",
+          "prefecture_name": "岩手県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kenbai"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-ea868dc883bcf71d"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_2aa4de9b9fc8a91e": {
+    "title": "田山花踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "26",
+        "prefecture_name": "京都府",
+        "municipality_code": "26367",
+        "municipality_name": "南山城村",
+        "geographic_scope": "南山城村大字田山"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "京都府",
+        "date": "1984-04-14",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_2aa4de9b9fc8a91e",
+      "official_name": "田山花踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "26",
+          "prefecture_name": "京都府",
+          "municipality_code": "26367",
+          "municipality_name": "南山城村",
+          "geographic_scope": "南山城村大字田山"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-2aa4de9b9fc8a91e"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_bda23664730f79d0": {
+    "title": "チャンココ",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42211",
+        "municipality_name": "五島市",
+        "geographic_scope": "五島市上大津町"
+      },
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": "42211",
+        "municipality_name": "五島市",
+        "geographic_scope": "五島市下大津町"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "長崎県",
+        "date": "1977-01-11",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_bda23664730f79d0",
+      "official_name": "チャンココ",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42211",
+          "municipality_name": "五島市",
+          "geographic_scope": "五島市上大津町"
+        },
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": "42211",
+          "municipality_name": "五島市",
+          "geographic_scope": "五島市下大津町"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-bda23664730f79d0"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_cee958013dcf0aca": {
+    "title": "九十九里大漁節",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": "12403",
+        "municipality_name": "九十九里町",
+        "geographic_scope": "九十九里町片貝"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "千葉県",
+        "date": "1963-05-04",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_cee958013dcf0aca",
+      "official_name": "九十九里大漁節",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": "12403",
+          "municipality_name": "九十九里町",
+          "geographic_scope": "九十九里町片貝"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-cee958013dcf0aca"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}
