@@ -1,0 +1,65 @@
+name: Test
+
+on:
+  pull_request:
+    branches: [main, internal-test]
+  push:
+    branches: [main, internal-test]
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@cec208311dfd045dd5311c1add060b2062131d57 # v4
+
+      - name: Set up Python
+        run: uv python install 3.12
+
+      - name: Install dependencies
+        run: uv sync --group dev
+
+      - name: Run tests
+        run: uv run pytest
+
+  prototype-map:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@f40ffcd9367d9f12939873eb1018b921a783ffaa # v4
+        with:
+          package_json_file: prototype-map/package.json
+
+      - name: Install frontend dependencies
+        working-directory: prototype-map
+        run: pnpm install --frozen-lockfile
+
+      - name: Test public/private data boundary
+        run: node --test scripts/tests/public_dataset_privacy.test.mjs
+
+      - name: Validate public datasets
+        run: node scripts/validate_map_prototype_dataset.mjs
+
+      - name: Build frontend
+        working-directory: prototype-map
+        run: pnpm build
+
+      - name: Install browser for regression tests
+        working-directory: prototype-map
+        run: pnpm exec playwright install --with-deps chromium
+
+      - name: Run browser regression tests
+        working-directory: prototype-map
+        run: pnpm exec playwright test

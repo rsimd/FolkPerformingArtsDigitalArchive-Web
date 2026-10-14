@@ -1,0 +1,624 @@
+{
+  "organizations/channel_UC9CqK-JlwEtOVNFS69qxJoA": {
+    "title": "清水 宏積ひだちデザイン（ひだちデザイン 清水 宏積）",
+    "organization_type": "個人・任意団体・不明",
+    "prefecture": "東京都",
+    "region": "関東",
+    "channel_url": "https://www.youtube.com/channel/UC9CqK-JlwEtOVNFS69qxJoA",
+    "location_evidence_type": "curated_regional_research",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "神楽",
+      "獅子舞"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=iD6pe5Mjwbs"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UC9CqK-JlwEtOVNFS69qxJoA",
+      "チャンネル名": "清水 宏積ひだちデザイン（ひだちデザイン 清水 宏積）",
+      "チャンネルURL": "https://www.youtube.com/channel/UC9CqK-JlwEtOVNFS69qxJoA",
+      "運営主体": "個人・任意団体・不明",
+      "地方": "関東",
+      "都道府県": "東京都",
+      "所在地根拠種別": "curated_regional_research",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 37,
+      "根拠動画数": 6,
+      "検出芸能語": "神楽 | 獅子舞",
+      "代表根拠動画": "東京都 須我神社 神楽",
+      "代表根拠URL": "https://www.youtube.com/watch?v=iD6pe5Mjwbs",
+      "登録者数": 17,
+      "公開動画数": 13,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCpNa9Nyxza1BrF0hUWTuj1Q": {
+    "title": "ぎふチャン公式チャンネル",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "岐阜県",
+    "region": "東海",
+    "channel_url": "https://www.youtube.com/channel/UCpNa9Nyxza1BrF0hUWTuj1Q",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "伝統芸能"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=1Eh95u52d4Q"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCpNa9Nyxza1BrF0hUWTuj1Q",
+      "チャンネル名": "ぎふチャン公式チャンネル",
+      "チャンネルURL": "https://www.youtube.com/channel/UCpNa9Nyxza1BrF0hUWTuj1Q",
+      "運営主体": "報道・地域メディア",
+      "地方": "東海",
+      "都道府県": "岐阜県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 28,
+      "根拠動画数": 3,
+      "検出芸能語": "伝統芸能",
+      "代表根拠動画": "古典邦楽「錦会」お披露目会　伝統芸能の魅力伝える　岐阜市",
+      "代表根拠URL": "https://www.youtube.com/watch?v=1Eh95u52d4Q",
+      "登録者数": 13000,
+      "公開動画数": 4619,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCy3F4T7EcmXnFSivZFsbasA": {
+    "title": "クーサンニーサン",
+    "organization_type": "個人・任意団体・不明",
+    "prefecture": "宮城県",
+    "region": "東北",
+    "channel_url": "https://www.youtube.com/channel/UCy3F4T7EcmXnFSivZFsbasA",
+    "location_evidence_type": "curated_regional_research",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "祭囃子"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=2gjU_P63xOg"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCy3F4T7EcmXnFSivZFsbasA",
+      "チャンネル名": "クーサンニーサン",
+      "チャンネルURL": "https://www.youtube.com/channel/UCy3F4T7EcmXnFSivZFsbasA",
+      "運営主体": "個人・任意団体・不明",
+      "地方": "東北",
+      "都道府県": "宮城県",
+      "所在地根拠種別": "curated_regional_research",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 28,
+      "根拠動画数": 3,
+      "検出芸能語": "祭囃子",
+      "代表根拠動画": "宮城県登米市迫町佐沼、丸の内会鹿ヶ城太鼓お囃子山車",
+      "代表根拠URL": "https://www.youtube.com/watch?v=2gjU_P63xOg",
+      "登録者数": 2,
+      "公開動画数": 3,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/directory_org_6110ad57e6d5": {
+    "title": "相去鬼剣舞",
+    "aliases": [
+      "相去鬼剣舞 ジュニア"
+    ],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": "岩手県",
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.kitakami-mingeikyou.info/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.92,
+    "representative_video_ids": [
+      "IR0in8F27vQ",
+      "BXTakHkgsSM",
+      "dXBZgGcTSOc",
+      "I4JmNYnVq8k",
+      "-x24QdID0xE"
+    ],
+    "source_urls": [
+      "https://www.kitakami-mingeikyou.info/",
+      "https://www.youtube.com/watch?v=IR0in8F27vQ",
+      "https://www.youtube.com/watch?v=BXTakHkgsSM",
+      "https://www.youtube.com/watch?v=dXBZgGcTSOc",
+      "https://www.youtube.com/watch?v=vy5YkuouLvg",
+      "https://www.youtube.com/watch?v=I4JmNYnVq8k",
+      "https://www.youtube.com/watch?v=-x24QdID0xE"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_6110ad57e6d5",
+      "団体名": "相去鬼剣舞",
+      "別名": "相去鬼剣舞 ジュニア",
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "Japanese folk performing arts 東北文映研ライブラリー映像館 / maturinookkake / 鳥海行鹿",
+      "動画数": 9,
+      "代表video_id": "IR0in8F27vQ / BXTakHkgsSM / dXBZgGcTSOc / I4JmNYnVq8k / -x24QdID0xE",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.kitakami-mingeikyou.info/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「相去鬼剣舞」 | municipality_or_official_association: 北上市民俗芸能協会公式サイトの加盟・出演団体情報 | youtube_title: 代表動画1本のタイトルに出演・保存団体候補「相去鬼剣舞 ジュニア」を反復確認 | municipality_or_official_cultural_source: 北上市民俗芸能協会公式サイトまたは北上市公式資料で団体を確認 | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (IR0in8F27vQ) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (BXTakHkgsSM) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (dXBZgGcTSOc) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (I4JmNYnVq8k) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (-x24QdID0xE) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (FadIbwjEssQ) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (vjhR_FTXH2k) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (XWCiCZkGOmI) | youtube_structured_video: 出演団体として「相去鬼剣舞」を抽出 (zZPhTY1gmOc)",
+      "根拠URL": "https://www.kitakami-mingeikyou.info/ | https://www.youtube.com/watch?v=IR0in8F27vQ | https://www.youtube.com/watch?v=BXTakHkgsSM | https://www.youtube.com/watch?v=dXBZgGcTSOc | https://www.youtube.com/watch?v=vy5YkuouLvg | https://www.youtube.com/watch?v=I4JmNYnVq8k | https://www.youtube.com/watch?v=-x24QdID0xE",
+      "確信度": 0.92,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_f5752f8aa324": {
+    "title": "大原神楽保存会",
+    "aliases": [
+      "大原神楽"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "7vqIXOQit2g",
+      "O04I3GjH6d0",
+      "AY-vLPnMbFY",
+      "jrkCF2qQcLI",
+      "-qmDd7pav8E"
+    ],
+    "source_urls": [
+      "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+      "https://www.youtube.com/watch?v=7vqIXOQit2g",
+      "https://www.youtube.com/watch?v=O04I3GjH6d0",
+      "https://www.youtube.com/watch?v=AY-vLPnMbFY",
+      "https://www.youtube.com/watch?v=jrkCF2qQcLI",
+      "https://www.youtube.com/watch?v=-qmDd7pav8E"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_f5752f8aa324",
+      "団体名": "大原神楽保存会",
+      "別名": "大原神楽",
+      "登場区分": "保存団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 9,
+      "代表video_id": "7vqIXOQit2g / O04I3GjH6d0 / AY-vLPnMbFY / jrkCF2qQcLI / -qmDd7pav8E",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「大原神楽」 | municipality_or_official_association: 一関市教育委員会『南部神楽調査報告書』 | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (7vqIXOQit2g) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (O04I3GjH6d0) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (AY-vLPnMbFY) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (jrkCF2qQcLI) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (-qmDd7pav8E) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (xJxNs0HCzXU) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (27z8GLBEPis) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (y4zcagU9T9g) | youtube_structured_video: 保存団体として「大原神楽保存会」を抽出 (9Kv7lr5CUlY)",
+      "根拠URL": "https://www.city.ichinoseki.iwate.jp/index.cfm/6%2C75953%2Cc%2Chtml/75953/20160406-133245.pdf | https://www.youtube.com/watch?v=7vqIXOQit2g | https://www.youtube.com/watch?v=O04I3GjH6d0 | https://www.youtube.com/watch?v=AY-vLPnMbFY | https://www.youtube.com/watch?v=jrkCF2qQcLI | https://www.youtube.com/watch?v=-qmDd7pav8E",
+      "確信度": 0.9,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_b98016e96fef": {
+    "title": "千本六斎会",
+    "aliases": [
+      "千本六斎念仏"
+    ],
+    "organization_type": "芸能団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "岩手県",
+    "municipality": "北上市",
+    "channel_url": null,
+    "web_url": "https://sites.google.com/view/senbonrokusai/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.95,
+    "representative_video_ids": [
+      "GcRmRCCq38c",
+      "C-qcPBUf2Nk",
+      "dXOjm1FzgX0"
+    ],
+    "source_urls": [
+      "https://sites.google.com/view/senbonrokusai/",
+      "https://geinoumatsuri.com/download/6115/?tmstv=1752885574",
+      "https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf",
+      "https://www.youtube.com/watch?v=GcRmRCCq38c",
+      "https://www.youtube.com/watch?v=C-qcPBUf2Nk",
+      "https://www.youtube.com/watch?v=dXOjm1FzgX0"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_b98016e96fef",
+      "団体名": "千本六斎会",
+      "別名": "千本六斎念仏",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "芸能団体",
+      "登場チャンネル": "北上・みちのく芸能まつり公式",
+      "動画数": 3,
+      "代表video_id": "GcRmRCCq38c / C-qcPBUf2Nk / dXOjm1FzgX0",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://sites.google.com/view/senbonrokusai/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "団体公式サイト、自治体・文化財機関の団体紹介、または主体を確認できる公式SNSで名称とURLを照合。 | youtube_structured_video: 出演団体として「千本六斎会」を抽出 (GcRmRCCq38c) | youtube_structured_video: 保存団体として「千本六斎会」を抽出 (GcRmRCCq38c) | youtube_structured_video: 出演団体として「千本六斎会」を抽出 (C-qcPBUf2Nk) | youtube_structured_video: 保存団体として「千本六斎会」を抽出 (C-qcPBUf2Nk) | youtube_structured_video: 出演団体として「千本六斎会」を抽出 (dXOjm1FzgX0) | youtube_structured_video: 保存団体として「千本六斎会」を抽出 (dXOjm1FzgX0)",
+      "根拠URL": "https://sites.google.com/view/senbonrokusai/ | https://geinoumatsuri.com/download/6115/?tmstv=1752885574 | https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf | https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf | https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf | https://www.youtube.com/watch?v=GcRmRCCq38c | https://www.youtube.com/watch?v=C-qcPBUf2Nk | https://www.youtube.com/watch?v=dXOjm1FzgX0",
+      "確信度": 0.95,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_c52a8302b872": {
+    "title": "高根白山神社神楽保存会",
+    "aliases": [
+      "高根白山神社古代神楽保存会"
+    ],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.pref.shizuoka.jp/kankosports/bunkageijutsu/bunkazai/1002825/1041003/1041889/1004981/1021271.html",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "tEipSdLpkP0",
+      "ovk45p6ONN0"
+    ],
+    "source_urls": [
+      "https://www.pref.shizuoka.jp/kankosports/bunkageijutsu/bunkazai/1002825/1041003/1041889/1004981/1021271.html",
+      "https://www.youtube.com/watch?v=tEipSdLpkP0",
+      "https://www.youtube.com/watch?v=ovk45p6ONN0"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_c52a8302b872",
+      "団体名": "高根白山神社神楽保存会",
+      "別名": "高根白山神社古代神楽保存会",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "s_ken_11（せとや活性化研究会）",
+      "動画数": 2,
+      "代表video_id": "tEipSdLpkP0 / ovk45p6ONN0",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.pref.shizuoka.jp/kankosports/bunkageijutsu/bunkazai/1002825/1041003/1041889/1004981/1021271.html",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "静岡県の文化財ページに「高根白山神社古代神楽保存会」と記載されている。: https://www.pref.shizuoka.jp/kankosports/bunkageijutsu/bunkazai/1002825/1041003/1041889/1004981/1021271.html | youtube_structured_video: 出演団体として「高根白山神社神楽保存会」を抽出 (tEipSdLpkP0) | youtube_structured_video: 保存団体として「高根白山神社神楽保存会」を抽出 (tEipSdLpkP0) | youtube_structured_video: 出演団体として「高根白山神社神楽保存会」を抽出 (ovk45p6ONN0) | youtube_structured_video: 保存団体として「高根白山神社神楽保存会」を抽出 (ovk45p6ONN0)",
+      "根拠URL": "https://www.pref.shizuoka.jp/kankosports/bunkageijutsu/bunkazai/1002825/1041003/1041889/1004981/1021271.html | https://www.youtube.com/watch?v=tEipSdLpkP0 | https://www.youtube.com/watch?v=ovk45p6ONN0",
+      "確信度": 0.98,
+      "検索状態": "URL確認済",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_99c5417eee6b": {
+    "title": "阿波木偶箱まわし保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://wwwa.pikara.ne.jp/ebisu/",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "_57KOnUtBj8"
+    ],
+    "source_urls": [
+      "https://wwwa.pikara.ne.jp/ebisu/",
+      "https://www.suntory.co.jp/sfnd/prize_cca/detail/2017_03.html",
+      "https://www.youtube.com/watch?v=_57KOnUtBj8"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_99c5417eee6b",
+      "団体名": "阿波木偶箱まわし保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "grandtoit",
+      "動画数": 1,
+      "代表video_id": "_57KOnUtBj8",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://wwwa.pikara.ne.jp/ebisu/",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "阿波木偶箱まわし保存会の公式サイトが団体概要と活動を掲載している。: https://wwwa.pikara.ne.jp/ebisu/ | サントリー地域文化賞の公式ページも同保存会の活動を詳述している。: https://www.suntory.co.jp/sfnd/prize_cca/detail/2017_03.html | youtube_structured_video: 出演団体として「阿波木偶箱まわし保存会」を抽出 (_57KOnUtBj8) | youtube_structured_video: 保存団体として「阿波木偶箱まわし保存会」を抽出 (_57KOnUtBj8)",
+      "根拠URL": "https://wwwa.pikara.ne.jp/ebisu/ | https://www.suntory.co.jp/sfnd/prize_cca/detail/2017_03.html | https://www.youtube.com/watch?v=_57KOnUtBj8",
+      "確信度": 0.99,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_a4cbe940c6c9": {
+    "title": "古田人形保存会",
+    "aliases": [
+      "古田人形芝居保存会"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "長野県",
+    "municipality": null,
+    "channel_url": "https://www.youtube.com/@furutaningyo",
+    "web_url": "https://shinshu-dcommons.pref.nagano.lg.jp/others/01DD001H210008",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "1VnJeqH8s0g"
+    ],
+    "source_urls": [
+      "https://shinshu-dcommons.pref.nagano.lg.jp/others/01DD001H210008",
+      "https://www.youtube.com/@furutaningyo",
+      "https://www.youtube.com/watch?v=1VnJeqH8s0g"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_a4cbe940c6c9",
+      "団体名": "古田人形保存会",
+      "別名": "古田人形芝居保存会",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "南信州民俗芸能継承推進協議会",
+      "動画数": 1,
+      "代表video_id": "1VnJeqH8s0g",
+      "YouTubeチャンネル": "https://www.youtube.com/@furutaningyo",
+      "Webサイト・紹介ページ": "https://shinshu-dcommons.pref.nagano.lg.jp/others/01DD001H210008",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "web_research_summary: 長野県の信州デジタルコモンズが箕輪町の古田人形と現在の保存会を紹介。団体公式を確実に確認できる外部SNS URLは発見できず。 | youtube_structured_video: 出演団体として「古田人形芝居保存会」を抽出 (1VnJeqH8s0g) | youtube_structured_video: 保存団体として「古田人形芝居保存会」を抽出 (1VnJeqH8s0g)",
+      "根拠URL": "https://shinshu-dcommons.pref.nagano.lg.jp/others/01DD001H210008 | https://www.youtube.com/@furutaningyo | https://www.youtube.com/watch?v=1VnJeqH8s0g",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_8ca0473d5154": {
+    "title": "一色獅子舞保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "cSQLIDBLpxI"
+    ],
+    "source_urls": [
+      "https://www.iidashinkin.co.jp/region/events/local/2015/pdf/maturi.pdf",
+      "https://www.youtube.com/watch?v=cSQLIDBLpxI"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_8ca0473d5154",
+      "団体名": "一色獅子舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "Mokaちゃんねる 河原の総領 (そうだに いなだに いいだだに)",
+      "動画数": 1,
+      "代表video_id": "cSQLIDBLpxI",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "飯田信用金庫の地域祭礼資料に、一色獅子舞保存会が飯田地域の出演団体として記載されている。: https://www.iidashinkin.co.jp/region/events/local/2015/pdf/maturi.pdf | youtube_structured_video: 出演団体として「一色獅子舞保存会」を抽出 (cSQLIDBLpxI) | youtube_structured_video: 保存団体として「一色獅子舞保存会」を抽出 (cSQLIDBLpxI)",
+      "根拠URL": "https://www.iidashinkin.co.jp/region/events/local/2015/pdf/maturi.pdf | https://www.youtube.com/watch?v=cSQLIDBLpxI",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_0ebc26e797af": {
+    "title": "細屋太神楽",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "QqHBvhwjWRg"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=QqHBvhwjWRg"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_0ebc26e797af",
+      "団体名": "細屋太神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "QqHBvhwjWRg",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「細屋太神楽」 | youtube_structured_video: 出演団体として「細屋太神楽」を抽出 (QqHBvhwjWRg)",
+      "根拠URL": "https://www.youtube.com/watch?v=QqHBvhwjWRg",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_d8cd5cabcc7e": {
+    "title": "小川原流和田神楽",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "hw3m2kLJJ3E"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=BsJvHlvA0Es",
+      "https://www.youtube.com/watch?v=hw3m2kLJJ3E",
+      "https://www.youtube.com/watch?v=M11Igo9B1X8"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_d8cd5cabcc7e",
+      "団体名": "小川原流和田神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "hw3m2kLJJ3E",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「小川原流和田神楽」 | youtube_structured_video: 出演団体として「小川原流和田神楽」を抽出 (hw3m2kLJJ3E)",
+      "根拠URL": "https://www.youtube.com/watch?v=BsJvHlvA0Es | https://www.youtube.com/watch?v=hw3m2kLJJ3E | https://www.youtube.com/watch?v=M11Igo9B1X8",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_b15a4601e122": {
+    "title": "奈良林神楽会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "LeVzlhKqaBA"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=LeVzlhKqaBA"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_b15a4601e122",
+      "団体名": "奈良林神楽会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "Boso Fan",
+      "動画数": 1,
+      "代表video_id": "LeVzlhKqaBA",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "民俗芸能フェスティバルの代表動画から奈良林神楽会は確認できるが、自治体資料または団体公式URLを確認できない。: https://www.youtube.com/watch?v=LeVzlhKqaBA | youtube_structured_video: 出演団体として「奈良林神楽会」を抽出 (LeVzlhKqaBA) | youtube_structured_video: 保存団体として「奈良林神楽会」を抽出 (LeVzlhKqaBA)",
+      "根拠URL": "https://www.youtube.com/watch?v=LeVzlhKqaBA",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_27c6691b1a17": {
+    "title": "法領田獅子踊り保存会",
+    "aliases": [
+      "法領田獅子踊り"
+    ],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "PyZcoY3dMls"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=PyZcoY3dMls"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_27c6691b1a17",
+      "団体名": "法領田獅子踊り保存会",
+      "別名": "法領田獅子踊り",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "北の祭りと芸能",
+      "動画数": 1,
+      "代表video_id": "PyZcoY3dMls",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "複数動画のタイトルに保存会名を明記。団体自身の公式Web・SNSは検索で確認できなかった | youtube_structured_video: 出演団体として「法領田獅子踊り保存会」を抽出 (PyZcoY3dMls) | youtube_structured_video: 保存団体として「法領田獅子踊り保存会」を抽出 (PyZcoY3dMls)",
+      "根拠URL": "https://www.youtube.com/watch?v=PyZcoY3dMls",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

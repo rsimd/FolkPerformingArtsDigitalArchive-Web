@@ -1,0 +1,314 @@
+{
+  "organizations/channel_UCx5w62tS-jN4U1nA3us9Neg": {
+    "title": "tunamaru",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "大分県",
+    "region": "九州",
+    "channel_url": "https://www.youtube.com/channel/UCx5w62tS-jN4U1nA3us9Neg",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "民俗芸能",
+      "無形民俗文化財",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=Cva_XPKp-Jc"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCx5w62tS-jN4U1nA3us9Neg",
+      "チャンネル名": "tunamaru",
+      "チャンネルURL": "https://www.youtube.com/channel/UCx5w62tS-jN4U1nA3us9Neg",
+      "運営主体": "個人・地域記録者等",
+      "地方": "九州",
+      "都道府県": "大分県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 37,
+      "根拠動画数": 1,
+      "検出芸能語": "民俗芸能 | 無形民俗文化財 | 神楽",
+      "代表根拠動画": "大分県指定無形民俗文化財「佐伯神楽」御綱",
+      "代表根拠URL": "https://www.youtube.com/watch?v=Cva_XPKp-Jc",
+      "登録者数": 57,
+      "公開動画数": 16,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_c01aeb42c4be": {
+    "title": "前谷地神楽",
+    "aliases": [],
+    "organization_type": "保存団体",
+    "appearance_type": "出演団体",
+    "prefecture": "岩手県",
+    "municipality": "奥州市",
+    "channel_url": null,
+    "web_url": "https://www.city.oshu.iwate.jp/material/files/group/79/6kensuuitiran_sisetuitiran.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "1O2lxd7DjuU",
+      "5_2rxKiKsAU",
+      "J3GWUOrRu0M",
+      "9bLL0r5qMoU",
+      "bRzw2Zvn33g"
+    ],
+    "source_urls": [
+      "https://www.city.oshu.iwate.jp/material/files/group/79/6kensuuitiran_sisetuitiran.pdf",
+      "https://www.youtube.com/watch?v=1O2lxd7DjuU",
+      "https://www.youtube.com/watch?v=5_2rxKiKsAU",
+      "https://www.youtube.com/watch?v=J3GWUOrRu0M",
+      "https://www.youtube.com/watch?v=9bLL0r5qMoU",
+      "https://www.youtube.com/watch?v=bRzw2Zvn33g"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_c01aeb42c4be",
+      "団体名": "前谷地神楽",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 6,
+      "代表video_id": "1O2lxd7DjuU / 5_2rxKiKsAU / J3GWUOrRu0M / 9bLL0r5qMoU / bRzw2Zvn33g",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.city.oshu.iwate.jp/material/files/group/79/6kensuuitiran_sisetuitiran.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「前谷地神楽」 | municipality_or_official_association: 奥州市公式指定文化財一覧の芸能名・保持団体欄 | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (1O2lxd7DjuU) | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (5_2rxKiKsAU) | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (J3GWUOrRu0M) | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (9bLL0r5qMoU) | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (bRzw2Zvn33g) | youtube_structured_video: 出演団体として「前谷地神楽」を抽出 (Q3_rnOqS4zo)",
+      "根拠URL": "https://www.city.oshu.iwate.jp/material/files/group/79/6kensuuitiran_sisetuitiran.pdf | https://www.youtube.com/watch?v=1O2lxd7DjuU | https://www.youtube.com/watch?v=5_2rxKiKsAU | https://www.youtube.com/watch?v=J3GWUOrRu0M | https://www.youtube.com/watch?v=9bLL0r5qMoU | https://www.youtube.com/watch?v=bRzw2Zvn33g",
+      "確信度": 0.9,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_517a4c8b4581": {
+    "title": "屋嘉青年会",
+    "aliases": [
+      "屋嘉区青年会"
+    ],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://www.town.kin.okinawa.jp/material/files/group/2/koho590.pdf",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "HnaeAQCvKEY",
+      "TkBzh0qhXAw"
+    ],
+    "source_urls": [
+      "https://www.town.kin.okinawa.jp/material/files/group/2/koho590.pdf",
+      "https://www.youtube.com/watch?v=HnaeAQCvKEY",
+      "https://www.youtube.com/watch?v=TkBzh0qhXAw"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_517a4c8b4581",
+      "団体名": "屋嘉青年会",
+      "別名": "屋嘉区青年会",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "愛草 エイサーチャンネル",
+      "動画数": 2,
+      "代表video_id": "HnaeAQCvKEY / TkBzh0qhXAw",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://www.town.kin.okinawa.jp/material/files/group/2/koho590.pdf",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "金武町公式広報が屋嘉区豊年祭りで演舞する「屋嘉区青年会」を掲載する。団体固有の公式SNSは確認できなかった。: https://www.town.kin.okinawa.jp/material/files/group/2/koho590.pdf | youtube_structured_video: 出演団体として「屋嘉青年会」を抽出 (HnaeAQCvKEY) | youtube_structured_video: 保存団体として「屋嘉青年会」を抽出 (HnaeAQCvKEY) | youtube_structured_video: 出演団体として「屋嘉青年会」を抽出 (TkBzh0qhXAw) | youtube_structured_video: 保存団体として「屋嘉青年会」を抽出 (TkBzh0qhXAw)",
+      "根拠URL": "https://www.town.kin.okinawa.jp/material/files/group/2/koho590.pdf | https://www.youtube.com/watch?v=HnaeAQCvKEY | https://www.youtube.com/watch?v=TkBzh0qhXAw",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_7ffb15aa9d98": {
+    "title": "上川原町囃子保存会",
+    "aliases": [
+      "上川原町囃子連",
+      "上川原囃子保存会"
+    ],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "東京都",
+    "municipality": "上川原町",
+    "channel_url": null,
+    "web_url": "https://tachikawa.mypl.net/mp/mpranger_tachikawa/?sid=23953",
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "KyFeK4cfoX4",
+      "JAy956sLldI"
+    ],
+    "source_urls": [
+      "https://tachikawa.mypl.net/mp/mpranger_tachikawa/?sid=23953",
+      "https://www.youtube.com/watch?v=KyFeK4cfoX4",
+      "https://www.youtube.com/watch?v=JAy956sLldI"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_7ffb15aa9d98",
+      "団体名": "上川原町囃子保存会",
+      "別名": "上川原町囃子連 / 上川原囃子保存会",
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "CherryBlack2010 / ひかるん",
+      "動画数": 2,
+      "代表video_id": "KyFeK4cfoX4 / JAy956sLldI",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://tachikawa.mypl.net/mp/mpranger_tachikawa/?sid=23953",
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "昭島市の郷土芸能まつり記事は「上川原町囃子連」を掲載するが、入力には「上川原町囃子保存会」と「上川原囃子保存会」が別候補として存在し、公式名称と同一性の最終確認が必要。: https://tachikawa.mypl.net/mp/mpranger_tachikawa/?sid=23953 | youtube_structured_video: 出演団体として「上川原町囃子保存会」を抽出 (KyFeK4cfoX4) | youtube_structured_video: 保存団体として「上川原町囃子保存会」を抽出 (KyFeK4cfoX4) | youtube_structured_video: 出演団体として「上川原町囃子保存会」を抽出 (JAy956sLldI) | youtube_structured_video: 保存団体として「上川原町囃子保存会」を抽出 (JAy956sLldI)",
+      "根拠URL": "https://tachikawa.mypl.net/mp/mpranger_tachikawa/?sid=23953 | https://www.youtube.com/watch?v=KyFeK4cfoX4 | https://www.youtube.com/watch?v=JAy956sLldI",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_ca3a46ca1c92": {
+    "title": "神輿出御と鵜住居虎舞",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": "岩手県",
+    "municipality": "釜石市",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "2uI5BOC7PO0"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=2uI5BOC7PO0"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_ca3a46ca1c92",
+      "団体名": "神輿出御と鵜住居虎舞",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "2uI5BOC7PO0",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「神輿出御と鵜住居虎舞」 | youtube_structured_video: 出演団体として「神輿出御と鵜住居虎舞」を抽出 (2uI5BOC7PO0)",
+      "根拠URL": "https://www.youtube.com/watch?v=2uI5BOC7PO0",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_079e6a68949f": {
+    "title": "朴ノ木澤念仏剣舞",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "59NQEVFPd7k"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=59NQEVFPd7k"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_079e6a68949f",
+      "団体名": "朴ノ木澤念仏剣舞",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "59NQEVFPd7k",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「朴ノ木澤念仏剣舞」 | youtube_structured_video: 出演団体として「朴ノ木澤念仏剣舞」を抽出 (59NQEVFPd7k)",
+      "根拠URL": "https://www.youtube.com/watch?v=59NQEVFPd7k",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_0aeaa2e7cd40": {
+    "title": "門岡念仏剣舞保存会",
+    "aliases": [],
+    "organization_type": "保存団体",
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": "岩手県",
+    "municipality": "北上市",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.95,
+    "representative_video_ids": [
+      "ICPb0aoX-ao"
+    ],
+    "source_urls": [
+      "https://geinoumatsuri.com/download/6115/?tmstv=1752885574",
+      "https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf",
+      "https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf",
+      "https://www.youtube.com/watch?v=ICPb0aoX-ao"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_0aeaa2e7cd40",
+      "団体名": "門岡念仏剣舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": "保存団体",
+      "登場チャンネル": "北上・みちのく芸能まつり公式",
+      "動画数": 1,
+      "代表video_id": "ICPb0aoX-ao",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "公式イベントプログラムで団体名を確認。独立した公式サイト・SNSは検索で確定できず、北上市内団体は民俗芸能協会の団体情報を補助根拠とした。 | youtube_structured_video: 出演団体として「門岡念仏剣舞保存会」を抽出 (ICPb0aoX-ao) | youtube_structured_video: 保存団体として「門岡念仏剣舞保存会」を抽出 (ICPb0aoX-ao)",
+      "根拠URL": "https://geinoumatsuri.com/download/6115/?tmstv=1752885574 | https://kitakami-kanko.jp/kitakanwp/wp-content/uploads/2023/06/2023progrum.pdf | https://www.city.kitakami.iwate.jp/material/files/group/10/61puroguramu.pdf | https://www.city.kitakami.iwate.jp/material/files/group/29/gian40_255_kanren_9.pdf | https://www.youtube.com/watch?v=ICPb0aoX-ao",
+      "確信度": 0.95,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

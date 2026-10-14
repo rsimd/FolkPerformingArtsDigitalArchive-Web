@@ -1,0 +1,26 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "大船渡市",
+  "places": [
+    {
+      "slug": "iwate-ofunato-goishi",
+      "label": "大船渡市 碁石海岸周辺（地区例）",
+      "lat": 39.0824,
+      "lng": 141.7524,
+      "map_category": "dance",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "大船渡市碁石海岸周辺の漁村で伝わる踊りの例示データです。三陸沿岸の漁村文化に根ざした民俗芸能を示します。",
+      "performances": [
+        {
+          "id": "example-ondo-coast",
+          "name": "漁村踊り（例）",
+          "kind": "踊り"
+        }
+      ]
+    }
+  ]
+}

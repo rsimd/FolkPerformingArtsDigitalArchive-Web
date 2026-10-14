@@ -46,6 +46,37 @@ uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 uv run pytest
 ```
 
+## 全件検索の地図プロトタイプ（React / Vite）
+
+`prototype-map/` に、調査済みデータを読み込むデスクトップ向けの地図アプリを収録しています。
+既存のFastAPIアプリとは独立して起動・ビルドします。
+
+- 芸能・文化財：1,626件（地図表示1,136件）
+- 公演・映像：59,037件（地図表示10,771件、概念レコードのイベントシリーズ10件）
+- 保存会・団体：3,196件（地図表示1,541件）
+
+キーワード、都道府県、位置精度、収録種別、根拠レイヤーで絞り込み、一覧または地図から詳細と出典を確認できます。
+イベントシリーズの親ページから各開催回へ移動し、開催回から親へ戻れます。
+位置未確定の記録も検索・一覧に収録し、概念レコードは地図件数に重複加算しません。
+芸能暦・出張計画・現地調査の内部参照情報は公開用データセットに含めません。
+
+```bash
+cd prototype-map
+pnpm install --frozen-lockfile
+pnpm dev
+```
+
+本番用の静的ファイルは `pnpm build`、ビルド後の確認は `pnpm preview` で行います。
+このプロトタイプの地図背景にはOpenStreetMap、クラスタ件数の文字表示にはMapLibreのフォント配信への接続が必要です。データの更新方法と制約は
+[prototype-map/README.md](prototype-map/README.md) を参照してください。
+FastAPIのトップページをこのプロトタイプへ自動で置き換える構成ではありません。
+
+データ整合性の検証は、リポジトリのルートで実行します。
+
+```bash
+node scripts/validate_map_prototype_dataset.mjs
+```
+
 ## 本リポジトリの位置づけ
 
 - 東北の伝統芸能を保存する前提のうえ、当面は岩手県を先行対象とした民俗芸能の来歴、保存団体、御囃子・口上・舞踊の意味、台本、楽譜などを整理して公開する方針を [specifications.md](specifications/specifications.md) に定義します。機能単位の個別仕様は [specifications/README.md](specifications/README.md) を参照します。
@@ -54,4 +85,12 @@ uv run pytest
 
 ## ライセンス
 
-未確定です。コンテンツ（写真・楽譜・口述資料）の権利とあわせて別途定めます。
+### ソフトウェア
+
+本リポジトリのソースコード（`app/`, `static/`, `templates/`, `scripts/`, `tests/` 等）は **MIT License** とします。詳しくは [LICENSE](LICENSE) を参照してください。
+
+### コンテンツデータ
+
+`data/` および `prototype-map/public/datasets/` 配下のデータファイル（`places.json`, `search_index.json`, `by_region/` 等）および、投稿された写真・楽譜・口述資料・映像・GeoJSON 等（以下「コンテンツ」）は、MIT License の対象外です。
+
+コンテンツの著作権はそれぞれの著作者・情報提供者に帰属します。コンテンツの**無断複製・再配布・転用**を禁じます。利用を希望する場合は、サイト上の問い合わせ方法に従って許諾を得てください。

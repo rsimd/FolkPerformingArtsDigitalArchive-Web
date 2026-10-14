@@ -1,0 +1,26 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "盛岡市",
+  "places": [
+    {
+      "slug": "iwate-morioka-tsushida",
+      "label": "盛岡市 津志田地区",
+      "lat": 39.6581,
+      "lng": 141.1124,
+      "map_category": "kagura",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "盛岡市津志田地区に伝わる郷土神楽の例示データです。地元の祭礼で奉納される伝統的神楽を紹介します。",
+      "performances": [
+        {
+          "id": "example-kagura",
+          "name": "郷土神楽（例）",
+          "kind": "神楽"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title id="page-title">民俗芸能 | 民俗芸能デジタルアーカイブ</title>
+  <link rel="stylesheet" href="/static/detail.css" />
+</head>
+<body>
+  <header class="detail-header">
+    <nav class="breadcrumb">
+      <a href="/">トップ</a> &gt; <a href="/" id="breadcrumb-muni">---</a> &gt; <span id="breadcrumb-name">---</span>
+    </nav>
+  </header>
+
+  <main class="detail-main">
+    <section class="eyecatch" id="eyecatch">
+      <div class="eyecatch-overlay">
+        <h1 id="detail-title">-</h1>
+        <p class="location" id="detail-location"></p>
+        <div class="flags" id="detail-flags"></div>
+      </div>
+    </section>
+
+    <div class="content-tabs">
+      <button class="tab active" data-tab="history">来歴</button>
+      <button class="tab" data-tab="group">保存団体・活動</button>
+      <button class="tab" data-tab="meaning">御囃子・口上・舞踊の意味</button>
+      <button class="tab" data-tab="scripts">台本・楽譜</button>
+      <button class="tab" data-tab="refs">参考文献</button>
+    </div>
+
+    <div class="tab-panels">
+      <section class="tab-panel active" id="panel-history">
+        <h2>来歴</h2>
+        <div id="history-text" class="section-body"></div>
+        <div class="source-meta" id="history-source"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-group">
+        <h2>保存団体・活動</h2>
+        <div id="group-text" class="section-body"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-meaning">
+        <h2>御囃子・口上・舞踊の意味</h2>
+        <div id="meaning-text" class="section-body"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-scripts">
+        <h2>台本・楽譜</h2>
+        <div id="scripts-text" class="section-body"></div>
+      </section>
+
+      <section class="tab-panel" id="panel-refs">
+        <h2>参考文献</h2>
+        <div id="refs-text" class="section-body"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="provenance-footer">
+    <h3>情報提供者</h3>
+    <div id="provenance-list"></div>
+  </footer>
+
+  <script src="/static/detail.js"></script>
+</body>
+</html>

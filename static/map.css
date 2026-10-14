@@ -29,6 +29,17 @@ body {
   font-size: 1.25rem;
 }
 
+.back-link {
+  display: inline-block;
+  margin-bottom: 0.25rem;
+  font-size: 0.85rem;
+  color: #1565c0;
+  text-decoration: none;
+}
+.back-link:hover {
+  text-decoration: underline;
+}
+
 .app-header .sub {
   margin: 0;
   font-size: 0.875rem;

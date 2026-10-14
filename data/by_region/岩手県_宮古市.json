@@ -1,0 +1,46 @@
+{
+  "prefecture": "岩手県",
+  "municipality": "宮古市",
+  "places": [
+    {
+      "slug": "iwate-miyako-natsuya",
+      "label": "宮古市 夏屋",
+      "lat": 39.6372,
+      "lng": 141.9575,
+      "map_category": "shishi_shika",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "宮古市夏屋地区に伝わる夏屋鹿踊のデータです。三陸沿岸の鹿踊文化を代表する演目を収録します。",
+      "performances": [
+        {
+          "id": "natsuya-shishiodori",
+          "name": "夏屋鹿踊",
+          "kind": "鹿踊"
+        }
+      ]
+    },
+    {
+      "slug": "iwate-miyako-kawauchi",
+      "label": "宮古市 川内",
+      "lat": 39.648896,
+      "lng": 141.58915,
+      "map_category": "kenbu",
+      "content_flags": {
+        "has_detail_page": false,
+        "has_video": false,
+        "has_3d_motion": false
+      },
+      "summary": "宮古市川内地区に伝わる川内念佛剣舞のデータです。念仏信仰と結びついた剣舞の伝統を記録します。",
+      "performances": [
+        {
+          "id": "kawauchi-nembutsu-kenbu",
+          "name": "川内念佛剣舞",
+          "kind": "剣舞"
+        }
+      ]
+    }
+  ]
+}

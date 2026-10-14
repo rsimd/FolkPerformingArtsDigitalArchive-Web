@@ -1,0 +1,42 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Hiragino Sans","Noto Sans JP",sans-serif;color:#333;background:#fafafa}
+
+.search-header{background:#1a1a2e;color:#fff;padding:16px 20px}
+.search-header h1{font-size:1.3rem;margin-top:4px}
+.breadcrumb{font-size:.85rem}
+.breadcrumb a{color:#90caf9;text-decoration:none}
+
+.search-layout{display:flex;min-height:calc(100vh - 80px)}
+
+.filters{width:220px;min-width:180px;padding:20px;background:#fff;border-right:1px solid #e0e0e0}
+.filter-group{margin-bottom:16px}
+.filter-group label{display:block;font-size:.85rem;font-weight:600;margin-bottom:6px}
+.filter-group select{width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;font-size:.9rem}
+.btn-reset{background:none;border:1px solid #ccc;padding:6px 14px;border-radius:4px;cursor:pointer;font-size:.8rem;color:#666}
+.btn-reset:hover{background:#f0f0f0}
+
+.results{flex:1;padding:20px}
+.search-bar{margin-bottom:16px;display:flex;align-items:center;gap:12px}
+#search-input{flex:1;padding:10px 14px;border:1px solid #ccc;border-radius:6px;font-size:1rem}
+#search-input:focus{outline:none;border-color:#1565c0;box-shadow:0 0 0 2px rgba(21,101,192,.2)}
+.result-count{font-size:.85rem;color:#888;white-space:nowrap}
+
+.card-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.card{background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:16px;transition:box-shadow .2s}
+.card:hover{box-shadow:0 2px 8px rgba(0,0,0,.1)}
+.card-title{font-size:1rem;font-weight:700;margin-bottom:4px}
+.card-title a{color:#1565c0;text-decoration:none}
+.card-title a:hover{text-decoration:underline}
+.card-location{font-size:.85rem;color:#666;margin-bottom:8px}
+.card-kinds{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px}
+.kind-tag{font-size:.75rem;padding:2px 8px;border-radius:10px;background:#e3f2fd;color:#1565c0}
+.card-summary{font-size:.85rem;color:#555;line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+.no-results{grid-column:1/-1;text-align:center;color:#999;padding:40px 0;font-size:.95rem}
+.loading{text-align:center;color:#999;padding:40px 0}
+
+@media(max-width:768px){
+  .search-layout{flex-direction:column}
+  .filters{width:100%;border-right:none;border-bottom:1px solid #e0e0e0;display:flex;flex-wrap:wrap;gap:12px;padding:12px}
+  .filter-group{margin-bottom:0;flex:1;min-width:140px}
+}

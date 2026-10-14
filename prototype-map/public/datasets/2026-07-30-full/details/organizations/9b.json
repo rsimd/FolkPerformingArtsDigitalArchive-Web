@@ -1,0 +1,253 @@
+{
+  "organizations/channel_UC9GTmx3Yqb1yG_Wjgx3l5Rw": {
+    "title": "Moka ちゃんねる",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "徳島県",
+    "region": "四国",
+    "channel_url": "https://www.youtube.com/channel/UC9GTmx3Yqb1yG_Wjgx3l5Rw",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "阿波踊",
+      "獅子舞・獅子踊",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=rXllok63j5U"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UC9GTmx3Yqb1yG_Wjgx3l5Rw",
+      "チャンネル名": "Moka ちゃんねる",
+      "チャンネルURL": "https://www.youtube.com/channel/UC9GTmx3Yqb1yG_Wjgx3l5Rw",
+      "運営主体": "個人・地域記録者等",
+      "地方": "四国",
+      "都道府県": "徳島県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 42,
+      "根拠動画数": 5,
+      "検出芸能語": "阿波踊 | 獅子舞・獅子踊 | 神楽",
+      "代表根拠動画": "この人に逢いに徳島へ来た えびす連 阿波おどり2025  阿波踊り アミコドーム #shorts",
+      "代表根拠URL": "https://www.youtube.com/watch?v=rXllok63j5U",
+      "登録者数": 26700,
+      "公開動画数": 1513,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCkWLs9qR35lgbyT-zQtvLaQ": {
+    "title": "田口衛",
+    "organization_type": "個人・任意団体・不明",
+    "prefecture": "富山県",
+    "region": "北陸",
+    "channel_url": "https://www.youtube.com/channel/UCkWLs9qR35lgbyT-zQtvLaQ",
+    "location_evidence_type": "curated_regional_research",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "神楽",
+      "獅子舞",
+      "獅子舞・獅子踊"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=7FXrtL2Aj6o"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCkWLs9qR35lgbyT-zQtvLaQ",
+      "チャンネル名": "田口衛",
+      "チャンネルURL": "https://www.youtube.com/channel/UCkWLs9qR35lgbyT-zQtvLaQ",
+      "運営主体": "個人・任意団体・不明",
+      "地方": "北陸",
+      "都道府県": "富山県",
+      "所在地根拠種別": "curated_regional_research",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 42,
+      "根拠動画数": 18,
+      "検出芸能語": "神楽 | 獅子舞 | 獅子舞・獅子踊",
+      "代表根拠動画": "20160416富山市大野獅子舞 お宮さん 神楽",
+      "代表根拠URL": "https://www.youtube.com/watch?v=7FXrtL2Aj6o",
+      "登録者数": 7,
+      "公開動画数": 29,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "検証済"
+    }
+  },
+  "organizations/channel_UCJlpqOQ-FZ8d-8XKemLyK8Q": {
+    "title": "【公式】宮崎ニュースUMK YouTube",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "宮崎県",
+    "region": "九州",
+    "channel_url": "https://www.youtube.com/channel/UCJlpqOQ-FZ8d-8XKemLyK8Q",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "無形民俗文化財",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=jH13_v1HffY"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCJlpqOQ-FZ8d-8XKemLyK8Q",
+      "チャンネル名": "【公式】宮崎ニュースUMK YouTube",
+      "チャンネルURL": "https://www.youtube.com/channel/UCJlpqOQ-FZ8d-8XKemLyK8Q",
+      "運営主体": "報道・地域メディア",
+      "地方": "九州",
+      "都道府県": "宮崎県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "無形民俗文化財 | 神楽",
+      "代表根拠動画": "400年以上の伝統「高鍋神楽」が国の重要無形民俗文化財に　保存会が副知事を表敬",
+      "代表根拠URL": "https://www.youtube.com/watch?v=jH13_v1HffY",
+      "登録者数": 6740,
+      "公開動画数": 1691,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_5efc64e12be7": {
+    "title": "宮田集落踊り保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.98,
+    "representative_video_ids": [
+      "-cCiQ8-N-_Y"
+    ],
+    "source_urls": [
+      "https://www.satsuma-net.jp/material/files/group/25/dai_11kai.pdf",
+      "https://www.youtube.com/watch?v=-cCiQ8-N-_Y"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_5efc64e12be7",
+      "団体名": "宮田集落踊り保存会",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": null,
+      "登場チャンネル": "さつま町Satsuma Town Kagoshima",
+      "動画数": 1,
+      "代表video_id": "-cCiQ8-N-_Y",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "さつま町の郷土芸能祭資料に、泊野区の宮田集落踊り保存会が宮田狩踊りの出演団体として掲載されている。: https://www.satsuma-net.jp/material/files/group/25/dai_11kai.pdf | youtube_structured_video: 出演団体として「宮田集落踊り保存会」を抽出 (-cCiQ8-N-_Y)",
+      "根拠URL": "https://www.satsuma-net.jp/material/files/group/25/dai_11kai.pdf | https://www.youtube.com/watch?v=-cCiQ8-N-_Y",
+      "確信度": 0.98,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_e562e6bac6e5": {
+    "title": "小湊歌題目保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "_xGS6OIQCRo"
+    ],
+    "source_urls": [
+      "https://www.city.kamogawa.lg.jp/uploaded/attachment/1196.pdf",
+      "https://www.city.kamogawa.lg.jp/uploaded/attachment/15781.pdf",
+      "https://www.youtube.com/watch?v=_xGS6OIQCRo"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_e562e6bac6e5",
+      "団体名": "小湊歌題目保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "鴨川の旅の情報『カモ旅』",
+      "動画数": 1,
+      "代表video_id": "_xGS6OIQCRo",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "鴨川市の公式資料は団体名を小湊歌題目保存会と記載している。: https://www.city.kamogawa.lg.jp/uploaded/attachment/1196.pdf | 鴨川市の別資料にも小湊歌題目保存会が掲載されている。: https://www.city.kamogawa.lg.jp/uploaded/attachment/15781.pdf | youtube_structured_video: 出演団体として「小湊歌題目保存会」を抽出 (_xGS6OIQCRo) | youtube_structured_video: 保存団体として「小湊歌題目保存会」を抽出 (_xGS6OIQCRo)",
+      "根拠URL": "https://www.city.kamogawa.lg.jp/uploaded/attachment/1196.pdf | https://www.city.kamogawa.lg.jp/uploaded/attachment/15781.pdf | https://www.youtube.com/watch?v=_xGS6OIQCRo",
+      "確信度": 0.99,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_9077f4a3658b": {
+    "title": "南砺平高校獅子舞保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "A5jMxEHR6so"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=A5jMxEHR6so"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_9077f4a3658b",
+      "団体名": "南砺平高校獅子舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "nagu0223",
+      "動画数": 1,
+      "代表video_id": "A5jMxEHR6so",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "代表動画のタイトルと説明から南砺平高校獅子舞保存会は確認できるが、学校公式ページまたは団体公式URLを確認できない。: https://www.youtube.com/watch?v=A5jMxEHR6so | youtube_structured_video: 出演団体として「南砺平高校獅子舞保存会」を抽出 (A5jMxEHR6so) | youtube_structured_video: 保存団体として「南砺平高校獅子舞保存会」を抽出 (A5jMxEHR6so)",
+      "根拠URL": "https://www.youtube.com/watch?v=A5jMxEHR6so",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

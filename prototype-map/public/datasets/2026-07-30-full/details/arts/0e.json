@@ -1,0 +1,492 @@
+{
+  "arts/art_kuni_5799ecd1573cbb12": {
+    "title": "加茂の三番叟と花踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "12",
+        "prefecture_name": "千葉県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1972-08-05",
+        "source_title": "国指定文化財等データベース「加茂の三番叟と花踊」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/280"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_5799ecd1573cbb12",
+      "official_name": "加茂の三番叟と花踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "12",
+          "prefecture_name": "千葉県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-5799ecd1573cbb12"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_6f9135e5a1d00ec8": {
+    "title": "大村の郡三踊（寿古踊・沖田踊・黒丸踊）",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "42",
+        "prefecture_name": "長崎県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": "長崎県大村市"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "重要無形民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文部科学大臣",
+        "date": "2014-03-10",
+        "source_title": "国指定文化財等データベース「大村の郡三踊（寿古踊・沖田踊・黒丸踊）」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/302/00000904"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_6f9135e5a1d00ec8",
+      "official_name": "大村の郡三踊（寿古踊・沖田踊・黒丸踊）",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "42",
+          "prefecture_name": "長崎県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": "長崎県大村市"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-6f9135e5a1d00ec8"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_9f5f04db43125a27": {
+    "title": "天宮神社の十二段舞楽",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "22",
+        "prefecture_name": "静岡県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "bugaku"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「天宮神社の十二段舞楽」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/372"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_9f5f04db43125a27",
+      "official_name": "天宮神社の十二段舞楽",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "22",
+          "prefecture_name": "静岡県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "bugaku"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-9f5f04db43125a27"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_f10bf78df80773e9": {
+    "title": "当麻寺二十五菩薩来迎会",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "29",
+        "prefecture_name": "奈良県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1976-12-25",
+        "source_title": "国指定文化財等データベース「当麻寺二十五菩薩来迎会」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/441"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_f10bf78df80773e9",
+      "official_name": "当麻寺二十五菩薩来迎会",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "29",
+          "prefecture_name": "奈良県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-f10bf78df80773e9"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_kuni_fed0a05ffab271b1": {
+    "title": "遠山霜月祭の芸能",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "20",
+        "prefecture_name": "長野県",
+        "municipality_code": null,
+        "municipality_name": null,
+        "geographic_scope": null
+      }
+    ],
+    "archive_genre_ids": [
+      "kagura_general"
+    ],
+    "designations": [
+      {
+        "type": "記録作成等の措置を講ずべき無形の民俗文化財",
+        "jurisdiction": "national",
+        "authority": "文化庁長官",
+        "date": "1973-11-05",
+        "source_title": "国指定文化財等データベース「遠山霜月祭の芸能」",
+        "source_url": "https://kunishitei.bunka.go.jp/heritage/detail/312/346"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_kuni_fed0a05ffab271b1",
+      "official_name": "遠山霜月祭の芸能",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "20",
+          "prefecture_name": "長野県",
+          "municipality_code": null,
+          "municipality_name": null,
+          "geographic_scope": null
+        }
+      ],
+      "archive_genre_ids": [
+        "kagura_general"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-fed0a05ffab271b1"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_45445c6c795267bf": {
+    "title": "越畑の獅子舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "11",
+        "prefecture_name": "埼玉県",
+        "municipality_code": "11342",
+        "municipality_name": "嵐山町",
+        "geographic_scope": "嵐山町越畑"
+      }
+    ],
+    "archive_genre_ids": [
+      "shishi_dance"
+    ],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "埼玉県",
+        "date": "1958-03-20",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_45445c6c795267bf",
+      "official_name": "越畑の獅子舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "11",
+          "prefecture_name": "埼玉県",
+          "municipality_code": "11342",
+          "municipality_name": "嵐山町",
+          "geographic_scope": "嵐山町越畑"
+        }
+      ],
+      "archive_genre_ids": [
+        "shishi_dance"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-45445c6c795267bf"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_746e5c6cc3392084": {
+    "title": "南郷の早乙女踊",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7368",
+        "municipality_name": "南会津町",
+        "geographic_scope": "南会津町和泉田"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7368",
+        "municipality_name": "南会津町",
+        "geographic_scope": "南会津町界"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7368",
+        "municipality_name": "南会津町",
+        "geographic_scope": "南会津町鴇巣"
+      },
+      {
+        "prefecture_code": "07",
+        "prefecture_name": "福島県",
+        "municipality_code": "7368",
+        "municipality_name": "南会津町",
+        "geographic_scope": "南会津町下山"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "福島県",
+        "date": "2008-04-04",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_746e5c6cc3392084",
+      "official_name": "南郷の早乙女踊",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7368",
+          "municipality_name": "南会津町",
+          "geographic_scope": "南会津町和泉田"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7368",
+          "municipality_name": "南会津町",
+          "geographic_scope": "南会津町界"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7368",
+          "municipality_name": "南会津町",
+          "geographic_scope": "南会津町鴇巣"
+        },
+        {
+          "prefecture_code": "07",
+          "prefecture_name": "福島県",
+          "municipality_code": "7368",
+          "municipality_name": "南会津町",
+          "geographic_scope": "南会津町下山"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-746e5c6cc3392084"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_776a5745c8b2a7f6": {
+    "title": "金ヶ沢鶏舞",
+    "summary": null,
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "02",
+        "prefecture_name": "青森県",
+        "municipality_code": "2450",
+        "municipality_name": "新郷村",
+        "geographic_scope": "新郷村戸来字金ヶ沢"
+      }
+    ],
+    "archive_genre_ids": [],
+    "designations": [
+      {
+        "type": "都道府県指定無形文化財",
+        "jurisdiction": "prefectural",
+        "authority": "青森県",
+        "date": "1976-06-26",
+        "source_title": "国土数値情報 都道府県指定文化財データ（平成26年度）",
+        "source_url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P32.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_776a5745c8b2a7f6",
+      "official_name": "金ヶ沢鶏舞",
+      "reading": null,
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "02",
+          "prefecture_name": "青森県",
+          "municipality_code": "2450",
+          "municipality_name": "新郷村",
+          "geographic_scope": "新郷村戸来字金ヶ沢"
+        }
+      ],
+      "archive_genre_ids": [],
+      "archive_genre_basis_id": "unclassified",
+      "local_genre_names": [],
+      "summary": null,
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-776a5745c8b2a7f6"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  },
+  "arts/art_local_a603fa516cb5243f": {
+    "title": "二上り音頭とまわり踊り",
+    "summary": "毎年8月23日に",
+    "aliases": [],
+    "locations": [
+      {
+        "prefecture_code": "36",
+        "prefecture_name": "徳島県",
+        "municipality_code": "364011",
+        "municipality_name": "松茂町",
+        "geographic_scope": "徳島県板野郡松茂町中喜来字牛飼野東ノ越21"
+      }
+    ],
+    "archive_genre_ids": [
+      "folk_song"
+    ],
+    "designations": [
+      {
+        "type": "町指定無形民俗文化財",
+        "jurisdiction": "municipal",
+        "authority": "松茂町",
+        "date": "1986-03-25",
+        "source_title": "徳島県松茂町：文化財一覧「二上り音頭とまわり踊り」",
+        "source_url": "https://ouropendata.jp/dataset/2177.html"
+      }
+    ],
+    "source_fields": {
+      "schema_version": "1.0",
+      "art_id": "art_local_a603fa516cb5243f",
+      "official_name": "二上り音頭とまわり踊り",
+      "reading": "ニアガリオンドトマワリオドリ",
+      "aliases": [],
+      "locations": [
+        {
+          "prefecture_code": "36",
+          "prefecture_name": "徳島県",
+          "municipality_code": "364011",
+          "municipality_name": "松茂町",
+          "geographic_scope": "徳島県板野郡松茂町中喜来字牛飼野東ノ越21"
+        }
+      ],
+      "archive_genre_ids": [
+        "folk_song"
+      ],
+      "archive_genre_basis_id": "official_name_rule",
+      "local_genre_names": [],
+      "summary": "毎年8月23日に",
+      "continuation_status_id": "unknown",
+      "wiki_slug": "art-local-a603fa516cb5243f"
+    },
+    "source_workbook": "data/cultural_properties/performing_arts.jsonl"
+  }
+}

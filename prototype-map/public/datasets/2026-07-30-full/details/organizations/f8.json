@@ -1,0 +1,298 @@
+{
+  "organizations/channel_UCZRAWHGFrgqJfkVY7ueQTeA": {
+    "title": "神舞への道",
+    "organization_type": "保存団体",
+    "prefecture": "広島県",
+    "region": "中国",
+    "channel_url": "https://www.youtube.com/channel/UCZRAWHGFrgqJfkVY7ueQTeA",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "high",
+    "detected_art_terms": [
+      "神楽",
+      "民俗芸能"
+    ],
+    "dedicated_channel": "専用",
+    "source_urls": [],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCZRAWHGFrgqJfkVY7ueQTeA",
+      "チャンネル名": "神舞への道",
+      "チャンネルURL": "https://www.youtube.com/channel/UCZRAWHGFrgqJfkVY7ueQTeA",
+      "運営主体": "保存団体",
+      "地方": "中国",
+      "都道府県": "広島県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "high",
+      "要確認": "確認不要",
+      "関連性スコア": 78,
+      "根拠動画数": 0,
+      "検出芸能語": "神楽 | 民俗芸能",
+      "代表根拠動画": "既存調査",
+      "代表根拠URL": null,
+      "登録者数": 11,
+      "公開動画数": 16,
+      "専用チャンネル": "専用",
+      "既存調査継承": "既存",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCTkUiln_YTgT0ciBpmijGow": {
+    "title": "Mokaちゃんねる 河原の総領 (そうだに いなだに いいだだに)",
+    "organization_type": "個人・地域記録者等",
+    "prefecture": "長野県",
+    "region": "甲信越",
+    "channel_url": "https://www.youtube.com/channel/UCTkUiln_YTgT0ciBpmijGow",
+    "location_evidence_type": "channel_profile",
+    "location_confidence": 0.95,
+    "relevance_confidence": "medium",
+    "detected_art_terms": [
+      "伝統芸能",
+      "獅子舞・獅子踊",
+      "神楽"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=Hy6lpZVqB0g"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCTkUiln_YTgT0ciBpmijGow",
+      "チャンネル名": "Mokaちゃんねる 河原の総領 (そうだに いなだに いいだだに)",
+      "チャンネルURL": "https://www.youtube.com/channel/UCTkUiln_YTgT0ciBpmijGow",
+      "運営主体": "個人・地域記録者等",
+      "地方": "甲信越",
+      "都道府県": "長野県",
+      "所在地根拠種別": "channel_profile",
+      "所在地確度": 0.95,
+      "関連確信度": "medium",
+      "要確認": "確認不要",
+      "関連性スコア": 28,
+      "根拠動画数": 3,
+      "検出芸能語": "伝統芸能 | 獅子舞・獅子踊 | 神楽",
+      "代表根拠動画": "柴区祭典部神楽班 ながの獅子舞フェスティバル 2026 I会場 長野駅前広場",
+      "代表根拠URL": "https://www.youtube.com/watch?v=Hy6lpZVqB0g",
+      "登録者数": 825,
+      "公開動画数": 81,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/channel_UCOW5hNYOk92eNGG84ri7eCw": {
+    "title": "ジモト魂",
+    "organization_type": "報道・地域メディア",
+    "prefecture": "青森県",
+    "region": "東北",
+    "channel_url": "https://www.youtube.com/channel/UCOW5hNYOk92eNGG84ri7eCw",
+    "location_evidence_type": "evidence_video",
+    "location_confidence": 0.9,
+    "relevance_confidence": "low",
+    "detected_art_terms": [
+      "民俗芸能",
+      "無形民俗文化財",
+      "えんぶり"
+    ],
+    "dedicated_channel": "一般",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=2FYjRV6p1z4"
+    ],
+    "source_workbook": "outputs/019fac96-97d3-77a1-85fe-e3e3115bb409/youtube_folk_performing_arts_channels_2026-07-29_expanded.xlsx",
+    "source_fields": {
+      "channel_id": "UCOW5hNYOk92eNGG84ri7eCw",
+      "チャンネル名": "ジモト魂",
+      "チャンネルURL": "https://www.youtube.com/channel/UCOW5hNYOk92eNGG84ri7eCw",
+      "運営主体": "報道・地域メディア",
+      "地方": "東北",
+      "都道府県": "青森県",
+      "所在地根拠種別": "evidence_video",
+      "所在地確度": 0.9,
+      "関連確信度": "low",
+      "要確認": "要確認",
+      "関連性スコア": 22,
+      "根拠動画数": 1,
+      "検出芸能語": "民俗芸能 | 無形民俗文化財 | えんぶり",
+      "代表根拠動画": "【ジモト魂 #230】八戸えんぶり　内丸えんぶり組　海野能邦さん",
+      "代表根拠URL": "https://www.youtube.com/watch?v=2FYjRV6p1z4",
+      "登録者数": 4250,
+      "公開動画数": 282,
+      "専用チャンネル": "一般",
+      "既存調査継承": "新規",
+      "サブエージェント検証": "未検証"
+    }
+  },
+  "organizations/directory_org_151e410c28ea": {
+    "title": "球磨神楽保存会",
+    "aliases": [
+      "球磨神楽"
+    ],
+    "organization_type": null,
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": "https://online.bunka.go.jp/heritages/detail/170635",
+    "instagram": "https://www.instagram.com/kuma_kagura/",
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.99,
+    "representative_video_ids": [
+      "nUtYIU47ma4"
+    ],
+    "source_urls": [
+      "https://online.bunka.go.jp/heritages/detail/170635",
+      "https://www.instagram.com/kuma_kagura/",
+      "https://kunishitei.bunka.go.jp/heritage/detail/302/00000902",
+      "https://kunishitei.bunka.go.jp/heritage/detail/312/571",
+      "https://www.youtube.com/watch?v=nUtYIU47ma4"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_151e410c28ea",
+      "団体名": "球磨神楽保存会",
+      "別名": "球磨神楽",
+      "登場区分": "出演団体",
+      "団体種別": null,
+      "登場チャンネル": "Meg 御神楽",
+      "動画数": 1,
+      "代表video_id": "nUtYIU47ma4",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": "https://online.bunka.go.jp/heritages/detail/170635",
+      "Instagram": "https://www.instagram.com/kuma_kagura/",
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "文化庁の文化遺産オンラインが芸能名「球磨神楽」と保存団体「球磨神楽保存会」を掲載する。芸能名は別名に保持する。: https://online.bunka.go.jp/heritages/detail/170635 | youtube_structured_video: 出演団体として「球磨神楽保存会」を抽出 (nUtYIU47ma4) | youtube_description_url: organization_context_video_description:nUtYIU47ma4 からinstagram_urlを確認 | cultural_agency_exact_match: protection_entities「球磨神楽保存会」と完全一致 (国指定文化財等データベース「球磨神楽」)",
+      "根拠URL": "https://online.bunka.go.jp/heritages/detail/170635 | https://www.instagram.com/kuma_kagura/ | https://kunishitei.bunka.go.jp/heritage/detail/302/00000902 | https://kunishitei.bunka.go.jp/heritage/detail/312/571 | https://www.youtube.com/watch?v=nUtYIU47ma4",
+      "確信度": 0.99,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_56feb6b61701": {
+    "title": "栗栖神楽団",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": "https://www.instagram.com/kurisukaguradan/",
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "I6l4DPKRwU0"
+    ],
+    "source_urls": [
+      "https://www.instagram.com/kurisukaguradan/",
+      "https://kagura-funs.liblo.jp/archives/23658196.html",
+      "https://www.rccbc.co.jp/event/kagura/ja/2024/index.html",
+      "https://www.youtube.com/watch?v=I6l4DPKRwU0"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_56feb6b61701",
+      "団体名": "栗栖神楽団",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": null,
+      "登場チャンネル": "RCCBC神楽チャンネル",
+      "動画数": 1,
+      "代表video_id": "I6l4DPKRwU0",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": "https://www.instagram.com/kurisukaguradan/",
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "神楽公演情報ページが栗栖神楽団のInstagramを直接案内している。: https://kagura-funs.liblo.jp/archives/23658196.html | RCCの神楽公演公式ページに栗栖神楽団が出演団体として掲載されている。: https://www.rccbc.co.jp/event/kagura/ja/2024/index.html | youtube_structured_video: 出演団体として「栗栖神楽団」を抽出 (I6l4DPKRwU0)",
+      "根拠URL": "https://www.instagram.com/kurisukaguradan/ | https://kagura-funs.liblo.jp/archives/23658196.html | https://www.rccbc.co.jp/event/kagura/ja/2024/index.html | https://www.youtube.com/watch?v=I6l4DPKRwU0",
+      "確信度": 0.96,
+      "検索状態": "URL確認済",
+      "要確認": "確認不要"
+    }
+  },
+  "organizations/directory_org_235d2f4cbf51": {
+    "title": "四ツ堰鹿子踊り",
+    "aliases": [],
+    "organization_type": "出演団体",
+    "appearance_type": "出演団体",
+    "prefecture": "岩手県",
+    "municipality": "紫波町",
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.9,
+    "representative_video_ids": [
+      "jw9J8EN4HhU"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=jw9J8EN4HhU"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_235d2f4cbf51",
+      "団体名": "四ツ堰鹿子踊り",
+      "別名": null,
+      "登場区分": "出演団体",
+      "団体種別": "出演団体",
+      "登場チャンネル": "maturinookkake",
+      "動画数": 1,
+      "代表video_id": "jw9J8EN4HhU",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "youtube_title: 動画タイトルに団体名候補「四ツ堰鹿子踊り」 | youtube_structured_video: 出演団体として「四ツ堰鹿子踊り」を抽出 (jw9J8EN4HhU)",
+      "根拠URL": "https://www.youtube.com/watch?v=jw9J8EN4HhU",
+      "確信度": 0.9,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  },
+  "organizations/directory_org_89717ba66024": {
+    "title": "小林獅子舞保存会",
+    "aliases": [],
+    "organization_type": null,
+    "appearance_type": "保存団体 / 出演団体",
+    "prefecture": null,
+    "municipality": null,
+    "channel_url": null,
+    "web_url": null,
+    "instagram": null,
+    "x": null,
+    "facebook": null,
+    "relevance_confidence": 0.96,
+    "representative_video_ids": [
+      "qPSxkYATZZI"
+    ],
+    "source_urls": [
+      "https://www.youtube.com/watch?v=qPSxkYATZZI"
+    ],
+    "source_workbook": "outputs/019fac2a-519f-7d00-bbd1-4f8829e0039b/three_channels_youtube_event_catalog_2026-07-29_expanded_update_duration_shorts.xlsx",
+    "source_fields": {
+      "団体ID": "org_89717ba66024",
+      "団体名": "小林獅子舞保存会",
+      "別名": null,
+      "登場区分": "保存団体 / 出演団体",
+      "団体種別": null,
+      "登場チャンネル": "別所西獅子舞保存会 応援ch",
+      "動画数": 1,
+      "代表video_id": "qPSxkYATZZI",
+      "YouTubeチャンネル": null,
+      "Webサイト・紹介ページ": null,
+      "Instagram": null,
+      "X": null,
+      "Facebook": null,
+      "根拠文字列": "YouTube動画のタイトルまたは説明欄から、対応候補となる出演団体・保存団体名が抽出されている。: https://www.youtube.com/watch?v=qPSxkYATZZI | youtube_structured_video: 出演団体として「小林獅子舞保存会」を抽出 (qPSxkYATZZI) | youtube_structured_video: 保存団体として「小林獅子舞保存会」を抽出 (qPSxkYATZZI)",
+      "根拠URL": "https://www.youtube.com/watch?v=qPSxkYATZZI",
+      "確信度": 0.96,
+      "検索状態": "検索済・URL未確定",
+      "要確認": "要確認"
+    }
+  }
+}

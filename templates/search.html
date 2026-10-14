@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>民俗芸能を探す | 民俗芸能デジタルアーカイブ</title>
+  <link rel="stylesheet" href="/static/search.css" />
+</head>
+<body>
+  <header class="search-header">
+    <nav class="breadcrumb">
+      <a href="/">トップ</a> &gt; <span>民俗芸能を探す</span>
+    </nav>
+    <h1>民俗芸能を探す</h1>
+  </header>
+
+  <div class="search-layout">
+    <aside class="filters">
+      <div class="filter-group">
+        <label for="filter-municipality">市町村</label>
+        <select id="filter-municipality">
+          <option value="">すべて</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-category">芸能種別</label>
+        <select id="filter-category">
+          <option value="">すべて</option>
+        </select>
+      </div>
+      <button type="button" id="btn-reset" class="btn-reset">フィルタをリセット</button>
+    </aside>
+
+    <main class="results">
+      <div class="search-bar">
+        <input type="search" id="search-input" placeholder="キーワードで検索（芸能名・地名・団体名）" autocomplete="off" />
+        <span class="result-count" id="result-count"></span>
+      </div>
+      <div class="card-list" id="card-list">
+        <p class="loading">読み込み中...</p>
+      </div>
+    </main>
+  </div>
+
+  <script src="/static/search.js"></script>
+</body>
+</html>
